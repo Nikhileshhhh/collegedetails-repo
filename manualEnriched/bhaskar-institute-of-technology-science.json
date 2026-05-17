@@ -1,0 +1,65 @@
+{
+  "overview": "Bhaskar Institute of Technology and Science (BITS), also known as BITS Rayachoty, is a private un-aided engineering college located in Rayachoty, Annamayya District (formerly Kadapa), Andhra Pradesh. Established to provide technical education in the Rayalaseema region, the institute focuses on creating industry-ready professionals through its undergraduate engineering programs.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech in Computer Science and Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹1,40,000 - ₹1,60,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech in Electronics and Communication Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹1,40,000 - ₹1,60,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA",
+    "medianSalary": "₹2.8 LPA",
+    "highestSalary": "₹6.5 LPA",
+    "highestDomestic": "₹6.5 LPA",
+    "placementRate": "65% - 70%",
+    "totalOffers": "80+",
+    "companiesVisited": "15+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Cognizant",
+      "Hetero Drugs",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)"
+    ],
+    "admissionProcess": "Admission is conducted through the APSCHE web counseling process based on AP EAPCET ranks. 70% of seats are under the Convener Quota (Category A) and 30% are under the Management Quota (Category B).",
+    "importantDates": "AP EAPCET 2026 Engineering Exam: May 12 - May 18, 2026; Counselling: June - July 2026."
+  },
+  "campus": {
+    "area": "10 - 12 Acres",
+    "facilities": [
+      "State-of-the-art Computer Labs",
+      "Digital Library",
+      "Wi-Fi Enabled Campus",
+      "Separate Hostels for Boys and Girls",
+      "Canteen",
+      "Sports Ground",
+      "Transport Facility"
+    ],
+    "specialNote": "The campus is situated on the Rayachoty-Kadapa highway, providing easy accessibility. It is recognized for its disciplined environment and focus on students from rural backgrounds."
+  },
+  "contact": {
+    "phone": "+91 9440510528, +91 9177114677",
+    "email": "info@bitsrayachoty.com",
+    "address": "Ryt - Kpt Highway, Bandapalli, Rayachoty, Annamayya District, Andhra Pradesh - 516269",
+    "admissionsEmail": "bitsrayachoty@gmail.com"
+  },
+  "website": "http://www.bitsrayachoty.com",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

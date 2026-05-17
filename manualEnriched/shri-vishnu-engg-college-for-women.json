@@ -1,0 +1,95 @@
+{
+  "overview": "Shri Vishnu Engineering College for Women (SVECW), located in Bhimavaram, Andhra Pradesh, is a premier autonomous women’s engineering institution known for academic excellence, strong placements, modern infrastructure, and industry-oriented technical education. The college consistently attracts top recruiters from product-based and multinational companies.",
+  "accreditation": "NAAC A+ Grade (Cycle 2) with CGPA 3.32/4.0; Autonomous Institution.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Convener Quota (Category A): ₹70,000 – ₹1,05,000 per year (Approx. ₹4.20 Lakhs total). Management Quota (Category B): ₹2,00,000 – ₹3,00,000+ per year depending on branch."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹55,000 per year (Approx. ₹1.10 Lakhs total)."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹55,800 per year (Approx. ₹1.12 Lakhs total)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹5.40 LPA – ₹6.46 LPA",
+    "medianSalary": "UG 4-Year: ₹4.50 LPA – ₹6.00 LPA; PG 2-Year: ₹4.20 LPA – ₹4.25 LPA",
+    "highestSalary": "₹45.00 LPA – ₹52.00 LPA (2024-25 Highlights)",
+    "highestDomestic": "₹52.00 LPA",
+    "placementRate": "B.Tech Overall: 85% – 93% for eligible students",
+    "totalOffers": "1,400+ overall placements; 1,156+ offers in recent session",
+    "companiesVisited": "Adobe, Intuit, Amazon, Flipkart, Cloudera, Walmart, VISA, Optum, DE Shaw",
+    "internationalOffers": "Limited international opportunities through multinational product companies",
+    "topRecruiters": [
+      "Adobe",
+      "Intuit",
+      "Amazon",
+      "Flipkart",
+      "Cloudera",
+      "Walmart",
+      "VISA",
+      "Optum",
+      "DE Shaw",
+      "Palo Alto Networks"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "JEE Main",
+      "GATE",
+      "AP PGECET"
+    ],
+    "admissionProcess": "Admissions for B.Tech are primarily through AP EAPCET counseling under Convener Quota and through Management Quota for eligible candidates. PG admissions are based on GATE/AP PGECET scores.",
+    "importantDates": "Admission schedules follow AP EAPCET, AP PGECET, and Andhra Pradesh state counseling timelines."
+  },
+  "campus": {
+    "area": "Modern residential campus in Bhimavaram, Andhra Pradesh",
+    "facilities": [
+      "Girls Hostel",
+      "Central Library",
+      "Computer Labs",
+      "Innovation & Research Centers",
+      "Wi-Fi Campus",
+      "Sports Facilities",
+      "Auditorium",
+      "Cafeteria",
+      "Transportation",
+      "Medical Facilities"
+    ],
+    "specialNote": "Hostel fees range between ₹90,000 – ₹1,18,000 per year including mess charges. One-time admission/caution deposit ranges from ₹5,000 – ₹10,000."
+  },
+  "hostel": {
+    "hostelFee": "₹90,000 – ₹1,18,000 per year",
+    "messFee": "Included in hostel fee",
+    "cautionDeposit": "Approximately ₹5,000"
+  },
+  "scholarships": [
+    "Jagananna Vidya Deevena (JVD) Full Tuition Reimbursement",
+    "Merit Scholarships for Top EAPCET/JEE Rankers",
+    "Financial Assistance for Economically Weaker Students"
+  ],
+  "contact": {
+    "phone": "+91-8816-250864",
+    "email": "principal@svecw.edu.in",
+    "address": "Shri Vishnu Engineering College for Women, Vishnupur, Bhimavaram, West Godavari District, Andhra Pradesh, India"
+  },
+  "website": "https://www.svecw.edu.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "official-website-and-user-provided-data",
+  "sources": {
+    "overview": "https://www.svecw.edu.in",
+    "fees": "https://www.svecw.edu.in",
+    "placements": "https://svecw.edu.in/placement-details/",
+    "admissions": "https://www.svecw.edu.in/admissions",
+    "campus": "https://svecw.edu.in/about-svecw/",
+    "contact": "https://www.svecw.edu.in/contact-us"
+  }
+}

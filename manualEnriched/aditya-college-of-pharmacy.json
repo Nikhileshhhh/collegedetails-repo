@@ -1,0 +1,108 @@
+{
+  "overview": "Aditya College of Pharmacy (ACOP) was established in 2006 by the Aditya Academy in Surampalem, East Godavari District (now Kakinada District), Andhra Pradesh. Situated within the sprawling Aditya University campus township, the institution provides professional pharmaceutical education aimed at preparing students for careers in clinical research, drug manufacturing, healthcare management, and pharmacological sciences.",
+  
+  "accreditation": "Approved by the Pharmacy Council of India (PCI), New Delhi, and the All India Council for Technical Education (AICTE). It is affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK) and accredited with an 'A' grade by NAAC (CGPA of 3.24).",
+
+  "nirfRanking": {
+    "engineering": "Not Applicable (Pharmacy Specialization Category)",
+    "university": "Part of the extensive Aditya group network, currently transitioning operational elements under the consolidated Aditya University framework."
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Pharm (Bachelor of Pharmacy)",
+      "duration": "4 years",
+      "tuitionFee": "₹31,000 – ₹40,000 per year (Category A Convener Quota via AP EAPCET; total course structure ranges approx. ₹1,24,000 - ₹1,60,000)"
+    },
+    {
+      "program": "Pharm.D (Doctor of Pharmacy)",
+      "duration": "6 years",
+      "tuitionFee": "₹35,000 – ₹57,000 per year (Category A Convener Quota; cumulative multi-year baseline averages approx. ₹2,10,000 - ₹3,42,000)"
+    },
+    {
+      "program": "M.Pharm (Pharmaceutics, Pharmacology, Pharmaceutical Analysis)",
+      "duration": "2 years",
+      "tuitionFee": "₹55,000 – ₹75,000 per year (Total 2-year program cost ranges approx. ₹1,10,000 - ₹1,50,000)"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "₹2.20 LPA – ₹3.00 LPA",
+    "medianSalary": "₹2.40 LPA (B.Pharm) / ₹3.20 LPA (M.Pharm) / ₹3.60 LPA (Pharm.D)",
+    "highestSalary": "₹4.50 LPA – ₹5.00 LPA (Consistent top-tier domain placements in manufacturing and medical networks)",
+    "highestDomestic": "₹4.50 LPA verified institutional framework operational bounds",
+    "placementRate": "60% – 70% during standard annual healthcare and retail pharmaceutical hiring seasons",
+    "totalOffers": "160+ campus-wide student selections achieved during centralized placement drives",
+    "companiesVisited": "20+ core healthcare and global multi-national life science organizations",
+    "internationalOffers": "Data not systematically isolated from central analytical pipelines",
+    "topRecruiters": [
+      "GlaxoSmithKline (GSK)",
+      "MSN Laboratories",
+      "Hetero Drugs",
+      "Aurobindo Pharma",
+      "Cipla",
+      "Dr. Reddy's Laboratories",
+      "Sun Pharmaceutical",
+      "Optum",
+      "Meditech"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (B.Pharm / Pharm.D - Bi.P.C & M.P.C Streams)",
+      "AP PGECET / GPAT (M.Pharm)"
+    ],
+    "admissionProcess": "Category A standard seats (70%) are securely filled through centralized state web counseling managed by APSCHE depending on entrance merit ranks. Category B management seats (30%) are completed directly through the college based on foundational academic qualification criteria.",
+    "importantDates": "State-administered pharmacy counseling phases systematically roll out between July and October every year."
+  },
+
+  "campus": {
+    "area": "Eco-friendly dedicated medical block within the extensive Surampalem campus township",
+    "facilities": [
+      "Advanced Pharmaceutics & Pharmacology Laboratories",
+      "Central Library with specialized medical e-journals",
+      "Medicinal Plant Garden for practical botanical training",
+      "Computer Centers with domain analytical software",
+      "In-campus Secure Separate Hostels for Boys",
+      "In-campus Secure Separate Hostels for Girls",
+      "Hygienic Canteen & Active Food Courts",
+      "Vast Sports Grounds & Gym Facilities",
+      "Institution Transit Buses running across East/West Godavari districts",
+      "Differently-abled Friendly Resources (Ramp and Toilet access systems)"
+    ],
+    "specialNote": "The institute emphasizes clinical field training, regularly orchestrating multi-day hospital visits and organizing national level computational advancement conferences like CARE."
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹45,000 – ₹65,000 per year based on room configuration and dining plans",
+    "messFee": "Factored alongside institutional residential dining facility profiles",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD) complete state tuition-fee reimbursement for qualifying candidates",
+      "Post-Matric welfare allowances from the Government of Andhra Pradesh",
+      "Institutional fee concessions for top-ranking entrance exam achievers"
+    ]
+  },
+
+  "contact": {
+    "phone": "+91 99498 76664, +91 90005 76662, +91 70360 76661",
+    "email": "office@acop.edu.in",
+    "address": "Aditya Nagar, ADB Road, Surampalem, Gandepalli Mandal, Kakinada District - 533437, Andhra Pradesh, India",
+    "admissionsEmail": "office@acop.edu.in"
+  },
+
+  "website": "https://acop.edu.in/",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "official-institution-portal-and-state-counseling-registries",
+
+  "sources": {
+    "overview": "https://acop.edu.in/",
+    "placements": "https://acop.edu.in/?p=Placementcell",
+    "admissions": "https://acop.edu.in/?p=Admissions",
+    "fees": "https://acop.edu.in/?p=Fees",
+    "campus": "https://acop.edu.in/?p=Differently_Abled_Friendly_Resources",
+    "contact": "https://acop.edu.in/index.php?p=Contact"
+  }
+}

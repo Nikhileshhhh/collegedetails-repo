@@ -1,0 +1,77 @@
+{
+  "overview": "Andhra University College of Engineering for Women (AUCEW), established in 2010 in Visakhapatnam, Andhra Pradesh, is a public, self-financed constituent engineering college of Andhra University. Built exclusively for women to foster technical leadership and academic excellence, the college offers dedicated undergraduate B.Tech and integrated dual-degree programs in fundamental and computing engineering streams.",
+  "accreditation": "AICTE Approved, Affiliated directly to Andhra University, and NAAC Accredited with 'A' Grade (scoring 3.6 on a 4-point scale).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate Engineering)",
+      "duration": "4 years",
+      "tuitionFee": "INR 50,000 per year (approx.)"
+    },
+    {
+      "program": "Integrated B.Tech + M.Tech Dual Degree",
+      "duration": "6 years",
+      "tuitionFee": "INR 50,000 per year (approx.)"
+    }
+  ],
+  "placements": {
+    "avgSalary": "INR 4.50 LPA – INR 6.00 LPA",
+    "medianSalary": "INR 7.52 LPA",
+    "highestSalary": "INR 13.40 LPA (2024-25)",
+    "highestDomestic": "INR 13.40 LPA (2024-25)",
+    "placementRate": "75% – 85%",
+    "totalOffers": "110+",
+    "companiesVisited": "50+",
+    "internationalOffers": "Not officially disclosed",
+    "topRecruiters": [
+      "Infosys",
+      "TCS",
+      "L&T",
+      "Quest Global",
+      "Cognizant",
+      "Schneider Electric",
+      "Tata Chemicals",
+      "PwC",
+      "Reliance Industries",
+      "Planet Spark"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET"
+    ],
+    "admissionProcess": "Admissions are governed strictly through state merit ranks achieved via the AP EAPCET entrance examination, followed by the standard centralized counseling process administered by APSCHE.",
+    "importantDates": "AP EAPCET usually in May; Counseling registrations usually start around July-August. Refer to the official website for real-time updates."
+  },
+  "campus": {
+    "area": "Located within the main 400+ acre campus of Andhra University",
+    "facilities": [
+      "Student Hostels (Girls only)",
+      "Well-equipped Laboratories",
+      "Smart Classrooms",
+      "Comprehensive Centralized Library System",
+      "Training & Placement Cell",
+      "On-Campus Medical Support Facilities",
+      "Sports Infrastructure & Playgrounds",
+      "Campus-wide Wi-Fi Networks",
+      "Cafeteria"
+    ],
+    "specialNote": "The campus shares major technical infrastructure and strategic support resources with the parent Andhra University College of Engineering (Autonomous) to maximize laboratory depth and corporate connection."
+  },
+  "contact": {
+    "phone": "+91 891 284 4000",
+    "email": "principal.aucew@andhrauniversity.edu.in",
+    "address": "A.U. College of Engineering for Women, Maddilapalem, Visakhapatnam - 530013, Andhra Pradesh, India",
+    "admissionsEmail": "aucew.admissions@andhrauniversity.edu.in"
+  },
+  "website": "https://andhrauni-ac.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "official-website and media",
+  "sources": {
+    "overview": "https://andhrauni-ac.in",
+    "fees": "https://andhrauni-ac.in",
+    "placements": "https://andhrauni-ac.in",
+    "admissions": "https://andhrauni-ac.in",
+    "campus": "https://andhrauni-ac.in",
+    "contact": "https://andhrauni-ac.in"
+  }
+}

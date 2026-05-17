@@ -1,0 +1,79 @@
+{
+  "overview": "CMR Engineering College (CMREC), established in 2010 by the CMR Group, is a premier UGC Autonomous institution located in Kandlakoya, Hyderabad. Spanning 10 acres, the college is part of a massive educational cluster and is recognized for its strong focus on 'Emerging Technologies' and industry-integrated learning models.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. Undergraduate programs in CSE and ECE are accredited by the National Board of Accreditation (NBA). Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, IT, ECE)",
+      "duration": "4 Years",
+      "totalFees": "₹3,00,000 - ₹4,40,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI Design, Embedded Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000 - ₹1,20,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE/TS PGECET"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000",
+      "eligibility": "Graduation with 50% aggregate + TS ICET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.5 LPA - ₹5.5 LPA",
+    "medianSalary": "₹5.5 LPA (2024-25 cycle)",
+    "highestSalary": "₹44.0 LPA",
+    "highestDomestic": "₹44.0 LPA",
+    "placementRate": "85% - 90%",
+    "totalOffers": "6500+ (Cumulative total since inception)",
+    "companiesVisited": "300+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Capgemini",
+      "Cognizant",
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Accenture",
+      "Deloitte"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET (EAPCET)",
+      "TS PGECET",
+      "GATE",
+      "TS ICET",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level counseling (TGCHE). 70% of seats are filled via the Convener Quota (Category A) based on entrance rank. 30% are Management Quota (Category B) seats filled based on merit or JEE scores.",
+    "importantDates": "TS EAMCET 2026: May 9 - May 11, 2026; TS ICET 2026: May 13 - May 14, 2026; Counseling: June - August 2026."
+  },
+  "campus": {
+    "area": "10 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Research & Innovation Labs",
+      "Digital Library & E-Learning Center",
+      "Auditorium & Seminar Halls",
+      "Separate Hostels for Boys and Girls",
+      "Sports Complex & Gymnasium",
+      "Cafeteria",
+      "Transport Facility (Twin Cities coverage)"
+    ],
+    "specialNote": "CMREC features specialized industry hubs such as the 'UiPath RPA Lab' and 'Oracle Java Lab'. It holds a 5-star rating from the Institution’s Innovation Council (IIC) and is known for its extensive MOU network with tech giants like Amazon, CISCO, and SAP."
+  },
+  "contact": {
+    "phone": "+91 9248727210, +91 9247022440",
+    "email": "principal@cmrec.ac.in",
+    "address": "Kandlakoya (V), Medchal Road, Hyderabad, Telangana - 501401",
+    "admissionsEmail": "admissions@cmrec.ac.in"
+  },
+  "website": "https://cmrec.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

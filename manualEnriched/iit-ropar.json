@@ -1,0 +1,95 @@
+{
+  "overview": "Indian Institute of Technology Ropar (IIT Ropar), located in Rupnagar, Punjab, is an autonomous Institute of National Importance established by the Ministry of Education in 2008. As one of the second-generation IITs, it is known for its eco-friendly 5-star GRIHA-rated campus, advanced research ecosystem, and strong industry collaboration.",
+  "accreditation": "Institute of National Importance under the Ministry of Education, Government of India.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC students with annual family income above ₹5 lakh. ₹33,333 per semester for income between ₹1 lakh–₹5 lakh under 2/3 tuition waiver. Full tuition waiver for SC/ST/PwD and students with annual family income below ₹1 lakh."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹17,850 per semester excluding hostel and mess charges."
+    },
+    {
+      "program": "M.Sc",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹12,000 per semester excluding hostel and mess charges."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹23.07 LPA (B.Tech Overall Average, 2024–25)",
+    "medianSalary": "₹18.00 LPA (B.Tech Median, 2024–25)",
+    "highestSalary": "₹65.75 LPA (B.Tech, 2024–25)",
+    "highestDomestic": "₹65.75 LPA",
+    "placementRate": "CSE: 82.56%, EE: 75.76%, Civil Engineering: 57.69%",
+    "totalOffers": "257+ full-time offers with 85 PPOs (2024–25)",
+    "companiesVisited": "Google, Amazon, Microsoft, Intel, Goldman Sachs, Texas Instruments, Bharat Electronics, Larsen & Toubro",
+    "internationalOffers": "International and high-value global offers reported through multinational recruiters",
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Intel",
+      "Goldman Sachs",
+      "Texas Instruments",
+      "Bharat Electronics",
+      "Larsen & Toubro"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "IIT JAM"
+    ],
+    "admissionProcess": "B.Tech admissions are conducted through JoSAA counseling based on JEE Advanced ranks. M.Tech admissions are based on GATE scores and COAP counseling, while M.Sc admissions are through IIT JAM.",
+    "importantDates": "Admissions follow JoSAA, COAP, and IIT JAM counseling schedules along with the IIT Ropar academic calendar."
+  },
+  "campus": {
+    "area": "Approximately 500 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Sports Complex",
+      "Research Laboratories",
+      "Innovation & Incubation Centre",
+      "Wi-Fi Enabled Campus",
+      "Auditorium",
+      "Student Activity Centre"
+    ],
+    "specialNote": "Hostel charges range between ₹15,000–₹18,000 per semester, while mess charges are approximately ₹20,000–₹25,000 per semester. One-time admission charges are approximately ₹7,000 during initial registration."
+  },
+  "contact": {
+    "phone": "+91-1881-242105",
+    "email": "registrar@iitrpr.ac.in",
+    "address": "Indian Institute of Technology Ropar, Rupnagar, Punjab – 140001, India",
+    "admissionsEmail": "admissions@iitrpr.ac.in"
+  },
+  "website": "https://www.iitrpr.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website",
+  "scholarships": {
+    "availableScholarships": [
+      "Merit-cum-Means (MCM) Scholarship",
+      "SC/ST Central Sector Scholarship",
+      "Income-Based Tuition Fee Remission",
+      "GATE Fellowship for M.Tech Students"
+    ],
+    "details": "Students from economically weaker sections receive either 100% or 66.6% tuition fee remission based on family income. Eligible M.Tech students receive AICTE GATE stipend of ₹12,400 per month."
+  },
+  "rankings": {
+    "nirfOverall2025": "32"
+  },
+  "sources": {
+    "overview": "https://www.iitrpr.ac.in",
+    "fees": "https://www.iitrpr.ac.in/academics/fee-structure",
+    "placements": "https://www.iitrpr.ac.in/placement",
+    "admissions": "https://www.iitrpr.ac.in/admissions",
+    "campus": "https://www.iitrpr.ac.in/about",
+    "contact": "https://www.iitrpr.ac.in/contact-us"
+  }
+}

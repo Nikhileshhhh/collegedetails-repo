@@ -1,0 +1,87 @@
+{
+  "overview": "GMR Institute of Technology (GMRIT), established in 1997 by the GMR Varalakshmi Foundation, is a premier autonomous engineering college (recently recognized as a Deemed to be University) located in Rajam, Andhra Pradesh. It is part of the GMR Group's educational initiative and is known for its high academic standards, strong emphasis on industry-oriented training, and research. The campus is designed to provide a holistic learning environment in a semi-urban setting, fostering innovation through various centers of excellence and active student-led initiatives.",
+  "accreditation": "Accredited by NAAC with an 'A' Grade (3.06/4 CGPA). Most undergraduate programs are NBA accredited. Recognized as a Deemed to be University by the Ministry of Education. Approved by AICTE and affiliated with JNTU-Kakinada (JNTUK). Ranked in the 201-300 band by NIRF 2025 in the Engineering category.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, ECE, EEE, IT, Mechanical, Civil, Chemical, Power Engineering)",
+      "duration": "4 Years",
+      "totalFees": "₹3,11,200 (Approx. ₹77,800 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM (40% for reserved) + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹2,33,400 (Approx. ₹77,800 per year)",
+      "eligibility": "Diploma in Engineering with valid AP ECET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI, Power & Industrial Drives, Thermal, Transportation Engg)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch with 50% + GATE / AP PGECET score"
+    },
+    {
+      "course": "B.Sc / B.Com (Computer Applications)",
+      "duration": "3 Years",
+      "totalFees": "Varies by specialization",
+      "eligibility": "10+2 in relevant stream"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.50 LPA - ₹5.0 LPA (Median: ₹4.55 LPA)",
+    "medianSalary": "₹4.55 LPA",
+    "highestSalary": "₹20.0 LPA (2025 batch); ₹40.0 LPA (2024 batch)",
+    "highestDomestic": "₹40.0 LPA",
+    "placementRate": "95%",
+    "totalOffers": "830+ (2025 cycle)",
+    "companiesVisited": "102+ (2025 cycle)",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "TCS",
+      "Infosys",
+      "Cognizant",
+      "HCL Technologies",
+      "Accenture",
+      "Deloitte",
+      "JSW",
+      "Capgemini",
+      "Hexaware"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP ECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (APSCHE). 70% of seats (Category A) are filled via entrance ranks. 30% (Category B) are Management Quota seats filled based on merit or JEE scores. GMRIT offers scholarships: 100% tuition waiver for EAPCET ranks < 5,000. Counseling Code: GMRM.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Results: June 2026; AP PGECET 2026: May 2026; B.Tech Registration: Expected June/July 2026."
+  },
+  "campus": {
+    "area": "117 Acres",
+    "facilities": [
+      "24/7 Wi-Fi Enabled Eco-friendly Campus",
+      "Smart ICT Classrooms & Seminar Halls",
+      "Central Library with Digital Resource Centre",
+      "Separate In-campus Hostels for Boys and Girls",
+      "Advanced R&D Centers & Language Labs",
+      "Lush Green Stadium, Gymnasium & Indoor Sports",
+      "Medical Centre & Shopping Complex",
+      "On-campus Bank & ATM facilities"
+    ],
+    "specialNote": "GMRIT is highly notable for its sustainable initiatives, including massive solar power installations and rainwater harvesting. The campus focuses heavily on 'Campus Recruitment Training' (CRT) and encourages student participation in global events like the Google Summer of Code and Hackathons."
+  },
+  "contact": {
+    "phone": "08941-251592, 08941-252944",
+    "email": "gmrit@gmrit.edu.in",
+    "address": "GMR Nagar, Rajam, Srikakulam District, Andhra Pradesh - 532126",
+    "admissionsEmail": "admissions@gmrit.edu.in"
+  },
+  "website": "https://gmrit.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

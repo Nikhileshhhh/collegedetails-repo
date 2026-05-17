@@ -1,0 +1,71 @@
+{
+  "overview": "Anurag Engineering College at Ananthagiri, Suryapet district, was established in 2001 by Amartya Educational Society to bring engineering education closer to rural students. The official site describes it as a not-for-profit, UGC autonomous engineering college with a 30-acre green campus and strong placement-focused training.",
+  "accreditation": "UGC Autonomous Institution; AICTE approved; permanently affiliated to JNTUH; NBA-accredited programs.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Civil, CSE, CSE (AI and ML), IT, ECE, EEE",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 90,000/year (current TG EAPCET counseling data)"
+    },
+    {
+      "program": "M.Tech (various specializations)",
+      "duration": "2 Years",
+      "tuitionFee": "Fee details are not displayed on the public fee page"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "Fee details are not displayed on the public fee page"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Pentagon Space",
+      "CTS",
+      "AMD",
+      "TCS",
+      "Infosys"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET",
+      "TG ECET",
+      "TG PGECET / GATE",
+      "TG ICET"
+    ],
+    "admissionProcess": "The college states that Category-A admissions are through Telangana centralized counseling for TG EAPCET, TG ECET, TG PGECET/GATE, and TG ICET as applicable. Category-B admissions are handled by the college management based on merit in the relevant qualifying examination.",
+    "importantDates": "TG EAPCET, TG ECET, TG PGECET, and TG ICET schedules are published by Telangana authorities each cycle; the college separately posts Category-B notifications and admission updates."
+  },
+  "campus": {
+    "area": "30 acres",
+    "facilities": [
+      "Central library",
+      "15 computer labs",
+      "Hostels",
+      "Auditorium",
+      "Sports and gymnasium",
+      "Health centre",
+      "SBI ATM",
+      "Transportation"
+    ],
+    "specialNote": "The examination branch notes that the college has been functioning with UGC autonomy since 2014."
+  },
+  "contact": {
+    "phone": "+91-9989976767, +91-9848722701",
+    "email": "info@anurag.ac.in",
+    "address": "Ananthagiri (V and M), Suryapet District - 508206, Telangana, India",
+    "admissionsEmail": ""
+  },
+  "website": "https://anurag.ac.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "google-assisted"
+}

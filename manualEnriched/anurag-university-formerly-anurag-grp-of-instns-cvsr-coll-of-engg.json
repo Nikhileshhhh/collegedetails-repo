@@ -1,0 +1,62 @@
+{
+  "overview": "Anurag University, Hyderabad, emerged from Anurag Group of Institutions and the former CVSR College of Engineering and became a private state university in 2020 under Telangana Act 13 of 2020. For the former AGI/CVSR engineering stream, the university continues to run existing engineering programs and seats from the Venkatapur, Ghatkesar campus through state entrance-based admissions.",
+  "accreditation": "Private State University under the Telangana State Private Universities framework; former AGI/CVSR engineering programs continue under state-counseling and TAFRC fee norms.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Artificial Intelligence, CSE, IT, Civil, EEE, ECE, Mechanical",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 1,35,000/year for existing AGI programs under TAFRC"
+    },
+    {
+      "program": "M.Tech (various engineering specializations)",
+      "duration": "2 Years",
+      "tuitionFee": "Fee varies by program"
+    },
+    {
+      "program": "Ph.D. (engineering disciplines)",
+      "duration": "3-4 Years",
+      "tuitionFee": "Rs. 50,000/year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "Rs. 4.737 LPA",
+    "medianSalary": "",
+    "highestSalary": "Rs. 38.5 LPA",
+    "highestDomestic": "Rs. 38.5 LPA",
+    "placementRate": "",
+    "totalOffers": "2000+",
+    "companiesVisited": "150+",
+    "internationalOffers": "",
+    "topRecruiters": []
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET",
+      "TG PGECET / GATE",
+      "TG ICET"
+    ],
+    "admissionProcess": "The official admissions policy states that existing AGI programs and seats continue to admit through state common entrance tests such as TG EAPCET, TG PGECET/GATE, and TG ICET. New university-only programs may additionally use ANURAGCET or other approved tests, but the former engineering stream remains under state-counseling norms.",
+    "importantDates": "TG EAPCET, TG PGECET, and TG ICET schedules are announced by Telangana authorities each cycle; university-specific admissions and scholarship notices are published on Anurag University portals."
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Engineering laboratories",
+      "Research facilities",
+      "Hostels",
+      "Sports facilities",
+      "Transportation",
+      "Innovation and maker spaces"
+    ],
+    "specialNote": "The university's existing engineering seats preserve the legacy of the former CVSR and AGI counseling stream even after conversion to university status."
+  },
+  "contact": {
+    "phone": "+91-8181057057",
+    "email": "info@anurag.edu.in",
+    "address": "Venkatapur, Ghatkesar, Medchal-Malkajgiri District, Hyderabad - 500088, Telangana, India",
+    "admissionsEmail": "admissions@anurag.edu.in"
+  },
+  "website": "https://www.anurag.edu.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "official-website"
+}

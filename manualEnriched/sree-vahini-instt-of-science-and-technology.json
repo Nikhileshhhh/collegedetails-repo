@@ -1,0 +1,94 @@
+{
+  "overview": "Sree Vahini Institute of Science and Technology (SVIST), Tiruvuru, provides engineering, management, and diploma programs with structured placement support and regional industry collaborations.",
+  "accreditation": "NAAC 'A' Grade Accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹35,000 – ₹51,400 per year depending on branch and fee structure."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 – ₹39,000 per year."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹57,000 per year."
+    },
+    {
+      "program": "Diploma (Polytechnic)",
+      "duration": "3 years",
+      "tuitionFee": "Approximately ₹25,000 per year."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.50 LPA – ₹4.00 LPA",
+    "medianSalary": "₹4.70 LPA",
+    "highestSalary": "₹8.00 LPA (2024-25)",
+    "highestDomestic": "₹8.00 LPA",
+    "placementRate": "60% – 75%",
+    "totalOffers": "300+ offers",
+    "companiesVisited": "Tech Mahindra, HCL, Infosys, Vee Technologies, Sutherland, Genpact",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Tech Mahindra",
+      "HCL",
+      "Infosys",
+      "Vee Technologies",
+      "Sutherland",
+      "Genpact"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "PGECET",
+      "ICET",
+      "POLYCET"
+    ],
+    "admissionProcess": "Admissions are conducted through Andhra Pradesh counseling and institutional quota admissions.",
+    "importantDates": "Follows APSCHE academic and counseling schedules."
+  },
+  "campus": {
+    "area": "Integrated technical education campus in Tiruvuru",
+    "facilities": [
+      "Hostels",
+      "Central Library",
+      "Placement Cell",
+      "Computer Labs",
+      "Seminar Halls",
+      "Transport",
+      "Sports Facilities"
+    ],
+    "specialNote": "Hostel & Mess fee ranges from ₹45,000 – ₹55,000 annually."
+  },
+  "contact": {
+    "phone": "08673-253 199, +91 9281439001 /002 /003 /004/ 005",
+    "email": "sreevahini@gmail.com",
+    "address": "Nadim Tiruvuru, Beside Ganesh Temple, By pass Road,TIRUVURU – 521 235, Krishna Dist, Andhra Pradesh, India.",
+    "admissionsEmail": "sreevahini@gmail.com"
+  },
+  "website": "https://sreevahini.edu.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://sreevahini.edu.in",
+    "fees": "https://sreevahini.edu.in/feestructure.php",
+    "placements": "https://sreevahini.edu.in/training-placement-cell.php",
+    "admissions": "https://sreevahini.edu.in/admission-procedure.php",
+    "campus": "https://sreevahini.edu.in",
+    "contact": "https://sreevahini.edu.in/contact-us.php"
+  },
+  "hostel": {
+    "hostelFee": "?45,000 ? ?55,000 per year",
+    "note": "Hostel and mess fee for standard campus living layout."
+  },
+  "scholarships": [
+    {
+      "name": "Jagananna Vidya Deevena (JVD)",
+      "description": "Full annual tuition fee assistance for eligible AP-domiciled candidates."
+    }
+  ]
+}

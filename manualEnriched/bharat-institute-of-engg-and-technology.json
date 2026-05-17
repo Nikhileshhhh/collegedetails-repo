@@ -1,0 +1,77 @@
+{
+  "overview": "Bharat Institute of Engineering and Technology (BIET), established in 2001 by the Bharat Institutions group, is a prominent private engineering college located in Ibrahimpatnam, Hyderabad. It is known for its extensive campus and a strong focus on technical excellence and industry-readiness.",
+  "accreditation": "Accredited by NAAC. Approved by AICTE and NBA. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, IT, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹3,56,000 - ₹4,64,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAPCET"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹80,000 - ₹1,80,000",
+      "eligibility": "Graduation + GATE/TS PGECET"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹66,000 - ₹90,000",
+      "eligibility": "Graduation with 50% + TSICET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.5 LPA - ₹6.0 LPA",
+    "medianSalary": "₹5.0 LPA (UG), ₹3.0 LPA (PG)",
+    "highestSalary": "₹10.0 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "66.67% - 86%",
+    "totalOffers": "260+ (2025-26 cycle)",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "TCS",
+      "Infosys",
+      "Cognizant",
+      "Wipro",
+      "IBM",
+      "HDFC",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET (EAMCET)",
+      "TS PGECET",
+      "GATE",
+      "TSICET"
+    ],
+    "admissionProcess": "Admissions follow the convener quota (70%) and management quota (30%) norms. Candidates must participate in the TS EAPCET counseling for engineering seats based on their rank.",
+    "importantDates": "TS EAPCET 2026 Engineering Exam: May 9 - May 11, 2026; Agriculture & Pharmacy: May 4 - May 5, 2026."
+  },
+  "campus": {
+    "area": "120 Acres",
+    "facilities": [
+      "Air-conditioned State-of-the-art Labs",
+      "Digital Library with International Journals",
+      "E-Classrooms and ICT Facilities",
+      "Indoor and Outdoor Sports Grounds",
+      "Auditorium",
+      "Separate Hostels",
+      "Canteen",
+      "Transportation Fleet"
+    ],
+    "specialNote": "The campus features a massive built-up area of over 6,00,000 sq. ft. and is recognized for its lush green, serene environment which is conducive to technical research and learning."
+  },
+  "contact": {
+    "phone": "08414-252313, 08414-252399",
+    "email": "info@biet.ac.in",
+    "address": "Mangalpally (V), Ibrahimpatnam (M), Ranga Reddy District, Hyderabad, Telangana - 501510",
+    "admissionsEmail": "admissions@biet.ac.in"
+  },
+  "website": "https://biet.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

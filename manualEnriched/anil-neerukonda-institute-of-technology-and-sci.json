@@ -1,0 +1,64 @@
+{
+  "overview": "Anil Neerukonda Institute of Technology and Sciences (ANITS), Sangivalasa, Visakhapatnam, officially says it was established in the academic year 2001-02 by the Anil Neerukonda Educational Society. The institute highlights its industry linkage with MEIL, its autonomous academic ecosystem, and its reputation as one of the most preferred private engineering colleges in Andhra Pradesh.",
+  "accreditation": "Autonomous; permanently affiliated to Andhra University; AICTE approved; NBA accreditation for CSE, ECE, EEE, IT, Mechanical, Civil, and Chemical programs; NAAC A+.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Chemical, Civil, CSE, CSE (Data Science), CSE (AI and ML), EEE, ECE, IT, Mechanical",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 84,100/year"
+    },
+    {
+      "program": "M.Tech - Control Systems, CSE (Data Science), VLSI and Embedded Systems, Machine Design, Soil Mechanics, Food Processing Technology, CSE (AI and ML)",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "MBA - Hospital Administration",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 35,000/year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "Rs. 5.70 LPA",
+    "highestDomestic": "Rs. 5.70 LPA",
+    "placementRate": "",
+    "totalOffers": "429 visible campus selections on the official placement page",
+    "companiesVisited": "15+ listed placement drives/cards visible on the official page",
+    "internationalOffers": "",
+    "topRecruiters": []
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ECET",
+      "GATE"
+    ],
+    "admissionProcess": "The official admissions page states that 70% of B.Tech seats are filled through EAPCET counseling, lateral entry seats are filled through ECET, and the remaining management/NRI quota seats are handled by the institute through its online enrollment system.",
+    "importantDates": "AP EAPCET and ECET schedules are published by APSCHE each cycle, while ANITS publishes course, fee, and CAT-B/NRI admission links on its official website."
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Central library",
+      "E-learning systems",
+      "Training and placement department",
+      "APSSDC and innovation support",
+      "Student clubs",
+      "NSS and NCC",
+      "Departmental laboratories",
+      "Autonomous exam section"
+    ],
+    "specialNote": "Official pages highlight ANITS as a top-ten preferred college among more than 700 private engineering colleges in Andhra Pradesh and show NIRF 251-300 band recognition for 2022."
+  },
+  "contact": {
+    "phone": "7330789893, 9154220250, 08933-225083/84",
+    "email": "principal@anits.edu.in",
+    "address": "Sangivalasa - 531162, Bheemunipatnam (Mandal), Visakhapatnam District, Andhra Pradesh, India",
+    "admissionsEmail": "principal@anits.edu.in"
+  },
+  "website": "https://www.anits.edu.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "official-website"
+}

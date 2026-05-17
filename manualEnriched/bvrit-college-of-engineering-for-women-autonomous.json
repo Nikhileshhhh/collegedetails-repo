@@ -1,0 +1,98 @@
+{
+  "overview": "BVRIT Hyderabad College of Engineering for Women (BVRITH), established in 2012, is a premier autonomous institution under the Sri Vishnu Educational Society (SVES). It is the second engineering college for women established by the society and is dedicated to creating a supportive environment for women to excel in technical education and leadership.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade and by NBA (for CSE, ECE, EEE, and IT). Approved by AICTE and affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech in Computer Science and Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹5,14,000",
+      "eligibility": "10+2 with 60% aggregate in MPC + TS EAPCET rank"
+    },
+    {
+      "course": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+      "duration": "4 Years",
+      "totalFees": "₹4,80,000 - ₹5,14,000",
+      "eligibility": "10+2 with 60% aggregate in MPC + TS EAPCET rank"
+    },
+    {
+      "course": "B.Tech in Information Technology",
+      "duration": "4 Years",
+      "totalFees": "₹4,80,000 - ₹5,14,000",
+      "eligibility": "10+2 with 60% aggregate in MPC + TS EAPCET rank"
+    },
+    {
+      "course": "B.Tech in Electronics and Communication Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹4,80,000 - ₹5,14,000",
+      "eligibility": "10+2 with 60% aggregate in MPC + TS EAPCET rank"
+    },
+    {
+      "course": "B.Tech in Electrical and Electronics Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹4,80,000 - ₹5,14,000",
+      "eligibility": "10+2 with 60% aggregate in MPC + TS EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Data Science / VLSI Design)",
+      "duration": "2 Years",
+      "totalFees": "₹1,52,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE/TS PGECET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹9.26 LPA (2025 Data)",
+    "medianSalary": "₹4.46 LPA - ₹6.32 LPA",
+    "highestSalary": "₹59.0 LPA (2026 Pass out batch)",
+    "highestDomestic": "₹59.0 LPA",
+    "placementRate": "85% - 94%",
+    "totalOffers": "533 (2026 Batch) / 669 (2025 Batch)",
+    "companiesVisited": "60+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Visa",
+      "Flipkart",
+      "Adobe",
+      "Capgemini",
+      "Accenture",
+      "J.P. Morgan",
+      "Qualcomm",
+      "Synopsys"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET (EAMCET)",
+      "JEE Main",
+      "TS PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted through Convener Quota (70% - Category A) based on TS EAPCET ranks and Management Quota (30% - Category B) based on merit. The college also admits diploma holders into the second year via TS ECET.",
+    "importantDates": "TS EAPCET 2026 Engineering: May 9 - 11, 2026; TS PGECET 2026: May 28 - 31, 2026; Results: Mid-May 2026."
+  },
+  "campus": {
+    "area": "Acres of modern infrastructure",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Girls Hostel (On-campus)",
+      "State-of-the-art Labs",
+      "Digital Library",
+      "Gymnasium & Yoga Center",
+      "Temple",
+      "Cafeteria",
+      "Medical Clinic",
+      "Safe Transportation Fleet"
+    ],
+    "specialNote": "The college is known for its 'Assistive Technology Lab' (ATL) where students build projects for people with special needs. It also features a unique 'V-Hub' incubation center to promote entrepreneurship among women students."
+  },
+  "contact": {
+    "phone": "040-24242424, +91 9440533155",
+    "email": "principal@bvrithyderabad.edu.in",
+    "address": "Bachupally, Nizampet, Hyderabad, Telangana - 500090",
+    "admissionsEmail": "admissions@bvrithyderabad.edu.in"
+  },
+  "website": "https://bvrithyderabad.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

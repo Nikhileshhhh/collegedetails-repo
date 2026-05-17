@@ -1,0 +1,102 @@
+{
+  "overview": "Graphic Era (Deemed to be University), located in Clement Town, Dehradun, Uttarakhand, is a premier private deemed-to-be university established in 1993 as the Graphic Era Institute of Technology (GEIT). The university is widely recognized for excellence in engineering, technology, computer applications, management, and applied sciences, with a strong focus on industry-oriented education, research, innovation, and placements.",
+  "accreditation": "NAAC 'A+' accredited; Deemed to be University status granted by UGC, Ministry of Education, Government of India. Multiple engineering programs are accredited by the National Board of Accreditation (NBA).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Computer Science & Engineering (CSE)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,13,800 – ₹2,22,500 per semester (base tuition without scholarships). Merit scholarship-adjusted fee ranges between ₹1,25,000 – ₹1,90,000 per semester depending on academic performance and specialization."
+    },
+    {
+      "program": "B.Tech (Mechanical, Civil, Biotech, Electrical, etc.)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,15,000 – ₹1,55,000 per semester."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹1,40,000 – ₹1,80,000 per semester."
+    },
+    {
+      "program": "BCA / BBA",
+      "duration": "3 years",
+      "tuitionFee": "₹65,000 – ₹90,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹6.00 LPA (B.Tech CSE Average 2025-26)",
+    "medianSalary": "₹6.50 LPA (B.Tech Overall Median 2025-26)",
+    "highestSalary": "₹61.99 LPA (2024-25 Placement Cycle)",
+    "highestDomestic": "₹61.99 LPA",
+    "placementRate": "B.Tech CSE & Allied Branches: ~80–90%; Other Technical & Professional Programs: ~75%",
+    "totalOffers": "2,300+ offers during 2024-25 placement cycle",
+    "companiesVisited": "Google, Microsoft, Adobe, D.E. Shaw, Amazon, Visa, JP Morgan, Teradata, Infosys",
+    "internationalOffers": "Multiple high-value offers ranging between ₹30 LPA – ₹50 LPA during 2025-26 cycle",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Adobe",
+      "D.E. Shaw",
+      "Amazon",
+      "Visa",
+      "JP Morgan",
+      "Teradata",
+      "Infosys"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "CUET",
+      "Class 12 Merit"
+    ],
+    "admissionProcess": "Admissions are based on Class XII PCM marks, JEE Main percentile, CUET scores, and university-level counseling depending on the program.",
+    "importantDates": "Admissions generally follow the annual academic admission calendar released by the university."
+  },
+  "campus": {
+    "area": "Modern urban campus located in Clement Town, Dehradun",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Computer Labs",
+      "Research Centers",
+      "Sports Complex",
+      "Gymnasium",
+      "Auditorium",
+      "Innovation & Incubation Centers",
+      "Wi-Fi Campus",
+      "Medical Facilities",
+      "Cafeteria"
+    ],
+    "specialNote": "Hostel & mess charges range between ₹62,500 – ₹95,000 per semester depending on room type and AC/non-AC configuration. Facilities include Wi-Fi, laundry services, and multi-cuisine mess facilities."
+  },
+  "contact": {
+    "phone": "+91-135-264-3420",
+    "email": "admissions@geu.ac.in",
+    "address": "Graphic Era (Deemed to be University), Bell Road, Clement Town, Dehradun – 248002, Uttarakhand, India",
+    "admissionsEmail": "admissions@geu.ac.in"
+  },
+  "website": "https://www.geu.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "institutional-data",
+  "scholarships": {
+    "academicMerit": "Tuition fee waivers ranging from ₹15,000 – ₹75,000 per semester based on Class XII PCM scores, JEE Main percentile, or CUET scores.",
+    "femaleScholarships": "Additional fee concessions for female candidates in engineering and technical programs.",
+    "stateDomicileBenefit": "26% tuition fee rebate for eligible Uttarakhand domicile students.",
+    "governmentScholarships": "NSP-linked scholarships available for SC, ST, and OBC category students."
+  },
+  "hostelFees": {
+    "tripleFourSharing": "₹62,500 – ₹75,000 per semester",
+    "doubleSingleSharing": "₹76,000 – ₹95,000 per semester",
+    "annualRange": "₹1,30,000 – ₹1,80,000 annually including mess charges"
+  },
+  "sources": {
+    "overview": "https://www.geu.ac.in",
+    "fees": "https://www.geu.ac.in/admissions/",
+    "placements": "https://www.geu.ac.in/placements/",
+    "admissions": "https://www.geu.ac.in/admissions/",
+    "campus": "https://www.geu.ac.in/about-us/",
+    "contact": "https://www.geu.ac.in/contact-us/"
+  }
+}

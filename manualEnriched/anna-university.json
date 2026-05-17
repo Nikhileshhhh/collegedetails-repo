@@ -1,0 +1,88 @@
+{
+  "overview": "Anna University, Chennai (including its premier University Departments: CEG, MIT, ACT, and SAP), is a top-tier state technical university in India known for strong engineering education, research output, and consistent placement performance across core and IT sectors.",
+  "accreditation": "NAAC A++ Grade (Cycle 3, CGPA 3.54/4.0, valid till 20 Aug 2030). NIRF 2024: 13th Engineering, 14th Overall (University).",
+  "coursesAndFees": [
+    {
+      "program": "B.E. / B.Tech (CEG, MIT, ACT – Regular)",
+      "duration": "4 years",
+      "tuitionFee": "₹15,000–₹18,000/sem (General/OBC Regular); ₹35,000–₹45,000/sem (Self-Supporting). SC/ST/SCA: Tuition waived (~₹8,000 other fees). One-time: ₹5,000–₹9,000. Hostel & Mess: ~₹42,000–₹45,000/sem."
+    },
+    {
+      "program": "M.E. / M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹20,000–₹25,000 per semester (Regular). Hostel charges extra."
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2–3 years",
+      "tuitionFee": "₹20,000–₹35,000 per semester (Regular). Hostel and other charges extra."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹8.54 LPA overall (2023–24)",
+    "medianSalary": "₹8.00 LPA (UG 4-Year, NIRF 2025)",
+    "highestSalary": "₹53 LPA (2024–25, CSE)",
+    "highestDomestic": "₹53 LPA",
+    "placementRate": "B.E./B.Tech: ~80–90% (University Departments)",
+    "totalOffers": "1,800+ students placed (2023–24)",
+    "companiesVisited": "Cisco, Ford, Ola, Samsung R&D, DE Shaw, Caterpillar, Hyundai, Reliance, Alstom",
+    "internationalOffers": "Limited but present through high-paying tech and analytics firms",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "95–100%" },
+      { "branch": "Information Technology (IT)", "placementRate": "90–95%" },
+      { "branch": "Printing & Packaging", "placementRate": "~90%" },
+      { "branch": "Electronics & Communication (ECE)", "placementRate": "85–90%" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "Highest package rose from ₹40 LPA (2023–24) to ₹53 LPA (2024–25)",
+      "pgStats": "PG median ₹6–₹7.50 LPA"
+    },
+    "topRecruiters": [
+      "Cisco",
+      "Ford",
+      "Ola",
+      "Samsung R&D",
+      "DE Shaw",
+      "Caterpillar",
+      "Hyundai",
+      "Reliance",
+      "Alstom"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["TNEA (UG)", "TANCET", "GATE"],
+    "admissionProcess": "UG admissions via TNEA counseling using Class 12 marks. PG admissions through TANCET/GATE followed by TANCA counseling.",
+    "importantDates": "Follows TNEA and TANCA counseling schedules annually."
+  },
+  "campus": {
+    "area": "Multiple campuses across Chennai (CEG, MIT, ACT, SAP)",
+    "facilities": [
+      "Boys & Girls Hostels",
+      "Central Library",
+      "Research Centers",
+      "Laboratories",
+      "Sports Complex",
+      "Auditoriums",
+      "Wi-Fi Enabled Campus",
+      "Medical Facilities"
+    ],
+    "specialNote": "Hostel deposit ₹5,000–₹8,000 (one-time refundable). Room rent ~₹20,000–₹25,000/sem. Mess ~₹17,500–₹22,000/sem (~₹3,500/month dividing system). Total hostel: ~₹42,000–₹45,000/sem."
+  },
+  "contact": {
+    "phone": "+91-44-2235-7080",
+    "email": "registrar@annauniv.edu",
+    "address": "Anna University, Sardar Patel Road, Guindy, Chennai – 600025, Tamil Nadu, India",
+    "admissionsEmail": "admissions@annauniv.edu"
+  },
+  "website": "https://www.annauniv.edu",
+  "lastVerified": "2026-05-01",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.annauniv.edu",
+    "fees": "https://www.annauniv.edu/academic_courses.php",
+    "placements": "https://www.annauniv.edu/placement",
+    "admissions": "https://www.tneaonline.org",
+    "campus": "https://www.annauniv.edu/campus",
+    "contact": "https://www.annauniv.edu/contact"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "overview": "Gayatri Vidya Parishad College for Degree and PG Courses (GVPCDPGC), established in 1989, is an autonomous educational institution located in the scenic area of Rushikonda, Visakhapatnam. It is a part of the Gayatri Vidya Parishad educational society. The college is recognized for its diverse academic portfolio, offering programs across Engineering, Management, Computer Applications, and Life Sciences. It serves as a significant hub for higher education in coastal Andhra Pradesh, emphasizing both academic rigor and professional skill development.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with a 'B++' Grade. Approved by AICTE, New Delhi. Affiliated with Andhra University (AU), Visakhapatnam.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, ECE, Mechanical, Civil)",
+      "duration": "4 Years",
+      "totalFees": "₹2,52,000 (Approx. ₹63,000 per year)",
+      "eligibility": "10+2 with 50% in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 - ₹1,10,000",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹1,12,000",
+      "eligibility": "Graduation with Mathematics at 10+2 or Degree level + AP ICET rank"
+    },
+    {
+      "course": "B.Sc (Comp. Sci, Electronics, Biotech, etc.)",
+      "duration": "3 Years",
+      "totalFees": "₹45,000 - ₹60,000",
+      "eligibility": "10+2 with 50% in relevant science stream"
+    },
+    {
+      "course": "BBA / BCA / B.Com",
+      "duration": "3 Years",
+      "totalFees": "₹55,500 - ₹75,000",
+      "eligibility": "10+2 with 50% aggregate"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.0 LPA - ₹4.5 LPA",
+    "medianSalary": "₹4.2 LPA",
+    "highestSalary": "₹12.0 LPA - ₹24.0 LPA (Specific to Engineering/PG)",
+    "highestDomestic": "₹24.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "200+ (Across all streams)",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Cognizant",
+      "Deloitte",
+      "Tech Mahindra",
+      "Capgemini",
+      "Amazon",
+      "Accenture"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGCET",
+      "CAT/MAT/XAT (for MBA Management)",
+      "AU CET (for certain Degree courses)"
+    ],
+    "admissionProcess": "Engineering (B.Tech) admissions are through AP EAPCET counseling. Management (MBA) and MCA admissions are via AP ICET. UG degree admissions (B.Sc/BBA/BCA) are primarily merit-based or through university-specific common entrance tests. Category B (Management Quota) seats are filled based on institutional merit.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP ICET 2026: May 2026; Counseling: July–August 2026."
+  },
+  "campus": {
+    "area": "8.7 Acres (Main Rushikonda Campus)",
+    "facilities": [
+      "ICT Enabled Classrooms & Smart Boards",
+      "Advanced Computer Centers & Engineering Labs",
+      "Central Library with Digital Resource Access",
+      "On-campus Girls and Boys Hostels",
+      "AC Auditorium & Seminar Halls",
+      "Gymnasium & Physical Education Facilities",
+      "Canteen & Healthcare Unit",
+      "Transportation (Fleet covering Visakhapatnam city)"
+    ],
+    "specialNote": "The college is uniquely situated between the hills and the sea at Rushikonda, providing a calm and scenic academic environment. It is particularly noted for its School of Engineering and the School of Management Studies, which maintain strong ties with the Visakhapatnam industrial and IT corridors."
+  },
+  "contact": {
+    "phone": "0891-2955084, 0891-2783722",
+    "email": "gvpcdpgc@gmail.com",
+    "address": "GVPTower, Venkatrama Enclave, Rushikonda, Visakhapatnam, Andhra Pradesh - 530045",
+    "admissionsEmail": "principal@gvpcdpgc.edu.in"
+  },
+  "website": "https://www.gvpcdpgc.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

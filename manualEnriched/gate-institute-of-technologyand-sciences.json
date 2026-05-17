@@ -1,0 +1,85 @@
+{
+  "overview": "GATE Institute of Technology and Sciences (GITS), established in 2008, is a private technical institution located in Kodad, Suryapet district. Managed by the Sai Shirdi Educational Group, the college focuses on delivering quality technical and management education to students in the rural and semi-urban belt of Telangana. It emphasizes skill-based learning and industry readiness through various academic and extracurricular initiatives.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, ECE, EEE, CS&Design, Biotechnology)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹2,00,000 (Approx. ₹40,000 - ₹50,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + TG EAPCET rank"
+    },
+    {
+      "course": "MBA (General, HR, Finance, Marketing)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 - ₹80,000",
+      "eligibility": "Graduation in any stream + TG ICET rank"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000 (Approx. ₹57,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / TG PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹46,500 - ₹50,000",
+      "eligibility": "10th standard pass + TG POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA - ₹3.8 LPA",
+    "medianSalary": "₹3.5 LPA",
+    "highestSalary": "₹8.0 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "60% - 70%",
+    "totalOffers": "150+ (Across recent batches)",
+    "companiesVisited": "25+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "IBM",
+      "Capgemini",
+      "HCL Technologies",
+      "Accenture",
+      "Mindtree",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (EAMCET)",
+      "TG ICET",
+      "TG PGECET",
+      "TG POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are strictly merit-based following state government norms. 70% of seats (Category A) are filled via state-level web counseling based on entrance exam ranks. 30% are Management Quota (Category B) seats filled based on merit or qualifying marks. Counseling Code: GATE.",
+    "importantDates": "TG EAPCET 2026: May 9–11, 2026; TG ICET 2026: May 2026; B.Tech Counseling: July 2026; TG POLYCET: May 2026."
+  },
+  "campus": {
+    "area": "25 Acres",
+    "facilities": [
+      "Smart Classrooms with ICT tools",
+      "Well-equipped Computer & Engineering Labs",
+      "Central Library with E-Resource Section",
+      "Separate Hostels for Boys and Girls",
+      "Canteen & Refreshment Center",
+      "Indoor & Outdoor Sports Facilities",
+      "Auditorium for Seminars & Events",
+      "Transport Facility (Fleet covering Kodad and surrounding mandals)"
+    ],
+    "specialNote": "The institution is located in a serene, eco-friendly environment at Kattakommagudem village near Kodad. It is known for its discipline and organized academic schedule, often conducting special bridge courses and personality development sessions for its students."
+  },
+  "contact": {
+    "phone": "+91 9848421753, +91 8498053357",
+    "email": "gateprincipalqe@gmail.com",
+    "address": "Kattakommagudem, Chilkuru Mandal, Kodad, Suryapet District, Telangana - 508206",
+    "admissionsEmail": "gateprincipalqe@gmail.com"
+  },
+  "website": "https://gatekodad.co.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

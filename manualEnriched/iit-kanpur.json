@@ -1,0 +1,93 @@
+{
+  "overview": "The Indian Institute of Technology Kanpur (IIT Kanpur), established in 1959, is one of India's most prestigious engineering institutions. Renowned for its academic excellence and innovation in science and technology, IIT Kanpur continues to be a top choice for students nationwide.",
+  "accreditation": "Institute of National Importance; NAAC 'A++' grade accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.S. (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC students with income > ₹5 lakh. Income-based and caste-based waivers apply."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹5,000 per semester for General/OBC (non-sponsored). Sponsored candidates pay ₹25,000 per semester. SC/ST/PwD exempt."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹26.27 LPA (2024–25)",
+    "medianSalary": "₹19.4 LPA",
+    "highestSalary": "₹5.5 CPA (International)",
+    "highestDomestic": "₹1.90 CPA",
+    "placementRate": "76% overall (2023–24); 93.32% Phase 1 (2024–25)",
+    "totalOffers": "1,109 (Phase 1, 2024–25); 1,035 accepted (93.3% acceptance rate)",
+    "companiesVisited": "Jane Street, Microsoft, Google, Texas Instruments, Qualcomm, Deutsche Bank, Goldman Sachs, Rakuten Mobile",
+    "internationalOffers": "28 (2024–25 Phase 1)",
+    "programWisePlacement": {
+      "BTech": "88.7% — 754 out of 1,133 students placed",
+      "MTech": "87.4% — 513 out of 821 students placed",
+      "MBA": "100% placement for all registered students",
+      "MDes": "93% placement rate"
+    },
+    "branchWiseHighlights": [
+      { "branch": "Computer Science & Engineering (CSE)", "placementRate": "95.9%", "avgCTC": "₹52.8 LPA" },
+      { "branch": "Electrical Engineering (EE)", "placementRate": "85.3%", "avgCTC": "₹27.6 LPA" },
+      { "branch": "Chemical Engineering (CHE)", "placementRate": "82.0%", "avgCTC": "₹18.9 LPA" },
+      { "branch": "Aerospace Engineering (AE)", "placementRate": "77.1%", "avgCTC": "₹20.1 LPA" },
+      { "branch": "Mechanical Engineering (ME)", "placementRate": "74.6%", "avgCTC": "₹19.7 LPA" },
+      { "branch": "Civil Engineering (CE)", "placementRate": "69.2%", "avgCTC": "₹16.3 LPA" }
+    ],
+    "keyTrends": {
+      "higherStudies": "~25% (283 students) of BTech batch opted for higher studies over placement",
+      "acceptanceRate": "93.3% — 1,035 students accepted out of 1,109 offers (2024–25)",
+      "mtechManagement": "MTech in Dept. of Management Sciences achieved 100% placement in 2024, focusing on AI & Data Science roles"
+    },
+    "topRecruiters": [
+      "Jane Street",
+      "Microsoft",
+      "Google",
+      "Texas Instruments",
+      "Qualcomm",
+      "Deutsche Bank",
+      "Goldman Sachs",
+      "Rakuten Mobile"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE", "CEED", "CAT"],
+    "admissionProcess": "Admissions are based on national entrance exams followed by JoSAA/COAP/department-level counseling for seat allocation.",
+    "importantDates": "Aligned with JoSAA/COAP schedules and IIT Kanpur's academic calendar."
+  },
+  "campus": {
+    "area": "1,055 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Centers",
+      "Health Centre",
+      "Student Gymkhana",
+      "Auditoriums",
+      "Sports Facilities",
+      "Innovation & Incubation Center",
+      "Academic Complex"
+    ],
+    "specialNote": "Hostel and Mess charges range from ₹30,000–₹35,000 per semester. A one-time admission fee of ₹2,950 is applicable. Waivers and scholarships available based on income and category."
+  },
+  "contact": {
+    "phone": "+91-512-2590151",
+    "email": "registrar@iitk.ac.in",
+    "address": "Indian Institute of Technology Kanpur, Kalyanpur, Kanpur - 208016, Uttar Pradesh, India",
+    "admissionsEmail": "academic@iitk.ac.in"
+  },
+  "website": "https://www.iitk.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iitk.ac.in",
+    "fees": "https://www.iitk.ac.in/doaa/data/Fee-Structure-2024.pdf",
+    "placements": "https://www.iitk.ac.in/oir/placement",
+    "admissions": "https://www.iitk.ac.in/doaa/",
+    "campus": "https://www.iitk.ac.in/campus-life",
+    "contact": "https://www.iitk.ac.in/contact-us"
+  }
+}

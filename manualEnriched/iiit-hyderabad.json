@@ -1,0 +1,106 @@
+{
+  "overview": "International Institute of Information Technology Hyderabad (IIIT Hyderabad), established in 1998 and located on Professor CR Rao Road, Gachibowli, Hyderabad, Telangana, is a premier autonomous deemed university focused on advanced research and technical education. Founded as India’s first non-profit public-private partnership (N-PPP) technical institute, IIIT Hyderabad is globally recognized for excellence in Computer Science, Artificial Intelligence, Electronics, and interdisciplinary research-driven education.",
+  "accreditation": "NAAC A++ Accredited; Autonomous Deemed University recognized by the University Grants Commission (UGC).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / Dual Degree Programs",
+      "duration": "4–5 years",
+      "tuitionFee": "₹2,25,000 – ₹2,50,000 per semester (₹4,50,000 – ₹5,00,000 per year). Hostel Fee: ₹24,000 per semester. Mess Fee: ₹30,000 per semester."
+    },
+    {
+      "program": "M.Tech Programs",
+      "duration": "2 years",
+      "tuitionFee": "₹2,00,000 per semester (₹4,00,000 per year). Hostel and mess charges additional as applicable."
+    },
+    {
+      "program": "MS by Research",
+      "duration": "2–5 years",
+      "tuitionFee": "₹2,00,000 per semester. Research assistantships available for eligible scholars."
+    },
+    {
+      "program": "M.Sc Programs",
+      "duration": "2 years",
+      "tuitionFee": "Approx. ₹30,000 per semester with total tuition around ₹1,20,000."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹33.96 LPA (Overall UG/PG Average 2025)",
+    "medianSalary": "₹19.00 LPA (Overall Institute Median 2025)",
+    "highestSalary": "₹1.28 CPA (B.Tech / Dual Degree 2025)",
+    "highestDomestic": "₹65.00 LPA (B.Tech Programs 2024)",
+    "placementRate": "Overall: 96.14%; B.Tech CSE: 99.15%; B.Tech ECE: 97.22%; Dual Degree Programs: 100%",
+    "totalOffers": "374 students placed out of 389 registered candidates during 2025 placement cycle",
+    "companiesVisited": "Google, Microsoft, Amazon, Adobe, Goldman Sachs, Apple, Deloitte, Uber, Walmart, Oracle",
+    "internationalOffers": "Multiple high-value international and global remote offers including packages exceeding ₹1 Crore",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Adobe",
+      "Goldman Sachs",
+      "Apple",
+      "Deloitte",
+      "Uber",
+      "Walmart",
+      "Oracle"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "UGEE",
+      "Olympiad Mode",
+      "SPEC",
+      "LEEE",
+      "GATE",
+      "PGEE"
+    ],
+    "admissionProcess": "Admissions are conducted through multiple national-level entrance channels including JEE Main, UGEE, PGEE, GATE, Olympiad-based admissions, and special admission modes depending on the program.",
+    "importantDates": "Admission schedules generally follow JEE Main, UGEE, and PGEE annual examination timelines."
+  },
+  "campus": {
+    "area": "66+ acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Innovation Centers",
+      "AI Research Labs",
+      "Sports Complex",
+      "Medical Facilities",
+      "Wi-Fi Enabled Campus",
+      "Auditoriums",
+      "Startup Incubation Support",
+      "Advanced Computing Infrastructure"
+    ],
+    "specialNote": "On-campus residence is mandatory for all regular undergraduate and postgraduate students. The institute operates four specialized cooperative vegetarian kitchens and maintains a highly research-oriented academic environment."
+  },
+  "contact": {
+    "phone": "+91-40-6653-1000",
+    "email": "info@iiit.ac.in",
+    "address": "International Institute of Information Technology Hyderabad, Professor CR Rao Road, Gachibowli, Hyderabad – 500032, Telangana, India",
+    "admissionsEmail": "admissions@iiit.ac.in"
+  },
+  "website": "https://www.iiit.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-reports",
+  "scholarships": {
+    "financialAid": [
+      "IIITH Financial Assistance Scheme (ISF)",
+      "SBI Scholar Loan Partnership",
+      "Alumni-Funded Emergency Grants",
+      "Research Assistantships for Dual Degree and PhD Scholars"
+    ],
+    "specialNote": "No automatic caste-based tuition waivers are available due to the institute’s self-sustaining non-grant operational model."
+  },
+  "sources": {
+    "overview": "https://www.iiit.ac.in",
+    "fees": "https://www.iiit.ac.in/admissions/undergraduate/",
+    "placements": "https://placement.iiit.ac.in",
+    "admissions": "https://www.iiit.ac.in/admissions/",
+    "campus": "https://www.iiit.ac.in/institute/",
+    "contact": "https://www.iiit.ac.in/contact/"
+  },
+  "nirfOverall2025": "89"
+}

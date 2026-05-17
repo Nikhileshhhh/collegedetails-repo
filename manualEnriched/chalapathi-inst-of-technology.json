@@ -1,0 +1,77 @@
+{
+  "overview": "Chalapathi Institute of Technology (CIT), established in 2008, is a private engineering college located in Mothadaka, Guntur district. Often confused with its sister concern (CIET), CIT focuses on providing diverse technical education across diploma, undergraduate, and postgraduate levels. The institute is known for its academic discipline and for catering specifically to the educational needs of the rural and semi-urban student population in Andhra Pradesh.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, AI, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,72,000 (Approx. ₹43,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹86,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE/AP PGECET"
+    },
+    {
+      "course": "Diploma (CSE, ECE, EEE, Civil, Mechanical)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA",
+    "medianSalary": "₹3.3 LPA",
+    "highestSalary": "₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "232+ (2024-25 cycle)",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Infosys",
+      "Wipro",
+      "TCS",
+      "Cognizant",
+      "Genpact",
+      "Tech Mahindra",
+      "HCL Technologies",
+      "Sutherland"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level counseling (APSCHE). 70% of seats are Convener Quota (Category A) based on entrance exam ranks (AP EAPCET/POLYCET/PGECET). 30% are Management Quota (Category B) seats filled based on merit or JEE scores.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP POLYCET 2026: April 24–25, 2026; AP PGECET 2026: April 27, 2026."
+  },
+  "campus": {
+    "area": "12 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Specialized Engineering Labs",
+      "Central Library with Digital Access",
+      "Separate Hostels for Boys and Girls",
+      "Canteen",
+      "Sports Infrastructure",
+      "Transport Facility (Guntur and surrounding mandals)"
+    ],
+    "specialNote": "The campus is located at A.R. Nagar, Mothadaka, which is roughly 20 km from Guntur city. It is noted for its high academic ratings from students and a significant faculty-to-student ratio (approx. 1:13) which allows for personalized attention."
+  },
+  "contact": {
+    "phone": "+91 9441124444, +91 9848135891",
+    "email": "cit_h@yahoo.co.in",
+    "address": "A.R. Nagar, Mothadaka, Tadikonda Mandal, Guntur District, Andhra Pradesh - 522016",
+    "admissionsEmail": "principal_cit@yahoo.co.in"
+  },
+  "website": "https://www.citycollege.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

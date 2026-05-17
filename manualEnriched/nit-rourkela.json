@@ -1,0 +1,84 @@
+{
+  "overview": "National Institute of Technology Rourkela (NIT Rourkela), established in 1961, is one of India's premier NITs known for strong academic programs, research excellence, and consistent placement performance across engineering, sciences, and management disciplines.",
+  "accreditation": "Institute of National Importance; NAAC 'A' grade accredited (CGPA ~3.12).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.Arch / Dual Degree (Undergraduate)",
+      "duration": "4–5 years",
+      "tuitionFee": "₹62,500 per semester for General/OBC/EWS (income > ₹5 lakh). Income-based and caste-based waivers apply. Additional ~₹14,000 per semester for other charges. Hostel & Mess: ~₹40,000 per semester."
+    },
+    {
+      "program": "M.Tech / MBA / M.Sc. (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "M.Tech: ₹35,000/sem; MBA: ₹1,00,000/sem; M.Sc.: ₹7,500/sem. SC/ST/PwD: Tuition exempted. Other charges ~₹12,000."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹13.29 LPA overall, ₹14.10 LPA B.Tech (2024–25)",
+    "medianSalary": "₹15.25 LPA (UG 4-Year, 2023–24)",
+    "highestSalary": "₹1.20 CPA (2023–24)",
+    "highestDomestic": "₹62.44 LPA (2024–25 Phase 1)",
+    "placementRate": "B.Tech: 82.20%, M.Tech: ~71.34%",
+    "totalOffers": "1,274 offers + 509 internships (2024–25)",
+    "companiesVisited": "Google, Microsoft, Amazon, Qualcomm, Texas Instruments, Deloitte, Tata Steel, JSW Group",
+    "internationalOffers": "Consistent presence of high-value offers across IT and analytics roles",
+    "branchWiseHighlights": [
+      { "branch": "Ceramic Engineering", "placementRate": "97.73%" },
+      { "branch": "Electronics & Instrumentation", "placementRate": "97.06%" },
+      { "branch": "Computer Science (CSE)", "placementRate": "94.48%", "avgCTC": "₹20.35 LPA" },
+      { "branch": "Electronics & Communication (ECE)", "avgCTC": "₹20.18 LPA" },
+      { "branch": "Electrical Engineering", "avgCTC": "₹14.28 LPA" }
+    ],
+    "keyTrends": {
+      "mtechStats": "M.Tech avg ₹13.48 LPA, placement rate ~71.34% (2024–25)"
+    },
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Qualcomm",
+      "Texas Instruments",
+      "Deloitte",
+      "Tata Steel",
+      "JSW Group"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Main", "GATE", "CAT"],
+    "admissionProcess": "Admissions are based on national-level entrance exams followed by JoSAA, CCMT, or institute-level counseling depending on the program.",
+    "importantDates": "Follows JoSAA/CCMT schedules and institute academic calendar."
+  },
+  "campus": {
+    "area": "650 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Computer Centre",
+      "Innovation & Incubation Centre",
+      "Sports Complex",
+      "Auditorium",
+      "Research Labs",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Other semester charges (~₹14,000) include academic and service fees. Hostel & mess cost ~₹40,000 per semester. One-time admission fee ~₹15,000–₹25,000 with ₹10,000 refundable caution deposit."
+  },
+  "contact": {
+    "phone": "+91-661-246-2020",
+    "email": "registrar@nitrkl.ac.in",
+    "address": "National Institute of Technology Rourkela, Rourkela – 769008, Odisha, India",
+    "admissionsEmail": "admissions@nitrkl.ac.in"
+  },
+  "website": "https://www.nitrkl.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.nitrkl.ac.in",
+    "fees": "https://www.nitrkl.ac.in/Academics/Fees",
+    "placements": "https://www.nitrkl.ac.in/Placement",
+    "admissions": "https://www.nitrkl.ac.in/Admissions",
+    "campus": "https://www.nitrkl.ac.in/About",
+    "contact": "https://www.nitrkl.ac.in/Contact"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "overview": "Gokaraju Rangaraju Institute of Engineering and Technology (GRIET), established in 1997 by the Gokaraju Rangaraju Educational Society, is a premier autonomous engineering college located in Bachupally, Hyderabad. It is widely recognized as one of the top-tier private engineering institutions in Telangana, known for its rigorous academic environment, high placement standards, and state-of-the-art research facilities. The college focuses on nurturing innovation through various student-run technical bodies and a strong industry-connect program.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with a prestigious 'A++' Grade (CGPA 3.55). Most eligible undergraduate programs are NBA accredited. Approved by AICTE and affiliated with JNTU-Hyderabad (JNTUH). Ranked #151 in the NIRF 2025 Engineering category.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, CS&BS, IT, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹5,40,000 - ₹5,45,000 (Approx. ₹1,35,000 - ₹1,36,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + TG EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, DS, VLSI, Embedded Systems, Power Electronics, Structural Engg, DFM)",
+      "duration": "2 Years",
+      "totalFees": "₹1,72,000 - ₹1,75,000 (Approx. ₹86,000 - ₹87,500 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch with 55% aggregate + GATE / TG PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹9.27 LPA (Recent cycle average); Overall median: ₹6.0 LPA",
+    "medianSalary": "₹6.0 LPA",
+    "highestSalary": "₹51.6 LPA - ₹55.0 LPA (2025-26 record high)",
+    "highestDomestic": "₹55.0 LPA (Google)",
+    "placementRate": "80% - 90%",
+    "totalOffers": "1,100+ (2025/26 cycle)",
+    "companiesVisited": "90+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Paypal",
+      "Commvault",
+      "Oracle",
+      "CISCO",
+      "TCS (Ninja & Digital)",
+      "Accenture",
+      "Deloitte"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (EAMCET)",
+      "TG PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions follow the rules of the Telangana State Council of Higher Education (TGCHE). 70% of seats (Category A) are filled via TG EAPCET state counseling. 30% are Management Quota (Category B) seats filled based on merit or JEE Main ranks. Counseling Code: GRRR.",
+    "importantDates": "TG EAPCET 2026: May 9–11, 2026; Results: Mid-May 2026; TG PGECET 2026: June 10–13, 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "24 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & Digital Classrooms in every block",
+      "Advanced AI/ML Research Lab & Specialized Tech Studios",
+      "Central Library with massive digital repository and specialized book bank",
+      "On-campus Girls Hostel (Capacity ~500); Private PGs nearby for Boys",
+      "Indoor Sports Complex & Outdoor Grounds (Cricket, Basketball)",
+      "Pragnya 90.4 FM (Internal Radio Station)",
+      "Hygienic Canteen & Food Court",
+      "Transport (Fleet of buses covering all major points in Hyderabad)",
+      "Bank & ATM facilities"
+    ],
+    "specialNote": "GRIET is distinguished by its 'Pragnya' technical fest and a very active professional body culture (IEEE, ISTE, CSI). It offers substantial merit scholarships: up to ₹1.2 Lakhs for EAPCET ranks below 500. The campus is known for its discipline and 'Ragging Free' environment."
+  },
+  "contact": {
+    "phone": "040-65864440, 040-65864441, +91 7207344440",
+    "email": "info@griet.ac.in",
+    "address": "Nizampet-Bachupally Road, Kukatpally, Hyderabad, Telangana - 500090",
+    "admissionsEmail": "principal@griet.ac.in"
+  },
+  "website": "https://www.griet.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

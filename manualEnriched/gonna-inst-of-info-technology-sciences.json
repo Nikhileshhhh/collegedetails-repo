@@ -1,0 +1,92 @@
+{
+  "overview": "Gonna Institute of Information Technology and Sciences (GIITS), established in 2009, is a private engineering institution located in Visakhapatnam, Andhra Pradesh. Founded by the Sri Veera Jagannadh Educational Society, the college is dedicated to providing technical and management education to a diverse student body of approximately 1,500 students. It is recognized for its disciplined environment and its strategic location in the rapidly growing industrial belt of Visakhapatnam, offering a blend of academic rigor and employability training.",
+  "accreditation": "Approved by AICTE, New Delhi. Affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK) and JNTU-Gurajada, Vizianagaram. Recognized as a self-financed private institution.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, ECE, EEE, Mechanical, Civil)",
+      "duration": "4 Years",
+      "totalFees": "₹1,85,000 (Approx. ₹46,250 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA (Finance, Marketing, HR)",
+      "duration": "2 Years",
+      "totalFees": "₹84,800 (Approx. ₹42,400 per year)",
+      "eligibility": "Graduation in any stream + AP ICET rank"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹84,800 (Approx. ₹42,400 per year)",
+      "eligibility": "Graduation with Mathematics at 10+2 or Degree level + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI Design, Power Electronics, CAD/CAM)",
+      "duration": "2 Years",
+      "totalFees": "₹1,20,000 (Approx. ₹60,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA - ₹3.5 LPA",
+    "medianSalary": "₹3.2 LPA",
+    "highestSalary": "₹10.0 LPA - ₹13.0 LPA",
+    "highestDomestic": "₹13.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "200+ (Across recent batches)",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Infosys",
+      "Wipro",
+      "IBM",
+      "Tech Mahindra",
+      "Accenture",
+      "Capgemini",
+      "Cognizant",
+      "Sutherland",
+      "Genpact"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions follow state government norms. 70% of seats (Category A) are filled via state-level web counseling (APSCHE) based on entrance exam ranks. 30% are Management Quota (Category B) seats filled based on institutional merit. Counseling Code: GITS.",
+    "importantDates": "AP EAPCET 2026: May 12–20, 2026; AP ICET 2026: May 2026; B.Tech Counseling: Tentatively July 2026; AP POLYCET Application: March–April 2026."
+  },
+  "campus": {
+    "area": "10 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & Seminar Halls",
+      "State-of-the-art Computer and Engineering Labs",
+      "Central Library with Digital Resource Access",
+      "Separate On-campus Hostels for Boys and Girls",
+      "Auditorium & Open-air Theatre for events",
+      "Sports Facilities (Cricket, Volleyball) & Indoor Games",
+      "Hygienic Canteen & RO Water Facility",
+      "Transport (Fleet covering major points in Visakhapatnam district)"
+    ],
+    "specialNote": "GIITS provides a dedicated 'Incubation Cell' to support new startups and encourages creativity through various departmental forums. The campus is known for being 'ragging-free' and offers specialized employability training sessions starting from the third year of study."
+  },
+  "contact": {
+    "phone": "+91-9912283335, 9848178659, 08924-240071",
+    "email": "principal@giits.in, giitscollege@gmail.com",
+    "address": "56, Gonnavanipalem, Aganampudi, Visakhapatnam, Andhra Pradesh - 530053",
+    "admissionsEmail": "principal@giits.in"
+  },
+  "website": "http://www.giits.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

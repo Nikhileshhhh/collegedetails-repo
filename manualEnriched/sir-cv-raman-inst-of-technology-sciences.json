@@ -1,0 +1,101 @@
+{
+  "overview": "Sir C.V. Raman Institute of Technology and Sciences (CVRT), located in Tadipatri, Anantapuramu District, Andhra Pradesh, is a private engineering institution focused on technical education, industry-oriented training, and career development. The institute offers undergraduate, postgraduate, and diploma programs in engineering and technology disciplines with active placement support and state scholarship assistance.",
+  "accreditation": "NAAC Accredited with B++ Grade.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Convenor Quota (Category A): Approximately ₹43,000 per year (Total ~₹1.72 Lakhs for 4 years). Management Quota (Category B): Variable depending on specialization and demand."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹43,000 – ₹57,000 per year depending on specialization."
+    },
+    {
+      "program": "Diploma (Polytechnic)",
+      "duration": "3 years",
+      "tuitionFee": "Approximately ₹15,000 – ₹25,000 per year."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.00 LPA – ₹5.00 LPA",
+    "medianSalary": "₹3.60 LPA (UG 4-Year B.Tech)",
+    "highestSalary": "₹17.00 LPA – ₹20.00 LPA (2024-25 Batch)",
+    "highestDomestic": "₹20.00 LPA",
+    "placementRate": "Approximately 70% – 75% for eligible B.Tech students",
+    "totalOffers": "Multiple placement offers through campus and pooled recruitment drives",
+    "companiesVisited": "Micron Technology, IBM, Deloitte, Amdocs, Mphasis, Robert Bosch, Infosys, HCL",
+    "internationalOffers": "Limited/Not officially disclosed",
+    "topRecruiters": [
+      "Micron Technology",
+      "IBM",
+      "Deloitte",
+      "Amdocs",
+      "Mphasis",
+      "Robert Bosch",
+      "Infosys",
+      "HCL"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP PGECET",
+      "POLYCET"
+    ],
+    "admissionProcess": "Admissions are primarily based on Andhra Pradesh state-level entrance examinations followed by centralized counseling and management quota admissions.",
+    "importantDates": "Follows APSCHE counseling schedules and academic calendar notifications."
+  },
+  "campus": {
+    "area": "Campus located in Tadipatri, Anantapuramu District, Andhra Pradesh",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Library",
+      "Computer Labs",
+      "Training & Placement Cell",
+      "Seminar Halls",
+      "Transportation Facility",
+      "Sports Facilities",
+      "Wi-Fi Enabled Campus",
+      "Cafeteria"
+    ],
+    "specialNote": "Hostel and mess charges range approximately between ₹45,000 – ₹60,000 annually depending on room configuration. One-time admission and caution charges may range from ₹5,000 – ₹10,000."
+  },
+  "contact": {
+    "phone": "9490732667",
+    "email": "scvrits@gmail.com",
+    "address": "Sir C.V. Raman Institute of Technology and Sciences, Behind Bharat Petrol Bunk, Anantapur Road, Tadipatri, Ananthapuramu District, Andhra Pradesh 515411",
+    "admissionsEmail": "info@cvrt.in"
+  },
+  "website": "https://www.cvrt.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://www.cvrt.in",
+    "fees": "https://www.cvrt.in/fee-structure",
+    "placements": "https://www.cvrt.in/placements",
+    "admissions": "https://www.cvrt.in/cvrt-details-of-nad",
+    "campus": "https://www.cvrt.in",
+    "contact": "https://www.cvrt.in/contact-us"
+  },
+  "hostel": {
+    "hostelFee": "?45,000 ? ?60,000 per year",
+    "note": "Hostel and mess combined fee for standard residential facilities."
+  },
+  "scholarships": [
+    {
+      "name": "Jagananna Vidya Deevena (JVD)",
+      "description": "Annual tuition reimbursement for eligible AP state candidates from lower economic classifications."
+    },
+    {
+      "name": "Post-Metric Scholarships",
+      "description": "Government stipends for eligible SC, ST, BC, and EBC students."
+    },
+    {
+      "name": "AICTE Tuition Fee Waiver (TFW)",
+      "description": "Restricted merit-based tuition waiver seats for candidates under the ?8 LPA family income threshold."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "overview": "Sree Rama Engineering College (SREC), Tirupati, focuses on industry-oriented technical education with placement training programs designed for IT services and regional industrial sectors.",
+  "accreditation": "NAAC 'B+' Grade Accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Convenor Quota (Category A): ₹31,000 per year. Management Quota (Category B): ₹95,000 per year."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 per year."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.20 LPA – ₹3.50 LPA",
+    "medianSalary": "₹3.00 LPA – ₹3.25 LPA",
+    "highestSalary": "₹8.90 LPA (2023-24)",
+    "highestDomestic": "₹8.90 LPA",
+    "placementRate": "45% – 60%",
+    "totalOffers": "150+ to 250+ offers annually",
+    "companiesVisited": "ZOHO, Accenture, TCS, Global Logic, IBM, HCL, Tech Mahindra",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "ZOHO",
+      "Accenture",
+      "TCS",
+      "Global Logic",
+      "IBM",
+      "HCL",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "ICET"
+    ],
+    "admissionProcess": "Admissions are based on AP state counseling and management quota procedures.",
+    "importantDates": "Follows APSCHE counseling calendar."
+  },
+  "campus": {
+    "area": "Urban engineering campus in Tirupati",
+    "facilities": [
+      "Hostels",
+      "Library",
+      "Computer Labs",
+      "Placement Cell",
+      "Sports Facilities",
+      "Transportation"
+    ],
+    "specialNote": "Hostel & Mess combined fee ranges from ₹45,000 – ₹55,000 annually."
+  },
+  "contact": {
+    "phone": "0877 2234565, 0877 2233669",
+    "email": "sreeramaenggcollege@gmail.com",
+    "address": "Rami Reddy Nagar, Karakambadi Road,Mangalam (B.O), Tirupathi – 517 507.",
+    "admissionsEmail": "info@sreerama.ac.in"
+  },
+  "website": "https://sreerama.ac.in/srec",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://sreerama.ac.in/srec",
+    "fees": "https://sreerama.ac.in/srec/fee-structure",
+    "placements": "https://sreerama.ac.in/srec/placements",
+    "admissions": "https://sreerama.ac.in/srec/admission-procedure",
+    "campus": "https://sreerama.ac.in/srec/campus-life",
+    "contact": "https://sreerama.ac.in/srec/contact-us/"
+  },
+  "hostel": {
+    "hostelFee": "?45,000 ? ?55,000 per year",
+    "note": "Hostel and mess combined fee for basic shared accommodation."
+  },
+  "scholarships": [
+    {
+      "name": "Jagananna Vidya Deevena (JVD)",
+      "description": "AP state tuition support for eligible reservation and EBC category students."
+    },
+    {
+      "name": "Post-Metric Schemes",
+      "description": "State welfare department support for eligible SC, ST, and BC students."
+    }
+  ]
+}

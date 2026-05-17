@@ -1,0 +1,85 @@
+{
+  "overview": "Dr. Samuel George Institute of Engineering and Technology (SGIT), established in 1997, is a premier private technical institution located in Markapur, Prakasam district. Named after its founder, the college was created to provide high-quality engineering education to students in rural and semi-urban areas of Andhra Pradesh. The campus is known for its serene learning environment and its commitment to bridging the gap between academic theory and industrial practice.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTU-K).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,72,000 - ₹2,38,000 (Approx. ₹43,000 - ₹60,000 per year)",
+      "eligibility": "10+2 with 45-50% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Digital Electronics & Communication Systems, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE)",
+      "duration": "3 Years",
+      "totalFees": "₹72,100 - ₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹1,62,000",
+      "eligibility": "Diploma in relevant branch + AP ECET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA",
+    "medianSalary": "₹3.0 LPA",
+    "highestSalary": "₹6.5 LPA - ₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "75% (Recent cycle)",
+    "totalOffers": "100+",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Cognizant",
+      "Tech Mahindra",
+      "Accenture",
+      "HCL Technologies",
+      "Sutherland",
+      "Genpact"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP POLYCET",
+      "AP ECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (APSCHE). 70% of seats (Category A) are filled via entrance exam ranks. 30% are Management Quota (Category B) seats filled based on merit or qualifying scores. The college counseling code is SGIT.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Registration (with late fee): until April 10, 2026; Result: May 2026; M.Tech Application: April 2026."
+  },
+  "campus": {
+    "area": "Acres of modern infrastructure in Markapur",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Specialized Engineering & Computing Labs",
+      "Central Library with E-Learning access",
+      "Separate On-campus Hostels for Boys and Girls",
+      "Auditorium & Seminar Halls",
+      "Cafeteria & Health Center",
+      "Sports Grounds (Cricket, Volleyball, etc.)",
+      "Transport Facility (Connecting Markapur and nearby areas)"
+    ],
+    "specialNote": "SGIT is recognized for its dedicated Placement Training Cell which starts CRT (Campus Recruitment Training) from the third year. It is located at George Town Darimadugu, providing easy accessibility to the Markapur Road Railway Station (~8 km)."
+  },
+  "contact": {
+    "phone": "+91 9618257287, +91 9963333124",
+    "email": "sgit.principal@gmail.com",
+    "address": "George Town, Darimadugu (V), Markapur (M), Prakasam District, Andhra Pradesh - 523320",
+    "admissionsEmail": "danikodamala@gmail.com"
+  },
+  "website": "https://drsgiet.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

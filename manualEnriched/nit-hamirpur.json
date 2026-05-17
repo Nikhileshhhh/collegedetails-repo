@@ -1,0 +1,120 @@
+{
+  "overview": "National Institute of Technology Hamirpur (NIT Hamirpur / NITH), located on Anu Road, Hamirpur, Himachal Pradesh, is a premier autonomous public technical university established in 1986 as a Regional Engineering College (REC). It was later elevated to an Institute of National Importance under the NIT Act. Spread across a scenic 320-acre pine-forested campus, the institute is recognized for its strong engineering, architecture, and research programs across northern India.",
+  "accreditation": "Institute of National Importance under the NIT Act; recognized by UGC and Ministry of Education.",
+  "nirfRanking": {
+    "overallCategory": "151–200 Rank Band nationally (2025)"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (General / OBC, Income > ₹5 Lakh)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,25,000 per year (₹62,500 per semester)"
+    },
+    {
+      "program": "B.Tech (General / OBC, Income ₹1L – ₹5L)",
+      "duration": "4 years",
+      "tuitionFee": "Approximately ₹41,666 per year after 2/3 tuition fee remission"
+    },
+    {
+      "program": "B.Tech (Income < ₹1L / SC / ST / PwD)",
+      "duration": "4 years",
+      "tuitionFee": "100% tuition fee waiver"
+    },
+    {
+      "program": "B.Arch",
+      "duration": "5 years",
+      "tuitionFee": "₹1,25,000 per year"
+    },
+    {
+      "program": "M.Tech / MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹70,000 – ₹1,34,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹10.58 LPA (Overall B.Tech 2025)",
+    "medianSalary": "₹10.75 LPA (Overall B.Tech 2025)",
+    "highestSalary": "₹2.05 CPA (Mechanical Engineering, 2025)",
+    "highestDomestic": "₹2.05 CPA",
+    "topBranchPackage": "₹58.00 LPA (CSE, 2025)",
+    "pgHighestSalary": "₹52.00 LPA",
+    "placementRate": "B.Tech Overall: 90.51%",
+    "csePlacementRate": "93.27%",
+    "bArchPlacementRate": "100%",
+    "totalOffers": "675 offers for 622 eligible B.Tech students",
+    "companiesVisited": "60+ recruiters participated in the 2025 placement drive",
+    "topRecruiters": [
+      "Samsung",
+      "Amazon",
+      "Infosys",
+      "L&T",
+      "Deloitte",
+      "BNY Mellon",
+      "Jio",
+      "Publicis Sapient"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "NATA"
+    ],
+    "admissionProcess": "Admissions are conducted through JoSAA/CSAB counseling for B.Tech and B.Arch programs, while postgraduate admissions are based on GATE and institute-level counseling.",
+    "importantDates": "Admission timelines follow JoSAA, CSAB, and CCMT schedules for respective academic sessions."
+  },
+  "campus": {
+    "area": "320 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Wi-Fi Campus",
+      "Computer Centre",
+      "Research Laboratories",
+      "Sports Complex",
+      "Auditorium",
+      "Medical Facilities",
+      "Centralized Mess",
+      "Innovation & Research Centers"
+    ],
+    "hostelFees": "₹24,000 – ₹32,000 per annum depending on room type",
+    "messCharges": "₹35,000 – ₹40,000 per annum",
+    "specialNote": "The campus is surrounded by pine forests and is widely known for its scenic environment and strong technical infrastructure."
+  },
+  "scholarships": [
+    {
+      "name": "Top Class Education Scheme for SC Students",
+      "benefit": "Full tuition fee coverage, living expenses, and computer assistance"
+    },
+    {
+      "name": "Post-Matric Scholarship for Students with Disabilities",
+      "benefit": "Financial support through National Scholarship Portal (NSP)"
+    },
+    {
+      "name": "Merit-Cum-Means Scholarship",
+      "benefit": "Financial aid and tuition concessions for meritorious students"
+    },
+    {
+      "name": "M.Tech GATE Stipend",
+      "benefit": "₹12,400 per month fellowship for eligible GATE-qualified students"
+    }
+  ],
+  "contact": {
+    "phone": "+91-1972-254001",
+    "email": "registrar@nith.ac.in",
+    "address": "National Institute of Technology Hamirpur, Anu Road, Hamirpur, Himachal Pradesh – 177005, India",
+    "admissionsEmail": "academic@nith.ac.in"
+  },
+  "website": "https://nith.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://nith.ac.in",
+    "fees": "https://nith.ac.in",
+    "placements": "https://tpo.nith.ac.in/",
+    "admissions": "https://nith.ac.in/home",
+    "campus": "https://nith.ac.in/about",
+    "contact": "https://nith.ac.in/contact"
+  }
+}

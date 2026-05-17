@@ -1,0 +1,87 @@
+{
+  "overview": "Ellenki College of Engineering and Technology (ECET), established in 2001, is a prominent private autonomous institution located in Patelguda, near Patancheru, Hyderabad. Part of the Ellenki Group of Institutions, the college is dedicated to providing high-quality technical education in a disciplined environment. It is particularly known for its diverse engineering specializations and its strategic location adjacent to the Outer Ring Road, making it highly accessible to students across the Hyderabad metropolitan region.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with a 'B+' Grade. Approved by AICTE, New Delhi. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,40,000 - ₹4,00,000 (Approx. ₹60,000 - ₹1,00,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹90,000 - ₹1,30,000 (Approx. ₹45,000 - ₹65,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + TS ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Embedded Systems, Power Electronics, Structural Engg, CAD/CAM)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000 - ₹1,40,000 (Approx. ₹57,000 - ₹70,000 per year)",
+      "eligibility": "B.E./B.Tech with 50-55% aggregate + GATE / TS PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, CME, EEE, ECE, Mechanical)",
+      "duration": "3 Years",
+      "totalFees": "₹1,20,000 (Approx. ₹40,000 per year)",
+      "eligibility": "10th standard pass + TS POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.0 LPA",
+    "medianSalary": "₹6.04 LPA",
+    "highestSalary": "₹12.0 LPA - ₹22.0 LPA",
+    "highestDomestic": "₹22.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "187+ (2023 cycle; currently rising for 2025-26)",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Wipro",
+      "Deloitte",
+      "Cognizant",
+      "Infosys",
+      "Tech Mahindra",
+      "IBM",
+      "Amazon",
+      "ADP",
+      "Genpact"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET",
+      "TS ICET",
+      "TS PGECET",
+      "TS POLYCET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted via state-level web counseling (TGCHE). 70% of seats (Category A) are filled based on entrance exam ranks (EAMCET/ICET/POLYCET). 30% are Management Quota (Category B) seats filled based on merit or qualifying marks. Counseling Code: ELEN.",
+    "importantDates": "TS EAMCET 2026 (Engineering): May 9–11, 2026; TS ICET 2026: May 13–14, 2026; TS POLYCET 2026: May 13, 2026; Result: Late May 2026."
+  },
+  "campus": {
+    "area": "45 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & AC Classrooms",
+      "State-of-the-art Robotics, AI, and 3D Printing Labs",
+      "Central Library with 25,000+ volumes and Digital Section",
+      "On-campus Cafeteria & Food Court",
+      "Separate Hostels for Boys and Girls",
+      "Sports Ground (Cricket, Volleyball) & Indoor Complex",
+      "Auditorium & Seminar Halls",
+      "24/7 Medical Facility",
+      "Fleet of Buses covering Hyderabad city"
+    ],
+    "specialNote": "Ellenki emphasizes hands-on learning through various specialized clubs like the AI Club, Web Development Club, and Entrepreneurship Club. Its strategic location near the BHEL township and the Outer Ring Road provides students with unique geographical advantages for commuting and industry proximity."
+  },
+  "contact": {
+    "phone": "+91 9966555913, +91 9052771555, +91 9502272726",
+    "email": "ellenkienggcollege@gmail.com",
+    "address": "Patelguda(V), Ameenpur(M), Near Patancheru, Sangareddy Dist, Hyderabad, Telangana - 502319",
+    "admissionsEmail": "principal.ellenki@gmail.com"
+  },
+  "website": "https://ellenkicet.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

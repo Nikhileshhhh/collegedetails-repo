@@ -1,0 +1,80 @@
+{
+  "overview": "Geethanjali Institute of Science and Technology (GIST), established in 2008, is a prominent private engineering college located in Nellore, Andhra Pradesh. The institution is known for its rural-to-urban developmental focus, providing technical education to students in the S.P.S.R. Nellore district. GIST is recognized for its strong discipline, modern laboratory infrastructure, and its role as a key technical hub in coastal Andhra Pradesh.",
+  "accreditation": "Accredited by NAAC with an 'A' Grade. Eligible programs are NBA accredited. Approved by AICTE, New Delhi, and affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA). ISO 9001:2008 certified.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹2,21,000 (Approx. ₹40,000 - ₹55,200 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science and Engineering)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 - ₹1,14,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE / AP PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.0 LPA - ₹4.5 LPA",
+    "medianSalary": "₹4.5 LPA",
+    "highestSalary": "₹7.0 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "75% - 85%",
+    "totalOffers": "300+ (Recent cycles)",
+    "companiesVisited": "40+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS (Ninja & Digital)",
+      "Accenture",
+      "Wipro",
+      "Infosys",
+      "Hyundai Motors",
+      "IBM",
+      "HCL Technologies",
+      "Capgemini",
+      "MCore",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "70% of seats (Category A) are filled via state-level web counseling (APSCHE) based on AP EAPCET ranks. 30% are Management Quota (Category B) seats filled based on institutional merit. Counseling Code: GIST.",
+    "importantDates": "AP EAPCET 2026: May 12–20, 2026; Results: June 1, 2026; Counseling: Expected July 2026; AP POLYCET Application: March–April 2026."
+  },
+  "campus": {
+    "area": "Acres of modern infrastructure near Nellore",
+    "facilities": [
+      "ICT Enabled Smart Classrooms",
+      "State-of-the-art Computer & Engineering Labs",
+      "Central Library with 30,000+ volumes and Digital Section",
+      "Separate In-campus Hostels for Boys and Girls",
+      "Auditorium & Open Air Theatre",
+      "Sports Ground (Cricket, Volleyball) & Indoor Games",
+      "Hygienic Canteen & RO Water Plant",
+      "Medical Centre with emergency services",
+      "Transport (Fleet of 25+ buses covering Nellore and nearby towns)"
+    ],
+    "specialNote": "GIST is notable for its 'GIST Merit Scholarship' program, which offers significant tuition waivers to high performers in entrance exams. The campus is environmentally conscious and focuses heavily on 'CRT' (Campus Recruitment Training) starting from the second year to maximize student employability."
+  },
+  "contact": {
+    "phone": "+91 9912566220, 9912445846",
+    "email": "gist.nellore@gmail.com",
+    "address": "3rd Mile, Nellore-Bombay Highway, Gangavaram (V), Kovur (M), S.P.S.R Nellore District, Andhra Pradesh - 524137",
+    "admissionsEmail": "principal@gist.edu.in"
+  },
+  "website": "https://gist.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,44 @@
+{
+  "overview": "VNR Vignana Jyothi Institute of Engineering and Technology (VNRVJIET), Hyderabad was established in 1995 by the Vignana Jyothi Society. It is an autonomous institution affiliated to JNTUH and approved by AICTE. VNRVJIET has been ranked in the 151-200 band in NIRF India Rankings 2025. The college is accredited by NAAC with 'A++' grade and all eligible programs are NBA accredited. VNRVJIET is recognized for its strong emphasis on innovation, entrepreneurship, and industry-integrated curriculum. It is one of the top-tier private engineering colleges in Telangana.",
+  "accreditation": "NAAC A++ Grade, NBA Accredited (all eligible programs), AICTE approved, JNTUH affiliated (Autonomous)",
+  "coursesAndFees": [
+    { "program": "B.Tech (CSE)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor), ₹3,00,000/year (Category-B)" },
+    { "program": "B.Tech (ECE)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "B.Tech (EEE)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "B.Tech (IT)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "B.Tech (ME, Civil, CHE)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "B.Tech (CSE - AI/ML, Data Science, Cyber Security)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "M.Tech (Various)", "duration": "2 Years", "tuitionFee": "₹85,000/year" },
+    { "program": "MBA", "duration": "2 Years", "tuitionFee": "₹1,10,000/year" }
+  ],
+  "placements": {
+    "avgSalary": "₹5.80 LPA",
+    "medianSalary": "₹5.00 LPA",
+    "highestSalary": "₹21 LPA",
+    "highestDomestic": "",
+    "placementRate": "76%",
+    "totalOffers": "700+",
+    "companiesVisited": "120+",
+    "internationalOffers": "",
+    "topRecruiters": ["TCS", "Infosys", "Wipro", "Cognizant", "Capgemini", "Accenture", "Amazon", "Microsoft", "IBM", "Oracle", "Tech Mahindra", "HCL", "L&T Infotech", "Deloitte", "Cyient", "Wells Fargo"]
+  },
+  "admissions": {
+    "examsAccepted": ["TG EAPCET (B.Tech)", "GATE (M.Tech)", "TSICET (MBA)"],
+    "admissionProcess": "B.Tech: 70% seats through TG EAPCET counselling (TSCHE convenor quota), 30% management quota. M.Tech: GATE + institutional counselling. MBA: TSICET counselling.",
+    "importantDates": "TG EAPCET: May 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "20 acres",
+    "facilities": ["Central Library (60,000+ books)", "Advanced Computing Labs", "Engineering Labs (60+)", "Sports Complex", "Indoor Games", "Gymnasium", "Boys & Girls Hostels", "Health Centre", "High-Speed Wi-Fi", "Seminar Halls", "Auditorium (1200 seats)", "Innovation Center (VJ Hub)", "Canteen & Food Court", "Banks & ATMs", "Transportation (50+ buses)"],
+    "specialNote": "VNRVJIET's VJ Hub is a MSME-recognized incubation center that supports student startups. The college also has strong ties with IIT Hyderabad for collaborative research."
+  },
+  "contact": {
+    "phone": "+91-40-2304 2758",
+    "email": "principal@vnrvjiet.ac.in",
+    "address": "Pragathi Nagar, Nizampet, Bachupally, Hyderabad – 500090, Telangana, India",
+    "admissionsEmail": "admissions@vnrvjiet.ac.in"
+  },
+  "website": "https://www.vnrvjiet.ac.in",
+  "lastVerified": "2026-04-09",
+  "verifiedBy": "official-website"
+}

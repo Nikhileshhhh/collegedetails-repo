@@ -1,0 +1,90 @@
+{
+  "overview": "Institute of Chemical Technology (ICT) Mumbai, located in Matunga, Mumbai, Maharashtra, is a premier state-funded public deemed university established in 1933. Originally known as the University Department of Chemical Technology (UDCT), ICT Mumbai is globally recognized for excellence in chemical engineering, food technology, polymer science, pharmaceutical sciences, and industrial research.",
+  "accreditation": "NAAC A++ accredited with a CGPA of 3.77/4.0; granted National Elite Status and Center of Excellence status by the Government of Maharashtra.",
+  "coursesAndFees": [
+    {
+      "program": "B.Chem.Eng / B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "~₹44,550 – ₹49,550 per semester for General/OBC candidates (₹89,100 – ₹99,100 annually). Hostel fee: ~₹17,000 – ₹19,500 per semester. Mess charges: ~₹20,000 per semester."
+    },
+    {
+      "program": "Bachelor of Pharmacy (B.Pharm)",
+      "duration": "4 years",
+      "tuitionFee": "~₹44,550 per semester (₹89,100 annually). Additional hostel and mess charges applicable."
+    },
+    {
+      "program": "M.Chem.Eng / M.Tech / M.Pharm",
+      "duration": "2 years",
+      "tuitionFee": "~₹46,850 – ₹51,850 per semester. First-year total academic fees approximately ₹1,03,700."
+    },
+    {
+      "program": "Ph.D Programs",
+      "duration": "3–5 years",
+      "tuitionFee": "~₹32,250 per semester (₹64,500 annually)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹10.00 LPA (B.Tech Overall Average 2025)",
+    "medianSalary": "₹9.00 LPA (B.Tech / B.Chem Overall Median 2025)",
+    "highestSalary": "₹60.00 LPA (B.Chem.Eng 2024-25 Batch at ExxonMobil)",
+    "highestDomestic": "₹60.00 LPA",
+    "placementRate": "B.Chem.Eng: 95% – 100%; Surface Coating Technology: 100%",
+    "totalOffers": "850 offers with 760 full-time placements during 2025 placement cycle",
+    "companiesVisited": "ExxonMobil, BPCL, HPCL, Reliance Industries, Honeywell, Sun Pharma, Pidilite Industries, BASF, Unilever",
+    "internationalOffers": "Limited but selective global petrochemical and energy sector opportunities",
+    "topRecruiters": [
+      "ExxonMobil",
+      "Bharat Petroleum Corporation Limited (BPCL)",
+      "Hindustan Petroleum Corporation Limited (HPCL)",
+      "Reliance Industries",
+      "Honeywell",
+      "Sun Pharma",
+      "Pidilite Industries",
+      "BASF",
+      "Unilever"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "MHT CET",
+      "GATE",
+      "GPAT"
+    ],
+    "admissionProcess": "Admissions are conducted through national and state-level entrance examinations followed by centralized counseling procedures for undergraduate and postgraduate programs.",
+    "importantDates": "Admission timelines follow JoSAA, Maharashtra CAP counseling, COAP, and ICT Mumbai academic schedules."
+  },
+  "campus": {
+    "area": "16 acre, Urban campus located in Matunga, Mumbai",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Pilot Plants",
+      "Innovation & Incubation Center",
+      "Sports Facilities",
+      "Auditorium",
+      "Wi-Fi Campus",
+      "Medical Facilities"
+    ],
+    "specialNote": "SC/ST students receive full tuition fee exemption. EBC/EWS candidates receive 50% tuition reduction. Merit-cum-Means aid up to ₹40,000 annually is available for eligible students."
+  },
+  "contact": {
+    "phone": "+91-22-3361-1111",
+    "email": "registrar@ictmumbai.edu.in",
+    "address": "Institute of Chemical Technology, Nathalal Parekh Marg, Matunga, Mumbai – 400019, Maharashtra, India",
+    "admissionsEmail": "admissions@ictmumbai.edu.in"
+  },
+  "website": "https://www.ictmumbai.edu.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-placement-and-fee-data",
+  "sources": {
+    "overview": "https://www.ictmumbai.edu.in",
+    "fees": "https://www.ictmumbai.edu.in/Admissions",
+    "placements": "https://www.ictmumbai.edu.in/placements",
+    "admissions": "https://www.ictmumbai.edu.in/admissions",
+    "campus": "https://www.ictmumbai.edu.in/aboutus",
+    "contact": "https://www.ictmumbai.edu.in/contactus"
+  }
+}

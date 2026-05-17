@@ -1,0 +1,123 @@
+{
+  "overview": "Siksha 'O' Anusandhan (SOA) University is a leading private multidisciplinary deemed-to-be university located in Bhubaneswar, Odisha. Known for its strong engineering, medical, dental, law, and management programs, SOA has established itself as a major academic and placement hub in eastern India with excellent industry connections and modern infrastructure.",
+  "accreditation": "NAAC A++ Grade (3rd Cycle); Deemed-to-be University.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (CSE)",
+      "duration": "4 Years",
+      "tuitionFee": "₹2,55,000 – ₹3,18,000 per year"
+    },
+    {
+      "program": "B.Tech (Other Engineering Branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹2,35,000 – ₹2,85,000 per year"
+    },
+    {
+      "program": "BCA / BBA",
+      "duration": "3 Years",
+      "tuitionFee": "₹1,10,000 – ₹1,50,000 per year"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,90,000 – ₹3,90,000 per year depending on specialization"
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,50,000 – ₹1,80,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹5.00 LPA – ₹6.00 LPA overall; CSE average: ₹6.50 LPA – ₹8.00 LPA",
+    "medianSalary": "UG 4-Year: ₹6.00 LPA (2024); PG 2-Year: ₹5.20 LPA; UG 5-Year: ~₹8.40 LPA",
+    "highestSalary": "₹43.00 LPA (B.Tech 2024–25 Batch)",
+    "highestDomestic": "₹43.00 LPA",
+    "placementRate": "B.Tech: 85% – 96%; MBA: 97.22% (2024 Batch)",
+    "totalOffers": "210+ companies visited during the latest placement cycle",
+    "companiesVisited": "Microsoft, Amazon, Deloitte, Accenture, Cognizant, Wipro, TCS, Infosys, Capgemini, IBM",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Deloitte",
+      "Accenture",
+      "Cognizant",
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "Capgemini",
+      "IBM"
+    ]
+  },
+  "rankings": {
+    "nirfUniversityRank": "15th in India (2025)",
+    "nirfOverallRank": "25th in India (2025)",
+    "specificRanks": {
+      "Dental": "9th",
+      "Law": "10th",
+      "Medical": "15th",
+      "Engineering": "22nd"
+    }
+  },
+  "admissions": {
+    "examsAccepted": [
+      "SAAT",
+      "JEE Main",
+      "CAT",
+      "MAT",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are based on SAAT (Siksha 'O' Anusandhan Admission Test) and national-level entrance examinations depending on the program.",
+    "importantDates": "Admission schedules and counseling timelines are announced annually on the official SOA website."
+  },
+  "campus": {
+    "area": "200 acres",
+    "location": "Bhubaneswar, Odisha",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Facilities",
+      "Research Labs",
+      "Sports Complex",
+      "Auditoriums",
+      "Wi-Fi Campus",
+      "Innovation Centers",
+      "Cafeteria"
+    ],
+    "specialNote": "One-time admission and caution fee ranges from ₹9,000 – ₹10,000. Hostel and mess charges together range between ₹90,000 and ₹1,70,000 annually depending on room type."
+  },
+  "hostelAndMess": {
+    "hostelFee": "₹50,000 – ₹1,25,000+ per year depending on AC/non-AC and sharing type",
+    "messFee": "₹36,000 – ₹45,000 per year",
+    "combinedCharges": "₹90,000 – ₹1,70,000 per year",
+    "cautionDeposit": "₹5,000 refundable one-time deposit"
+  },
+  "scholarships": {
+    "entranceBased": "Tuition fee waivers based on SAAT performance and academic merit.",
+    "meritScholarships": [
+      "₹35,000 scholarship for students scoring above 90% in 10th/12th",
+      "₹25,000 scholarship for students scoring between 80%–90%"
+    ],
+    "phdStipend": "Monthly stipend provided to selected full-time PhD scholars as per university norms."
+  },
+  "contact": {
+    "phone": "+91-674-2350635",
+    "email": "admission@soa.ac.in",
+    "address": "Siksha 'O' Anusandhan (SOA) University, Khandagiri Square, Bhubaneswar – 751030, Odisha, India",
+    "admissionsEmail": "admission@soa.ac.in"
+  },
+  "website": "https://www.soa.ac.in",
+  "lastVerified": "2026-05-12",
+  "verifiedBy": "official-website-and-placement-reports",
+  "sources": {
+    "overview": "https://www.soa.ac.in",
+    "fees": "https://www.soa.ac.in/admission",
+    "placements": "https://www.soa.ac.in/placement",
+    "rankings": "https://www.soa.ac.in/ranking-and-accreditation",
+    "admissions": "https://www.soa.ac.in/admission",
+    "campus": "https://www.soa.ac.in/about-us",
+    "contact": "https://www.soa.ac.in/contact-us"
+  }
+}

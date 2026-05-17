@@ -1,0 +1,87 @@
+{
+  "overview": "SRM Institute of Science and Technology (SRMIST), Kattankulathur, established in 1985, is one of India's leading private universities known for strong industry connections, global collaborations, and a high placement record across engineering, management, and sciences. It is particularly recognized for its 'Dream' and 'Super Dream' placement culture.",
+  "accreditation": "NAAC 'A++' accredited (CGPA 3.58/4.00, 4th Cycle, valid till 2031).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,25,000 – ₹2,37,500 per semester depending on branch and admission phase. One-time fee ~₹10,000. Hostel & Mess: ~₹60,000 – ₹1,50,000 per semester."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹80,000 – ₹85,000 per semester. Other charges ~₹5,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹7.92 LPA (2024–25)",
+    "medianSalary": "₹6.20 LPA (UG, NIRF 2025)",
+    "highestSalary": "₹65 LPA (2024–25)",
+    "highestDomestic": "₹65 LPA",
+    "placementRate": "B.Tech: ~90–95% (CSE: ~98–99%)",
+    "totalOffers": "10,190+ offers with 4,211+ Dream/Super Dream offers (2024–25)",
+    "companiesVisited": "Amazon, Microsoft, Google, Morgan Stanley, Toyota, Honda, Barclays, JP Morgan Chase, Cisco, TCS",
+    "internationalOffers": "Offers up to ₹1 Crore in previous cycles (e.g., Amazon Germany)",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "98–99%" },
+      { "branch": "Electronics (ECE)", "placementRate": "90–95%" },
+      { "branch": "Electrical (EEE)", "placementRate": "85–90%" },
+      { "branch": "Mechanical Engineering", "placementRate": "85–90%" },
+      { "branch": "Civil Engineering", "placementRate": "75–80%" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "Highest package rose from ₹52 LPA (2023–24) to ₹65 LPA (2024–25)",
+      "mtechStats": "M.Tech median ₹6 LPA (NIRF 2025)"
+    },
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Morgan Stanley",
+      "Toyota",
+      "Honda",
+      "Barclays",
+      "JP Morgan Chase",
+      "Cisco",
+      "TCS"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["SRMJEEE", "JEE Main"],
+    "admissionProcess": "Admissions are primarily based on SRMJEEE rank followed by counseling. Scholarships and fee waivers are offered based on rank and merit.",
+    "importantDates": "Admissions follow SRMJEEE phases and institute admission calendar."
+  },
+  "campus": {
+    "area": "250+ acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Center",
+      "Research Labs",
+      "Innovation & Incubation Centre",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Campus",
+      "International Collaboration Centers"
+    ],
+    "specialNote": "Hostel charges vary by room type (~₹60,000–₹1,50,000 per semester). One-time admission fee ~₹10,000. Founder's Scholarship (Top 100 SRMJEEE): 100% fee waiver. Merit scholarships: 25%–100% tuition waiver based on SRMJEEE rank."
+  },
+  "contact": {
+    "phone": "+91-44-2745-5510",
+    "email": "infodesk@srmist.edu.in",
+    "address": "SRM Institute of Science and Technology, Kattankulathur – 603203, Tamil Nadu, India",
+    "admissionsEmail": "admissions.india@srmist.edu.in"
+  },
+  "website": "https://www.srmist.edu.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.srmist.edu.in",
+    "fees": "https://www.srmist.edu.in/admission-india/fee-details/",
+    "placements": "https://www.srmist.edu.in/placement/",
+    "admissions": "https://www.srmist.edu.in/admission-india/",
+    "campus": "https://www.srmist.edu.in/campus/",
+    "contact": "https://www.srmist.edu.in/contact-us/"
+  }
+}

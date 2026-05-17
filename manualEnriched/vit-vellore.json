@@ -1,0 +1,85 @@
+{
+  "overview": "Vellore Institute of Technology (VIT) Vellore is one of India's leading private engineering institutions, known for its strong placement record, industry-aligned curriculum, and global collaborations. It is especially recognized for its 'Dream' and 'Super Dream' placement categories attracting top multinational companies.",
+  "accreditation": "NAAC A++ Grade (CGPA 3.66/4.00), 4th Cycle (Re-accredited in 2021).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Category-based (VITEEE rank): Group A (Civil, Mech, Bio): ₹1,76,000–₹3,98,000/year; Group B (CSE, ECE, IT): ₹1,98,000–₹4,93,000/year. Includes ₹3,000 refundable caution deposit."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Varies by specialization. Median placement ₹9.15 LPA (NIRF 2025)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹9.90 LPA (2024–25 & 2023–24)",
+    "medianSalary": "₹8.99 LPA (4-Year UG, NIRF 2025)",
+    "highestSalary": "₹1.02 CPA (2024–25)",
+    "highestDomestic": "₹1.02 CPA",
+    "placementRate": "85–95% overall; CSE ~100%, ECE ~90%+",
+    "totalOffers": "14,044 offers by 868 companies (2025); TCS alone: 4,004 offers",
+    "companiesVisited": "Microsoft, Amazon, Oracle, Dell, PayPal, Cisco, Morgan Stanley, Deloitte, Intel, TCS",
+    "internationalOffers": "Multiple ₹1 Cr+ global packages in recent cycles",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "~100%", "avgCTC": "₹14.80 LPA (Super Dream)" },
+      { "branch": "Electronics (ECE)", "placementRate": "90%+" },
+      { "branch": "Mechanical Engineering", "placementRate": "80%+" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "Highest package ₹88 LPA (2023–24) → ₹1.02 CPA (2024–25)",
+      "mtechStats": "M.Tech median ₹9.15 LPA (NIRF 2025)"
+    },
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Oracle",
+      "Dell",
+      "PayPal",
+      "Cisco",
+      "Morgan Stanley",
+      "Deloitte",
+      "Intel",
+      "TCS"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["VITEEE"],
+    "admissionProcess": "Admission to B.Tech programs is based on VITEEE rank followed by counseling and category-based fee allocation.",
+    "importantDates": "Follows VITEEE exam schedule and counseling timeline annually."
+  },
+  "campus": {
+    "area": "372 acres",
+    "facilities": [
+      "Boys & Girls Hostels",
+      "Central Library",
+      "Research Centers",
+      "Innovation Labs",
+      "Sports Complex",
+      "Medical Facilities",
+      "Auditoriums",
+      "Wi-Fi Campus",
+      "Food Courts",
+      "Shopping Complex"
+    ],
+    "specialNote": "Hostel & mess: ₹1.2L–₹2.1L/year (AC/Non-AC). GVSDP Scholarship: Rank 1–50: 75% waiver; 51–100: 50%; 101–1000: 25%. Board toppers: 100% waiver. STARS Scheme: full support for underprivileged rural students."
+  },
+  "contact": {
+    "phone": "+91-416-220-2020",
+    "email": "admission@vit.ac.in",
+    "address": "VIT University, Vellore – 632014, Tamil Nadu, India",
+    "admissionsEmail": "ugadmission@vit.ac.in"
+  },
+  "website": "https://vit.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "compiled-data",
+  "sources": {
+    "overview": "https://vit.ac.in",
+    "fees": "https://vit.ac.in/admissions/fee-structure",
+    "placements": "https://vit.ac.in/placements",
+    "admissions": "https://vit.ac.in/admissions",
+    "campus": "https://vit.ac.in/about",
+    "contact": "https://vit.ac.in/contact"
+  }
+}

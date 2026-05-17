@@ -1,0 +1,106 @@
+{
+  "overview": "Siddharth Institute of Engineering and Technology (SIETK), located in Puttur, Andhra Pradesh, is a prominent autonomous engineering institution offering undergraduate and postgraduate technical education. The institute is recognized for its strong placement ecosystem, industry collaborations, and student support initiatives across engineering and management disciplines.",
+  "accreditation": "NAAC 'A+' Grade (Cycle 2) with CGPA 3.26/4.0; Autonomous Institution under state regulatory framework.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Convenor Quota (Category A): Approximately ₹68,000 – ₹72,000 per year (~₹2.72 Lakhs – ₹2.88 Lakhs total). Management Quota (Category B): Higher variable fee structure depending on branch specialization."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹48,000 per year (~₹96,000 total)."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹40,000 per year."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.50 LPA – ₹6.50 LPA",
+    "medianSalary": "UG 4-Year (B.Tech): ₹4.00 LPA; PG 2-Year (MBA/M.Tech): ₹3.50 – ₹3.80 LPA",
+    "highestSalary": "₹30.00 LPA – ₹40.00 LPA (2024-25 B.Tech Batch)",
+    "highestDomestic": "₹40.00 LPA",
+    "placementRate": "B.Tech: ~80% – 95% for eligible candidates",
+    "totalOffers": "4,400+ offers across recruitment cycles",
+    "companiesVisited": "Infosys, Wipro, Amazon, Cognizant, Tata Consultancy Services (TCS), Capgemini, Mu Sigma",
+    "internationalOffers": "Limited publicly available data on international offers",
+    "topRecruiters": [
+      "Infosys",
+      "Wipro",
+      "Amazon",
+      "Cognizant",
+      "Tata Consultancy Services (TCS)",
+      "Capgemini",
+      "Mu Sigma"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ICET",
+      "GATE",
+      "PGECET"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level entrance examinations and centralized counseling processes for undergraduate and postgraduate programs.",
+    "importantDates": "Admission timelines generally follow APSCHE counseling schedules for AP EAPCET, ICET, and PGECET."
+  },
+  "campus": {
+    "area": "Integrated engineering campus located in Puttur, Andhra Pradesh",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Computer Laboratories",
+      "Wi-Fi Campus",
+      "Sports Facilities",
+      "Seminar Halls",
+      "Cafeteria",
+      "Transportation",
+      "Research & Innovation Labs"
+    ],
+    "specialNote": "Hostel and mess charges range between ₹60,000 – ₹70,000 annually including accommodation and dining. Facilities include internet access, hot water, and vegetarian/non-vegetarian meal options. One-time admission and caution charges may range between ₹5,000 – ₹10,000."
+  },
+  "scholarships": [
+    {
+      "name": "Jagananna Vidya Deevena (JVD)",
+      "description": "Tuition fee reimbursement for eligible local Andhra Pradesh students meeting economic criteria."
+    },
+    {
+      "name": "AICTE Tuition Fee Waiver (TFW)",
+      "description": "Limited merit-based seats for candidates under the ?8 LPA family income threshold."
+    },
+    {
+      "name": "Post-Metric Assistance",
+      "description": "Financial aid channels for eligible SC, ST, BC, and EBC students as per state criteria."
+    }
+  ],
+  "contact": {
+    "phone": "+91-8577-250488",
+    "email": "info@sietk.org",
+    "address": "Siddharth Institute of Engineering and Technology (SIETK), Puttur, Tirupati District, Andhra Pradesh, India",
+    "admissionsEmail": "admissions@sietk.org"
+  },
+  "website": "https://www.sietk.org",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "compiled-from-provided-data",
+  "sources": {
+    "overview": "https://www.sietk.org",
+    "fees": "https://www.sietk.org/ug_admissions.php",
+    "placements": "https://www.sietk.org/placements.php",
+    "admissions": "https://www.sietk.org/ug_admissions.php",
+    "campus": "https://www.sietk.org/about_sietk.php",
+    "contact": "https://www.sietk.org/contact_us.php"
+  },
+  "hostel": {
+    "hostelFee": "?60,000 ? ?70,000 per year",
+    "amenities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Standard rooms",
+      "Mess facilities"
+    ]
+  }
+}

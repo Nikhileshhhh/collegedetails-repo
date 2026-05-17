@@ -1,0 +1,94 @@
+{
+  "overview": "Brilliant Grammar School Educational Society's Group of Institutions (BGSESGI), established in 2009, is an integrated campus offering engineering and pharmacy education. Often referred to as the Brilliant Group of Technical Institutions (BGTI), it is located in Abdullapurmet, Hyderabad, and is known for its expansive 70-acre campus and focus on technical innovation and industry-aligned skill development.",
+  "accreditation": "UGC Autonomous Institution. Approved by AICTE and Pharmacy Council of India (PCI). Accredited by NAAC (A+ Grade for some units) and affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,94,000",
+      "eligibility": "10+2 with 45-50% in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "B.Pharmacy",
+      "duration": "4 Years",
+      "totalFees": "₹7,20,000 (Total duration)",
+      "eligibility": "10+2 with Physics, Chemistry, and Biology/Maths + TS EAMCET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science, VLSI, CAD/CAM, Thermal Engg)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE/TS PGECET"
+    },
+    {
+      "course": "M.Pharmacy (Pharmaceutics, Analysis, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹2,20,000",
+      "eligibility": "B.Pharm degree + GPAT/TS PGECET"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹46,500",
+      "eligibility": "10th standard pass + TS POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.5 LPA",
+    "medianSalary": "₹4.0 LPA",
+    "highestSalary": "₹20.0 LPA",
+    "highestDomestic": "₹20.0 LPA",
+    "placementRate": "85% - 100% (Placement Support)",
+    "totalOffers": "750+",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Normet",
+      "Shapoorji Pallonji E&C",
+      "HCL Technologies",
+      "TATA Electronics",
+      "Amazon",
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Accenture",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET (EAPCET)",
+      "TS PGECET",
+      "TS ICET",
+      "TS POLYCET",
+      "JEE Main",
+      "GATE",
+      "GPAT"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level counseling (TGCHE). 70% of seats are filled under the Convener Quota (Category A) based on entrance ranks, and 30% are Management Quota (Category B) seats filled based on merit or JEE scores.",
+    "importantDates": "TS EAMCET 2026 Engineering: May 9–11, 2026; TS PGECET 2026: May 28–31, 2026; Counseling: June–August 2026."
+  },
+  "campus": {
+    "area": "70 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Advanced Engineering & Pharmacy Labs",
+      "Digital Library & Resource Center",
+      "Innovation & Incubation Cell",
+      "Auditorium & Seminar Halls",
+      "Separate Hostels for Boys and Girls",
+      "Sports Complex & Gymnasium",
+      "Extensive Transport Fleet"
+    ],
+    "specialNote": "The campus is an 'Integrated Campus' which allows for interdisciplinary research between engineering and pharmaceutical sciences. It is noted for its high student intake and robust placement training modules conducted by the BGTI placement cell."
+  },
+  "contact": {
+    "phone": "+91 9908810491, +91 9701340896",
+    "email": "info@bgiic.ac.in",
+    "address": "Abdullapurmet (V), Hayathnagar (M), Ranga Reddy District, Hyderabad, Telangana - 501505",
+    "admissionsEmail": "admissions@bgti.in"
+  },
+  "website": "https://bgiic.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

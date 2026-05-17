@@ -1,0 +1,85 @@
+{
+  "overview": "National Institute of Technology Tiruchirappalli (NIT Trichy), established in 1964, is one of India's top-ranked NITs, renowned for excellence in engineering, management, and applied sciences. The campus is vibrant with research, innovation, and a strong placement track record.",
+  "accreditation": "Institute of National Importance; NAAC 'A++' accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 per semester for General/OBC (income > ₹5 lakh). Income-based and caste-based waivers apply. Additional ~₹25,150 per semester for other charges. Hostel & Mess: ~₹46,000–₹53,000 per semester."
+    },
+    {
+      "program": "M.Tech / MCA / MBA (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 per semester (Regular). SC/ST/PwD: Tuition exempted. Other charges ~₹26,000."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹17.5 LPA (2024–25 Phase 1)",
+    "medianSalary": "₹14.35 LPA (B.Tech)",
+    "highestSalary": "₹64 LPA (2024–25 Phase 1)",
+    "highestDomestic": "₹64 LPA",
+    "placementRate": "88.9% overall B.Tech; PG: 85.1–88.9%",
+    "totalOffers": "1,322+ offers; 1,300+ students placed (2024–25)",
+    "companiesVisited": "Google, Microsoft, Amazon, Qualcomm, NVIDIA, Goldman Sachs, Texas Instruments, HPCL, ONGC",
+    "internationalOffers": "High-value packages over ₹50–60 LPA",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "95.6–96.9%", "avgCTC": "₹27.17 LPA" },
+      { "branch": "Electronics & Communication (ECE)", "placementRate": "97.6%", "avgCTC": "₹21.74 LPA" },
+      { "branch": "Electrical & Electronics (EEE)", "placementRate": "97.3%" },
+      { "branch": "Mechanical Engineering", "placementRate": "90.1%" },
+      { "branch": "Civil Engineering", "placementRate": "79.8%" }
+    ],
+    "keyTrends": {
+      "pgSpecializations": "Several M.Tech specialisations like Data Analytics and Power Systems recorded 100% placement",
+      "highestPackageTrend": "Highest package consistently ₹50+ LPA; ₹52.89 LPA in full 2023–24 session"
+    },
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Qualcomm",
+      "NVIDIA",
+      "Goldman Sachs",
+      "Texas Instruments",
+      "HPCL",
+      "ONGC"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Main", "GATE", "CAT"],
+    "admissionProcess": "Admissions are based on national-level exams followed by JoSAA or CCMT or institute-level selection.",
+    "importantDates": "Follows JoSAA/CCMT timelines and the institute's academic calendar."
+  },
+  "campus": {
+    "area": "800 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Center",
+      "Computer Center",
+      "Innovation & Incubation Centre",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Other semester charges (~₹25,150) include hostel, mess, and service fees. One-time admission fees ₹35,300. Hostel charges differ for freshers and seniors."
+  },
+  "contact": {
+    "phone": "+91-431-2503000",
+    "email": "registrar@nitt.edu",
+    "address": "National Institute of Technology Tiruchirappalli, Tanjore Main Road, National Highway 67, Tiruchirappalli – 620015, Tamil Nadu, India",
+    "admissionsEmail": "admissions@nitt.edu"
+  },
+  "website": "https://www.nitt.edu",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.nitt.edu",
+    "fees": "https://www.nitt.edu/home/academics/fees/",
+    "placements": "https://www.nitt.edu/home/students/facilities/placement/",
+    "admissions": "https://www.nitt.edu/home/admissions/",
+    "campus": "https://www.nitt.edu/home/about/",
+    "contact": "https://www.nitt.edu/home/contact/"
+  }
+}

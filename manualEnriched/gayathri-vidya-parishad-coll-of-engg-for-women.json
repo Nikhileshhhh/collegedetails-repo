@@ -1,0 +1,72 @@
+{
+  "overview": "Gayatri Vidya Parishad College of Engineering for Women (GVPCEW), established in 2008, is a premier self-financed engineering institution in Visakhapatnam, Andhra Pradesh. Dedicated to the empowerment of women through technical education, the college is situated in a secure, serene valley in Madhurawada. It is recognized for its disciplined academic culture, strong industry-oriented training, and high safety standards for its residential and day-scholar students.",
+  "accreditation": "Accredited by NAAC with an 'A' Grade. Eligible B.Tech programs (CSE, ECE, IT) are accredited by the National Board of Accreditation (NBA). Approved by AICTE, New Delhi, and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Cyber Security, ECE, EEE, IT)",
+      "duration": "4 Years",
+      "totalFees": "₹4,20,000 (Approx. ₹1,05,000 per year)",
+      "eligibility": "10+2 with 50% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Data Science, VLSI Design & Embedded Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹1,25,000 (Approx. ₹62,500 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.5 LPA - ₹5.5 LPA",
+    "medianSalary": "₹5.0 LPA",
+    "highestSalary": "₹23.0 LPA - ₹35.0 LPA (Top packages typically from Wayfair, Adobe, and Amazon)",
+    "highestDomestic": "₹35.0 LPA",
+    "placementRate": "85% - 90%",
+    "totalOffers": "260+ (Per batch average)",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS (Digital & Ninja)",
+      "Wipro",
+      "Amazon",
+      "Infosys",
+      "Capgemini",
+      "Wayfair",
+      "Cognizant",
+      "Accenture",
+      "Mindtree"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "GATE",
+      "AP ECET (for lateral entry)"
+    ],
+    "admissionProcess": "Admissions are strictly governed by APSCHE guidelines. 70% of seats (Category A) are filled via state-level web counseling based on AP EAPCET ranks. 30% are Management Quota (Category B) seats filled based on merit. Counseling Code: GVPW.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Results: June 1, 2026; B.Tech Counseling: Tentatively July 2026; AP PGECET 2026 Results: May 14, 2026."
+  },
+  "campus": {
+    "area": "8.25 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & E-Classrooms",
+      "Fully Equipped Computer & Engineering Labs",
+      "Central Library with Digital Resource Centre",
+      "Secure On-campus Girls Hostels with 24/7 Security",
+      "Gymnasium & Physical Education Center",
+      "Hygienic Canteen & Health Unit",
+      "Secured Campus with Electrical Fencing",
+      "Transport Facility (Fleet covering all major points in Visakhapatnam)"
+    ],
+    "specialNote": "GVPCEW is highly regarded for its safety and security protocols, specifically tailored for women. The institution encourages research through specialized faculty-led projects and provides extensive Training & Placement (T&P) assistance, including coding bootcamps and mock interview sessions from the third year onwards."
+  },
+  "contact": {
+    "phone": "+91 891 2739144, 2719124",
+    "email": "gvpcew@gmail.com, info@gvpcew.ac.in",
+    "address": "Kommadi, Madhurawada, Visakhapatnam, Andhra Pradesh - 530048",
+    "admissionsEmail": "principal@gvpcew.ac.in"
+  },
+  "website": "http://gvpcew.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

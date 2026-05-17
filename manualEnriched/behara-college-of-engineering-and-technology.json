@@ -1,0 +1,84 @@
+{
+  "overview": "Behara College of Engineering and Technology (BCET) is a newly established technical institution (2024) located in the serene surroundings of Narava, Visakhapatnam. The college is part of the Behara Group of Institutions and aims to provide quality technical education with a focus on modern industry requirements like AI and Data Science.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi, and affiliated with Jawaharlal Nehru Technological University Gurajada, Vizianagaram (JNTUGV).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech in Computer Science and Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,72,000",
+      "eligibility": "10+2 with PCM + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech in CSE (Data Science)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,72,000",
+      "eligibility": "10+2 with PCM + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech in Electronics and Communication Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,72,000",
+      "eligibility": "10+2 with PCM + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech in Electrical and Electronics Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,72,000",
+      "eligibility": "10+2 with PCM + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech in Mechanical Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,72,000",
+      "eligibility": "10+2 with PCM + AP EAPCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹2.33 LPA",
+    "medianSalary": "₹2.33 LPA",
+    "highestSalary": "₹8.23 LPA",
+    "highestDomestic": "₹8.23 LPA",
+    "placementRate": "50% (initial statistics for new batch)",
+    "totalOffers": "45+",
+    "companiesVisited": "10+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Wipro",
+      "Infosys",
+      "TCS",
+      "Cognizant",
+      "Tech Mahindra",
+      "Apollo Tyres"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)"
+    ],
+    "admissionProcess": "Admission is through the Andhra Pradesh EAPCET counseling process for 70% of seats (Category A). Remaining 30% seats (Category B/Management Quota) are filled based on merit in 10+2 marks as per APSCHE guidelines.",
+    "importantDates": "AP EAPCET 2026: May 2026; Counselling/Web Options: June - July 2026."
+  },
+  "campus": {
+    "area": "10 - 15 Acres",
+    "facilities": [
+      "Smart Classrooms (ICT enabled)",
+      "Modern Laboratories",
+      "Workshops",
+      "Digital Library",
+      "Separate Hostels for Boys and Girls",
+      "Canteen",
+      "Transport (Bus facility for Vizag and surrounding areas)",
+      "Sports Ground"
+    ],
+    "specialNote": "The campus is situated in a pollution-free environment near Narava, about 6 km from the main city traffic, offering a focused academic atmosphere."
+  },
+  "contact": {
+    "phone": "+91 8919323950, +91 9666637234",
+    "email": "beharaenggclg@gmail.com",
+    "address": "Narava, 88th Ward, GVMC, Visakhapatnam, Andhra Pradesh - 530027",
+    "admissionsEmail": "info@argroupofeducation.com"
+  },
+  "website": "https://bcet.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

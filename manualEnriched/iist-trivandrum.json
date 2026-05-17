@@ -1,0 +1,74 @@
+{
+  "overview": "Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram is Asia's first space university, established in 2007 by ISRO. IIST focuses on space science, technology, and applications, with graduates typically joining ISRO and DoS organizations.",
+  "accreditation": "Deemed University, UGC recognized",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (all branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹50,000/year (ISRO sponsored)"
+    },
+    {
+      "program": "M.Tech (various)",
+      "duration": "2 Years",
+      "tuitionFee": "Varies"
+    },
+    {
+      "program": "Ph.D",
+      "duration": "4-5 Years",
+      "tuitionFee": "Varies"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹12.00 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹25 LPA",
+    "highestDomestic": "₹25 LPA",
+    "placementRate": "90%",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Microsoft",
+      "Amazon",
+      "Cognizant",
+      "Capgemini",
+      "Accenture",
+      "Deloitte",
+      "L&T"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced (B.Tech)",
+      "GATE (M.Tech)"
+    ],
+    "admissionProcess": "See official website for admission process details.",
+    "importantDates": "See official website for dates."
+  },
+  "campus": {
+    "area": "100 acres",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Hostels",
+      "Sports Facilities",
+      "Health Centre",
+      "Wi-Fi Campus",
+      "Canteen",
+      "Transportation"
+    ],
+    "specialNote": ""
+  },
+  "contact": {
+    "phone": "+91-471-256 8478",
+    "email": "",
+    "address": "Valiamala P.O., Thiruvananthapuram – 695547, Kerala",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.iist.ac.in",
+  "lastVerified": "2026-04-16",
+  "verifiedBy": "official-website"
+}

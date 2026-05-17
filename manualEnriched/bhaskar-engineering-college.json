@@ -1,0 +1,87 @@
+{
+  "overview": "Bhaskar Engineering College (BEC), established in 2007, is a private engineering institution located in Moinabad, near Hyderabad. Part of the J.B. Group of Educational Institutions, the college is dedicated to providing quality technical education and fostering innovation among students in a peaceful, green environment.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech in Computer Science and Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 - ₹2,06,000",
+      "eligibility": "10+2 with 45% marks in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "B.Tech in CSE (AI & Machine Learning)",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 - ₹2,06,000",
+      "eligibility": "10+2 with 45% marks in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "B.Tech in CSE (AI & Data Science)",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 - ₹2,06,000",
+      "eligibility": "10+2 with 45% marks in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "B.Tech in Information Technology",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 - ₹2,06,000",
+      "eligibility": "10+2 with 45% marks in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "B.Tech in Electronics and Communication Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 - ₹2,06,000",
+      "eligibility": "10+2 with 45% marks in PCM + TS EAMCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.0 LPA",
+    "medianSalary": "₹3.2 LPA",
+    "highestSalary": "₹6.0 LPA - ₹8.0 LPA",
+    "highestDomestic": "₹8.0 LPA",
+    "placementRate": "60% - 75%",
+    "totalOffers": "150+",
+    "companiesVisited": "25+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Amazon",
+      "Accenture",
+      "IBM",
+      "Tech Mahindra",
+      "KTree"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET (EAPCET)",
+      "JEE Main",
+      "TS ECET (for Lateral Entry)"
+    ],
+    "admissionProcess": "70% of seats are filled via the TS EAMCET convener quota counseling. The remaining 30% are Management Quota seats filled based on merit in 10+2 or JEE Main scores. Lateral entry is available for diploma holders through TS ECET.",
+    "importantDates": "TS EAMCET 2026 Engineering Exam: May 9 - May 11, 2026; Results: Mid-May 2026; Counselling: June - July 2026."
+  },
+  "campus": {
+    "area": "106 Acres (Shared with J.B. Group)",
+    "facilities": [
+      "Modern Computer Labs",
+      "Digital Library",
+      "Auditorium",
+      "Indoor & Outdoor Sports Facilities",
+      "Cafeteria",
+      "On-campus Hostel (Boys & Girls)",
+      "Transport Fleet (Covers Twin Cities)"
+    ],
+    "specialNote": "The campus is noted for its extensive greenery and tranquil atmosphere. It shares several facilities with its sister concern, Joginpally B.R. Engineering College (JBREC), enhancing the overall student resources."
+  },
+  "contact": {
+    "phone": "08413-235022, +91 9247000908, +91 8008096774",
+    "email": "principal@bec.edu.in",
+    "address": "Yenkapally (V), Moinabad (M), Ranga Reddy District, Hyderabad, Telangana - 500075",
+    "admissionsEmail": "info@bec.edu.in"
+  },
+  "website": "https://www.bec.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

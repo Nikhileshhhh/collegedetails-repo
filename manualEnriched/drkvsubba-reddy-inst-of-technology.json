@@ -1,0 +1,84 @@
+{
+  "overview": "Dr. K.V. Subba Reddy Institute of Technology (KVSRIT), established in 2008, is a prominent private engineering institution located in Kurnool, Andhra Pradesh. Part of the Dr. K.V. Subba Reddy Group, the college is known for its focus on emerging technologies and industry-aligned curriculum. It operates with a student-centric approach, emphasizing both technical proficiency and soft-skill development for rural and urban youth.",
+  "accreditation": "Approved by AICTE (All India Council for Technical Education), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,82,800 - ₹1,93,000 (Approx. ₹45,700 - ₹48,200 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹64,000 - ₹1,17,000",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science, Structural Engg, VLSI & Embedded Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹94,000 - ₹1,05,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE/AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, Mechanical, EEE, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹72,100",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.5 LPA",
+    "medianSalary": "₹2.8 LPA",
+    "highestSalary": "₹5.0 LPA - ₹15.0 LPA (Current cycle reports vary by department)",
+    "highestDomestic": "₹15.0 LPA",
+    "placementRate": "65% - 70%",
+    "totalOffers": "175+ (2023-24 cycle)",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Infosys",
+      "Wipro",
+      "TCS",
+      "IBM",
+      "Accenture",
+      "Cognizant",
+      "Hyundai Mobis",
+      "AllSec Technologies"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (APSCHE). 70% of seats (Category A) are filled via entrance ranks. 30% (Category B) are Management Quota seats filled based on institutional merit. Counseling Code: KVSR.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP ICET 2026 Results: Mid-May 2026; Counseling: July–August 2026."
+  },
+  "campus": {
+    "area": "10 Acres",
+    "facilities": [
+      "ICT Enabled Smart Classrooms",
+      "Advanced Computer Labs with latest AI software",
+      "Central Library with E-Journal access",
+      "Separate Hostels for Boys and Girls (Female-dominant student ratio)",
+      "Sports Complex & Gymnasium",
+      "Cafeteria & Health Center",
+      "Transportation (Fleet covering Kurnool and nearby areas)"
+    ],
+    "specialNote": "KVSRIT is strategically located opposite the Dupadu Railway Station on NH-44, providing high accessibility. The institute is particularly noted for its young, tech-savvy faculty who integrate AI tools into daily teaching and project supervision."
+  },
+  "contact": {
+    "phone": "+91 9704333789, +91 7660003357",
+    "email": "drkvsr@gmail.com",
+    "address": "Opp: Dupadu Railway Station, NH-44, Kurnool, Andhra Pradesh - 518218",
+    "admissionsEmail": "drkvsreddy7@gmail.com"
+  },
+  "website": "https://drkvsrit.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

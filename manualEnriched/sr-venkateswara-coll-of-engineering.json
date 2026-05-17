@@ -1,0 +1,95 @@
+{
+  "overview": "Sri Venkateswara College of Engineering and Technology (SVCET), Etcherla, Srikakulam, is a private engineering institution established in 2008 by Vikas Educational Society. The official college site identifies the institute code as VETS and describes the campus as serving the Srikakulam region with undergraduate engineering, postgraduate engineering, and MBA programs.",
+  "accreditation": "Affiliated engineering institution; Institution Code: VETS; official site lists Affiliation & Accreditation information.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech",
+      "duration": "4 years",
+      "tuitionFee": "AP EAPCET/private college tuition generally ranges from Rs. 35,000 to Rs. 1,10,000 per year; current counseling dataset lists the annual tuition around Rs. 43,000."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Fee details should be confirmed with the college admissions office or the latest APSCHE/AP PGECET counseling notification."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "Fee details should be confirmed with the college admissions office or the latest AP ICET counseling notification."
+    }
+  ],
+  "placements": {
+    "avgSalary": "Rs. 4 LPA",
+    "medianSalary": "Not separately published by the official placement page",
+    "highestSalary": "Rs. 9 LPA",
+    "highestDomestic": "Rs. 9 LPA",
+    "placementRate": "93.3% for eligible students",
+    "totalOffers": "200+ offers across all branches",
+    "companiesVisited": "Infosys, Schneider Electric, Renault Nissan, Nash Industries, Seoak Innovations, Knowvation Learning, K12 Techno Services, MRF, TVS",
+    "internationalOffers": "Not published",
+    "topRecruiters": [
+      "Infosys",
+      "Schneider Electric",
+      "Renault Nissan",
+      "Nash Industries",
+      "Seoak Innovations",
+      "Knowvation Learning",
+      "K12 Techno Services",
+      "MRF",
+      "TVS"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP PGECET",
+      "AP ICET"
+    ],
+    "admissionProcess": "B.Tech admissions are through AP EAPCET counseling and management quota as per Andhra Pradesh norms. M.Tech admissions follow AP PGECET/GATE routes where applicable, and MBA admissions follow AP ICET counseling.",
+    "importantDates": "Admission timelines follow APSCHE counseling schedules for AP EAPCET, AP PGECET, and AP ICET."
+  },
+  "campus": {
+    "area": "NH16, Etcherla, Srikakulam, Andhra Pradesh 532410",
+    "facilities": [
+      "Central Library",
+      "Hostels",
+      "Medical Facility",
+      "Transport",
+      "Canteen",
+      "Sports & Culturals",
+      "Internet Facility",
+      "Training & Placement Cell",
+      "Auditorium",
+      "Computer Labs"
+    ],
+    "specialNote": "The official site lists hostel, transport, medical, canteen, sports, internet, and training and placement facilities for the Etcherla campus."
+  },
+  "hostel": {
+    "note": "Hostel facility is listed on the official SVCET site. Current hostel fee figures are not separately published in the verified source used for this update."
+  },
+  "scholarships": [
+    {
+      "name": "Jagananna Vidya Deevena / Fee Reimbursement",
+      "description": "The official fee page notes that eligible low-income students can receive full tuition coverage through Vidya Deevena."
+    },
+    {
+      "name": "Government Post-Matric Scholarship Support",
+      "description": "Eligible students may receive state scholarship or reimbursement support as per Andhra Pradesh government rules."
+    }
+  ],
+  "contact": {
+    "address": "Sri Venkateswara College of Engineering and Technology (SVCET), NH16, Etcherla, Srikakulam, Andhra Pradesh 532410"
+  },
+  "website": "https://www.svcet.net",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.svcet.net/",
+    "fees": "https://www.svcet.net/fee.html",
+    "placements": "https://www.svcet.net/placement.html",
+    "admissions": "https://www.svcet.net/",
+    "campus": "https://www.svcet.net/",
+    "hostel": "https://www.svcet.net/hostel.html",
+    "contact": "https://www.svcet.net/"
+  }
+}

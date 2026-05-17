@@ -1,0 +1,44 @@
+{
+  "overview": "Gokaraju Rangaraju Institute of Engineering and Technology (GRIET), Hyderabad was established in 1997 by the Gokaraju Rangaraju Educational Society. It is an autonomous institution affiliated to JNTUH and approved by AICTE. GRIET has been ranked in the 151-200 band in NIRF India Rankings 2025. The college is accredited by NAAC with 'A+' grade and has NBA accreditation for multiple programs. GRIET is known for its industry-oriented curriculum, strong placement record, and emphasis on research and innovation.",
+  "accreditation": "NAAC A+ Grade, NBA Accredited (8 programs), AICTE approved, JNTUH affiliated (Autonomous)",
+  "coursesAndFees": [
+    { "program": "B.Tech (CSE)", "duration": "4 Years", "tuitionFee": "₹1,30,000/year (Convenor), ₹2,80,000/year (Category-B)" },
+    { "program": "B.Tech (ECE)", "duration": "4 Years", "tuitionFee": "₹1,30,000/year (Convenor)" },
+    { "program": "B.Tech (EEE)", "duration": "4 Years", "tuitionFee": "₹1,30,000/year (Convenor)" },
+    { "program": "B.Tech (IT)", "duration": "4 Years", "tuitionFee": "₹1,30,000/year (Convenor)" },
+    { "program": "B.Tech (ME, Civil)", "duration": "4 Years", "tuitionFee": "₹1,30,000/year (Convenor)" },
+    { "program": "B.Tech (CSE - AI/ML, Data Science)", "duration": "4 Years", "tuitionFee": "₹1,30,000/year (Convenor)" },
+    { "program": "M.Tech (Various)", "duration": "2 Years", "tuitionFee": "₹80,000/year" },
+    { "program": "MBA", "duration": "2 Years", "tuitionFee": "₹1,00,000/year" }
+  ],
+  "placements": {
+    "avgSalary": "₹6.00 LPA",
+    "medianSalary": "₹5.00 LPA",
+    "highestSalary": "₹19 LPA",
+    "highestDomestic": "",
+    "placementRate": "74%",
+    "totalOffers": "650+",
+    "companiesVisited": "110+",
+    "internationalOffers": "",
+    "topRecruiters": ["TCS", "Infosys", "Wipro", "Cognizant", "Capgemini", "Accenture", "Amazon", "IBM", "Oracle", "Tech Mahindra", "HCL", "L&T Infotech", "Deloitte", "DXC Technology", "Cyient", "Wells Fargo"]
+  },
+  "admissions": {
+    "examsAccepted": ["TG EAPCET (B.Tech)", "GATE (M.Tech)", "TSICET (MBA)"],
+    "admissionProcess": "B.Tech: 70% through TG EAPCET counselling (TSCHE convenor quota), 30% management quota. M.Tech: GATE + institutional counselling.",
+    "importantDates": "TG EAPCET: May 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "24 acres",
+    "facilities": ["Central Library (55,000+ books)", "Advanced Labs", "Sports Complex", "Indoor Stadium", "Basketball & Badminton Courts", "Gymnasium", "Boys & Girls Hostels", "Health Centre", "Wi-Fi Campus", "Seminar Halls (5)", "Auditorium (2000 seats)", "E-Learning Center", "Canteen & Food Court", "Banks & ATMs", "Transportation (60+ buses)"],
+    "specialNote": "GRIET has a dedicated Centre for Innovation, Incubation and Entrepreneurship (CIIE) and has produced several successful student startups."
+  },
+  "contact": {
+    "phone": "+91-40-2406 4555",
+    "email": "principal@grfriet.ac.in",
+    "address": "Bachupally, Kukatpally, Hyderabad – 500090, Telangana, India",
+    "admissionsEmail": "admissions@griet.ac.in"
+  },
+  "website": "https://www.griet.ac.in",
+  "lastVerified": "2026-04-09",
+  "verifiedBy": "official-website"
+}

@@ -1,0 +1,94 @@
+{
+  "overview": "National Institute of Technology Puducherry (NIT Puducherry) was established in 2010 in Karaikal. It is one of the newer NITs with growing infrastructure and academic programs.",
+  "accreditation": "Institute of National Importance (NIT Act), NAAC Accredited, NBA Accredited",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (all branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹1,42,250/year (General)"
+    },
+    {
+      "program": "M.Tech (various specializations)",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,42,250/year (General)"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "₹2,50,000/year"
+    },
+    {
+      "program": "MCA",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,42,250/year (General)"
+    },
+    {
+      "program": "Ph.D",
+      "duration": "4-5 Years",
+      "tuitionFee": "Fully funded with stipend"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹6.50 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹22 LPA",
+    "highestDomestic": "₹22 LPA",
+    "placementRate": "68%",
+    "totalOffers": "150+",
+    "companiesVisited": "50+",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Cognizant",
+      "Capgemini",
+      "L&T",
+      "BHEL",
+      "NTPC",
+      "Goldman Sachs",
+      "Deloitte",
+      "Oracle",
+      "Samsung R&D"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Mains (B.Tech)",
+      "GATE (M.Tech)",
+      "CAT/MAT (MBA)",
+      "NIMCET (MCA)"
+    ],
+    "admissionProcess": "B.Tech: JoSAA/CSAB Counselling after JEE Mains. M.Tech: CCMT/COAP after GATE.",
+    "importantDates": "JEE Mains: Jan & Apr 2026, JoSAA Counselling: June-July 2026"
+  },
+  "campus": {
+    "area": "130 acres",
+    "facilities": [
+      "Central Library",
+      "Hostels",
+      "Sports Complex",
+      "Gymnasium",
+      "Health Centre",
+      "Wi-Fi Campus",
+      "Labs",
+      "Seminar Halls",
+      "Guest House",
+      "Canteen",
+      "Transportation"
+    ],
+    "specialNote": ""
+  },
+  "contact": {
+    "phone": "+91-4368-225 3000",
+    "email": "",
+    "address": "Thirunallar Road, Karaikal – 609609, Puducherry",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.nitpy.ac.in",
+  "lastVerified": "2026-04-16",
+  "verifiedBy": "official-website"
+}

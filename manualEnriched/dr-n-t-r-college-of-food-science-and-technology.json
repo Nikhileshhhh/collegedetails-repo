@@ -1,0 +1,65 @@
+{
+  "overview": "Dr. NTR College of Food Science and Technology (CFST), Bapatla, established in 2003, is a premier government constituent college of Acharya N.G. Ranga Agricultural University (ANGRAU). It is one of the few specialized institutions in Andhra Pradesh dedicated exclusively to Food Science and Technology. The college focuses on creating skilled professionals for the food processing sector, quality control, and food safety management.",
+  "accreditation": "Approved by ICAR (Indian Council of Agricultural Research) and AICTE. Affiliated with Acharya N.G. Ranga Agricultural University (ANGRAU).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (Food Technology)",
+      "duration": "4 Years",
+      "totalFees": "₹1,37,000 (Includes tuition, hostel, and one-time fees)",
+      "tuitionFee": "₹58,560 (Total tuition)",
+      "eligibility": "10+2 with 50% aggregate in Physics, Chemistry, and Mathematics/Biology + AP EAPCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.0 LPA - ₹4.5 LPA",
+    "medianSalary": "₹4.0 LPA",
+    "highestSalary": "₹8.0 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "85% - 90%",
+    "totalOffers": "50+ (Batch size is typically 60)",
+    "companiesVisited": "20+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Nestlé",
+      "ITC Limited",
+      "Amul",
+      "Heritage Foods",
+      "Britannia Industries",
+      "Hindustan Unilever (HUL)",
+      "MTR Foods",
+      "Dodla Dairy"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "ICAR AIEEA (UG)",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are primarily conducted through the AP EAPCET state-level counseling for 85% of seats. The remaining 15-20% are filled through the All India Quota via ICAR AIEEA. Special 'Farmer Quota' reservations apply for students from agricultural backgrounds.",
+    "importantDates": "AP EAPCET 2026 Engineering Exam: May 12–15 & 18, 2026; Agriculture Stream: May 19–20, 2026; Results: June 2026."
+  },
+  "campus": {
+    "area": "Part of the extensive Bapatla Agricultural Education Hub",
+    "facilities": [
+      "Advanced Food Microbiology & Chemistry Labs",
+      "Food Processing Pilot Plant",
+      "Sensory Evaluation Lab",
+      "Quality Control & Food Safety Lab",
+      "Separate Hostels (Boys & Girls) with basic amenities",
+      "Central Library with E-Resource Center",
+      "Auditorium & Seminar Halls",
+      "Sports Grounds & Gymnasium"
+    ],
+    "specialNote": "The college is renowned for its RAWE (Rural Agricultural Work Experience) program and mandatory industrial internships, often with major food giants. It boasts an excellent Return on Investment (ROI) due to low government fees and strong industry placement records."
+  },
+  "contact": {
+    "phone": "08643-225201, +91 86432 4023",
+    "email": "cfst_bpt@angrau.ac.in",
+    "address": "Bapatla, Guntur District, Andhra Pradesh - 522101",
+    "admissionsEmail": "registrar@angrau.ac.in"
+  },
+  "website": "https://angrau.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

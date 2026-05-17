@@ -1,0 +1,97 @@
+{
+  "overview": "National Institute of Technology Warangal (NIT Warangal), established in 1959 as India's first Regional Engineering College (REC), is a premier public technical institute located in Hanamkonda, Telangana. Recognized as an Institute of National Importance under the NIT Act, it is widely known for its strong research ecosystem, coding culture, and excellent engineering education across its 256-acre fully residential campus.",
+  "accreditation": "Institute of National Importance under the NIT Act; NAAC accreditation not applicable for centrally governed autonomous NITs. Ranked 28th in Engineering under NIRF.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 per semester for General/OBC students with family income > ₹5 lakh. ₹20,833 per semester for income between ₹1 lakh–₹5 lakh (2/3 tuition waiver). Full tuition waiver for SC/ST/PwD and students with family income < ₹1 lakh."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 – ₹45,000 per semester for regular/GATE-qualified students. Self-sponsored or industry-sponsored students pay around ₹60,000 per semester."
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2–3 years",
+      "tuitionFee": "Approximately ₹50,000 – ₹65,000 per semester depending on the program structure."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹14.20 LPA (Overall B.Tech Average, 2025)",
+    "medianSalary": "₹12.00 LPA (Overall Campus Median, 2025)",
+    "highestSalary": "₹88.00 LPA (B.Tech 2023-24)",
+    "highestDomestic": "₹1.27 CPA domestic offer secured by Narayan Tyagi (CSE)",
+    "placementRate": "B.Tech Overall: 86.47%; M.Tech Overall: 71.34%",
+    "totalOffers": "1,225+ full-time offers during 2025 placements",
+    "companiesVisited": "Amazon, Microsoft, Genpact, Accenture, Cisco, HCL, Micron India, Qualcomm, Adobe",
+    "internationalOffers": "Multiple high-value global offers including ₹88 LPA international package",
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Genpact",
+      "Accenture",
+      "Cisco",
+      "HCL",
+      "Micron India",
+      "Qualcomm",
+      "Adobe"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "NIMCET",
+      "CAT/MAT/CMAT"
+    ],
+    "admissionProcess": "Admissions to undergraduate and postgraduate programs are based on national-level entrance examinations followed by centralized counseling such as JoSAA, CCMT, NIMCET, and institute-level selection processes.",
+    "importantDates": "Admission timelines follow JoSAA, CCMT, and respective national examination schedules."
+  },
+  "campus": {
+    "area": "256 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Centers",
+      "Computer Centre",
+      "Sports Complex",
+      "Medical Facilities",
+      "Innovation & Incubation Center",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Cafeterias",
+      "Gymnasium"
+    ],
+    "specialNote": "Hostel charges range between ₹16,000 – ₹23,000 per semester. Mess charges are approximately ₹12,000 – ₹16,000 per semester based on actual consumption. One-time institutional fee at admission is around ₹42,500."
+  },
+  "contact": {
+    "phone": "+91-870-2459191",
+    "email": "registrar@nitw.ac.in",
+    "address": "National Institute of Technology Warangal, Hanamkonda, Telangana – 506004, India",
+    "admissionsEmail": "admissions@nitw.ac.in"
+  },
+  "website": "https://www.nitw.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website",
+  "scholarships": {
+    "available": [
+      "Income-Based Tuition Fee Waiver",
+      "Top Class Education Scheme for SC/ST Students",
+      "Post-Matric Scholarship Assistance",
+      "National Scholarship Portal (NSP) Support",
+      "GATE Fellowship for M.Tech Students"
+    ],
+    "details": "SC/ST students and economically weaker students receive full or partial tuition fee waivers. GATE-qualified M.Tech students are eligible for AICTE stipend support of ₹12,400 per month."
+  },
+  "sources": {
+    "overview": "https://www.nitw.ac.in",
+    "fees": "https://www.nitw.ac.in",
+    "placements": "https://www.nitw.ac.in/Careers&Industry/placements",
+    "admissions": "https://www.nitw.ac.in/admissions",
+    "campus": "https://www.nitw.ac.in",
+    "contact": "https://www.nitw.ac.in/contact"
+  }
+}

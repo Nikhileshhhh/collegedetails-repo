@@ -1,0 +1,154 @@
+{
+  "overview": "Jawaharlal Nehru Technological University Hyderabad (JNTUH), established in 1972, is one of India’s premier autonomous state public technological universities and the country’s first technological university. Located in Kukatpally, Hyderabad, Telangana, the university spans an 89-acre urban campus and acts as the academic authority for over 215 affiliated engineering and technical colleges across the state. JNTUH is widely recognized for its strong engineering ecosystem, research output, innovation-driven curriculum, and industry collaborations.",
+  "accreditation": "NAAC 'A+' Grade Accredited; Ranked in the 101–150 NIRF Band (Overall Category, 2025).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Core (Regular Entry via TG EAPCET)",
+      "duration": "4 years",
+      "tuitionFee": "₹50,000 per year"
+    },
+    {
+      "program": "B.Tech CSE / AI-ML Specialisations",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per year"
+    },
+    {
+      "program": "M.Tech (Regular)",
+      "duration": "2 years",
+      "tuitionFee": "₹36,000 – ₹50,000 per year"
+    },
+    {
+      "program": "M.Tech (Self-Finance)",
+      "duration": "2 years",
+      "tuitionFee": "₹70,000 – ₹1,40,000 per year"
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹27,000 – ₹45,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹7.00 LPA overall campus average (2025); ₹10.67 LPA for CSE/IT streams",
+    "medianSalary": "₹8.84 LPA – ₹9.42 LPA (2025)",
+    "highestSalary": "₹52.00 LPA (2025)",
+    "highestDomestic": "₹52.00 LPA",
+    "placementRate": "B.Tech flagship branches: 85% – 89%",
+    "totalOffers": "560+ offers",
+    "companiesVisited": "100+ recruiters",
+    "companiesVisitedList": [
+      "Amazon",
+      "Microsoft",
+      "Oracle",
+      "AMD",
+      "TCS",
+      "Cognizant",
+      "Infosys",
+      "Accenture",
+      "Deloitte"
+    ],
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Oracle",
+      "AMD",
+      "TCS",
+      "Cognizant",
+      "Infosys",
+      "Accenture",
+      "Deloitte"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (EAMCET)",
+      "GATE"
+    ],
+    "admissionProcess": "Undergraduate admissions are conducted through TG EAPCET counseling for Telangana state candidates, while postgraduate admissions are primarily based on GATE and university-level counseling processes.",
+    "importantDates": "Admissions follow TG EAPCET counseling schedules and JNTUH academic calendar."
+  },
+  "cutoffs": {
+    "TG_EAPCET_2025_Expected_Closing_Ranks_General_HomeState": [
+      {
+        "branch": "Computer Science & Engineering (CSE)",
+        "round1Cutoff": "~600",
+        "lastRoundClosingRank": "1250"
+      },
+      {
+        "branch": "CSE (Artificial Intelligence & Machine Learning)",
+        "round1Cutoff": "~950",
+        "lastRoundClosingRank": "1720"
+      },
+      {
+        "branch": "Information Technology (IT)",
+        "round1Cutoff": "~1200",
+        "lastRoundClosingRank": "2150"
+      },
+      {
+        "branch": "Electronics & Communication Engineering (ECE)",
+        "round1Cutoff": "~1800",
+        "lastRoundClosingRank": "3400"
+      },
+      {
+        "branch": "Electrical & Electronics Engineering (EEE)",
+        "round1Cutoff": "~4500",
+        "lastRoundClosingRank": "7800"
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "round1Cutoff": "~6200",
+        "lastRoundClosingRank": "11500"
+      },
+      {
+        "branch": "Civil Engineering",
+        "round1Cutoff": "~8500",
+        "lastRoundClosingRank": "14200"
+      }
+    ]
+  },
+  "campus": {
+    "area": "89 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Labs",
+      "Computer Centres",
+      "Innovation & Incubation Facilities",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Cafeteria",
+      "Medical Facilities"
+    ],
+    "hostelFee": "₹12,000 – ₹15,000 per year",
+    "messCharges": "₹24,000 – ₹30,000 per year",
+    "specialNote": "A refundable hostel caution deposit of ₹10,000 is charged during admission. Hostel and mess facilities are subsidized and affordable compared to private universities."
+  },
+  "scholarships": {
+    "availableScholarships": [
+      "Telangana Jagananna Vidya Deevena (RTF)",
+      "GATE Postgraduate Fellowship",
+      "Central Sector Scholarship Scheme",
+      "National Scholarship Portal (NSP) Scholarships"
+    ],
+    "details": "Eligible Telangana students can avail full tuition fee reimbursement under state government schemes. GATE-qualified M.Tech students receive a monthly stipend of ₹12,400. Scholarships are also available for SC/ST/minority students through NSP."
+  },
+  "contact": {
+    "phone": "+91-40-23158661",
+    "email": "registrar@jntuh.ac.in",
+    "address": "Jawaharlal Nehru Technological University Hyderabad, Kukatpally, Hyderabad – 500085, Telangana, India",
+    "admissionsEmail": "admissions@jntuh.ac.in"
+  },
+  "website": "https://jntuh.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-provided-data",
+  "sources": {
+    "overview": "https://jntuh.ac.in",
+    "placements": "https://jntuh.ac.in/placements",
+    "admissions": "https://jntuh.ac.in/admissions",
+    "fees": "https://jntuh.ac.in",
+    "campus": "https://jntuh.ac.in/aboutus",
+    "contact": "https://jntuh.ac.in/contact-us"
+  }
+}

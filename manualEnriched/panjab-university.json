@@ -1,0 +1,104 @@
+{
+  "overview": "Panjab University (PU), located in Chandigarh, is a historic public state university established in 1882 in Lahore before relocating after the partition of India. The university is widely recognized for its strong research ecosystem, prestigious constituent institutes such as University Business School (UBS) and University Institute of Engineering and Technology (UIET), and high academic standards across management, engineering, sciences, pharmacy, and humanities.",
+  "accreditation": "NAAC A++ accredited with a CGPA of 3.68/4.0. Accreditation valid until August 11, 2030.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (UIET)",
+      "duration": "4 years",
+      "tuitionFee": "~₹50,000 – ₹55,000 per semester for General/OBC students."
+    },
+    {
+      "program": "MBA (UBS)",
+      "duration": "2 years",
+      "tuitionFee": "~₹10,000 – ₹12,500 per semester for General/OBC students."
+    },
+    {
+      "program": "B.Sc Fashion & Lifestyle (Self-Financing)",
+      "duration": "3 years",
+      "tuitionFee": "~₹56,500 per semester."
+    },
+    {
+      "program": "LL.M.",
+      "duration": "1–2 years",
+      "tuitionFee": "~₹47,700 – ₹95,450 per semester depending on specialization."
+    },
+    {
+      "program": "M.Sc (Traditional Sciences)",
+      "duration": "2 years",
+      "tuitionFee": "~₹7,500 – ₹9,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "MBA: ₹12.43 LPA (2025), B.Tech: ₹8.50 LPA (2025)",
+    "medianSalary": "MBA: ₹12.00 LPA (2025), UG Programs: ₹2.75 – ₹6.75 LPA, PG Programs: ₹3.90 – ₹6.50 LPA",
+    "highestSalary": "₹58.48 LPA (UBS MBA 2023-24)",
+    "highestDomestic": "₹58.48 LPA",
+    "placementRate": "CSE: 86.80%, IT: 66.30%, ECE: 58.80%, MBA (UBS): 90.00%",
+    "totalOffers": "Over 2,218 students placed campus-wide during the 2025 placement season.",
+    "companiesVisited": "American Express, Cisco, Walmart, Deloitte, Asian Paints, Citi Bank, IBM, Ernst & Young",
+    "internationalOffers": "Limited public data available regarding international offers.",
+    "topRecruiters": [
+      "American Express",
+      "Cisco",
+      "Walmart",
+      "Deloitte",
+      "Asian Paints",
+      "Citi Bank",
+      "IBM",
+      "Ernst & Young"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "PU CET",
+      "CAT",
+      "GATE",
+      "GPAT"
+    ],
+    "admissionProcess": "Admissions are based on national-level entrance exams and university-specific entrance tests followed by counseling or departmental selection processes depending on the course.",
+    "importantDates": "Admission schedules vary by department and are released annually on the official Panjab University admission portal."
+  },
+  "campus": {
+    "area": "Approximately 550 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Computer Centre",
+      "Sports Complex",
+      "Medical Facilities",
+      "Wi-Fi Enabled Campus",
+      "Auditoriums",
+      "Student Activity Centres"
+    ],
+    "specialNote": "Hostel fees range from approximately ₹6,000 – ₹10,200 per semester, while mess charges are around ₹10,000 – ₹12,000 per semester depending on consumption and hostel facilities."
+  },
+  "contact": {
+    "phone": "+91-172-2534818",
+    "email": "registrar@pu.ac.in",
+    "address": "Panjab University, Sector 14, Chandigarh – 160014, India",
+    "admissionsEmail": "ugadmissions@pu.ac.in"
+  },
+  "website": "https://puchd.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website-and-placement-reports",
+  "scholarships": {
+    "availableSchemes": [
+      "SC/ST Tuition Fee Waiver",
+      "Post-Matric Scholarship Scheme",
+      "Means-Cum-Merit Financial Assistance",
+      "Research Fellowships for GATE/GPAT Qualified Students"
+    ],
+    "details": "Eligible SC/ST students can receive full tuition and hostel rent waivers. Economically weaker students may receive financial assistance through the Vice Chancellor’s welfare fund. AICTE/UGC stipends are available for eligible postgraduate researchers."
+  },
+  "sources": {
+    "overview": "https://puchd.ac.in",
+    "fees": "https://puchd.ac.in",
+    "placements": "https://placements.puchd.ac.in",
+    "admissions": "https://admissions.puchd.ac.in",
+    "campus": "https://puchd.ac.in/about-us.php",
+    "contact": "https://puchd.ac.in/contactus.php"
+  }
+}

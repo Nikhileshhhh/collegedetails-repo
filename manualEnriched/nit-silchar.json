@@ -1,0 +1,103 @@
+{
+  "overview": "National Institute of Technology Silchar (NIT Silchar), located in Fakirtilla, Silchar, Assam, is a premier autonomous public technical university established in 1967. Originally founded as a Regional Engineering College (REC), it was elevated to a National Institute of Technology and declared an Institute of National Importance under the NIT Act in 2002. The institute is recognized for strong engineering education, high-impact research, modern digital infrastructure, and significant academic contributions across Northeast India.",
+  "accreditation": "Institute of National Importance under the NIT Act; not NAAC accredited. Individual academic programs are accredited by the National Board of Accreditation (NBA).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 tuition + ₹18,000 institutional fee per semester for General/OBC candidates with family income above ₹5 lakh. Students with income between ₹1–5 lakh receive 2/3rd tuition remission (~₹38,833 payable). Students with family income below ₹1 lakh receive full tuition waiver and pay only institutional charges (~₹18,000). SC/ST/PwD students are fully exempted from tuition fees."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹73,000 for the initial semester including hostel-related components. Subsequent semester fees are comparatively lower."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "First semester base fee approximately ₹1,02,870. Total course fee without hostel expenses is approximately ₹2,39,000."
+    },
+    {
+      "program": "M.Sc.",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹46,000 for the first semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹12.25 LPA overall engineering average (2025); ₹19.14 LPA average for B.Tech CSE",
+    "medianSalary": "₹11.50 LPA overall B.Tech median (2025); ₹6.80 LPA median for postgraduate programs",
+    "highestSalary": "₹60.00 LPA (2025 placement cycle)",
+    "highestDomestic": "₹60.00 LPA",
+    "placementRate": "B.Tech CSE: above 95%; Overall B.Tech: 73.15%–85% depending on branch",
+    "totalOffers": "700+ offers during the 2025 placement drive",
+    "companiesVisited": "Amazon, Microsoft, Adobe, Arcesium India, Swiggy, Google, Deloitte, Oracle, SAP, Tata Consultancy Services (TCS)",
+    "internationalOffers": "High-value offers secured from leading global technology companies",
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Adobe",
+      "Arcesium India",
+      "Swiggy",
+      "Google",
+      "Deloitte",
+      "Oracle",
+      "SAP",
+      "Tata Consultancy Services (TCS)"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "CAT",
+      "IIT JAM"
+    ],
+    "admissionProcess": "Undergraduate admissions are conducted through JoSAA/CSAB counseling based on JEE Main ranks. Postgraduate admissions are based on national-level entrance examinations such as GATE, CAT, and IIT JAM followed by institute counseling procedures.",
+    "importantDates": "Admission schedules follow JoSAA, CCMT, CCMN, and institute academic calendars."
+  },
+  "campus": {
+    "area": "Approximately 600+ acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Computer Centre",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Health Centre",
+      "Research Laboratories",
+      "Auditorium",
+      "Innovation and Incubation Facilities",
+      "Cafeteria",
+      "Banking Services"
+    ],
+    "specialNote": "Hostel seat rent and utility charges are approximately ₹4,130 per semester. Mess advance ranges from ₹24,000–₹25,500 per semester. First-time hostellers must pay a refundable hostel caution deposit of ₹10,000."
+  },
+  "contact": {
+    "phone": "+91-3842-242273",
+    "email": "registrar@nits.ac.in",
+    "address": "National Institute of Technology Silchar, Fakirtilla, Silchar – 788010, Assam, India",
+    "admissionsEmail": "academic@nits.ac.in"
+  },
+  "website": "https://www.nits.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-provided-data",
+  "scholarships": {
+    "available": true,
+    "details": [
+      "100% and 66.6% tuition fee remission schemes based on verified annual family income",
+      "Central Sector Top-Class Scholarship Scheme for SC/ST students",
+      "MHRD assistantship of ₹12,400 per month for eligible GATE-qualified M.Tech students",
+      "Ph.D. scholars receive stipends starting from approximately ₹31,000 per month",
+      "Support through national and state scholarship portals for minority, OBC, and reserved-category students"
+    ]
+  },
+  "sources": {
+    "overview": "https://www.nits.ac.in",
+    "fees": "https://www.nits.ac.in/admissions",
+    "placements": "https://www.nits.ac.in/career-development-centre",
+    "admissions": "https://www.nits.ac.in/admissions",
+    "campus": "https://www.nits.ac.in/aboutus",
+    "contact": "https://www.nits.ac.in/contact"
+  }
+}

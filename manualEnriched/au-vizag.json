@@ -1,0 +1,103 @@
+{
+  "overview": "AU College of Engineering (AUCE), the constituent engineering college of Andhra University, is one of the oldest and most prestigious engineering institutions in India. Located in Visakhapatnam, it is known for its strong academic legacy, expansive campus infrastructure, affordable government-funded education, and consistent placements across core engineering and IT sectors.",
+  "accreditation": "NAAC A++ Grade (Cycle 4) with CGPA 3.74/4.00; ISO 9001:2015 Certified.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Regular - Convener Quota)",
+      "duration": "4 Years",
+      "tuitionFee": "₹10,000 – ₹15,000 per year"
+    },
+    {
+      "program": "B.Tech (Self-Finance)",
+      "duration": "4 Years",
+      "tuitionFee": "₹35,000 – ₹50,000 per year"
+    },
+    {
+      "program": "M.Tech (Regular)",
+      "duration": "2 Years",
+      "tuitionFee": "₹30,000 per year"
+    },
+    {
+      "program": "M.Tech (Self-Finance)",
+      "duration": "2 Years",
+      "tuitionFee": "₹50,000 – ₹1,00,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹8.50 – ₹10.00 LPA for CSE/IT branches",
+    "medianSalary": "₹9.30 LPA (UG 4-Year, 2024 Reported)",
+    "highestSalary": "₹84.50 LPA (Historical highest package by Atlassian, 2023-24)",
+    "highestDomestic": "₹24.00 LPA (2024-25 Ongoing/Projected)",
+    "placementRate": "CSE/IT: 90%+; Core Branches: 70% – 80%",
+    "totalOffers": "995+ students placed during 2023-24",
+    "companiesVisited": "Amazon, Google (Off-campus), L&T, TCS, Infosys, Wipro, Cognizant, Medha Servo Drives, ONGC, HPCL",
+    "internationalOffers": "Limited international/off-campus high-value offers through product-based companies",
+    "topRecruiters": [
+      "Amazon",
+      "Google",
+      "L&T",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Medha Servo Drives",
+      "ONGC",
+      "HPCL"
+    ]
+  },
+  "rankings": {
+    "nirfOverall2025": "88th in India",
+    "nirfUniversity2025": "23rd in India"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAMCET",
+      "AP PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "B.Tech admissions are primarily through AP EAMCET counseling conducted by APSCHE. M.Tech admissions are based on AP PGECET/GATE scores followed by university counseling.",
+    "importantDates": "Admissions follow APSCHE counseling schedules and Andhra University academic calendar."
+  },
+  "campus": {
+    "area": "Large university campus shared with Andhra University",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Sports Complex",
+      "Auditorium",
+      "Computer Centers",
+      "Wi-Fi Campus",
+      "Cafeteria",
+      "Medical Facilities"
+    ],
+    "specialNote": "One-time admission and caution deposit fee is approximately ₹9,000. Hostel room rent ranges between ₹5,000 – ₹8,000 annually, while total hostel and mess expenses are approximately ₹40,000 – ₹50,000 per year."
+  },
+  "scholarships": {
+    "available": [
+      "Jagananna Vidya Deevena (Full Tuition Fee Reimbursement)",
+      "Jagananna Vasathi Deevena",
+      "Pratibha Awards",
+      "AICTE GATE Stipend"
+    ],
+    "details": "Eligible BC/SC/ST/EBC/Kapu students with annual family income below ₹2.5 LPA receive tuition reimbursement under JVD. Hostel students can receive ₹20,000 annually under Vasathi Deevena. GATE-qualified M.Tech students receive ₹12,400 per month stipend."
+  },
+  "contact": {
+    "phone": "+91-891-284-4000",
+    "email": "principal.auce@andhrauniversity.edu.in",
+    "address": "AU College of Engineering, Andhra University, Visakhapatnam – 530003, Andhra Pradesh, India",
+    "admissionsEmail": "registrar@andhrauniversity.edu.in"
+  },
+  "website": "https://www.andhrauniversity.edu.in",
+  "lastVerified": "2026-05-12",
+  "verifiedBy": "official-website-and-placement-data",
+  "sources": {
+    "overview": "https://www.andhrauniversity.edu.in",
+    "fees": "https://www.andhrauniversity.edu.in",
+    "placements": "https://www.andhrauniversity.edu.in/placements/",
+    "admissions": "https://sche.ap.gov.in",
+    "campus": "https://www.andhrauniversity.edu.in/aboutus/",
+    "contact": "https://www.andhrauniversity.edu.in/contactus/"
+  }
+}

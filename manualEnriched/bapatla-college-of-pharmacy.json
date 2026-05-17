@@ -1,0 +1,78 @@
+{
+  "overview": "Bapatla College of Pharmacy (BCOP), established in 1995, is a premier pharmacy institution in Andhra Pradesh. It is managed by the Bapatla Education Society and focuses on providing quality education in pharmaceutical sciences to rural and urban students alike.",
+  "accreditation": "Approved by the Pharmacy Council of India (PCI) and the All India Council for Technical Education (AICTE). Affiliated with Acharya Nagarjuna University.",
+  "coursesAndFees": [
+    {
+      "course": "Bachelor of Pharmacy (B.Pharm)",
+      "duration": "4 Years",
+      "totalFees": "₹2,08,000 - ₹2,62,400",
+      "eligibility": "10+2 with 45% aggregate in PCB/PCM + AP EAPCET"
+    },
+    {
+      "course": "Master of Pharmacy (M.Pharm)",
+      "duration": "2 Years",
+      "totalFees": "₹1,10,000 - ₹2,20,000",
+      "specializations": [
+        "Pharmaceutics",
+        "Pharmacology",
+        "Pharmaceutical Analysis"
+      ],
+      "eligibility": "B.Pharm with 50% aggregate + AP PGECET/GPAT"
+    },
+    {
+      "course": "Doctor of Pharmacy (Pharm.D)",
+      "duration": "6 Years",
+      "totalFees": "Information varies by seat category",
+      "eligibility": "10+2 with PCB/PCM or D.Pharm"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA",
+    "medianSalary": "₹2.7 LPA",
+    "highestSalary": "₹5.8 LPA",
+    "highestDomestic": "₹5.8 LPA",
+    "placementRate": "70% - 90%",
+    "totalOffers": "52 (2023 data)",
+    "companiesVisited": "12+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Divis Laboratories",
+      "Dr. Reddy's Laboratories",
+      "Hetero Drugs",
+      "Aurobindo Pharma",
+      "Cipla",
+      "Sun Pharma"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "GPAT"
+    ],
+    "admissionProcess": "Admission is primarily based on state-level entrance exam ranks (AP EAPCET for UG, AP PGECET for PG) followed by web counseling. Management quota seats are filled according to APSCHE guidelines.",
+    "importantDates": "AP EAPCET 2026 Pharmacy Exam: May 19 - May 20, 2026; AP PGECET 2026 Exam: Early May 2026."
+  },
+  "campus": {
+    "area": "Acres of lush green landscape",
+    "facilities": [
+      "Advanced Pharmaceutical Labs",
+      "Medicinal Garden",
+      "Digital Library",
+      "Animal House",
+      "Canteen",
+      "Girls Hostel (In-campus)",
+      "Seminar Halls"
+    ],
+    "specialNote": "The campus is known for its serene, green environment and high-quality lab equipment. While there is a girls' hostel on campus, boys typically utilize private hostels in Bapatla town."
+  },
+  "contact": {
+    "phone": "08643-224144, +91 9912342094",
+    "email": "bapatlapharmacy@bcopbapatla.in",
+    "address": "Kothapalem, Bapatla, Guntur District, Andhra Pradesh - 522101",
+    "admissionsEmail": "bcp.principal@gmail.com"
+  },
+  "website": "https://bcopbapatla.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

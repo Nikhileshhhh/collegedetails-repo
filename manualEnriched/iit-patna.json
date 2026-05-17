@@ -1,0 +1,83 @@
+{
+  "overview": "Indian Institute of Technology Patna (IIT Patna), established in 2008, is an Institute of National Importance known for its strong focus on engineering, technology, and research. It has rapidly grown in reputation with consistent performance in academics, placements, and innovation.",
+  "accreditation": "Institute of National Importance (INI); NIRF Overall 2024: 34th; NIRF Overall 2024: 73rd.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000/sem for General/OBC (income > ₹5 lakh); ₹33,333/sem (income ₹1–5 lakh); ₹0 tuition (income < ₹1 lakh / SC/ST/PwD). Other fees ~₹13,300/sem. Hostel & Mess: ~₹29,000–₹34,000/sem."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "As per IIT norms. Stipend benefits for GATE-qualified students. Additional charges applicable."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹25.52 LPA (2024–25 Phase 1)",
+    "medianSalary": "₹17.00 LPA (B.Tech 2023–24)",
+    "highestSalary": "₹1.17 CPA (2024–25 Phase 1)",
+    "highestDomestic": "₹59 LPA (2023–24); ₹1.44 CPA Intl (2023–24)",
+    "placementRate": "B.Tech: 77.92% (2023–24); CSE: ~93.02%",
+    "totalOffers": "319 offers (2024–25 Phase 1); 452 offers (2023–24)",
+    "companiesVisited": "Google, Microsoft, Oracle, Amazon, Goldman Sachs, Samsung, BPCL, BEL, CDAC",
+    "internationalOffers": "Offers exceeding ₹1 Cr from global recruiters",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "93.02%", "avgCTC": "₹31.71 LPA" },
+      { "branch": "Mechanical Engineering", "placementRate": "81.52%" },
+      { "branch": "Electrical & Electronics (EEE)", "placementRate": "64–89%" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "₹1.44 CPA intl (2023–24) → ₹1.17 CPA (2024–25 Phase 1); avg surged ₹17 → ₹25.52 LPA",
+      "mtechStats": "M.Tech placement 61.01%, avg ₹15 LPA (2023–24)"
+    },
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Oracle",
+      "Amazon",
+      "Goldman Sachs",
+      "Samsung",
+      "BPCL",
+      "BEL",
+      "CDAC"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE"],
+    "admissionProcess": "Admissions are based on national-level entrance exams followed by JoSAA (for B.Tech) and COAP (for M.Tech) counseling.",
+    "importantDates": "Follows JoSAA/COAP schedule and IIT Patna academic calendar."
+  },
+  "campus": {
+    "area": "Modern residential campus in Bihta, Patna",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Facilities",
+      "Research Labs",
+      "Sports Complex",
+      "Wi-Fi Campus",
+      "Auditorium",
+      "Innovation & Incubation Center"
+    ],
+    "specialNote": "One-time admission fee ~₹20,000. Medical insurance ~₹1,388/year. Hostel: rent ~₹5,000–₹6,500, mess ~₹14,000–₹21,420, other ~₹6,500 per semester."
+  },
+  "contact": {
+    "phone": "+91-6115-233-600",
+    "email": "academic@iitp.ac.in",
+    "address": "Indian Institute of Technology Patna, Bihta, Patna – 801106, Bihar, India",
+    "admissionsEmail": "ugadmissions@iitp.ac.in"
+  },
+  "website": "https://www.iitp.ac.in",
+  "lastVerified": "2026-05-01",
+  "verifiedBy": "compiled-data",
+  "sources": {
+    "overview": "https://www.iitp.ac.in",
+    "fees": "https://www.iitp.ac.in/admissions",
+    "placements": "https://www.iitp.ac.in/placement",
+    "admissions": "https://www.iitp.ac.in/admissions",
+    "campus": "https://www.iitp.ac.in/about",
+    "contact": "https://www.iitp.ac.in/contact"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "overview": "Dr. YSR ANU College of Engineering and Technology (Self-Finance) is a constituent college of Acharya Nagarjuna University (ANU), located in Guntur. Established in 2009, it offers technical education under a self-financing model, meaning its operations and infrastructure development are primarily funded through student tuition rather than direct government subsidies. It is a co-educational institution providing a range of modern engineering specializations.",
+  "accreditation": "Approved by AICTE (All India Council for Technical Education). Affiliated with and governed by Acharya Nagarjuna University (ANU).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,76,000 (Approx. ₹40,000 - ₹44,000 per year)",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science & Engineering, Digital Electronics & Communication)",
+      "duration": "2 Years",
+      "totalFees": "₹1,40,000 - ₹1,50,000 (Approx. ₹70,000 - ₹75,000 per year)",
+      "eligibility": "B.E./B.Tech + GATE / AP PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.0 LPA",
+    "medianSalary": "₹3.5 LPA",
+    "highestSalary": "₹7.5 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "60% - 70% (Varies by branch)",
+    "totalOffers": "100+ (Recent data for engineering streams)",
+    "companiesVisited": "25+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Capgemini",
+      "Cognizant",
+      "Accenture",
+      "SL Lumax",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted via state-level web counseling (APSCHE). 70% of seats are filled under the Convener Quota (Category A) based on AP EAPCET ranks (College Code: ANCUSF). The remaining 30% are Management Quota (Category B) seats filled based on merit or qualifying marks.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Registration (Late Fee): April 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "Integrated within the Acharya Nagarjuna University campus",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "University Central Library & E-Resources",
+      "Department-specific Research Laboratories",
+      "Separate Hostels for Boys (Ashoka, Satavahana) and Girls (Indira Priyadarshini)",
+      "Sports Complex & Stadium",
+      "University Health Center",
+      "Cafeteria & Bank/ATM Facilities",
+      "Wi-Fi Connectivity across the Academic Block"
+    ],
+    "specialNote": "Being part of a major state university, self-finance students have access to extensive university-wide resources, including advanced research facilities and multidisciplinary exposure. The fee structure is slightly higher than regular university seats but remains competitive compared to private engineering colleges."
+  },
+  "contact": {
+    "phone": "0863-2346118, +91 9494550555",
+    "email": "helpcenter@anu.ac.in",
+    "address": "ANU Campus, Nambur, Guntur, Andhra Pradesh - 522510",
+    "admissionsEmail": "principal@anucet.ac.in"
+  },
+  "website": "https://www.nagarjunauniversity.ac.in/colleges/engineering",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

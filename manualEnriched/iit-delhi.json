@@ -1,0 +1,80 @@
+{
+  "overview": "Indian Institute of Technology Delhi (IIT Delhi), established in 1961, is one of India's leading engineering and research institutions. It has been recognized globally for excellence in education, innovation, and entrepreneurship, and is ranked among the top IITs in India.",
+  "accreditation": "Recognized as an Institute of National Importance by the Government of India. Accredited by the National Board of Accreditation (NBA).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech in Computer Science and Engineering",
+      "duration": "4 years",
+      "tuitionFee": "INR 1,00,000 per semester (approx.) for General/OBC/EWS (income > INR 5 lakh). Fee remission available based on income."
+    },
+    {
+      "program": "M.Tech in Electrical Engineering",
+      "duration": "2 years",
+      "tuitionFee": "INR 25,000 per semester (approx.)"
+    }
+  ],
+  "placements": {
+    "avgSalary": "INR 32 LPA (UG, 2024-25 est.)",
+    "medianSalary": "INR 19.08 LPA (BTech, NIRF 2025)",
+    "highestSalary": "INR 2 Cr (International, 2024-25)",
+    "highestDomestic": "INR 1.45 Cr (2024-25)",
+    "placementRate": "Approx. 90-95% across most branches",
+    "totalOffers": "1000+ (est. Phase 1, 2024-25)",
+    "companiesVisited": "500+",
+    "internationalOffers": "50+ (2024-25)",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Goldman Sachs",
+      "Texas Instruments",
+      "Da Vinci",
+      "BCG",
+      "Qualcomm",
+      "Uber",
+      "Rubrik",
+      "Oracle"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "CAT",
+      "CEED"
+    ],
+    "admissionProcess": "Undergraduate admissions are through JEE Advanced based on national ranks. Postgraduate entries are via GATE (M.Tech), CAT (MBA), CEED (Design), and institute-level interviews.",
+    "importantDates": "JEE Advanced typically held in May-June. GATE in February. Visit the IIT Delhi site for date confirmations."
+  },
+  "campus": {
+    "area": "325 acres",
+    "facilities": [
+      "Central Library",
+      "Hostels for Boys and Girls",
+      "Computer Centre",
+      "Sports Facilities",
+      "Research and Innovation Hubs",
+      "Medical Services",
+      "Entrepreneurship Cell",
+      "Conference Halls",
+      "Cafeterias"
+    ],
+    "specialNote": "The campus is situated in Hauz Khas, South Delhi, and provides students access to India's capital city alongside a robust academic ecosystem. Additional per-semester charges include: Institutional Fees (INR 15,000-25,000), Hostel Rent (INR 7,500-8,600), Mess Charges (INR 15,000-35,000)."
+  },
+  "contact": {
+    "phone": "+91 11 2659 7135",
+    "email": "director@admin.iitd.ac.in",
+    "address": "Indian Institute of Technology Delhi, Hauz Khas, New Delhi - 110016, India",
+    "admissionsEmail": "admissions@iitd.ac.in"
+  },
+  "website": "https://home.iitd.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website and public media disclosures",
+  "sources": {
+    "overview": "https://home.iitd.ac.in/aboutus.php",
+    "fees": "https://home.iitd.ac.in/fees.php",
+    "placements": "https://home.iitd.ac.in/placement.php",
+    "admissions": "https://home.iitd.ac.in/admission.php",
+    "campus": "https://home.iitd.ac.in/infrastructure.php",
+    "contact": "https://home.iitd.ac.in/contact.php"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "overview": "V.R. Siddhartha Engineering College (VRSEC), Vijayawada is a private engineering college established in 1977 in Kanuru, Vijayawada. It is an autonomous institution affiliated to JNTUK, one of the most reputed private colleges in Krishna district, AP.",
+  "accreditation": "NAAC A Grade, NBA Accredited (Autonomous)",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (all branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹1,00,000/year"
+    },
+    {
+      "program": "M.Tech (various)",
+      "duration": "2 Years",
+      "tuitionFee": "Varies"
+    },
+    {
+      "program": "Ph.D",
+      "duration": "4-5 Years",
+      "tuitionFee": "Varies"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.00 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹12 LPA",
+    "highestDomestic": "₹12 LPA",
+    "placementRate": "68%",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Capgemini",
+      "Accenture",
+      "IBM",
+      "Tech Mahindra",
+      "HCL",
+      "DXC Technology"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAMCET (B.Tech)",
+      "GATE (M.Tech)"
+    ],
+    "admissionProcess": "B.Tech: AP EAMCET counselling. M.Tech: GATE based admission.",
+    "importantDates": "AP EAMCET: 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "25 acres",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Hostels",
+      "Sports Facilities",
+      "Health Centre",
+      "Wi-Fi Campus",
+      "Canteen",
+      "Transportation"
+    ],
+    "specialNote": ""
+  },
+  "contact": {
+    "phone": "+91-866-258 2672",
+    "email": "",
+    "address": "Kanuru, Vijayawada – 520007, AP",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.vrsiddhartha.ac.in",
+  "lastVerified": "2026-04-16",
+  "verifiedBy": "official-website"
+}

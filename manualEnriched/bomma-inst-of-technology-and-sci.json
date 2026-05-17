@@ -1,0 +1,85 @@
+{
+  "overview": "Bomma Institute of Technology and Science (BITS), established in 2006 by the Bomma Rajeswara Rao Educational Society, is a private technical institution located in Khammam, Telangana. It offers a wide range of undergraduate and postgraduate programs in engineering and management, aiming to provide high-quality education and industry-aligned skills to students in the region.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,52,000 - ₹2,58,000",
+      "eligibility": "10+2 with 45-50% in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹92,000",
+      "eligibility": "Graduation with 50% + TSICET"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000",
+      "eligibility": "B.E./B.Tech + GATE/TS PGECET"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹44,700 - ₹47,400",
+      "eligibility": "10th standard pass + TS POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA",
+    "medianSalary": "₹2.8 LPA",
+    "highestSalary": "₹6.5 LPA - ₹8.0 LPA",
+    "highestDomestic": "₹8.0 LPA",
+    "placementRate": "20% - 60%",
+    "totalOffers": "100+",
+    "companiesVisited": "15+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "Genpact",
+      "Syntel",
+      "HCL Technologies",
+      "HDFC Bank",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET",
+      "TS ICET",
+      "TS PGECET",
+      "TS POLYCET",
+      "JEE Main",
+      "CAT/MAT/XAT"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level counseling (TGCHE) based on entrance exam ranks. 70% of seats are filled under the Convener Quota (Category A) and 30% under the Management Quota (Category B).",
+    "importantDates": "TS EAMCET 2026: May 9 - 11, 2026; TS ICET 2026: May 13 - 14, 2026; TS POLYCET 2026: May 13, 2026."
+  },
+  "campus": {
+    "area": "3 - 15 Acres",
+    "facilities": [
+      "Smart Classrooms",
+      "Well-equipped Engineering Labs",
+      "Digital Library",
+      "Auditorium",
+      "Hostel for Boys & Girls",
+      "Sports Facilities",
+      "Cafeteria",
+      "Transport Facility"
+    ],
+    "specialNote": "The campus features a collaboration with Microsoft for a creative innovation center. It is situated behind the Eenadu office in Khammam, providing a blend of urban accessibility and a focused academic environment."
+  },
+  "contact": {
+    "phone": "08742-323887, +91 9348333338, +91 9396671196",
+    "email": "principal@bomma.ac.in",
+    "address": "Behind Eenadu Office, Allipuram, Khammam, Telangana - 507138",
+    "admissionsEmail": "admissions@bomma.ac.in"
+  },
+  "website": "http://www.bomma.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

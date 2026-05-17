@@ -1,0 +1,76 @@
+{
+  "overview": "Indian Institute of Technology (BHU) Varanasi, established as an IIT in 2012 and tracing its roots to the Benares Engineering College (1919), is one of India's oldest and most prestigious technical institutes. Located within the historic Banaras Hindu University campus, IIT (BHU) is known for strong industry links, research, and multidisciplinary programs.",
+  "accreditation": "Institute of National Importance; NAAC 'A' accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / IDD (Undergraduate)",
+      "duration": "4–5 years",
+      "tuitionFee": "Tuition Fee (Per Sem): ₹1,00,000 (General / OBC income > ₹5L). Income-based & caste-based waivers apply. Other charges ~₹6,350/sem. Hostel & Mess: ~₹15,750/sem. One-time admission fee: ~₹5,750–₹6,250. Refundable caution money: ₹9,000."
+    },
+    {
+      "program": "M.Tech / M.Pharma (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Tuition Fee (Per Sem): ₹10,000 (General/OBC). SC/ST/PwD: Tuition exempted. Other charges ~₹6,350/sem."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹24.49 LPA",
+    "medianSalary": "₹20.00 LPA",
+    "highestSalary": "₹2.20 Cr",
+    "highestSalaryPrevious": "₹1.68 Cr",
+    "placementRate": "B.Tech: ~85-90% (varies by branch)",
+    "totalOffers": "1,416 offers (including 297 PPOs) in 2024-25",
+    "companiesVisited": "Google, Microsoft, Uber, Goldman Sachs, Graviton Research, Squarepoint Capital, Databricks, Qualcomm, ONGC",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Uber",
+      "Goldman Sachs",
+      "Graviton Research",
+      "Squarepoint Capital",
+      "Databricks",
+      "Qualcomm",
+      "ONGC"
+    ],
+    "note": "Highest package rose from ₹1.20 Cr (2022-23) → ₹1.68 Cr (2023-24) → ₹2.20 Cr (2024-25). Over 1,000 offers were made within first 5 days of the 2024-25 placement season.",
+    "sources": ["https://www.iitbhu.ac.in/placement", "https://www.iitbhu.ac.in"]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE"],
+    "admissionProcess": "Undergraduate admission via JEE Advanced + JoSAA counseling. Postgraduate admissions via GATE/COAP as applicable.",
+    "importantDates": "Follows JoSAA / COAP timelines and IIT (BHU) academic calendar."
+  },
+  "campus": {
+    "area": "1,300 acres (shared with BHU campus)",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Unit",
+      "Research Park",
+      "Computer Centre",
+      "Innovation Hub",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Semester charges (~₹6,350) include mess and service fees. One-time admission fee ~₹5,750–₹6,250 + refundable ₹9,000 caution deposit."
+  },
+  "contact": {
+    "phone": "+91-542-230-7000",
+    "email": "academic@iitbhu.ac.in",
+    "address": "Indian Institute of Technology (BHU), Varanasi – 221005, Uttar Pradesh, India",
+    "admissionsEmail": "ugadmissions@iitbhu.ac.in"
+  },
+  "website": "https://www.iitbhu.ac.in",
+  "sources": {
+    "overview": "https://www.iitbhu.ac.in",
+    "fees": "https://www.iitbhu.ac.in/admissions/fee-structure",
+    "placements": "https://www.iitbhu.ac.in/placement",
+    "admissions": "https://www.iitbhu.ac.in/admissions",
+    "campus": "https://www.iitbhu.ac.in/about",
+    "contact": "https://www.iitbhu.ac.in/contact"
+  },
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website"
+}

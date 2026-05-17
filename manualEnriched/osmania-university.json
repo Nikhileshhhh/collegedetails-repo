@@ -1,0 +1,43 @@
+{
+  "overview": "Osmania University College of Engineering (OUCE), Hyderabad is one of the oldest and most prestigious engineering colleges in South India, established in 1929. It is a constituent college of Osmania University, a state university established in 1918. The college is approved by AICTE and accredited by NBA. OUCE has been ranked in the 151-200 band in NIRF India Rankings 2025. The institution has produced many notable alumni including former ISRO chairmen and leading industrialists. It offers undergraduate and postgraduate programs in various branches of engineering and technology.",
+  "accreditation": "NBA Accredited, AICTE approved, UGC recognized, NAAC A+ Grade (Osmania University)",
+  "coursesAndFees": [
+    { "program": "B.E. (CSE)", "duration": "4 Years", "tuitionFee": "₹32,000/year (Convenor)" },
+    { "program": "B.E. (ECE)", "duration": "4 Years", "tuitionFee": "₹32,000/year (Convenor)" },
+    { "program": "B.E. (EEE)", "duration": "4 Years", "tuitionFee": "₹32,000/year (Convenor)" },
+    { "program": "B.E. (ME)", "duration": "4 Years", "tuitionFee": "₹32,000/year (Convenor)" },
+    { "program": "B.E. (Civil)", "duration": "4 Years", "tuitionFee": "₹32,000/year (Convenor)" },
+    { "program": "B.E. (IT)", "duration": "4 Years", "tuitionFee": "₹32,000/year (Convenor)" },
+    { "program": "M.E. (Various Specializations)", "duration": "2 Years", "tuitionFee": "₹20,000/year" },
+    { "program": "Ph.D (Engineering)", "duration": "3-5 Years", "tuitionFee": "₹20,000/year" }
+  ],
+  "placements": {
+    "avgSalary": "₹5.50 LPA",
+    "medianSalary": "₹4.50 LPA",
+    "highestSalary": "₹18 LPA",
+    "highestDomestic": "",
+    "placementRate": "70%",
+    "totalOffers": "250+",
+    "companiesVisited": "60+",
+    "internationalOffers": "",
+    "topRecruiters": ["TCS", "Infosys", "Wipro", "Cognizant", "HCL", "Tech Mahindra", "Capgemini", "L&T", "BHEL", "NTPC", "DRDO", "BEL", "ECIL", "Deloitte", "IBM"]
+  },
+  "admissions": {
+    "examsAccepted": ["TG EAPCET (B.E.)", "GATE (M.E.)", "OU-CET (PG)"],
+    "admissionProcess": "B.E.: TG EAPCET counselling through TSCHE. Being a university college, seats are filled through convenor quota only. M.E.: GATE score + university-level counselling.",
+    "importantDates": "TG EAPCET: May 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "1600 acres (Osmania University campus)",
+    "facilities": ["Central Library (Osmania University Library - one of the largest in Asia)", "Engineering College Library", "Computer Labs", "Sports Ground", "Indoor Stadium", "Gymnasium", "Hostels (Boys & Girls)", "Health Centre", "Canteen", "Wi-Fi Campus", "Osmania University Arts College", "Tarnaka Campus Labs"],
+    "specialNote": "OUCE is located within the historic Osmania University campus, featuring the iconic OU Arts College building with Indo-Saracenic architecture. The campus is one of the most beautiful in India."
+  },
+  "contact": {
+    "phone": "+91-40-2709 8043",
+    "email": "principal@ouce.osmania.ac.in",
+    "address": "Osmania University, Amberpet, Hyderabad – 500007, Telangana, India"
+  },
+  "website": "https://www.osmania.ac.in",
+  "lastVerified": "2026-04-09",
+  "verifiedBy": "official-website"
+}

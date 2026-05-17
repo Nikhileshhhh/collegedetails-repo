@@ -1,0 +1,85 @@
+{
+  "overview": "Golden Valley Integrated Campus (GVIC), established in 2009, is a private engineering and management institution located in Madanapalle, Annamayya District (formerly Chittoor), Andhra Pradesh. The college is known for its integrated approach, offering a variety of technical and professional programs within a single campus. It emphasizes a mix of academic learning and practical exposure, aiming to serve the educational needs of the Rayalaseema region.",
+  "accreditation": "Approved by AICTE, New Delhi. Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA). Recognized by the Government of Andhra Pradesh.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, ME, Civil, IoT)",
+      "duration": "4 Years",
+      "totalFees": "₹1,86,800 (Approx. ₹46,700 per year)",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics + AP EAPCET rank"
+    },
+    {
+      "course": "MBA (Human Resource, Finance, Marketing, Systems, Big Data Analytics)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI & Embedded Systems, Structural Engg, Power Electronics)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 - ₹2,00,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE, Computer Engineering)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA - ₹3.5 LPA",
+    "medianSalary": "₹3.2 LPA",
+    "highestSalary": "₹5.0 LPA - ₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "150+ (Recent cycles)",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "IBM",
+      "HCL Technologies",
+      "Dell",
+      "Virtusa",
+      "HDFC Bank"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are strictly governed by the Andhra Pradesh State Council of Higher Education (APSCHE). 70% of seats (Category A) are filled via state-level web counseling based on entrance exam ranks. 30% are Management Quota (Category B) seats filled based on merit or JEE scores. Counseling Code: GVIC.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP ICET 2026: May 2026; B.Tech Counseling: Tentatively July 2026."
+  },
+  "campus": {
+    "area": "Acres of modern infrastructure on Kadiri Road",
+    "facilities": [
+      "ICT Enabled Smart Classrooms",
+      "Well-equipped specialized Engineering Laboratories",
+      "Central Library with Digital Resource Access",
+      "Separate In-campus Hostels for Boys and Girls",
+      "Auditorium & Seminar Halls for workshops",
+      "Sports Fields (Cricket, Volleyball) & Indoor Games",
+      "Hygienic Canteen & Drinking Water Facility",
+      "Transport (Fleet of buses covering Madanapalle and nearby areas)"
+    ],
+    "specialNote": "The campus is situated in a quiet, pollution-free environment ideal for academic focus. It places significant emphasis on Campus Recruitment Training (CRT) and soft skills workshops starting from the third year to enhance students' corporate readiness."
+  },
+  "contact": {
+    "phone": "+91 9281023825, 08571-280719",
+    "email": "admissions@gvic.ac.in",
+    "address": "Kadiri Road, Angallu Post, Madanapalle, Annamayya District, Andhra Pradesh - 517325",
+    "admissionsEmail": "principal@gvic.ac.in"
+  },
+  "website": "https://www.gvic.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

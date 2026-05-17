@@ -1,0 +1,86 @@
+{
+  "overview": "Eluru College of Engineering and Technology (ECET), established in 2008, is a private, self-financed institution located in Eluru, Andhra Pradesh. Managed by the Padmavati Educational Society, the college aims to provide high-quality technical education to rural and semi-urban students. It is situated on a 13-acre lush green campus and is recognized for its disciplined academic environment and focus on professional skill development.",
+  "accreditation": "Approved by AICTE, New Delhi. Affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, ECE, EEE, Mechanical, Data Science)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 (Approx. ₹40,000 per year)",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹1,20,000 (Approx. ₹40,000 per year)",
+      "eligibility": "Diploma in Engineering with valid AP ECET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation in any stream + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI, Digital Electronics, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.5 LPA",
+    "medianSalary": "₹3.5 LPA - ₹4.0 LPA",
+    "highestSalary": "₹10.0 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "70% - 75%",
+    "totalOffers": "250+",
+    "companiesVisited": "35+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Cognizant",
+      "Accenture",
+      "IBM",
+      "HCL Technologies",
+      "Capgemini",
+      "Tech Mahindra",
+      "Deloitte"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP ECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (APSCHE). 70% of seats (Category A) are filled via entrance ranks. The remaining 30% (Category B) are Management Quota seats filled based on merit. Counseling Code: ELRU.",
+    "importantDates": "AP EAPCET 2026: May 12–15 & 18, 2026; AP ICET 2026: May 2026; B.Tech Counseling: July 2026."
+  },
+  "campus": {
+    "area": "13 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Well-equipped Engineering Laboratories",
+      "Central Library with Digital Access",
+      "Separate Hostels for Boys and Girls",
+      "Cafeteria",
+      "Auditorium & Seminar Halls",
+      "Sports Grounds (Cricket, Volleyball)",
+      "Transportation (Fleet covering Eluru and nearby regions)"
+    ],
+    "specialNote": "The college emphasizes 'Campus Recruitment Training' (CRT) starting from the third year, involving soft skills, aptitude, and technical coding sessions to prepare students for top-tier IT companies."
+  },
+  "contact": {
+    "phone": "08812-215511, +91 9505500057",
+    "email": "ecet.eluru@gmail.com",
+    "address": "Chuttigunta, Apparaopalem, Duggirala, Eluru District, Andhra Pradesh - 534002",
+    "admissionsEmail": "principal@eluruecet.ac.in"
+  },
+  "website": "http://www.eluruecet.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,124 @@
+{
+  "overview": "The University of Hyderabad (UoH), popularly known as Hyderabad Central University (HCU), is a premier public central research university and an Institution of Eminence known for its strong research ecosystem, interdisciplinary education, and academic excellence.",
+  "accreditation": "NAAC A+ Grade (Cycle 3) with a CGPA of 3.28/4.00.",
+  "coursesAndFees": [
+    {
+      "program": "Integrated M.Sc",
+      "duration": "5 Years",
+      "tuitionFee": "₹10,340 – ₹13,860 per year"
+    },
+    {
+      "program": "Integrated M.Tech (CSE / Materials)",
+      "duration": "5 Years",
+      "tuitionFee": "₹43,410 – ₹55,000 per year"
+    },
+    {
+      "program": "M.A. (Various Disciplines)",
+      "duration": "2 Years",
+      "tuitionFee": "₹7,690 – ₹9,650 per year"
+    },
+    {
+      "program": "M.Sc (Biotechnology / Health Psychology)",
+      "duration": "2 Years",
+      "tuitionFee": "₹24,000 – ₹32,000 per year"
+    },
+    {
+      "program": "MBA (General Management)",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,00,000 – ₹1,05,000 per year"
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 Years",
+      "tuitionFee": "₹39,000 – ₹45,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "Integrated UG-PG: ₹7.30 LPA; 3-Year PG: ₹7.00 LPA; 2-Year PG: ₹6.75 LPA",
+    "medianSalary": "MBA: ₹6.25 LPA; M.Tech: ₹6.60 LPA",
+    "highestSalary": "₹46.00 LPA (M.Tech IT, 2024–25 Batch)",
+    "highestDomestic": "₹46.00 LPA",
+    "placementRate": "MBA reached nearly 98% placement rate in 2023. Strong placements across technology and management domains.",
+    "totalOffers": "550+ offers across 180+ organizations during 2024-25 placement season",
+    "companiesVisited": "TCS, Deloitte, Oracle, Intel, Accenture, Novartis, ICICI Bank, GE, Teradata, Exim Bank",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Deloitte",
+      "Oracle",
+      "Intel",
+      "Accenture",
+      "Novartis",
+      "ICICI Bank",
+      "GE",
+      "Teradata",
+      "Exim Bank"
+    ]
+  },
+  "rankings": {
+    "nirf2025": {
+      "university": "18th in India",
+      "overall": "26th in India",
+      "researchInstitutions": "32nd in India"
+    },
+    "qsWorldRanking2026": "801-850 band globally"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "CUET PG",
+      "CUET UG",
+      "GATE",
+      "CAT"
+    ],
+    "admissionProcess": "Admissions are based on national-level entrance examinations followed by university counseling and selection procedures depending on the program.",
+    "importantDates": "Admissions generally follow CUET, GATE, and CAT counseling schedules along with the University of Hyderabad academic calendar."
+  },
+  "campus": {
+    "area": "2,300 acres",
+    "hostels": "23 hostels",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Centres",
+      "Computer Labs",
+      "Sports Complex",
+      "Health Centre",
+      "Auditorium",
+      "Wi-Fi Campus",
+      "Innovation & Research Facilities"
+    ],
+    "hostelFees": {
+      "roomRent": "₹1,000 per year",
+      "messCharges": "₹2,500 – ₹3,500 per month",
+      "messDeposit": "₹2,500 – ₹5,000 refundable",
+      "otherCharges": [
+        "Crockery Fee: ₹250",
+        "Caution Money: ₹600"
+      ]
+    },
+    "specialNote": "One-time admission fees range approximately from ₹2,340 – ₹5,000 depending on the course. UoH is primarily a residential university."
+  },
+  "scholarships": {
+    "studentAidFund": "Available for students with annual family income below ₹2 Lakhs.",
+    "meritCumMeans": "Scholarships available for Integrated and PG students based on merit and economic background.",
+    "scstSupport": "SC/ST students may receive hostel fee concessions and additional support.",
+    "researchFellowships": "Ph.D. scholars may receive JRF/SRF or university fellowships ranging from ₹8,000 – ₹31,000 per month."
+  },
+  "contact": {
+    "phone": "+91-40-2313-2102",
+    "email": "registrar@uohyd.ac.in",
+    "address": "University of Hyderabad, Prof. C.R. Rao Road, Gachibowli, Hyderabad – 500046, Telangana, India",
+    "admissionsEmail": "registrar@uohyd.ac.in"
+  },
+  "website": "https://uohyd.ac.in",
+  "lastVerified": "2026-05-12",
+  "verifiedBy": "official-website-and-placement-data",
+  "sources": {
+    "overview": "https://uohyd.ac.in",
+    "placements": "https://uohyd.ac.in/placements",
+    "fees": "https://uohyd.ac.in/admissions",
+    "rankings": "https://www.nirfindia.org",
+    "contact": "https://uohyd.ac.in/contact-us"
+  }
+}

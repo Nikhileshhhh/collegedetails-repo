@@ -1,0 +1,79 @@
+{
+  "overview": "Global Institute of Engineering and Technology (GIET), established in 2006, is a premier autonomous institution located in Moinabad, near Hyderabad. Managed by the Madina Education and Welfare Society (MEWS), the college is dedicated to providing high-quality technical education with a focus on holistic development. It was granted Autonomous status by the UGC and is known for its multi-cultural campus environment, strong emphasis on ethical values, and proactive training programs that bridge the gap between academia and the global industry.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC. Approved by AICTE, New Delhi. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH). ISO 9001:2015 Certified.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,60,000 - ₹3,00,000 (Approx. ₹65,000 - ₹75,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + TG EAPCET rank"
+    },
+    {
+      "course": "MBA (HR, Finance, Marketing, Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹80,000 - ₹1,00,000 (Approx. ₹40,000 - ₹50,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + TG ICET rank"
+    },
+    {
+      "course": "M.Tech (Embedded Systems, Structural Engineering, CSE)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000 (Approx. ₹57,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / TG PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.8 LPA - ₹4.5 LPA",
+    "medianSalary": "₹4.0 LPA",
+    "highestSalary": "₹10.0 LPA - ₹15.0 LPA",
+    "highestDomestic": "₹15.0 LPA",
+    "placementRate": "75% - 85%",
+    "totalOffers": "250+ (Across recent batches)",
+    "companiesVisited": "45+",
+    "internationalOffers": "Occasional (Middle East and SE Asia via alumni network)",
+    "topRecruiters": [
+      "Wipro",
+      "Infosys",
+      "TCS",
+      "Cognizant",
+      "Accenture",
+      "Amazon",
+      "Genpact",
+      "Tech Mahindra",
+      "Google (Contractual)",
+      "Teleperformance"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (EAMCET)",
+      "TG ICET",
+      "TG PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "70% of seats (Category A) are filled via TGCHE state-level counseling based on TG EAPCET ranks. 30% are Management Quota (Category B) seats filled based on institutional merit. Admission follows the rules of the Telangana State Council of Higher Education. Counseling Code: GLOB.",
+    "importantDates": "TG EAPCET 2026: May 9–11, 2026; Results: Mid-May 2026; TG ICET 2026: May 13–14, 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "25 - 28 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & Digital Library",
+      "Specialized Centers for AI/ML and Robotics",
+      "Spacious Laboratories with high-end configurations",
+      "Separate Residential Facilities for Boys and Girls",
+      "Auditorium & Multiple Seminar Halls",
+      "Sports Complex (Cricket, Football, Basketball Courts)",
+      "On-campus Cafeteria serving diverse cuisines",
+      "Transport (Fleet of buses covering all major suburbs of Hyderabad)"
+    ],
+    "specialNote": "GIET is uniquely known for its 'Global Technical Fest' and annual industrial tours. The college emphasizes soft skills and personality development through its dedicated 'Training & Placement Cell' starting from the second year of B.Tech. Its location in Moinabad provides a serene, pollution-free learning environment while remaining close to Hyderabad's tech corridor."
+  },
+  "contact": {
+    "phone": "+91 9100253330, 08417-252233",
+    "email": "info@globalhyd.edu.in",
+    "address": "Chilkur(V), Moinabad(M), RR District, Hyderabad, Telangana - 501504",
+    "admissionsEmail": "principal@globalhyd.edu.in"
+  },
+  "website": "https://www.globalhyd.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

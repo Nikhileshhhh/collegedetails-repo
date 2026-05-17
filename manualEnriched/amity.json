@@ -1,0 +1,139 @@
+{
+  "overview": "Amity University, particularly its flagship Noida campus, is one of India's leading private universities known for its world-class infrastructure, global collaborations, strong industry linkages, and high-volume placement records across engineering, management, and professional programs.",
+  "accreditation": "NAAC 'A+' Grade Accredited University.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (CSE)",
+      "duration": "4 Years",
+      "tuitionFee": "₹3,50,000 – ₹4,20,000 per year (Non-Sponsored category)"
+    },
+    {
+      "program": "B.Tech (Other Engineering Branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹2,25,000 – ₹3,20,000 per year"
+    },
+    {
+      "program": "BBA",
+      "duration": "3 Years",
+      "tuitionFee": "₹3,50,000 – ₹4,00,000 per year"
+    },
+    {
+      "program": "BCA",
+      "duration": "3 Years",
+      "tuitionFee": "₹1,65,000 – ₹2,20,000 per year"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "₹7.24 Lakhs – ₹11.60 Lakhs total for 2 years (Non-Sponsored category)"
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,60,000 – ₹2,00,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹5.00 – ₹8.50 LPA overall depending on course.",
+    "medianSalary": "UG 4-Year: ₹6.00 LPA | PG 2-Year (MBA): ₹8.50 LPA | UG 3-Year: ₹4.08 LPA (NIRF 2025).",
+    "highestSalary": "₹2.00 CPA International | ₹75.00 LPA National.",
+    "highestDomestic": "₹75.00 LPA",
+    "placementRate": "MBA: Nearly 100% | B.Tech: ~85–95%",
+    "totalOffers": "6,000+ offers in 2024–25 session.",
+    "companiesVisited": "800+ companies including Amazon, Google, Microsoft, Palo Alto Networks, Cisco, IBM, TCS, KPMG, Cognizant, Samsung.",
+    "internationalOffers": "International packages up to ₹2.00 Crore per annum.",
+    "topRecruiters": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Palo Alto Networks",
+      "Cisco",
+      "IBM",
+      "TCS",
+      "KPMG",
+      "Cognizant",
+      "Samsung"
+    ]
+  },
+  "rankings": {
+    "nirfUniversity2025": "22nd Best University in India",
+    "nirfOverall2025": "37th",
+    "nirfManagement2025": "49th",
+    "nirfPharmacy2025": "18th",
+    "nirfArchitecture2025": "25th",
+    "qsWorldRanking2026": "951–1000 band globally"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "CUET",
+      "AMCAT",
+      "CAT",
+      "MAT",
+      "XAT",
+      "GMAT",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are based on entrance exams, merit in qualifying examinations, and university-specific selection processes depending on the program.",
+    "importantDates": "Admission timelines vary by program and are announced annually on the official Amity University admission portal.",
+    "directAdmission": "Students scoring 80% or above in Class XII are exempted from the selection process for certain programs."
+  },
+  "campus": {
+    "area": "1000+ acres across multiple campuses; Noida campus is the flagship campus.",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Wi-Fi Campus",
+      "Auditoriums",
+      "Sports Complex",
+      "Research Labs",
+      "Innovation Centers",
+      "Medical Facilities",
+      "Food Courts",
+      "Transport Services",
+      "Smart Classrooms"
+    ],
+    "specialNote": "One-time refundable caution deposit of ₹20,000 applicable for many programs. Hostel security deposit of ₹10,000 is refundable."
+  },
+  "hostelFees": {
+    "nonACSharing": "₹85,000 – ₹1,00,000 per year.",
+    "acSharing": "₹1,65,000 – ₹2,04,000 per year.",
+    "messFee": "Approximately ₹40,000 – ₹50,000 per year or based on actual consumption.",
+    "securityDeposit": "₹10,000 refundable."
+  },
+  "scholarships": {
+    "meritScholarship": [
+      {
+        "criteria": "95% aggregate in Class XII",
+        "benefit": "100% scholarship"
+      },
+      {
+        "criteria": "90% aggregate in Class XII",
+        "benefit": "50% scholarship"
+      },
+      {
+        "criteria": "88% aggregate in Class XII",
+        "benefit": "25% scholarship"
+      }
+    ],
+    "amityAdvantage": "10% fee concession for Amity students continuing from UG to PG programs."
+  },
+  "contact": {
+    "phone": "+91-120-2445252",
+    "email": "admissions@amity.edu",
+    "address": "Amity University, Sector 125, Noida, Uttar Pradesh – 201313, India",
+    "admissionsEmail": "admission@amity.edu"
+  },
+  "website": "https://www.amity.edu",
+  "lastVerified": "2026-05-12",
+  "verifiedBy": "official-website-and-placement-reports",
+  "sources": {
+    "overview": "https://www.amity.edu",
+    "fees": "https://www.amity.edu/admissions",
+    "placements": "https://www.amity.edu/placement",
+    "admissions": "https://www.amity.edu/admissions",
+    "campus": "https://www.amity.edu/about-us",
+    "contact": "https://www.amity.edu/contact-us"
+  }
+}

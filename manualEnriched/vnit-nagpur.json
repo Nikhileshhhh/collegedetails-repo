@@ -1,0 +1,127 @@
+{
+  "overview": "Visvesvaraya National Institute of Technology (VNIT) Nagpur, located in Ambazari, Nagpur, Maharashtra, is a premier public technical university established in 1960. Originally known as Visvesvaraya Regional College of Engineering (VRCE), it was elevated to a National Institute of Technology and granted Deemed University status in 2002, subsequently designated as an Institute of National Importance in 2007. VNIT Nagpur is widely recognized for its strong engineering foundation, research ecosystem, and academic excellence.",
+  "accreditation": "Institute of National Importance under the NIT Act, 2007. Not NAAC accredited due to autonomous statutory status; academic programs are continuously accredited by the National Board of Accreditation (NBA).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.Arch (Undergraduate)",
+      "duration": "4–5 years",
+      "tuitionFee": "₹62,500 tuition + ~₹12,500 institutional charges per semester for General/OBC students with family income above ₹5 lakh (~₹75,000 total). Income-based tuition remissions and full waivers available for eligible categories. Hostel & Mess: ~₹37,000 per semester."
+    },
+    {
+      "program": "B.Tech (Income ₹1L – ₹5L)",
+      "duration": "4 years",
+      "tuitionFee": "2/3rd tuition remission applicable. Approximate semester fee: ~₹33,333 plus applicable institutional and hostel charges."
+    },
+    {
+      "program": "B.Tech (Income below ₹1L)",
+      "duration": "4 years",
+      "tuitionFee": "100% tuition fee waiver. Only institutional charges (~₹12,500 per semester) applicable."
+    },
+    {
+      "program": "SC / ST / PwD Undergraduate Programs",
+      "duration": "4–5 years",
+      "tuitionFee": "Complete tuition fee exemption. Only institutional charges (~₹12,500 per semester) applicable."
+    },
+    {
+      "program": "M.Tech Programs",
+      "duration": "2 years",
+      "tuitionFee": "~₹35,000 per semester (annual structure ~₹70,000). Eligible GATE-qualified students receive MHRD stipend."
+    },
+    {
+      "program": "M.Sc Programs",
+      "duration": "2 years",
+      "tuitionFee": "~₹7,500 per semester (annual structure ~₹15,000)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "Overall B.Tech: ₹10.70 LPA (2025)",
+    "medianSalary": "₹8.30 LPA – ₹10.00 LPA (Overall B.Tech 2025)",
+    "highestSalary": "₹64.00 LPA (B.Tech CSE / ECE, 2025)",
+    "highestDomestic": "₹64.00 LPA",
+    "placementRate": "Overall B.Tech: 85.16%",
+    "totalOffers": "696 total offers including 604 B.Tech offers during 2025 placement drive",
+    "companiesVisited": "136–157 participating companies including Google, Oracle, Goldman Sachs, Citi India, Deloitte USI, Siemens, L&T, Vedanta, ZS Associates, HPCL, BPCL, Morgan Stanley, Accenture, and Wells Fargo",
+    "internationalOffers": "High-value international and global technology hiring observed across software and consulting sectors",
+    "topRecruiters": [
+      "Google",
+      "Oracle",
+      "Goldman Sachs",
+      "Citi India",
+      "Deloitte USI",
+      "Siemens",
+      "L&T",
+      "Vedanta",
+      "ZS Associates",
+      "HPCL",
+      "BPCL",
+      "Morgan Stanley",
+      "Accenture",
+      "Wells Fargo"
+    ],
+    "branchWisePlacement": {
+      "Computer Science Engineering": "93.40%",
+      "Mechanical Engineering": "95.12%",
+      "Electrical Engineering": "92.55%",
+      "Electronics & Communication Engineering": "88.89%"
+    },
+    "branchWiseAverageSalary": {
+      "Computer Science Engineering": "₹17.30 LPA",
+      "Electronics & Communication Engineering": "₹10.16 LPA",
+      "Electrical Engineering": "₹9.99 LPA"
+    }
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "IIT JAM",
+      "NATA"
+    ],
+    "admissionProcess": "Admissions to undergraduate, postgraduate, and doctoral programs are conducted through national-level entrance examinations followed by centralized counseling processes such as JoSAA, CCMT, and CCMN.",
+    "importantDates": "Admission timelines follow JoSAA, CCMT, CCMN, and VNIT academic calendar schedules."
+  },
+  "campus": {
+    "area": "Approximately 215 acres",
+    "facilities": [
+      "Boys Hostels",
+      "Girls Hostels",
+      "Central Library",
+      "Computer Centre",
+      "Research Laboratories",
+      "Innovation & Incubation Facilities",
+      "Sports Complex",
+      "Medical Centre",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Banking Facilities",
+      "Cafeterias"
+    ],
+    "specialNote": "Hostel and living expenses are approximately ₹37,000 per semester including hostel rent, utilities, and mess charges."
+  },
+  "contact": {
+    "phone": "+91-712-280-1566",
+    "email": "registrar@vnit.ac.in",
+    "address": "Visvesvaraya National Institute of Technology, South Ambazari Road, Nagpur – 440010, Maharashtra, India",
+    "admissionsEmail": "admissions@vnit.ac.in"
+  },
+  "website": "https://vnit.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-records",
+  "scholarships": {
+    "availableSchemes": [
+      "Income-Based Tuition Fee Waivers",
+      "Central Sector Top-Class Education Schemes",
+      "MHRD GATE Assistantships",
+      "MahaDBT State Scholarships"
+    ],
+    "details": "Eligible students receive 100% or 66.6% tuition fee remissions based on parental income criteria. GATE-qualified M.Tech students receive ₹12,400 monthly stipend. Doctoral scholars receive ₹31,000–₹35,000 monthly fellowships."
+  },
+  "sources": {
+    "overview": "https://vnit.ac.in",
+    "fees": "https://vnit.ac.in/academics/fee-structure/",
+    "placements": "https://vnit.ac.in/training-placement/",
+    "admissions": "https://vnit.ac.in/admissions/",
+    "campus": "https://vnit.ac.in/about-vnit/",
+    "contact": "https://vnit.ac.in/contact-us/"
+  }
+}

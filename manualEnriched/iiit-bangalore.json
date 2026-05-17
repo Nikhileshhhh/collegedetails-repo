@@ -1,0 +1,119 @@
+{
+  "overview": "International Institute of Information Technology Bangalore (IIIT Bangalore), located in Electronic City Phase 1, Bengaluru, Karnataka, is a premier autonomous public-private partnership (PPP) university established in 1999. Jointly promoted by the Government of Karnataka and the IT industry, the institute is renowned for its research-driven ecosystem, advanced technology programs, industry collaboration, and strong placement outcomes.",
+  "accreditation": "NAAC 'A+' accredited autonomous institute.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Computer Science & Engineering (CSE)",
+      "duration": "4 years",
+      "tuitionFee": "₹5,52,000 per academic year (Years 1 & 2 baseline)"
+    },
+    {
+      "program": "Integrated M.Tech (iMTech) CSE / ECE",
+      "duration": "5 years",
+      "tuitionFee": "Years 1 & 2: ₹5,52,000/year; Year 3: ₹6,08,000/year; Year 4: ₹6,70,000/year"
+    },
+    {
+      "program": "B.Tech Data Science & AI (DSAI)",
+      "duration": "4 years",
+      "tuitionFee": "₹5,52,000 per academic year"
+    },
+    {
+      "program": "M.Tech Programs",
+      "duration": "2 years",
+      "tuitionFee": "₹5,52,000 per academic year"
+    },
+    {
+      "program": "M.Sc. Digital Society",
+      "duration": "2 years",
+      "tuitionFee": "₹3,84,000 per academic year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹36.75 LPA (iMTech CSE 2025)",
+    "medianSalary": "₹33.00 LPA (iMTech CSE 2025)",
+    "highestSalary": "₹1.45 CPA (iMTech CSE 2025)",
+    "highestDomestic": "₹1.45 CPA",
+    "placementRate": "100% for eligible registered students",
+    "totalOffers": "656 total offers including internships (2025)",
+    "companiesVisited": "Google, Microsoft, Apple, Amazon, Adobe, Goldman Sachs, Nvidia, Flipkart",
+    "internationalOffers": "High-value global and quant-tech offers from multinational firms",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Amazon",
+      "Adobe",
+      "Goldman Sachs",
+      "Nvidia",
+      "Flipkart"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "UG admissions are based on JEE Main ranks through direct institute applications (not through JoSAA). PG admissions are based on GATE scores followed by institute-level selection processes.",
+    "importantDates": "Admission timelines follow IIIT Bangalore admission notifications and academic calendar."
+  },
+  "cutoffs": {
+    "jeeMain2025": {
+      "BTech CSE": "Closing Rank: 6,942",
+      "iMTech CSE": "Closing Rank: 7,357",
+      "BTech DSAI": "Closing Rank: 8,432",
+      "BTech ECE": "Closing Rank: 9,500"
+    },
+    "gate2025": {
+      "MTech CSE": "655 – 688",
+      "MTech AI & DS": "596 – 630",
+      "MTech ECE": "552 – 585"
+    }
+  },
+  "campus": {
+    "area": "Urban technology campus located in Electronic City Phase 1, Bengaluru",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Labs",
+      "Innovation Centre",
+      "Auditorium",
+      "Sports Facilities",
+      "Wi-Fi Enabled Campus",
+      "Startup Ecosystem",
+      "Industry Collaboration Centres"
+    ],
+    "specialNote": "Residential stay is mandatory. Hostel charges are ₹78,000 annually plus a refundable hostel caution deposit of ₹15,000. Mess charges are ₹57,600 annually."
+  },
+  "scholarships": [
+    {
+      "name": "Utkarsha Scholarship",
+      "benefit": "100% tuition fee waiver for top JEE Main rankers"
+    },
+    {
+      "name": "Industry Sponsored Fellowships",
+      "benefit": "Research and thesis stipends sponsored by companies like Siemens and Intel"
+    },
+    {
+      "name": "GATE Fellowship",
+      "benefit": "₹12,400 per month stipend for eligible M.Tech students"
+    }
+  ],
+  "contact": {
+    "phone": "+91-80-4140-7777",
+    "email": "info@iiitb.ac.in",
+    "address": "International Institute of Information Technology Bangalore, Electronic City Phase 1, Bengaluru – 560100, Karnataka, India",
+    "admissionsEmail": "admissions@iiitb.ac.in"
+  },
+  "website": "https://www.iiitb.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-reports",
+  "sources": {
+    "overview": "https://www.iiitb.ac.in",
+    "fees": "https://www.iiitb.ac.in",
+    "placements": "https://www.iiitb.ac.in/placement-statistics",
+    "admissions": "https://www.iiitb.ac.in/admissions",
+    "campus": "https://www.iiitb.ac.in/explore-iiitb",
+    "contact": "https://www.iiitb.ac.in/contact-us"
+  }
+}

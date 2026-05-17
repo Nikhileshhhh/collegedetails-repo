@@ -1,0 +1,141 @@
+{
+  "overview": "Christ University (Deemed to be University), headquartered in Hosur Road, Bengaluru, Karnataka, is a premier multi-disciplinary private deemed university established in 1969. Originally founded as Christ College by the Carmelites of Mary Immaculate (CMI), it became the first college in Karnataka to be accredited by NAAC in 1998. The university is known for its holistic education model, academic discipline, vibrant campus culture, and highly ranked programs in management, commerce, law, humanities, sciences, and technology.",
+  "accreditation": "NAAC A+ Accredited; UGC Grade-1 Autonomous Deemed University; First institution in Karnataka to receive NAAC accreditation.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Programs",
+      "duration": "4 years",
+      "tuitionFee": "₹5,20,000 – ₹8,60,000 (full course)"
+    },
+    {
+      "program": "BBA Programs",
+      "duration": "3–4 years",
+      "tuitionFee": "₹2,90,000 – ₹7,50,000 (full course)"
+    },
+    {
+      "program": "B.Com Programs",
+      "duration": "3–4 years",
+      "tuitionFee": "₹2,50,000 – ₹12,50,000 (full course)"
+    },
+    {
+      "program": "BA LLB (Hons) / BBA LLB",
+      "duration": "5 years",
+      "tuitionFee": "₹14,05,000 – ₹15,05,000 (full course)"
+    },
+    {
+      "program": "MBA Programs",
+      "duration": "2 years",
+      "tuitionFee": "₹4,80,000 – ₹9,50,000 (full course)"
+    },
+    {
+      "program": "BCA Programs",
+      "duration": "3 years",
+      "tuitionFee": "₹6,60,000 – ₹7,40,000 (full course)"
+    },
+    {
+      "program": "B.Sc Programs",
+      "duration": "3–4 years",
+      "tuitionFee": "₹1,30,000 – ₹8,40,000 (full course)"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹7.00 LPA (Overall Campus Average 2025)",
+    "medianSalary": "₹5.36 LPA (UG Overall Median 2025)",
+    "highestSalary": "₹33.00 LPA (PG/MBA 2025)",
+    "highestDomestic": "₹33.00 LPA",
+    "placementRate": "MBA: 100%; School of Commerce: 49.20%; Social Sciences, Arts & Humanities: ~51.90%",
+    "totalOffers": "4,065 students placed during 2025 drive (2,495 UG and 1,570 PG)",
+    "companiesVisited": "D.E. Shaw & Co., Deloitte, KPMG, PwC, Goldman Sachs, Accenture, EY, JPMorgan Chase, Capgemini, Dell",
+    "internationalOffers": "Selective global corporate opportunities through multinational recruiters",
+    "topRecruiters": [
+      "D.E. Shaw & Co.",
+      "Deloitte",
+      "KPMG",
+      "PwC",
+      "Goldman Sachs",
+      "Accenture",
+      "Ernst & Young (EY)",
+      "JPMorgan Chase",
+      "Capgemini",
+      "Dell"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "CUET (Christ University Entrance Test)",
+      "CAT",
+      "MAT",
+      "CMAT",
+      "XAT",
+      "GMAT",
+      "GRE",
+      "JEE Main",
+      "KCET"
+    ],
+    "admissionProcess": "Admissions are conducted through Christ University Entrance Test (CUET) for most undergraduate programs, followed by Skill Assessment (SA), Micro Presentation (MP), and Personal Interview (PI). MBA and professional programs accept national-level entrance examinations along with further evaluation rounds.",
+    "importantDates": "Admissions follow Christ University academic calendar and national examination schedules.",
+    "cutoffs": {
+      "MBA": {
+        "MAT": "80+ Percentile",
+        "CMAT": "70+ Percentile",
+        "CAT": "60+ Percentile",
+        "XAT": "60+ Percentile",
+        "GMAT": "450+ Score",
+        "GRE": "295+ Score"
+      },
+      "BTech": {
+        "JEE Main": "60,000–70,000 rank for CSE/IT; up to 1,20,000 for core branches",
+        "KCET": {
+          "CSE": "~10,000",
+          "ECE": "~18,000",
+          "Mechanical/Civil": "Up to 32,000"
+        }
+      },
+      "UGPrograms": {
+        "BBA_BCom_Hons": "Expected CUET score: 70–90 out of 120 with minimum 60% in Class 12"
+      }
+    }
+  },
+  "campus": {
+    "area": "Multiple campuses across Bengaluru, Pune Lavasa, and Delhi NCR",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Sports Complex",
+      "Auditoriums",
+      "Research Labs",
+      "Innovation & Incubation Centres",
+      "Wi-Fi Enabled Campus",
+      "Food Courts",
+      "Medical Facilities",
+      "Counselling Services",
+      "Transportation Services"
+    ],
+    "specialNote": "The university follows a highly disciplined academic ecosystem with emphasis on holistic development, co-curricular excellence, and global exposure.",
+    "hostelFees": "₹38,000 – ₹2,52,000 per annum depending on room category and accommodation type",
+    "messCharges": "Approximately ₹3,500 – ₹5,000 per month"
+  },
+  "contact": {
+    "phone": "+91-80-4012-9100",
+    "email": "mail@christuniversity.in",
+    "address": "Christ University, Hosur Road, Bengaluru – 560029, Karnataka, India",
+    "admissionsEmail": "admissions@christuniversity.in"
+  },
+  "website": "https://christuniversity.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-data",
+  "scholarships": {
+    "meritScholarships": "10% to 50% tuition fee remission for top academic performers",
+    "sportsScholarships": "Fee waivers and support for students excelling in sports, cultural activities, and technical competitions",
+    "financialAid": "Flexible fee installment and financial support options available for economically weaker students"
+  },
+  "sources": {
+    "overview": "https://christuniversity.in",
+    "fees": "https://christuniversity.in/admission",
+    "placements": "https://christuniversity.in/placements",
+    "admissions": "https://christuniversity.in/admission",
+    "campus": "https://christuniversity.in/campus",
+    "contact": "https://christuniversity.in/contact-us"
+  }
+}

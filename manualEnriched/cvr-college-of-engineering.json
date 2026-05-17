@@ -1,0 +1,73 @@
+{
+  "overview": "CVR College of Engineering, established in 2001 by the Cherabuddi Educational Society, is a premier autonomous engineering institution in Hyderabad. Consistently ranked among the top private colleges in Telangana, it is known for its rigorous academic standards, high research output, and exceptional placement records. The college is situated on a sprawling 80-acre campus in Vastunagar, Mangalpalli.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. All eligible undergraduate programs are accredited by the National Board of Accreditation (NBA) under Tier-1. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, IT, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹4,60,000 (₹1,15,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science, VLSI, Structural Engg, Embedded Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹1,20,000 - ₹1,40,000",
+      "eligibility": "B.E./B.Tech + GATE/TS PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹6.5 LPA - ₹7.2 LPA",
+    "medianSalary": "₹6.0 LPA",
+    "highestSalary": "₹40.0 LPA - ₹48.0 LPA (Top record)",
+    "highestDomestic": "₹48.0 LPA",
+    "placementRate": "90% - 95% (For eligible students)",
+    "totalOffers": "1,200+ (2024-25 cycle)",
+    "companiesVisited": "100+",
+    "internationalOffers": "Occasional (primarily via Amazon/Microsoft/Google off-campus)",
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Qualcomm",
+      "ServiceNow",
+      "Accenture",
+      "Cognizant",
+      "TCS (Digital & Ninja)",
+      "Infosys",
+      "Oracle",
+      "Commvault"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET (EAMCET)",
+      "TS PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (TGCHE). 70% of seats (Category A) are filled via TS EAPCET ranks. 30% (Category B/Management Quota) are filled based on JEE Main merit or 10+2 marks. CVR is known for having some of the most competitive cutoff ranks in the state.",
+    "importantDates": "TS EAPCET 2026: May 9–11, 2026; Registration Deadline: April 2026; Results: Late May 2026."
+  },
+  "campus": {
+    "area": "80 Acres",
+    "facilities": [
+      "Advanced Center for Research & Development",
+      "State-of-the-art Labs with High-Speed Internet",
+      "Digital Library with IEEE/ASME access",
+      "Separate Hostels (limited availability on-site/nearby)",
+      "Auditorium & Open Air Theatre",
+      "Extensive Sports Facilities (Cricket, Football, Basketball)",
+      "Cafeteria (Hygienic vegetarian/non-vegetarian options)",
+      "Dedicated Transport Fleet (Covers all major routes in Hyderabad)"
+    ],
+    "specialNote": "The college is a recipient of several 'Best Engineering College' awards. It maintains a strong emphasis on coding cultures and research, with students frequently publishing in international journals and winning national-level hackathons."
+  },
+  "contact": {
+    "phone": "08414-661658, +91 9177727401",
+    "email": "principal@cvr.ac.in",
+    "address": "Vastunagar, Mangalpalli (V), Ibrahimpatnam (M), Ranga Reddy District, Telangana - 501510",
+    "admissionsEmail": "admissions@cvr.ac.in"
+  },
+  "website": "https://cvr.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

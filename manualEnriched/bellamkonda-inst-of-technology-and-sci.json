@@ -1,0 +1,77 @@
+{
+  "overview": "Bellamkonda Institute of Technology and Science (BITS), established in 2008, is a prominent pharmaceutical educational institution located in the Prakasam district of Andhra Pradesh. Despite the 'Technology and Science' name, the institution focuses exclusively on Pharmacy education (B.Pharm and M.Pharm) to serve the rural and urban student populations in the region.",
+  "accreditation": "Approved by the Pharmacy Council of India (PCI) and the All India Council for Technical Education (AICTE). Affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "Bachelor of Pharmacy (B.Pharm)",
+      "duration": "4 Years",
+      "totalFees": "₹1,40,000",
+      "eligibility": "10+2 with Physics, Chemistry, and Biology/Mathematics + AP EAPCET rank"
+    },
+    {
+      "course": "M.Pharm (Pharmaceutics)",
+      "duration": "2 Years",
+      "totalFees": "₹1,38,000",
+      "eligibility": "B.Pharm with 50% aggregate + GPAT/AP PGECET"
+    },
+    {
+      "course": "M.Pharm (Pharmaceutical Analysis)",
+      "duration": "2 Years",
+      "totalFees": "₹1,38,000",
+      "eligibility": "B.Pharm with 50% aggregate + GPAT/AP PGECET"
+    },
+    {
+      "course": "M.Pharm (Industrial Pharmacy)",
+      "duration": "2 Years",
+      "totalFees": "₹1,38,000",
+      "eligibility": "B.Pharm with 50% aggregate + GPAT/AP PGECET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹2.8 LPA",
+    "medianSalary": "₹2.5 LPA",
+    "highestSalary": "₹4.5 LPA",
+    "highestDomestic": "₹4.5 LPA",
+    "placementRate": "75%",
+    "totalOffers": "Information varies by batch",
+    "companiesVisited": "10+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Hetero Drugs",
+      "Divis Laboratories",
+      "Aurobindo Pharma",
+      "Sun Pharma",
+      "Apollo Pharmacy"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "GPAT"
+    ],
+    "admissionProcess": "Admissions are primarily conducted through the state-level counseling (APSCHE) based on entrance exam ranks. 70% of seats are under Category A (Convener Quota), and 30% are under Category B (Management Quota).",
+    "importantDates": "AP EAPCET 2026: May 2026; AP PGECET 2026: May-June 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "2.17 Acres",
+    "facilities": [
+      "Well-stocked Library",
+      "Specialized Pharmacy Labs",
+      "Medicinal Garden",
+      "Computer Center",
+      "Sports Facilities",
+      "Cafeteria"
+    ],
+    "specialNote": "The campus is situated in a rural setting in Kambhalapadu, providing a quiet environment for academic focus. While it lacks extensive acreage, it is well-equipped with the mandatory pharmaceutical research laboratories."
+  },
+  "contact": {
+    "phone": "+91 9848560064, 08599-282655",
+    "email": "bitspodili@gmail.com",
+    "address": "Kambhalapadu Village, Podili Mandal, Prakasam District, Andhra Pradesh - 523240",
+    "admissionsEmail": "info@bitspodili.com"
+  },
+  "website": "http://www.bitspodili.com",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

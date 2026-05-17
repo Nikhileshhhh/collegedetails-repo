@@ -1,0 +1,74 @@
+{
+  "overview": "Arjun College of Technology and Science is an autonomous engineering college sponsored by Brilliant Bells Educational Society near Ramoji Film City on the Hyderabad-Vijayawada highway. The official site describes a 10-acre green campus focused on academic delivery, employability, and personality development.",
+  "accreditation": "Autonomous institution; AICTE approved; affiliated to JNTUH; the official college page notes a JNTUH 'A' rating and TASK star status.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - CSE, CSE (AI and ML), ECE",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 67,000/year (current TG EAPCET counseling data)"
+    },
+    {
+      "program": "M.Tech - Computer Science Engineering, VLSI",
+      "duration": "2 Years",
+      "tuitionFee": "Fee not published on current public pages"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "Fee not published on current public pages"
+    },
+    {
+      "program": "Diploma - Computer Engineering, ECE",
+      "duration": "3 Years",
+      "tuitionFee": "Fee not published on current public pages"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Infosys",
+      "IBM",
+      "TCS",
+      "Wipro"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET",
+      "TG ECET"
+    ],
+    "admissionProcess": "B.Tech admissions align with TG EAPCET-based counseling for eligible candidates, while the college also accepts direct enquiries for management and other institutional admissions through its contact channels.",
+    "importantDates": "TG EAPCET and TG ECET schedules are published by Telangana authorities each admission cycle; Arjun shares direct admission guidance through its website and contact team."
+  },
+  "campus": {
+    "area": "10 acres",
+    "facilities": [
+      "Modern library",
+      "Well-equipped laboratories",
+      "Seminar and conference halls",
+      "Outdoor auditorium",
+      "Transport from Hyderabad",
+      "CCTV monitoring",
+      "Canteen",
+      "ATM",
+      "Solar hot-water facility for hostel students"
+    ],
+    "specialNote": "The college emphasizes TASK-linked skill development and in-house placement preparation alongside its scenic Mount Opera campus setting."
+  },
+  "contact": {
+    "phone": "+91-9246150854, +91-9866301410",
+    "email": "principalacts@gmail.com",
+    "address": "Sy.No. 376/7, Batasingaram (V), Abdullapur Mettu (M), R.R. District - 501512, Telangana, India",
+    "admissionsEmail": "hracts265@gmail.com"
+  },
+  "website": "https://arjunengg.com/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "google-assisted"
+}

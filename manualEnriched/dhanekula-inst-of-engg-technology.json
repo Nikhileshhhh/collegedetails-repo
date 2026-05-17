@@ -1,0 +1,86 @@
+{
+  "overview": "Dhanekula Institute of Engineering and Technology (DIET), established in 2009, is a prominent private engineering college located in Ganguru, Vijayawada. Affiliated with JNTU Kakinada, the institution is known for its discipline-centric environment and commitment to technical excellence in the Andhra Pradesh capital region. It holds a NAAC 'B+' accreditation and is approved by AICTE.",
+  "accreditation": "Accredited by NAAC with a 'B+' Grade. Approved by AICTE, New Delhi, and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, IT, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 (Approx. ₹40,000 per year)",
+      "eligibility": "10+2 with 45-55% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Environmental Engineering)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, EEE, ME, ECE, CME)",
+      "duration": "3 Years",
+      "totalFees": "₹72,000 - ₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹1,20,000",
+      "eligibility": "Diploma in Engineering with valid AP ECET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.0 LPA",
+    "medianSalary": "₹3.6 LPA",
+    "highestSalary": "₹9.0 LPA - ₹15.5 LPA (Top records across cycles)",
+    "highestDomestic": "₹15.5 LPA",
+    "placementRate": "60% - 75%",
+    "totalOffers": "350+ (Recent cycle)",
+    "companiesVisited": "45+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Cognizant",
+      "HCL Technologies",
+      "IBM",
+      "Amazon",
+      "Oracle"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP POLYCET",
+      "AP ECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admission for 70% of seats (Category A) is through state-level web counseling conducted by APSCHE based on entrance ranks. The remaining 30% (Category B) are Management Quota seats filled based on merit or JEE scores. Lateral entry is reserved for diploma holders via AP ECET.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP POLYCET 2026 Results: Out (May 6, 2026); Counseling: July–August 2026."
+  },
+  "campus": {
+    "area": "10.28 Acres",
+    "facilities": [
+      "Modern Academic Blocks with ICT Classrooms",
+      "High-tech Engineering & Computing Labs",
+      "Central Library with Digital Access & E-Journals",
+      "Separate Hostels for Boys and Girls",
+      "Cafeteria & Dining Hall",
+      "Sports Courts (Basketball, Volleyball, etc.)",
+      "Medical Dispensary",
+      "Gymnasium",
+      "Transportation (Fleet covering Vijayawada and nearby towns)"
+    ],
+    "specialNote": "The college is noted for its disciplined academic culture and high focus on 'Skill Development' programs. It frequently hosts guest lectures and workshops on emerging tech trends to enhance student industry-readiness."
+  },
+  "contact": {
+    "phone": "+91 866-2583842, +91 9491017088",
+    "email": "diet.principal@gmail.com",
+    "address": "Ganguru, Penamaluru Mandal, Vijayawada, Krishna District, Andhra Pradesh - 521139",
+    "admissionsEmail": "dietadmissions@gmail.com"
+  },
+  "website": "https://diet.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

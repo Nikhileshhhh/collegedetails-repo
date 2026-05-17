@@ -1,0 +1,68 @@
+{
+  "overview": "Damisetty Bala Suresh Institute of Technology (DBSIT), established in 2009 by the Damisetty Srinivasa Naidu family, is an industry-driven technical institution located in Kavali, Nellore district. The college is known for its 'Learning by Doing' philosophy, emphasizing practical industrial orientation and live projects to prepare students for the 21st-century engineering challenges.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE). Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI, ECE, EEE, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,72,000 (₹43,000 per year)",
+      "eligibility": "10+2 with PCM subjects + AP EAPCET rank"
+    },
+    {
+      "course": "Diploma (CSE, ECE, EEE, Mechanical)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA",
+    "medianSalary": "₹3.0 LPA",
+    "highestSalary": "₹8.0 LPA - ₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "150+",
+    "companiesVisited": "25+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Tech Mahindra",
+      "Cognizant",
+      "HCL Technologies",
+      "IBM (AI Training Partner)"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP POLYCET",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level counseling (APSCHE). 70% of seats are filled under the Convener Quota (Category A) based on entrance exam ranks (Counseling Code: DSIT). The remaining 30% are Management Quota (Category B) seats filled based on merit or qualifying marks.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP POLYCET 2026: April 2026; Counseling: June–July 2026."
+  },
+  "campus": {
+    "area": "Acres of lush green, serene environment",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Industry-integrated Laboratories",
+      "Digital Library & Information Center",
+      "On-campus Hostels (Separate for Boys & Girls)",
+      "Canteen & Health Center",
+      "Sports Infrastructure (Shooting Ball, Cricket)",
+      "Transport Facility (Kavali and surrounding regions)"
+    ],
+    "specialNote": "DBSIT emphasizes industry-academia collaboration and frequently hosts technical workshops, such as the 3-day AI training workshop by IBM trainers. It is situated away from the hustle of Kavali town, providing an idyllic atmosphere for focused learning."
+  },
+  "contact": {
+    "phone": "+91 9490373988, +91 9949984685",
+    "email": "dbsinstitutions@gmail.com",
+    "address": "NH-16, D.S.Naidu Nagar, Maddurupadu (Vi), Kavali (M), S.P.S.R Nellore (Dt), Andhra Pradesh - 524201",
+    "admissionsEmail": "dbsinstitutions@gmail.com"
+  },
+  "website": "https://dbsit.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

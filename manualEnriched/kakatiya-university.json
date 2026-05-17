@@ -1,0 +1,41 @@
+{
+  "overview": "Kakatiya University College of Engineering (KUCE), Warangal was established in 1980 as a constituent college of Kakatiya University. It is one of the prominent government engineering colleges in Telangana. The college is approved by AICTE and affiliated to Kakatiya University. KUCE has been ranked in the 201-300 band in NIRF India Rankings 2025. The institution offers undergraduate and postgraduate programs in engineering and technology at affordable government fees, making quality education accessible to students from all backgrounds.",
+  "accreditation": "AICTE approved, NAAC Accredited (Kakatiya University), NBA Accredited (select programs)",
+  "coursesAndFees": [
+    { "program": "B.Tech (CSE)", "duration": "4 Years", "tuitionFee": "₹30,000/year (Convenor)" },
+    { "program": "B.Tech (ECE)", "duration": "4 Years", "tuitionFee": "₹30,000/year (Convenor)" },
+    { "program": "B.Tech (EEE)", "duration": "4 Years", "tuitionFee": "₹30,000/year (Convenor)" },
+    { "program": "B.Tech (ME)", "duration": "4 Years", "tuitionFee": "₹30,000/year (Convenor)" },
+    { "program": "B.Tech (Civil)", "duration": "4 Years", "tuitionFee": "₹30,000/year (Convenor)" },
+    { "program": "M.Tech (Various Specializations)", "duration": "2 Years", "tuitionFee": "₹18,000/year" }
+  ],
+  "placements": {
+    "avgSalary": "₹4.50 LPA",
+    "medianSalary": "₹3.80 LPA",
+    "highestSalary": "₹15 LPA",
+    "highestDomestic": "",
+    "placementRate": "65%",
+    "totalOffers": "150+",
+    "companiesVisited": "40+",
+    "internationalOffers": "",
+    "topRecruiters": ["TCS", "Infosys", "Wipro", "Cognizant", "HCL", "Tech Mahindra", "L&T", "BHEL", "Genpact", "DXC Technology", "Hexaware", "NTT Data"]
+  },
+  "admissions": {
+    "examsAccepted": ["TG EAPCET (B.Tech)", "GATE (M.Tech)"],
+    "admissionProcess": "B.Tech: TG EAPCET counselling through TSCHE (convenor quota only). M.Tech: GATE score + university-level counselling.",
+    "importantDates": "TG EAPCET: May 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "500+ acres (Kakatiya University campus)",
+    "facilities": ["Central Library", "Computer Labs", "Engineering Labs", "Sports Ground", "Gymnasium", "Hostels", "Health Centre", "Canteen", "Wi-Fi Campus", "Seminar Hall", "Workshop Labs"],
+    "specialNote": "Located within the sprawling Kakatiya University campus in Warangal, a historic city known for its Kakatiya dynasty heritage, including the famous Thousand Pillar Temple."
+  },
+  "contact": {
+    "phone": "+91-870-245 3577",
+    "email": "principal@kuce.ac.in",
+    "address": "Kakatiya University, Vidyaranyapuri, Warangal – 506009, Telangana, India"
+  },
+  "website": "https://www.kakatiya.ac.in",
+  "lastVerified": "2026-04-09",
+  "verifiedBy": "official-website"
+}

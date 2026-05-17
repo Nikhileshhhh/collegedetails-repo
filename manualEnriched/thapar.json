@@ -1,0 +1,99 @@
+{
+  "overview": "Thapar Institute of Engineering and Technology (TIET), formerly known as Thapar University, is a premier private deemed-to-be university located in Patiala, Punjab. Known for its strong industry-oriented curriculum, modern infrastructure, research culture, and excellent placement records, TIET is among the top-ranked private engineering institutions in India.",
+  "accreditation": "NAAC A++ Accredited; ISO Certified for quality management systems in education.",
+  "coursesAndFees": [
+    {
+      "program": "B.E. (COE, CSE, CSBS, ENC)",
+      "duration": "4 Years",
+      "tuitionFee": "₹2,97,500 per semester. One-time admission fee: ₹23,000. Hostel: ₹34,600 – ₹77,000 per semester. Mess charges: ₹20,000 – ₹25,000 per semester."
+    },
+    {
+      "program": "B.E. (ECE, EEC, BT, RAI)",
+      "duration": "4 Years",
+      "tuitionFee": "₹2,70,000 per semester. One-time admission fee: ₹23,000. Hostel and mess charges additional."
+    },
+    {
+      "program": "B.E. (Civil, Mechanical, Chemical, etc.)",
+      "duration": "4 Years",
+      "tuitionFee": "₹2,27,500 per semester. One-time admission fee: ₹23,000. Hostel and mess charges additional."
+    },
+    {
+      "program": "M.E. / M.Tech",
+      "duration": "2 Years",
+      "tuitionFee": "₹89,500 – ₹99,700 per semester. GATE-qualified students eligible for AICTE stipend."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹11.25 LPA – ₹11.38 LPA",
+    "medianSalary": "₹10.00 LPA",
+    "highestSalary": "₹1.23 CPA (Domestic)",
+    "highestDomestic": "₹1.23 CPA",
+    "placementRate": "Approximately 82% – 90%+ for eligible engineering students",
+    "totalOffers": "1,884+ offers (2023-24 batch)",
+    "companiesVisited": "500+ recruiters annually",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Adobe",
+      "J.P. Morgan",
+      "Cisco",
+      "Zomato",
+      "Deloitte",
+      "Tata Motors"
+    ]
+  },
+  "rankings": {
+    "nirfOverall2025": "29th in India",
+    "nirfUniversity2025": "26th in India"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "B.E. admissions are primarily based on JEE Main scores and centralized counseling. M.Tech admissions are based on GATE scores and institute criteria.",
+    "importantDates": "Admissions generally follow JoSAA counseling schedules and TIET academic admission timelines."
+  },
+  "campus": {
+    "area": "250+ acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Innovation Centre",
+      "Research Labs",
+      "Sports Complex",
+      "Auditorium",
+      "Medical Facilities",
+      "Cafeterias",
+      "Wi-Fi Enabled Campus",
+      "Startup Incubation Support"
+    ],
+    "specialNote": "Hostel charges vary depending on room type (AC/Non-AC, single/shared occupancy). Merit scholarships based on JEE Main ranks and 10+2 PCM scores are available."
+  },
+  "scholarships": {
+    "meritScholarships": "Up to 100% tuition fee waiver based on JEE Main rank performance.",
+    "pcmScholarships": "Students scoring above 80% in PCM may receive 20% – 30% tuition fee waiver.",
+    "gateStipend": "AICTE stipend of ₹12,400 per month for eligible M.Tech students with valid GATE scores."
+  },
+  "contact": {
+    "phone": "+91-175-2393021",
+    "email": "info@thapar.edu",
+    "address": "Thapar Institute of Engineering and Technology, Patiala – 147004, Punjab, India",
+    "admissionsEmail": "admission@thapar.edu"
+  },
+  "website": "https://www.thapar.edu",
+  "lastVerified": "2026-05-12",
+  "verifiedBy": "compiled-from-official-and-public-sources",
+  "sources": {
+    "overview": "https://www.thapar.edu",
+    "placements": "https://www.thapar.edu/placements",
+    "fees": "https://www.thapar.edu/admissions/pages/fee-structure",
+    "admissions": "https://www.thapar.edu/admissions",
+    "rankings": "https://www.nirfindia.org",
+    "contact": "https://www.thapar.edu/contact-us"
+  }
+}

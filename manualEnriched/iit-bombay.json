@@ -1,0 +1,74 @@
+{
+  "overview": "Indian Institute of Technology Bombay (IIT Bombay), located in Powai, Mumbai, is one of India's premier institutions for engineering, science, and research. Established in 1958, it consistently ranks among the top IITs in India and globally.",
+  "accreditation": "Institute of National Importance; NAAC 'A++' grade accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.S. (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester (General/OBC income > ₹5 lakh). Income-based and caste-based waivers apply."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹5,000 – ₹10,000 per semester for General/OBC (Non-sponsored). Sponsored: ₹25,000 – ₹50,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹23.5 LPA (2024–25)",
+    "medianSalary": "₹17.92 LPA",
+    "highestSalary": "₹3.67 CPA (International)",
+    "highestDomestic": "₹1.68 CPA",
+    "placementRate": "75% overall, 83.39% B.Tech, 83.5% M.Tech",
+    "totalOffers": "1,650 (2023–24)",
+    "companiesVisited": "364 companies including Google, Microsoft, Apple, Amazon, Tata Group, Qualcomm, Intel, Morgan Stanley",
+    "internationalOffers": "78 international offers (2023–24)",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Amazon",
+      "Tata Group",
+      "Qualcomm",
+      "Intel",
+      "Morgan Stanley"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE", "CEED", "CAT"],
+    "admissionProcess": "Admissions are based on national entrance exams followed by JoSAA/COAP/department-level rounds for final seat allocation.",
+    "importantDates": "Admissions as per JoSAA/COAP and institute calendar for each academic year."
+  },
+  "campus": {
+    "area": "550 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Sports Complex",
+      "Student Activity Centre",
+      "Innovation & Entrepreneurship Centre",
+      "Auditorium",
+      "Computer Centre",
+      "Lakefront Campus"
+    ],
+    "specialNote": "Hostel + Mess charges are approx ₹39,400 per semester. SC/ST students with family income < ₹5 lakh receive free messing, hostel rent waiver, and pocket allowance. All students pay a one-time admission fee of ₹10,000."
+  },
+  "contact": {
+    "phone": "+91-22-2572-2545",
+    "email": "registrar@iitb.ac.in",
+    "address": "IIT Bombay, Powai, Mumbai – 400076, Maharashtra, India",
+    "admissionsEmail": "ug.acad@iitb.ac.in"
+  },
+  "website": "https://www.iitb.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iitb.ac.in",
+    "fees": "https://www.acad.iitb.ac.in",
+    "placements": "https://www.iitb.ac.in/en/placement-cell",
+    "admissions": "https://www.iitb.ac.in/en/academics",
+    "campus": "https://www.iitb.ac.in/en/campus-life",
+    "contact": "https://www.iitb.ac.in/en/contact-us"
+  }
+}

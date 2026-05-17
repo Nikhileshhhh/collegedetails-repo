@@ -1,0 +1,77 @@
+{
+  "overview": "Institute of Aeronautical Engineering (IARE), established in the year 2000, is an autonomous engineering institution located in Dundigal, Hyderabad. The institute is affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH) and offers undergraduate, postgraduate, and doctoral programs in engineering and management. It follows a Choice Based Credit System (CBCS) and focuses on technical education, research, and industry-oriented training.",
+  "accreditation": "Approved by AICTE; Affiliated to JNTUH; Accredited by NAAC with 'A' Grade; NBA accredited programs",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (multiple specializations)",
+      "duration": "4 Years",
+      "tuitionFee": ""
+    },
+    {
+      "program": "M.Tech (various specializations)",
+      "duration": "2 Years",
+      "tuitionFee": ""
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": ""
+    },
+    {
+      "program": "Ph.D",
+      "duration": "",
+      "tuitionFee": ""
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4–6 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹51 LPA",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "508+",
+    "companiesVisited": "34+",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Microsoft",
+      "JP Morgan",
+      "Deloitte",
+      "Infosys",
+      "TCS",
+      "Capgemini",
+      "Cognizant",
+      "Wipro",
+      "Mphasis",
+      "MuSigma"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (B.Tech)",
+      "GATE / TS PGECET (M.Tech)",
+      "ICET (MBA)"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level entrance exams. 70% of seats are filled through merit in entrance exams conducted by the Government of Telangana, while 30% are filled under management/NRI quota as per guidelines.",
+    "importantDates": ""
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Academic laboratories",
+      "Research centres",
+      "Choice Based Credit System (CBCS)",
+      "Technical fest (Consortium)",
+      "Sports and cultural events"
+    ],
+    "specialNote": "The institute is located in Dundigal, Hyderabad and functions as an autonomous institution."
+  },
+  "contact": {
+    "phone": "+91 91546 78975, +91 91546 78976, 040-29705852, 29705853, 29705854",
+    "email": "info@iare.ac.in",
+    "address": "Institute of Aeronautical Engineering, Dundigal - 500 043, Hyderabad, Telangana, India",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.iare.ac.in",
+  "lastVerified": "2026-04-11",
+  "verifiedBy": "official-website + student-verified"
+}

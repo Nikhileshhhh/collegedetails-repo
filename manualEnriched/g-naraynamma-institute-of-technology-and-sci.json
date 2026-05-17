@@ -1,0 +1,81 @@
+{
+  "overview": "G. Narayanamma Institute of Technology and Science (GNITS) for Women, established in 1997 by the G. Pulla Reddy Charities Trust, is a premier autonomous engineering college in Hyderabad. It was founded with the specific mission of empowering women through high-quality technical education. The institute has consistently ranked among the top engineering colleges in Telangana and is known for its academic excellence and high placement standards in the software industry.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A+' Grade. All eligible undergraduate programs are NBA accredited. Approved by AICTE and affiliated with JNTU-Hyderabad (JNTUH). ISO 9001:2015 certified.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, IT, ECE, EEE, ETE, CST)",
+      "duration": "4 Years",
+      "totalFees": "₹4,00,000 - ₹4,88,000 (Approx. ₹1,00,000 - ₹1,22,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM (40% for reserved) + TG-EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, CNIS, Digital Electronics, PEED, WMC)",
+      "duration": "2 Years",
+      "totalFees": "₹2,11,000 (Approx. ₹1,05,500 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / TS PGECET score"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹3,00,000 - ₹3,66,000",
+      "eligibility": "Diploma in Engineering with valid TS ECET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹8.08 LPA - ₹8.64 LPA",
+    "medianSalary": "₹7.6 LPA - ₹8.0 LPA",
+    "highestSalary": "₹51.03 LPA - ₹56.54 LPA (Recent cycles)",
+    "highestDomestic": "₹51.03 LPA",
+    "placementRate": "70% - 90%",
+    "totalOffers": "1,459 (2024 cycle); 560+ (Current 2025/26 ongoing)",
+    "companiesVisited": "100+ (Regularly peaks at 200)",
+    "internationalOffers": "Occasional via top-tier product firms",
+    "topRecruiters": [
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "Adobe",
+      "Goldman Sachs",
+      "Accenture",
+      "TCS",
+      "Cognizant",
+      "Deloitte",
+      "JPMC"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG-EAPCET (EAMCET)",
+      "TS PGECET",
+      "TS ECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are strictly merit-based. 70% seats (Category A) are filled via state-level web counseling (TGCHE) based on TG-EAPCET ranks. 30% (Category B) are Management Quota seats filled based on institutional merit/JEE ranks. Counseling Code: GNIT.",
+    "importantDates": "TG-EAPCET 2026: May 9–11, 2026; Hall Ticket: Released April 27, 2026; TS PGECET 2026: May 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "12.5 Acres",
+    "facilities": [
+      "ICT Enabled Smart Classrooms",
+      "Specialized Centers of Excellence (AI/ML, IoT)",
+      "Central Library with massive Digital Repository",
+      "On-campus Girls Hostels (Capacity 800+)",
+      "Indoor & Outdoor Sports Complexes",
+      "Well-equipped Gymnasium",
+      "Hygienic Canteen & Food Court",
+      "Banking & ATM Facilities",
+      "Medical Center with resident nurse"
+    ],
+    "specialNote": "Located in Shaikpet, the campus is heart-of-the-city accessible. GNITS is renowned for its technical fests like 'PRAGNYA' and strong alumni networks. It maintains a 'Women Empowerment Cell' and an 'Entrepreneurship Development Cell' to nurture leadership among students."
+  },
+  "contact": {
+    "phone": "040-23565648, 040-29565856",
+    "email": "principal@gnits.ac.in",
+    "address": "Shaikpet Road, Ambedkar Nagar, Shaikpet, Hyderabad, Telangana - 500104",
+    "admissionsEmail": "gnitshyd@gnits.ac.in"
+  },
+  "website": "https://gnits.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

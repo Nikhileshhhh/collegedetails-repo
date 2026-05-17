@@ -1,0 +1,111 @@
+{
+  "overview": "Indian Institute of Technology Tirupati (IIT Tirupati), established in 2015, is a premier autonomous technical institute located in Yerpedu, Chittoor District, Andhra Pradesh. As one of the rapidly growing third-generation IITs, the institute is recognized for its sustainable green campus, globally qualified faculty, strong research ecosystem, and industrial collaborations under the mentorship of IIT Madras during its formative years.",
+  "accreditation": "Institute of National Importance under the Institutes of Technology Act, 1961.",
+  "nirfRanking": {
+    "overallBand": "151–200 (NIRF 2025)"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,00,000 per academic year for General/OBC students with family income above ₹5 lakh. Students with income between ₹1 lakh–₹5 lakh receive 2/3 fee remission (~₹66,666/year). Students with income below ₹1 lakh receive full tuition waiver. SC/ST/PwD students receive 100% tuition fee waiver."
+    },
+    {
+      "program": "M.Tech / M.Sc (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹20,000 – ₹40,000 per academic year depending on program and semester structure."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹23.00 LPA (CSE Average Package 2025)",
+    "medianSalary": "₹15.00 LPA (Overall B.Tech Median 2025)",
+    "highestSalary": "₹65.00 LPA (B.Tech CSE 2025)",
+    "highestDomestic": "₹65.00 LPA",
+    "placementRate": "CSE: 98%, Mechanical Engineering: ~79% (previous cycle trend)",
+    "totalOffers": "Strong placement performance across core engineering and IT sectors",
+    "companiesVisited": "Amazon, Adobe, IBM, Accenture, Deloitte, LTI, Mathworks, Toshiba, CDAC",
+    "internationalOffers": "Multiple high-value opportunities through global technology recruiters",
+    "topRecruiters": [
+      "Amazon",
+      "Adobe",
+      "IBM",
+      "Accenture",
+      "Deloitte",
+      "LTI",
+      "Mathworks",
+      "Toshiba",
+      "CDAC"
+    ],
+    "branchWiseHighestPackages": {
+      "CSE": "₹65 LPA",
+      "Mechanical": "₹42 LPA",
+      "Electrical": "₹38 LPA"
+    }
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "IIT JAM"
+    ],
+    "admissionProcess": "B.Tech admissions are conducted through JEE Advanced followed by JoSAA counseling. Postgraduate admissions are based on GATE or IIT JAM scores depending on the program.",
+    "importantDates": "Admissions follow JoSAA, COAP, and IIT academic calendar schedules."
+  },
+  "campus": {
+    "area": "Modern green campus located in Yerpedu, Andhra Pradesh",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Innovation & Incubation Facilities",
+      "Sports Complex",
+      "Medical Facilities",
+      "Wi-Fi Enabled Campus",
+      "Auditorium",
+      "Computer Centre",
+      "Dining & Mess Facilities"
+    ],
+    "specialNote": "Hostel and mess charges range between ₹54,000 – ₹60,000 annually. Hostel seat rent is approximately ₹7,000 per semester, while mess advance is around ₹19,250 per semester."
+  },
+  "hostelAndMess": {
+    "annualCharges": "₹54,000 – ₹60,000 per annum",
+    "hostelSeatRent": "~₹7,000 per semester",
+    "messAdvance": "~₹19,250 per semester",
+    "messFacilities": "Nutritious vegetarian and non-vegetarian meal options available on designated days."
+  },
+  "scholarships": [
+    {
+      "name": "Merit-cum-Means (MCM) Scholarship",
+      "benefits": "Full tuition fee waiver + ₹1,000/month pocket allowance",
+      "eligibility": "Available for 25% of General/OBC students with parental income below ₹4.5 LPA"
+    },
+    {
+      "name": "Institute SC/ST Scholarship",
+      "benefits": "Free basic mess menu, hostel rent exemption, ₹250/month pocket allowance",
+      "eligibility": "SC/ST students with parental income below ₹4.5 LPA"
+    },
+    {
+      "name": "Institute Free Studentship",
+      "benefits": "Full tuition fee exemption",
+      "eligibility": "10% of students with parental income below ₹4.5 LPA who are not receiving MCM scholarship"
+    }
+  ],
+  "contact": {
+    "phone": "+91-877-250-3000",
+    "email": "academic@iittp.ac.in",
+    "address": "Indian Institute of Technology Tirupati, Yerpedu, Chittoor District, Andhra Pradesh – 517619, India",
+    "admissionsEmail": "admissions@iittp.ac.in"
+  },
+  "website": "https://www.iittp.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iittp.ac.in",
+    "fees": "https://www.iittp.ac.in/academics/fees",
+    "placements": "https://www.iittp.ac.in/placement",
+    "admissions": "https://www.iittp.ac.in/admissions",
+    "campus": "https://www.iittp.ac.in/about",
+    "contact": "https://www.iittp.ac.in/contact"
+  }
+}

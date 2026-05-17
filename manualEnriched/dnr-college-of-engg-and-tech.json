@@ -1,0 +1,86 @@
+{
+  "overview": "DNR College of Engineering and Technology (DNRCET), established in 2010, is a prominent private autonomous institution located in the DNR College campus in Bhimavaram. It is part of the legendary DNR (Dantuluri Narayana Raju) group of institutions, which has a century-long legacy in education. The college is recognized for its strong academic discipline and for providing technical education in the West Godavari region.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A++' Grade and NBA (for specific departments). Approved by AICTE, New Delhi, and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,40,000 (Approx. ₹60,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Machine Design, Structural Engineering, DECS)",
+      "duration": "2 Years",
+      "totalFees": "₹1,80,000 (Approx. ₹90,000 per year)",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE / AP PGECET score"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹96,600 (Approx. ₹48,300 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, EEE, ME, ECE, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA - ₹4.0 LPA",
+    "medianSalary": "₹4.0 LPA (M.Tech/MBA)",
+    "highestSalary": "₹15.0 LPA - ₹18.0 LPA (Top historic records)",
+    "highestDomestic": "₹18.0 LPA",
+    "placementRate": "65% - 76%",
+    "totalOffers": "200+ (Recent cycle)",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Accenture",
+      "Tech Mahindra",
+      "Cognizant",
+      "HCL Technologies",
+      "Syntel",
+      "HDFC Bank"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP ICET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (APSCHE). 70% of seats are filled under the Convener Quota (Category A) based on entrance exam ranks. 30% are Management Quota (Category B) seats filled based on merit or qualifying scores. Lateral entry for diploma holders is through AP ECET.",
+    "importantDates": "AP EAPCET 2026: May 12–15 & 18, 2026; AP ICET 2026: July 2026; AP PGECET 2026 Results: May 14, 2026."
+  },
+  "campus": {
+    "area": "Integrated within a large multi-institutional campus",
+    "facilities": [
+      "Smart Classrooms with ICT facilities",
+      "Advanced Engineering & Research Laboratories",
+      "Spacious Central Library with Digital Section",
+      "Separate On-campus Hostels for Boys and Girls",
+      "Open-air Theatre and Seminar Halls",
+      "Hygienic Canteen",
+      "Medical Center",
+      "Extensive Sports Grounds & Gym",
+      "Transportation (Dedicated bus services for Bhimavaram and surrounding towns)"
+    ],
+    "specialNote": "DNRCET is situated within the historic 60+ acre DNR College campus, providing students with access to a massive ecosystem including post-graduate centers and traditional arts/science colleges. The institute offers various merit-based scholarships for the top 10-20% of students in each branch."
+  },
+  "contact": {
+    "phone": "08816-221237, +91 9177573456",
+    "email": "dnrect@gmail.com",
+    "address": "DNR College Campus, Balusumudi, Bhimavaram, West Godavari District, Andhra Pradesh - 534202",
+    "admissionsEmail": "principal@dnrcet.org"
+  },
+  "website": "https://dnrcet.org/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,152 @@
+{
+  "overview": "Andhra University College of Engineering (AUCE) Self-Finance, located in Visakhapatnam, Andhra Pradesh, is a self-supporting division of the prestigious Andhra University College of Engineering established under Andhra University. The self-financed programs operate within the main AU campus ecosystem and provide students access to centralized placements, university infrastructure, experienced faculty, research facilities, and industry-oriented technical education in emerging engineering disciplines.",
+  
+  "accreditation": "Andhra University is NAAC A++ Accredited and recognized by UGC. AU College of Engineering is AICTE Approved and functions under Andhra University autonomous regulations.",
+
+  "nirfRanking": {
+    "engineering": "Rank Band 101-150 (NIRF Engineering)",
+    "university": "Andhra University ranked among leading public universities in India"
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Tech in Information Technology",
+      "duration": "4 years",
+      "tuitionFee": "₹62,000 per year (AP EAPCET Convener Quota Approx.)"
+    },
+    {
+      "program": "B.Tech in Computer Science and Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹62,000 – ₹85,000 per year depending on admission category"
+    },
+    {
+      "program": "B.Tech in Computer Science and Engineering (Artificial Intelligence)",
+      "duration": "4 years",
+      "tuitionFee": "₹75,000 – ₹1,10,000 per year"
+    },
+    {
+      "program": "B.Tech in Computer Science and Engineering (Data Science)",
+      "duration": "4 years",
+      "tuitionFee": "₹75,000 – ₹1,10,000 per year"
+    },
+    {
+      "program": "B.Tech in Electronics and Communication Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹62,000 – ₹85,000 per year"
+    },
+    {
+      "program": "B.Tech in Electrical and Electronics Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹62,000 – ₹80,000 per year"
+    },
+    {
+      "program": "Integrated B.Tech + M.Tech Programs",
+      "duration": "5 years",
+      "tuitionFee": "₹80,000 – ₹1,20,000 per year depending on specialization"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "₹5.00 LPA – ₹7.20 LPA",
+    "medianSalary": "₹5.80 LPA",
+    "highestSalary": "₹84.50 LPA (University-wide highlight)",
+    "highestDomestic": "₹44.00 LPA – ₹52.00 LPA realistic engineering range",
+    "placementRate": "75% – 90% for CSE/IT-related branches",
+    "totalOffers": "800+ engineering placement offers university-wide",
+    "companiesVisited": "250+ companies",
+    "internationalOffers": "Limited international opportunities through multinational recruiters",
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Accenture",
+      "IBM",
+      "Capgemini",
+      "Deloitte",
+      "L&T Technology Services",
+      "Mu Sigma"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ECET",
+      "GATE",
+      "AP PGECET"
+    ],
+    "admissionProcess": "UG admissions are primarily conducted through AP EAPCET counseling administered by APSCHE. Lateral entry admissions are through AP ECET. PG admissions are based on GATE/AP PGECET scores.",
+    "importantDates": "Admissions generally follow APSCHE counseling schedules released annually between May and August."
+  },
+
+  "campus": {
+    "area": "400+ acre Andhra University coastal campus",
+    "facilities": [
+      "Central Library",
+      "Advanced Computing Labs",
+      "Research Centers",
+      "Wi-Fi Enabled Campus",
+      "Boys Hostel",
+      "Girls Hostel",
+      "Sports Complex",
+      "Auditoriums",
+      "Cafeterias",
+      "Central Placement Cell",
+      "Innovation & Incubation Centers",
+      "Medical Facilities"
+    ],
+    "specialNote": "Self-finance students share the same placement ecosystem, faculty resources, laboratories, and university infrastructure as regular AU engineering students."
+  },
+
+  "cutoffs": {
+    "acceptedExam": "AP EAPCET",
+    "popularBranch": "Information Technology",
+    "closingRanks2024": {
+      "OC Boys": 7787,
+      "OC Girls": 9129,
+      "SC Boys": 33925,
+      "SC Girls": 33925,
+      "ST Boys": 20163,
+      "ST Girls": 48052,
+      "BCA Boys": 11379,
+      "BCA Girls": 18341
+    }
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹45,000 – ₹80,000 per year depending on hostel type",
+    "messFee": "Included separately based on usage",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD)",
+      "Post-Matric Scholarships",
+      "Merit Scholarships",
+      "AICTE Tuition Fee Waiver (TFW)"
+    ]
+  },
+
+  "contact": {
+    "phone": "Refer official university contact details for specific department inquiries",
+    "email": "enquiry@andhrauniversity.edu.in",
+    "address": "Andhra University College of Engineering, Junction, AU North Campus, Andhra University North Campus, Andhra University, Visakhapatnam, Andhra Pradesh 530003, India",
+    "admissionsEmail": "enquiry@andhrauniversity.edu.in"
+  },
+
+  "website": "https://andhrauniversity.edu.in",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "official-university-data-and-placement-sources",
+
+  "sources": {
+    "overview": "https://andhrauniversity.edu.in",
+    "placements": "https://www.andhrauniversity.edu.in/placements/",
+    "admissions": "https://sche.ap.gov.in/EAPCET",
+    "fees": "https://andhrauniversity.edu.in",
+    "campus": "https://andhrauniversity.edu.in",
+    "contact": "https://andhrauniversity.edu.in/contact-us.php"
+  }
+}
+

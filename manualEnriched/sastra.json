@@ -1,0 +1,106 @@
+{
+  "overview": "Shanmugha Arts Science Technology & Research Academy (SASTRA), deemed to be a university located in Thanjavur, Tamil Nadu, is a top-tier private institution known for its strong emphasis on research, balanced engineering programs, academic discipline, and consistent value-driven campus placements.",
+  "accreditation": "Deemed to be University; NAAC A++ Accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (All Specializations)",
+      "duration": "4 years",
+      "tuitionFee": "₹85,000 per semester. One-time admission fee: ₹16,000. Hostel charges range from ₹10,000–₹22,000 per semester. Mess charges approximately ₹15,000–₹20,000 per semester."
+    },
+    {
+      "program": "M.Tech (Regular Streams)",
+      "duration": "2 years",
+      "tuitionFee": "₹75,000 per semester. Eligible GATE-qualified students receive ₹12,400/month stipend."
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹70,000 – ₹75,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "CSE/IT: ₹8.00 – ₹10.00 LPA; Core Engineering: ₹5.00 – ₹7.00 LPA",
+    "medianSalary": "₹7.60 LPA (B.Tech Median)",
+    "highestSalary": "₹45.00 LPA (2024-25 Ongoing Batch)",
+    "highestDomestic": "₹45.00 LPA",
+    "placementRate": "Approximately 87% – 95% for eligible engineering students",
+    "totalOffers": "1,684+ UG students placed in recent graduating batch",
+    "companiesVisited": "Microsoft, Amazon, PayPal, Google, TCS, Cognizant, Wipro, IBM, Zoho, Deloitte, Capgemini",
+    "internationalOffers": "Select international and elite software engineering opportunities reported",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "PayPal",
+      "Google",
+      "TCS",
+      "Cognizant",
+      "Wipro",
+      "IBM",
+      "Zoho",
+      "Deloitte",
+      "Capgemini"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "Class 12 Board Marks",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions to undergraduate engineering programs are based on a weighted combination of JEE Main scores and Class 12 board marks under different admission streams. Postgraduate admissions are based on qualifying examinations and national-level entrance tests where applicable.",
+    "importantDates": "Admission timelines generally align with SASTRA academic admission schedules published annually."
+  },
+  "campus": {
+    "area": "Main campus located in Thanjavur, Tamil Nadu",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Centers",
+      "Computer Labs",
+      "Innovation Facilities",
+      "Sports Complex",
+      "Auditoriums",
+      "Wi-Fi Campus",
+      "Medical Facilities",
+      "Cafeterias"
+    ],
+    "specialNote": "Tuition fees follow an approximate 5% yearly increment starting from the second academic year."
+  },
+  "contact": {
+    "phone": "+91-4362-264101",
+    "email": "info@sastra.edu",
+    "address": "SASTRA Deemed University, Tirumalaisamudram, Thanjavur – 613401, Tamil Nadu, India",
+    "admissionsEmail": "admissions@sastra.edu"
+  },
+  "website": "https://www.sastra.edu",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "compiled-institutional-data",
+  "scholarships": {
+    "availableScholarships": [
+      {
+        "name": "Dean’s Merit List Scholarship",
+        "benefit": "10% – 20% tuition fee waiver per semester for top-performing students in each branch"
+      },
+      {
+        "name": "Desh-Videsh Scholarship",
+        "benefit": "Financial support for international internships and short-term research programs"
+      },
+      {
+        "name": "GATE Stipend",
+        "benefit": "₹12,400 per month for eligible M.Tech students with valid GATE scores"
+      }
+    ]
+  },
+  "rankings": {
+    "nirfOverall2025": "40"
+  },
+  "sources": {
+    "overview": "https://www.sastra.edu",
+    "fees": "https://www.sastra.edu",
+    "placements": "https://www.sastra.edu",
+    "admissions": "https://www.sastra.edu",
+    "campus": "https://www.sastra.edu",
+    "contact": "https://www.sastra.edu"
+  }
+}

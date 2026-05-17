@@ -1,0 +1,122 @@
+{
+  "overview": "Amrita Vishwa Vidyapeetham is a multi-campus, research-focused private deemed-to-be university in India, known for strong academic standards, industry collaboration, and consistent placement performance across engineering, management, and technology programs.",
+  "accreditation": "NAAC A++ Grade (Cycle 3) with CGPA 3.7/4.0; NIRF Rank 7 (2024) and 8 (2025) among universities in India.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 – ₹6,00,000 per year depending on branch and scholarship slab (based on AEEE/JEE rank). CSE/AI highest slab up to ₹6 LPA; Mechanical/Civil lowest slab from ₹1 LPA."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹2.20 LPA to ₹6.00 LPA depending on campus."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹1.73 LPA or ₹72,875 – ₹87,500 per semester depending on campus."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹9.08 LPA (B.Tech 2025), ₹8.34 LPA (MBA 2025)",
+    "medianSalary": "₹7.60 LPA (MBA 2025), ₹7.75 LPA (UG 2024), ₹6.28 LPA (PG 2024)",
+    "highestSalary": "₹80.40 LPA (B.Tech 2025)",
+    "highestDomestic": "₹80.40 LPA",
+    "placementRate": "B.Tech: 85%–98%; MBA: 100%",
+    "totalOffers": "354 MBA offers (Coimbatore campus latest session)",
+    "companiesVisited": "Google, Microsoft, Amazon, Optum, IBM, Oracle, Dell, Ford",
+    "internationalOffers": "High-value global offers including packages up to ₹80+ LPA",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Optum",
+      "IBM",
+      "Oracle",
+      "Dell",
+      "Ford"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["AEEE", "JEE Main", "CAT", "GATE"],
+    "admissionProcess": "B.Tech admissions via AEEE or JEE Main ranks with scholarship-based fee slabs. 30% of B.Tech seats are reserved for JEE Main candidates. Seat allocation through Centralized Seat Allocation Process (CSAP). MBA via CAT/XAT/other management exams. M.Tech via GATE or internal criteria.",
+    "importantDates": "Follows AEEE, JEE, CAT, and GATE admission cycles along with university-specific counseling schedules.",
+    "cutoffNote": "B.Tech admission is based on AEEE 2026 or JEE Mains 2026 scores. Top branches like CSE require high percentiles. Home State (HS) candidates may have a lower threshold; Other State (OS) candidates need higher percentile. 5% female-only quota in select branches.",
+    "expectedCutoffs": {
+      "year": "2026 (Expected based on previous trends)",
+      "exam": "JEE Main Percentile",
+      "campusWise": [
+        {
+          "campus": "Coimbatore (Most Competitive)",
+          "branches": [
+            { "branch": "CSE / AI / CYS", "general": "95–99+", "obcNcl": "90–95", "sc": "80–90", "st": "75–85" },
+            { "branch": "ECE / EAC", "general": "90–95", "obcNcl": "85–92", "sc": "75–85", "st": "70–80" },
+            { "branch": "EEE / Mechanical", "general": "80–90", "obcNcl": "75–85", "sc": "65–80", "st": "60–75" },
+            { "branch": "Civil / Other", "general": "75–85", "obcNcl": "70–80", "sc": "60–75", "st": "55–70" }
+          ]
+        },
+        {
+          "campus": "Bengaluru",
+          "branches": [
+            { "branch": "CSE / AI / CYS", "general": "89–98.5", "obcNcl": "85–93", "sc": "75–85", "st": "70–80" },
+            { "branch": "ECE / EAC", "general": "85–93", "obcNcl": "80–88", "sc": "70–82", "st": "65–78" },
+            { "branch": "EEE / Mechanical", "general": "75–87", "obcNcl": "70–82", "sc": "60–75", "st": "55–70" }
+          ]
+        },
+        {
+          "campus": "Chennai",
+          "branches": [
+            { "branch": "CSE / AI / CYS", "general": "75–93", "obcNcl": "70–88", "sc": "60–80", "st": "55–75" },
+            { "branch": "ECE", "general": "65–80", "obcNcl": "60–75", "sc": "50–70", "st": "45–65" }
+          ]
+        },
+        {
+          "campus": "Amritapuri / Amaravati",
+          "branches": [
+            { "branch": "CSE / AI", "general": "70–88", "obcNcl": "65–83", "sc": "55–75", "st": "50–70" },
+            { "branch": "ECE / Other", "general": "60–78", "obcNcl": "55–73", "sc": "45–68", "st": "40–63" }
+          ]
+        }
+      ],
+      "source": "Expected cutoffs based on 2024-25 trends (Google AI Mode projection)"
+    }
+  },
+  "campus": {
+    "area": "Multi-campus university (Coimbatore, Amritapuri, Bengaluru, Chennai and others)",
+    "facilities": [
+      "Hostels (mandatory beyond 30 km radius)",
+      "Central Libraries",
+      "Research Labs",
+      "Innovation Centers",
+      "Wi-Fi Enabled Campus",
+      "Medical Facilities",
+      "Sports Complex",
+      "Auditoriums"
+    ],
+    "specialNote": "Hostel and mess charges range from ₹85,000 to ₹1,15,000 per year. One-time caution deposit ₹5,000–₹10,000. Tuition fee waivers (25%–90%) available via entrance rank-based slabs."
+  },
+  "scholarships": {
+    "entranceBased": "25%–90% tuition fee waiver based on AEEE/JEE rank (Slabs 1–3)",
+    "aicteTFW": "Available for students with family income below ₹8 LPA (limited seats)",
+    "nspScheme": "Up to ₹82,000 per annum under NSP (PM-USP) scheme",
+    "phdStipend": "₹10,000 – ₹30,000 per month for selected scholars"
+  },
+  "contact": {
+    "phone": "+91-422-268-5000",
+    "email": "info@amrita.edu",
+    "address": "Amrita Vishwa Vidyapeetham, Amritanagar, Coimbatore – 641112, Tamil Nadu, India",
+    "admissionsEmail": "ugadmissions@amrita.edu"
+  },
+  "website": "https://www.amrita.edu",
+  "lastVerified": "2026-05-01",
+  "verifiedBy": "provided-data",
+  "sources": {
+    "placements": "https://www.amrita.edu/placements",
+    "fees": "https://www.amrita.edu/admissions/fees",
+    "admissions": "https://www.amrita.edu/admissions",
+    "overview": "https://www.amrita.edu",
+    "ranking": "https://www.nirfindia.org",
+    "scholarships": "https://www.amrita.edu/scholarships"
+  }
+}

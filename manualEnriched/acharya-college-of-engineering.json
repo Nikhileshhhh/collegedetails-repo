@@ -1,0 +1,122 @@
+{
+  "overview": "Acharya College of Engineering (ACE) was established in 2009 by the PSS Educational Trust (also associated with the Munaga Educational Society) under the leadership of founder Pala Venkata Subbaiah. Located in D. Agraharam Village, Sri Avadhutha Kasinayana Brahmamgari Matam Mandal near Badvel, YSR Kadapa District, Andhra Pradesh, the institution is dedicated to rendering quality technical education to rural student populations and shaping skilled engineering professionals.",
+  
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi, and affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA). The polytechnic wing is recognized by the State Board of Technical Education and Training (SBTET), Andhra Pradesh.",
+
+  "nirfRanking": {
+    "engineering": "Not Ranked in Top NIRF Lists",
+    "university": "Not Ranked"
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Computer Science, Electronics & Communication, Electrical & Electronics, Civil, Cyber Security)",
+      "duration": "4 years",
+      "tuitionFee": "₹31,000 – ₹35,000 per year (Convener Quota standard base; total package scales higher under management profiles)"
+    },
+    {
+      "program": "M.Tech (Electrical Engineering, Electronics & Communication Specializations, VLSI Design)",
+      "duration": "2 years",
+      "tuitionFee": "₹40,000 – ₹51,000 per year"
+    },
+    {
+      "program": "Polytechnic Diploma (Civil Engineering, EEE, ECE)",
+      "duration": "3 years",
+      "tuitionFee": "₹25,000 per year"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "₹2.20 LPA – ₹3.50 LPA (entry level metric ranges approx. )",
+    "medianSalary": "Data not systematically tracked via public university disclosures",
+    "highestSalary": "₹4.50 LPA – ₹6.00 LPA based on regional off-campus drive selections",
+    "highestDomestic": "Data details localized to local enterprise alignments",
+    "placementRate": "Approximately 50% – 65% depending on branch and market cycle",
+    "totalOffers": "Varies by yearly pool graduation profiles",
+    "companiesVisited": "15+ localized and national technical firms via joint pools",
+    "internationalOffers": "Not offered on-campus",
+    "topRecruiters": [
+      "Savantis Solutions",
+      "Surya Tech Solutions",
+      "Tech Mahindra (Pool drives)",
+      "Wipro (Off-campus linkages)",
+      "TCS (NQT pathways)"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (B.Tech)",
+      "AP POLYCET (Diploma)",
+      "AP PGECET / GATE (M.Tech)"
+    ],
+    "admissionProcess": "Category A (70% seats) state-allotted allocations are executed by APSCHE using counseling channels based on AP EAPCET / AP POLYCET ranks. Category B management quotas are administered independently by college management following minimum eligibility criteria.",
+    "importantDates": "State-level entrance testing and reporting cycles run periodically from June through September yearly."
+  },
+
+  "campus": {
+    "area": "10-acre scenic campus nestled near the hills along the National Highway",
+    "facilities": [
+      "Four Multi-storeyed RCC Structures (10,700 sqm area)",
+      "Central Library & Study Zone",
+      "Department-specific Practical Engineering Laboratories",
+      "Computer Labs with Internet Access",
+      "Audio-Visual Enabled Seminar Halls & Classrooms",
+      "Dedicated College Bus Fleets (covering Badvel, Kadapa, and Proddutur)",
+      "Student Cafeteria & Stores",
+      "On-campus Medical Assistance Desk",
+      "Playgrounds for Cricket and Volley Ball",
+      "Campus-wide Wi-Fi networks",
+      "Boys Hostel Infrastructure",
+      "Girls Hostel Infrastructure"
+    ],
+    "specialNote": "The institute is situated 12 km outside Badvel town directly on the Mydukur-Badvel Highway, ensuring immediate transport accessibility via public state transport networks."
+  },
+
+  "cutoffs": {
+    "acceptedExam": "AP EAPCET",
+    "popularBranch": "Computer Science and Engineering",
+    "closingRanks2024": {
+      "OC Boys": "All eligible qualifying candidates on state ranking registers are considered based on phase distributions.",
+      "OC Girls": "Available based on basic cut-off trends.",
+      "SC Boys": "Allocated as per reserved state seat balance.",
+      "SC Girls": "Allocated as per reserved state seat balance.",
+      "ST Boys": "Allocated as per reserved state seat balance.",
+      "ST Girls": "Allocated as per reserved state seat balance.",
+      "BCA Boys": "Allocated as per reserved state seat balance.",
+      "BCA Girls": "Allocated as per reserved state seat balance"
+    }
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹35,000 – ₹45,000 per year (Approximate maintenance charge baseline)",
+    "messFee": "Generally factored directly into structural board layouts or charged locally",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD) structural fee waivers for eligible backward and minority classes",
+      "Post-Matric student assistance packages from the Government of AP",
+      "Internal merit consideration for high qualifiers"
+    ]
+  },
+
+  "contact": {
+    "phone": "+91 95732 67616, +91 98665 50395",
+    "email": "acharyace@gmail.com",
+    "address": "D. Agraharam Village, Rekalakunta, Mydukur - Badvel Highway, Brahmamgari Matam Mandal, Badvel, YSR Kadapa District - 516502, Andhra Pradesh, India",
+    "admissionsEmail": "acharyace@gmail.com"
+  },
+
+  "website": "https://acharyaedu.com/",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "institutional-website-and-state-education-directories",
+
+  "sources": {
+    "overview": "https://acharyaedu.com/about/",
+    "placements": "https://acharyaedu.com/training-and-placement/",
+    "admissions": "https://acharyaedu.com/",
+    "fees": "https://acharyaedu.com/",
+    "campus": "https://acharyaedu.com/",
+    "contact": "https://acharyaedu.com/contact-us/"
+  }
+}

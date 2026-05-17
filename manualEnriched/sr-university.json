@@ -1,0 +1,136 @@
+{
+  "overview": "SR University (formerly SR Engineering College - SREC), located in Ananthasagar, Hasanparthy, Warangal, Telangana, is a premier private university established in 2002 and upgraded to a private state university in 2020 under the Sri Rajeshwara Educational Society. Spread across a 150-acre campus, the university is known for its specialized technology curriculum, innovation ecosystem, and one of India's largest Technology Business Incubators (TBI) in a tier-2 city.",
+  "accreditation": "Tier-1 NBA accredited; NAAC accredited; ICAR accredited for Agriculture programs.",
+  "nirfRanking": {
+    "overall": "151–200 Rank Band (NIRF 2025)"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech CSE / AI-ML / Technology Specialisations",
+      "duration": "4 years",
+      "tuitionFee": "₹2,20,000 – ₹2,85,000 per year"
+    },
+    {
+      "program": "B.Tech ECE / Core Engineering Branches",
+      "duration": "4 years",
+      "tuitionFee": "₹1,30,000 – ₹1,80,000 per year"
+    },
+    {
+      "program": "B.Tech State Convener Quota (TG EAPCET)",
+      "duration": "4 years",
+      "tuitionFee": "Standardized baseline fee structure as per state norms"
+    },
+    {
+      "program": "MBA Specialisations (Digital Marketing, Analytics, HR)",
+      "duration": "2 years",
+      "tuitionFee": "₹1,10,000 – ₹1,50,000 per year"
+    },
+    {
+      "program": "B.Sc. (Hons) Agriculture / Allied Sciences",
+      "duration": "4 years",
+      "tuitionFee": "₹1,50,000 – ₹2,00,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹6.50 LPA (2025)",
+    "top10PercentAvgSalary": "₹21.00 LPA (2025)",
+    "highestSalary": "₹51.00 LPA",
+    "highestInternshipStipend": "₹1.10 Lakhs – ₹1.25 Lakhs per month",
+    "placementRate": "92% – 97% for eligible B.Tech students",
+    "totalOffers": "1,300+ offers",
+    "companiesVisited": "150+ recruiting partners",
+    "topRecruiters": [
+      "Salesforce",
+      "Microsoft",
+      "Cognizant",
+      "Capgemini",
+      "Flipkart",
+      "Infosys",
+      "Schneider Electric",
+      "Deloitte",
+      "Bosch"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are based on TG EAPCET counseling, JEE Main scores, and management quota admissions depending on the program.",
+    "importantDates": "Admissions follow TG EAPCET counseling schedules and university academic timelines.",
+    "cutoffs": [
+      {
+        "program": "CSE",
+        "round1ExpectedClosingRank": "~11,500",
+        "lastRoundClosingRank": "14,200"
+      },
+      {
+        "program": "CSE (Artificial Intelligence & Machine Learning)",
+        "round1ExpectedClosingRank": "~14,000",
+        "lastRoundClosingRank": "16,800"
+      },
+      {
+        "program": "CSE (Cybersecurity)",
+        "round1ExpectedClosingRank": "~15,200",
+        "lastRoundClosingRank": "18,500"
+      },
+      {
+        "program": "ECE (VLSI)",
+        "round1ExpectedClosingRank": "~22,000",
+        "lastRoundClosingRank": "26,400"
+      },
+      {
+        "program": "Mechanical Engineering (Robotics & Automation)",
+        "round1ExpectedClosingRank": "~45,000",
+        "lastRoundClosingRank": "52,000"
+      },
+      {
+        "program": "EEE",
+        "round1ExpectedClosingRank": "~55,000",
+        "lastRoundClosingRank": "68,000"
+      }
+    ]
+  },
+  "campus": {
+    "area": "150 acres",
+    "facilities": [
+      "Technology Business Incubator (TBI)",
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Labs",
+      "Innovation Centers",
+      "Wi-Fi Campus",
+      "Sports Facilities",
+      "Auditorium",
+      "Cafeteria",
+      "Transport Facility"
+    ],
+    "hostelFees": "₹85,000 – ₹1,20,000 per year depending on sharing and AC/non-AC selection",
+    "messCharges": "Integrated within hostel fee structure",
+    "specialNote": "SR University hosts one of India's largest Technology Business Incubators in a tier-2 city and maintains international engineering partnerships."
+  },
+  "scholarships": {
+    "meritScholarships": "50% – 100% tuition fee waivers for top JEE Main and TG EAPCET scorers",
+    "sportsQuota": "Fee concessions for state and national-level sports achievers",
+    "specialCategorySupport": "Financial aid for disabled students",
+    "alumniBenefits": "Fee reductions for children of university staff and alumni"
+  },
+  "contact": {
+    "phone": "+91-870-281-8333",
+    "email": "info@sru.edu.in",
+    "address": "SR University, Ananthasagar, Hasanparthy, Warangal, Telangana – 506371, India",
+    "admissionsEmail": "admissions@sru.edu.in"
+  },
+  "website": "https://www.sru.edu.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-data",
+  "sources": {
+    "overview": "https://www.sru.edu.in",
+    "placements": "https://www.sru.edu.in/placement",
+    "admissions": "https://www.sru.edu.in/admissions",
+    "fees": "https://sru.edu.in/fee-scholarship",
+    "campus": "https://sru.edu.in/about",
+    "contact": "https://www.sru.edu.in"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "overview": "Chirala Engineering College (CEC), established in 2001, is a private institute located in the Prakasam district of Andhra Pradesh. The college is recognized for its commitment to technical education and its vibrant campus life near the Ramapuram beach area. It offers a wide range of programs spanning Engineering, Management, and Computer Applications at various academic levels.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Accredited by NAAC with an 'A' Grade. Affiliated with Jawaharlal Nehru Technological University (JNTU), Kakinada.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, ECE, EEE, Civil, Mechanical, IT, E&I)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,80,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET / JEE Main rank"
+    },
+    {
+      "course": "M.Tech (Computer Science Engineering, VLSI Design)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE / AP PGECET"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000",
+      "eligibility": "Graduation with 50% aggregate + AP ICET"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000",
+      "eligibility": "Graduation with 50% aggregate + AP ICET"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000",
+      "eligibility": "10th pass with 35% marks + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹2.8 LPA - ₹4.0 LPA",
+    "medianSalary": "₹3.3 LPA",
+    "highestSalary": "₹6.0 LPA - ₹12.0 LPA (Top packages in recent cycles)",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "80% - 93%",
+    "totalOffers": "250+",
+    "companiesVisited": "35+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Accenture",
+      "Cognizant",
+      "Wipro",
+      "Infosys",
+      "TCS",
+      "Tech Mahindra",
+      "Mindtree",
+      "DBS Technologies",
+      "Oracle",
+      "HP"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "JEE Main",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "AP POLYCET"
+    ],
+    "admissionProcess": "Admissions are categorized into Category A (70% Convener Quota) through state web counseling (APSCHE) and Category B (30% Management Quota) based on merit or JEE ranks. Lateral entry is available for diploma holders via AP ECET.",
+    "importantDates": "AP EAPCET 2026: May 12–15 & 18, 2026; AP ICET 2026 Result: May 16, 2026; AP PGECET Result: May 14, 2026."
+  },
+  "campus": {
+    "area": "Acres of modern infrastructure",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Well-equipped Engineering Labs",
+      "Digital Library with vast collections",
+      "Hostels for Boys & Girls",
+      "Large Sports Ground",
+      "Canteen (Known for quality food)",
+      "24/7 Wi-Fi & Medical Facilities"
+    ],
+    "specialNote": "The college is noted for its scenic and peaceful location on the Ramapuram Beach Road. It offers a strong 'Placement Training Programme' that includes CRT (Campus Recruitment Training) starting from the third year."
+  },
+  "contact": {
+    "phone": "+91 8331040544, +91 8331040550",
+    "email": "principal@cecc.co.in",
+    "address": "Ramapuram Beach Road, Chirala, Prakasam District, Andhra Pradesh - 523157",
+    "admissionsEmail": "admissions@cecc.co.in"
+  },
+  "website": "https://www.cecc.co.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

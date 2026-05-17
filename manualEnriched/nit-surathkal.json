@@ -1,0 +1,86 @@
+{
+  "overview": "National Institute of Technology Karnataka (NIT Surathkal), established in 1960, is one of India's premier technical institutions and an Institute of National Importance. It is especially known for its strong performance in engineering education, research, and placements, particularly in circuital branches.",
+  "accreditation": "Institute of National Importance; All B.Tech programs accredited by NBA; NIRF 2024 Overall Rank: 17.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 per semester (General/OBC, income > ₹5 lakh); ₹20,833/sem (income ₹1–5 lakh); ₹0 tuition (income < ₹1 lakh / SC/ST/PwD). Other fees ~₹36,400/sem. Hostel & Mess: ~₹39,000–₹43,000/sem."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Tuition varies; GATE-qualified students receive ₹12,400/month stipend. Median package: ₹10 LPA (2025)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹15.08 LPA overall; ₹17.48 LPA B.Tech (2024–25)",
+    "medianSalary": "₹14.00 LPA (B.Tech, 2024–25)",
+    "highestSalary": "₹63.30 LPA (2024–25)",
+    "highestDomestic": "₹63.30 LPA",
+    "placementRate": "B.Tech: 80.60%; M.Tech: 77.65%",
+    "totalOffers": "1,246 placed out of 1,611 eligible (2024–25)",
+    "companiesVisited": "Google, Microsoft, Amazon, Oracle, Goldman Sachs, Qualcomm, Uber, GAIL, BPCL, BEL",
+    "internationalOffers": "Increasing trend in high-value global offers in software and finance",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "93.20%", "avgCTC": "₹26.85 LPA" },
+      { "branch": "Artificial Intelligence (AI)", "placementRate": "87.80%" },
+      { "branch": "Chemical Engineering", "placementRate": "85.71%" },
+      { "branch": "Information Technology (IT)", "placementRate": "83.75%", "avgCTC": "₹23.25 LPA" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "Highest package rose 15% from ₹55 LPA (2023–24) to ₹63.30 LPA (2024–25)",
+      "mtechStats": "M.Tech placement rate 77.65%, median ₹10 LPA (2025)"
+    },
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Oracle",
+      "Goldman Sachs",
+      "Qualcomm",
+      "Uber",
+      "GAIL",
+      "BPCL",
+      "BEL"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Main", "GATE"],
+    "admissionProcess": "B.Tech admissions through JoSAA counseling based on JEE Main rank; M.Tech admissions via GATE followed by CCMT counseling.",
+    "importantDates": "Follows JoSAA and CCMT official schedules."
+  },
+  "campus": {
+    "area": "295 acres (approx.)",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Facilities",
+      "Computer Centre",
+      "Innovation & Research Labs",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Beachside Campus"
+    ],
+    "specialNote": "One-time fees (~₹13,000–₹25,000) included in first semester. Refundable caution deposit ~₹6,700. Sea-facing campus with strong hostel infrastructure."
+  },
+  "contact": {
+    "phone": "+91-824-2474000",
+    "email": "info@nitk.edu.in",
+    "address": "National Institute of Technology Karnataka, Surathkal – 575025, Karnataka, India",
+    "admissionsEmail": "academic@nitk.edu.in"
+  },
+  "website": "https://www.nitk.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "compiled-data",
+  "sources": {
+    "overview": "https://www.nitk.ac.in",
+    "fees": "https://www.nitk.ac.in/admissions",
+    "placements": "https://www.nitk.ac.in/placement",
+    "admissions": "https://josaa.nic.in",
+    "campus": "https://www.nitk.ac.in/about",
+    "contact": "https://www.nitk.ac.in/contact"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "cbit-hyderabad",
+  "canonicalId": "cbit-hyderabad",
+  "name": "Chaitanya Bharathi Institute of Technology",
+  "shortName": "CBIT",
+  "alternateSlugs": [
+    "chaitanya-bharathi-institute-of-technology"
+  ],
+  "searchAliases": [
+    "cbit",
+    "cbit hyderabad",
+    "chaitanya bharathi",
+    "chaitanya bharathi institute of technology",
+    "chaitanya-bharathi-institute-of-technology"
+  ],
+  "overview": "Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad is a premier private engineering college established in 1979 by the Chaitanya Bharathi Educational Society. It is one of the oldest and most reputed private engineering colleges in Telangana. CBIT is an autonomous institution affiliated to JNTUH and approved by AICTE. The institute has been ranked in the 151-200 band in NIRF India Rankings 2025 for Engineering. CBIT is accredited by NAAC with 'A' grade and most of its programs are NBA accredited. The institute is known for its strong academic culture, excellent placements, and disciplined campus environment.",
+  "accreditation": "NAAC 'A' Grade, NBA Accredited (8 programs), AICTE approved, JNTUH affiliated (Autonomous)",
+  "coursesAndFees": [
+    { "program": "B.Tech (CSE)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor), ₹2,85,000/year (Category-B)" },
+    { "program": "B.Tech (ECE)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "B.Tech (EEE)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "B.Tech (IT)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "B.Tech (ME, CE, CHE, BioTech)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "B.Tech (CSE - AI/ML, Data Science, Cyber Security)", "duration": "4 Years", "tuitionFee": "₹1,35,000/year (Convenor)" },
+    { "program": "M.Tech (Various specializations)", "duration": "2 Years", "tuitionFee": "₹1,00,000/year" },
+    { "program": "MBA", "duration": "2 Years", "tuitionFee": "₹1,20,000/year" }
+  ],
+  "placements": {
+    "avgSalary": "₹7.50 LPA",
+    "medianSalary": "₹6.00 LPA",
+    "highestSalary": "₹22 LPA",
+    "highestDomestic": "",
+    "placementRate": "78%",
+    "totalOffers": "700+",
+    "companiesVisited": "120+",
+    "internationalOffers": "",
+    "topRecruiters": ["TCS", "Infosys", "Wipro", "Cognizant", "Capgemini", "Accenture", "Amazon", "Microsoft", "IBM", "Oracle", "Tech Mahindra", "HCL", "L&T Infotech", "Deloitte", "DXC Technology", "Hexaware", "Mindtree", "Wells Fargo", "Virtusa", "Cyient"]
+  },
+  "admissions": {
+    "examsAccepted": ["TG EAPCET (B.Tech)", "GATE (M.Tech)", "TSICET (MBA)"],
+    "admissionProcess": "B.Tech: 70% seats through TG EAPCET counselling (TSCHE convenor quota), 30% management quota. M.Tech: GATE score based. MBA: TSICET counselling.",
+    "importantDates": "TG EAPCET: May 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "52 acres",
+    "facilities": ["Central Library (70,000+ books)", "Well-equipped Labs (60+)", "Sports Complex", "Indoor Stadium", "Basketball & Tennis Courts", "Cricket Ground", "Gymnasium", "Separate Boys & Girls Hostels", "Health Centre", "Wi-Fi Campus", "Seminar Halls", "Auditorium (2000 seats)", "Canteen & Food Court", "Banks & ATMs", "Transportation Facility"],
+    "specialNote": "CBIT is one of the few private colleges in Telangana to achieve autonomous status, allowing it to design its own curriculum."
+  },
+  "contact": {
+    "phone": "+91-40-2451 8494",
+    "email": "principal@cbit.ac.in",
+    "address": "Gandipet, Hyderabad – 500075, Telangana, India",
+    "admissionsEmail": "admissions@cbit.ac.in"
+  },
+  "website": "https://www.cbit.ac.in",
+  "lastVerified": "2026-04-09",
+  "verifiedBy": "official-website"
+}

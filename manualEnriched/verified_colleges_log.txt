@@ -1,0 +1,379 @@
+=== Verified Colleges Population Log ===
+Generated: 2026-04-16
+
+════════════════════════════════════════════════════
+  BATCH POPULATION STARTED
+════════════════════════════════════════════════════
+
+[DONE] iit-delhi
+  URLs: https://home.iitd.ac.in, https://ocs.iitd.ac.in
+
+[DONE] iit-bombay
+  URLs: https://www.iitb.ac.in, https://placements.iitb.ac.in
+
+[DONE] iit-kanpur
+  URLs: https://www.iitk.ac.in, https://spo.iitk.ac.in
+
+[DONE] iit-kharagpur
+  URLs: https://www.iitkgp.ac.in, https://cdc.iitkgp.ac.in
+
+[DONE] iit-roorkee
+  URLs: https://www.iitr.ac.in, https://placement.iitr.ac.in
+
+[DONE] iit-guwahati
+  URLs: https://www.iitg.ac.in
+
+[DONE] iit-bhu
+  URLs: https://www.iitbhu.ac.in
+
+[DONE] iit-indore
+  URLs: https://www.iiti.ac.in
+
+[DONE] iit-patna
+  URLs: https://www.iitp.ac.in
+
+[DONE] iit-gandhinagar
+  URLs: https://www.iitgn.ac.in
+
+[DONE] iit-mandi
+  URLs: https://www.iitmandi.ac.in
+
+[DONE] iit-jodhpur
+  URLs: https://www.iitj.ac.in
+
+[DONE] iit-ropar
+  URLs: https://www.iitrpr.ac.in
+
+[DONE] iit-ism
+  URLs: https://www.iitism.ac.in
+
+[DONE] iit-tirupati
+  URLs: https://www.iittp.ac.in
+
+[DONE] iit-bhubaneswar
+  URLs: https://www.iitbbs.ac.in
+
+[DONE] iit-jammu
+  URLs: https://www.iitjammu.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, specialNote, admissionsEmail
+
+[DONE] iit-palakkad
+  URLs: https://iitpkd.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, specialNote, admissionsEmail
+
+[DONE] iit-bhilai
+  URLs: https://www.iitbhilai.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, specialNote, admissionsEmail
+
+[DONE] iit-dharwad
+  URLs: https://www.iitdh.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, specialNote, admissionsEmail
+
+[DONE] nit-surathkal
+  URLs: https://www.nitk.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-rourkela
+  URLs: https://www.nitrkl.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-calicut
+  URLs: https://www.nitc.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-durgapur
+  URLs: https://nitdgp.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-silchar
+  URLs: https://www.nits.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] mnit-jaipur
+  URLs: https://www.mnit.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] vnit-nagpur
+  URLs: https://vnit.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] mnnit-allahabad
+  URLs: https://www.mnnit.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] svnit-surat
+  URLs: https://www.svnit.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-kurukshetra
+  URLs: https://www.nitkkr.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-hamirpur
+  URLs: https://nith.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-patna
+  URLs: https://www.nitp.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-jalandhar
+  URLs: https://www.nitj.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-delhi
+  URLs: https://nitdelhi.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-srinagar
+  URLs: https://www.nitsri.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] manit-bhopal
+  URLs: https://www.manit.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-jamshedpur
+  URLs: https://www.nitjsr.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-meghalaya
+  URLs: https://www.nitm.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-raipur
+  URLs: https://www.nitrr.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] nit-puducherry
+  URLs: https://www.nitpy.ac.in
+  Skipped fields: medianSalary, internationalOffers, email, admissionsEmail
+
+[DONE] iiit-delhi
+  URLs: https://iiitd.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] iiit-bangalore
+  URLs: https://www.iiitb.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] iiitm-gwalior
+  URLs: https://www.iiitm.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] srm-chennai
+  URLs: https://www.srmist.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] mit-manipal
+  URLs: https://manipal.edu/mit.html
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] amrita
+  URLs: https://www.amrita.edu
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] thapar
+  URLs: https://www.thapar.edu
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] chandigarh-university
+  URLs: https://www.cuchd.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] kiit
+  URLs: https://kiit.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] amity
+  URLs: https://www.amity.edu
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] sastra
+  URLs: https://www.sastra.edu
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] dtu
+  URLs: https://www.dtu.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] nsut-delhi
+  URLs: https://www.nsut.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] jadavpur
+  URLs: http://www.jaduniv.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] anna-university
+  URLs: https://www.annauniv.edu
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] ict-mumbai
+  URLs: https://www.ict.res.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] coep-pune
+  URLs: https://www.coep.org.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] psg-tech
+  URLs: https://www.psgtech.edu
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] jamia
+  URLs: https://www.jmi.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] iist-trivandrum
+  URLs: https://www.iist.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] iiest-shibpur
+  URLs: https://www.iiests.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] soa-bhubaneswar
+  URLs: https://www.soa.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] bit-ranchi
+  URLs: https://www.bitmesra.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] msrit-bangalore
+  URLs: https://www.msrit.edu
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] panjab-university
+  URLs: https://puchd.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] graphic-era
+  URLs: https://www.geu.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] manipal-jaipur
+  URLs: https://jaipur.manipal.edu
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] sathyabama
+  URLs: https://www.sathyabama.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] christ-bangalore
+  URLs: https://christuniversity.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] jain-bangalore
+  URLs: https://www.jainuniversity.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] vel-tech
+  URLs: https://www.veltech.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] chitkara
+  URLs: https://www.chitkara.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] cv-raman
+  URLs: https://www.cvrce.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] diat-pune
+  URLs: https://www.diat.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] rgipt-amethi
+  URLs: https://www.rgipt.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] sliet-longowal
+  URLs: https://sliet.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] mmmut-gorakhpur
+  URLs: https://www.mmmut.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] pdeu-gandhinagar
+  URLs: https://www.pdeu.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] banasthali
+  URLs: https://www.banasthali.org
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] skcet-coimbatore
+  URLs: https://www.skcet.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] anurag-university
+  URLs: https://anurag.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] vardhaman
+  URLs: https://vardhaman.org
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] mlr-it
+  URLs: https://www.mlrinstitutions.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] iare
+  URLs: https://www.iare.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] uoh
+  URLs: https://uohyd.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] sr-university
+  URLs: https://www.sru.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] vignan
+  URLs: https://vignan.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] au-vizag
+  URLs: https://www.andhrauniversity.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] svuce-tirupati
+  URLs: https://www.svuniversity.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] jntuk-kakinada
+  URLs: https://www.jntuk.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] jntua-anantapur
+  URLs: https://www.jntua.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] rvrjc-guntur
+  URLs: https://www.rvrcse.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] gmrit-rajam
+  URLs: https://www.gmrit.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] srkr-bhimavaram
+  URLs: https://www.srkrec.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] vrsec-vijayawada
+  URLs: https://www.vrsiddhartha.ac.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+[DONE] qis-ongole
+  URLs: https://www.qiscet.edu.in
+  Skipped fields: medianSalary, totalOffers, companiesVisited, internationalOffers, email, admissionsEmail
+
+
+════════════════════════════════════════════════════
+  DONE: 96 colleges written, 0 skipped
+════════════════════════════════════════════════════

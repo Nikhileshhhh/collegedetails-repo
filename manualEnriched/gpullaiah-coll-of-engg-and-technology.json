@@ -1,0 +1,80 @@
+{
+  "overview": "G. Pullaiah College of Engineering and Technology (GPCET), established in 2007, is a premier autonomous engineering institution located in Kurnool, Andhra Pradesh. Founded by the Sri Lakshmi Saraswathi Educational Society, the college has rapidly emerged as a hub for technical excellence in the Rayalaseema region. GPCET is known for its learner-centric approach, modern infrastructure, and strong emphasis on research and innovation through various centers of excellence and student-led technical clubs.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade (CGPA 3.06). B.Tech programs in CSE, ECE, EEE, and ME are accredited by the National Board of Accreditation (NBA). Approved by AICTE, New Delhi, and permanently affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&DS, AI&ML, ECE, EEE, ME, Civil, IoT)",
+      "duration": "4 Years",
+      "totalFees": "₹2,43,600 (Approx. ₹60,900 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA (General Management)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI, Digital Electronics, Electrical Power Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.25 LPA",
+    "medianSalary": "₹3.25 LPA",
+    "highestSalary": "₹25.0 LPA (2025/26 Cycle)",
+    "highestDomestic": "₹25.0 LPA",
+    "placementRate": "80% - 90%",
+    "totalOffers": "179+ (Current 2025 Batch)",
+    "companiesVisited": "100+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Accenture",
+      "IBM",
+      "Wipro",
+      "TCS",
+      "Amazon",
+      "Cognizant",
+      "Capgemini",
+      "Deloitte",
+      "Value Labs",
+      "HCL Technologies"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "70% of seats (Category A) are filled via state-level web counseling conducted by APSCHE based on entrance ranks. 30% are Management Quota (Category B) seats filled based on merit or JEE scores. Counseling Code: GPCK.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP ICET 2026: July 9–13, 2026; B.Tech Counseling: Tentatively July 2026."
+  },
+  "campus": {
+    "area": "10 - 15 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & E-Classrooms",
+      "Advanced Labs including Robotics and AI Research Cells",
+      "Central Library with Digital Section & Book Bank",
+      "Separate Hostels for Boys and Girls (In-campus)",
+      "Indoor Sports Arena & Outdoor Grounds (Cricket, Volleyball)",
+      "Hygienic Canteen & Food Court",
+      "Mineral Water Plant & Health Care Center",
+      "Transport (Fleet covering all major points in Kurnool city and suburbs)"
+    ],
+    "specialNote": "GPCET is distinguished by its 'In-house Training & Placement' model which provides specialized coding and soft-skills training from the first year. The college is also known for its strong 'NSS Unit' and 'Anti-Ragging' protocols, ensuring a high-safety environment for students."
+  },
+  "contact": {
+    "phone": "+91 8639756663, 08518-285011",
+    "email": "principal@gpcet.ac.in, info@gpcet.ac.in",
+    "address": "Nandikotkur Road, Venkayapalle, Pasupula Village, Kurnool, Andhra Pradesh - 518002",
+    "admissionsEmail": "admissions@gpcet.ac.in"
+  },
+  "website": "https://www.gpcet.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

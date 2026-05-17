@@ -1,0 +1,86 @@
+{
+  "overview": "Birla Institute of Technology and Science (BITS) Pilani, established in 1964, is one of India's leading private institutions known for excellence in engineering, sciences, and management. With campuses in Pilani, Goa, and Hyderabad, BITS Pilani is renowned for its flexible academic structure, strong industry linkages, and high-quality placements.",
+  "accreditation": "Deemed to be University; NAAC 'A' accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.E. / B.Pharm / Integrated M.Sc. (First Degree)",
+      "duration": "4–5 years",
+      "tuitionFee": "₹2,59,500 per semester (2024–25). One-time admission fee ₹57,100. Summer term ₹90,800 (if registered). Practice School ~35% of prev. semester fee. Estimated 4-year total: ₹22–₹25.85 Lakhs (tuition only)."
+    },
+    {
+      "program": "M.E. / M.Pharm / MBA (Higher Degree)",
+      "duration": "2 years",
+      "tuitionFee": "₹2,59,500 per semester. Total tuition ~₹12.93 Lakhs. One-time admission fee ₹57,100."
+    },
+    {
+      "program": "Ph.D. (Doctoral)",
+      "duration": "3–5 years",
+      "tuitionFee": "₹27,500 per semester (Full-Time). Part-Time: ₹55,000 per semester. Admission fee ₹10,000. Total est. ~₹1.65 Lakhs (3-year)."
+    },
+    {
+      "program": "B.Tech / M.Tech / MBA (WILP – Work Integrated)",
+      "duration": "2–4 years",
+      "tuitionFee": "₹70,100–₹75,100 per semester. Total: ₹2.8–₹4.9 Lakhs for entire program."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹31.63 LPA (2024–25 Phase 1)",
+    "medianSalary": "₹17.70 LPA (4-Year UG, 2023–24)",
+    "highestSalary": "₹60.75 LPA (Domestic, 2023–24/2025)",
+    "highestDomestic": "₹60.75 LPA",
+    "placementRate": "Overall: ~80.03% (2023–24), Phase 1 2024–25: ~54.35% (ongoing)",
+    "totalOffers": "924 students placed in Phase 1 (2024–25) out of ~1,700 registered",
+    "companiesVisited": "Google, Microsoft, Uber, Micron, Qualcomm, Goldman Sachs, JP Morgan, Texas Instruments, BCG, McKinsey",
+    "internationalOffers": "International offers up to ₹1.47 CPA in recent cycles",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Uber",
+      "Micron",
+      "Qualcomm",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Texas Instruments",
+      "BCG",
+      "McKinsey"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["BITSAT"],
+    "admissionProcess": "Admissions are based on the BITSAT entrance exam followed by centralized counseling conducted by BITS Pilani.",
+    "importantDates": "Admissions follow the BITSAT schedule and institute counseling timelines each academic year."
+  },
+  "campus": {
+    "area": "Pilani campus ~328 acres (multi-campus system including Goa and Hyderabad)",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Computer Centre",
+      "Innovation & Incubation Centre",
+      "Sports Complex",
+      "Auditorium",
+      "Research Labs",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Tuition fee increases ~5% annually. Merit and Merit-cum-Need scholarships provide 15% to 100% tuition waiver. Hostel & Mess additional: ~₹42,650 (Pilani) / ~₹49,750 (Goa/Hyderabad) per semester."
+  },
+  "contact": {
+    "phone": "+91-1596-245073",
+    "email": "admissions@pilani.bits-pilani.ac.in",
+    "address": "BITS Pilani, Pilani Campus, Vidya Vihar, Pilani – 333031, Rajasthan, India",
+    "admissionsEmail": "admissions@bits-pilani.ac.in"
+  },
+  "website": "https://www.bits-pilani.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.bits-pilani.ac.in",
+    "fees": "https://www.bitsadmission.com/fees.html",
+    "placements": "https://www.bits-pilani.ac.in/placements",
+    "admissions": "https://www.bitsadmission.com",
+    "campus": "https://www.bits-pilani.ac.in/campus-life",
+    "contact": "https://www.bits-pilani.ac.in/contact"
+  }
+}

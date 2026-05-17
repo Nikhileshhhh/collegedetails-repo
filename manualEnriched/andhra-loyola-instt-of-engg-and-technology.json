@@ -1,0 +1,65 @@
+{
+  "overview": "Andhra Loyola Institute of Engineering and Technology (ALIET), Vijayawada, officially states that it was established in 2008 and is managed by the Society of Jesus (Jesuits). The institute functions on a green 98-acre campus shared with Andhra Loyola College and positions itself around the motto 'Service and Excellence' with a strong focus on holistic engineering education.",
+  "accreditation": "AICTE approved; JNTUK affiliated; autonomous; NAAC A+ (3.33); NBA accredited; ISO 9001:2015.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Civil, EEE, Mechanical, ECE, CSE, CSE (AI and ML), CSE (Data Science), IT",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 55,220/year"
+    },
+    {
+      "program": "M.Tech - VLSI",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 46,100/year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "95%+",
+    "totalOffers": "",
+    "companiesVisited": "200+",
+    "internationalOffers": "",
+    "topRecruiters": []
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ECET",
+      "AP ICET",
+      "JEE Main"
+    ],
+    "admissionProcess": "The official admissions page states that 70% of UG and PG seats are filled through centralized APSCHE counseling, while the remaining 30% are institutional B-category seats. Lateral entry seats are filled through AP ECET, and MBA admissions use AP ICET.",
+    "importantDates": "AP EAPCET, ECET, and ICET counseling schedules are announced by APSCHE each cycle; ALIET publishes institution-level admission notices on its official website."
+  },
+  "campus": {
+    "area": "98 acres",
+    "facilities": [
+      "Siemens Training Centre",
+      "Chief Minister's Excellence Centre",
+      "Skill Development Centre with APSSDC",
+      "Central library with 100,000+ books",
+      "500+ journals",
+      "Sports facilities",
+      "Cultural activity spaces",
+      "Industry exposure programs"
+    ],
+    "specialNote": "The official site highlights a serene campus at the foothills of the Eastern Ghats and a Jesuit educational approach focused on competence, compassion, and commitment."
+  },
+  "contact": {
+    "phone": "0866-2498978, 0866-2476161",
+    "email": "info@aliet.ac.in",
+    "address": "ITI Road, ALC Campus, Polytechnic Post Office, Vijayawada - 520008, Andhra Pradesh, India",
+    "admissionsEmail": "alietbza@aliet.ac.in"
+  },
+  "website": "https://www.aliet.ac.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "official-website"
+}

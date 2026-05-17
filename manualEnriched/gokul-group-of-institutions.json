@@ -1,0 +1,91 @@
+{
+  "overview": "Gokul Group of Institutions (GGOI), founded in 2001, is a prominent private educational group located in Bobbili near Vizianagaram, Andhra Pradesh. The group is primarily known for the 'Gokul Institute of Technology and Sciences' (GITS), which serves as its technical flagship. It caters significantly to students in the North Coastal Andhra region, providing a comprehensive range of programs across Engineering, Pharmacy, and Management. Note: This group is distinct from the 'Gokul Global University' in Gujarat.",
+  "accreditation": "Approved by AICTE, New Delhi. Affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK). Most professional programs are recognized by respective bodies like PCI (Pharmacy) and the State Board of Technical Education.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,40,000 - ₹1,60,000 (Approx. ₹35,000 - ₹40,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "B.Pharm (Bachelor of Pharmacy)",
+      "duration": "4 Years",
+      "totalFees": "₹1,40,000 - ₹1,60,000",
+      "eligibility": "10+2 with 45% aggregate in Bi.P.C or M.P.C + AP EAPCET rank"
+    },
+    {
+      "course": "MBA (General, HR, Finance, Marketing)",
+      "duration": "2 Years",
+      "totalFees": "₹55,000 - ₹70,000",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (Software Engg, Computer Science, VLSI, Power Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹1,44,000 (Approx. ₹72,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE)",
+      "duration": "3 Years",
+      "totalFees": "₹74,600 - ₹75,000",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA - ₹3.8 LPA",
+    "medianSalary": "₹3.2 LPA",
+    "highestSalary": "₹6.0 LPA - ₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "70% - 75%",
+    "totalOffers": "150+ (Group average)",
+    "companiesVisited": "25+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Cognizant",
+      "HCL Technologies",
+      "Capgemini",
+      "Amazon (Support)",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted primarily through the Andhra Pradesh State Council of Higher Education (APSCHE) web counseling. 70% of seats (Category A) are filled based on state entrance ranks. 30% (Category B) are Management Quota seats filled based on merit or JEE scores. Counseling Code: GKUL.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Results: June 1, 2026; AP ICET 2026 Result: May 16, 2026; B.Tech Counseling: July 2026."
+  },
+  "campus": {
+    "area": "Lush green campus in the outskirts of Bobbili",
+    "facilities": [
+      "ICT Enabled Classrooms & Digital Library",
+      "Department-specific Specialized Laboratories",
+      "Central Computing Facility",
+      "On-campus Separate Hostels for Boys and Girls",
+      "Auditorium & Seminar Halls",
+      "Sports Fields for Cricket, Volleyball, and Athletics",
+      "Canteen & Drinking Water RO Plant",
+      "Transport (Fleet of buses covering Bobbili, Vizianagaram, and Salur)"
+    ],
+    "specialNote": "Gokul is one of the oldest technical education providers in the Vizianagaram district. It maintains a strong focus on 'Campus Recruitment Training' (CRT) starting from the third year to aid rural students in clearing technical and HR rounds of IT giants."
+  },
+  "contact": {
+    "phone": "+91 8944-259167, +91 9440196423",
+    "email": "gokulbobbili@gmail.com",
+    "address": "Piridi, Bobbili, Vizianagaram District, Andhra Pradesh - 535558",
+    "admissionsEmail": "principal@gokulbobbili.org"
+  },
+  "website": "http://www.gokulbobbili.org/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

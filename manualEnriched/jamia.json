@@ -1,0 +1,98 @@
+{
+  "overview": "Jamia Millia Islamia (JMI), a premier Central University established in 1920, is known for its strong academic foundation, diverse programs, and affordable education. It has consistently ranked among the top universities in India and is recognized for excellence in engineering, management, and humanities.",
+  "accreditation": "Central University; NAAC 'A++' Grade (Cycle 2, CGPA 3.61/4.0, valid till Dec 2026). NIRF 2024: 3rd Universities, 24th Engineering, 25th Management.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Regular)",
+      "duration": "4 years",
+      "tuitionFee": "₹19,225 annually (~₹9,600/sem). Highly subsidized. One-time admission & caution deposit included."
+    },
+    {
+      "program": "B.Tech (Self-Financed)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,50,000 annually (~₹75,000/sem)."
+    },
+    {
+      "program": "MBA (Regular)",
+      "duration": "2 years",
+      "tuitionFee": "₹53,150 annually (~₹26,500/sem)."
+    },
+    {
+      "program": "MCA",
+      "duration": "2–3 years",
+      "tuitionFee": "₹17,000 annually (~₹8,500/sem)."
+    },
+    {
+      "program": "B.A. / B.Sc (Regular)",
+      "duration": "3 years",
+      "tuitionFee": "~₹9,875–₹10,500 annually (~₹5,000/sem)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "B.Tech: ~₹10–11 LPA (2024); MCA: ₹7.85 LPA (2025); MBA: ~₹8–9 LPA (2024)",
+    "medianSalary": "B.Tech: ₹13.78 LPA (NIRF 2025); PG: ₹12.60–₹15 LPA",
+    "highestSalary": "₹59.91 LPA (B.Tech Computer Eng, 2023–24)",
+    "highestDomestic": "₹59.91 LPA",
+    "placementRate": "B.Tech: ~84%; Comp Eng: ~90–100%; ECE: ~85–90%; MBA: ~94%",
+    "totalOffers": "330+ placed (2024); 40+ recruiters in 2025 Phase 1",
+    "companiesVisited": "Accenture, KPMG, CDOT, ICICI Bank, Samsung, TCS, Optum, Vedanta",
+    "internationalOffers": "Primarily domestic placements",
+    "branchWiseHighlights": [
+      { "branch": "Computer Engineering", "placementRate": "90–100%" },
+      { "branch": "Electronics & Communication (ECE)", "placementRate": "85–90%" },
+      { "branch": "MBA", "placementRate": "~94%" },
+      { "branch": "MCA (2025 Phase 1)", "placementRate": "46%", "avgCTC": "₹7.85 LPA" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "B.Tech highest: ₹59.91 LPA (2023–24); 2025 Phase 1: ₹24.50 LPA (ongoing)",
+      "mcaHighest": "₹18.50 LPA (MCA 2025)"
+    },
+    "topRecruiters": [
+      "Accenture",
+      "KPMG",
+      "CDOT",
+      "ICICI Bank",
+      "Samsung",
+      "TCS",
+      "Optum",
+      "Vedanta"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Main", "CUET", "JMI Entrance Exams"],
+    "admissionProcess": "Admissions based on JEE Main/CUET or university-specific entrance tests depending on the program.",
+    "importantDates": "Follows CUET/JEE Main schedules and JMI academic calendar."
+  },
+  "campus": {
+    "area": "Urban campus in New Delhi",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Facilities",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Campus",
+      "Research Centers",
+      "Cafeteria"
+    ],
+    "specialNote": "Hostel: ₹22,000–₹30,000/sem (merit-based, limited seats). Scholarships: Merit-cum-Means (income < ₹2L), Teachers Scholarship, Donor Scholarships, UGC Non-NET Fellowship."
+  },
+  "contact": {
+    "phone": "+91-11-2698-1717",
+    "email": "registrar@jmi.ac.in",
+    "address": "Jamia Millia Islamia, Jamia Nagar, New Delhi – 110025, India",
+    "admissionsEmail": "admission@jmi.ac.in"
+  },
+  "website": "https://www.jmi.ac.in",
+  "lastVerified": "2026-05-01",
+  "verifiedBy": "compiled-data",
+  "sources": {
+    "overview": "https://www.jmi.ac.in",
+    "fees": "https://www.jmi.ac.in/admissions",
+    "placements": "https://www.jmi.ac.in/placements",
+    "admissions": "https://www.jmi.ac.in/admissions",
+    "campus": "https://www.jmi.ac.in/about",
+    "contact": "https://www.jmi.ac.in/contact"
+  }
+}

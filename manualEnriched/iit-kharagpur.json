@@ -1,0 +1,75 @@
+{
+  "overview": "Indian Institute of Technology Kharagpur (IIT Kharagpur), established in 1951, is the oldest IIT and a top-tier institute known for academic excellence, industry collaboration, and a vast campus. It offers multidisciplinary education in engineering, science, law, and management.",
+  "accreditation": "Institute of National Importance; NAAC 'A++' accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.S. (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC (income > ₹5 lakh). Income-based and caste-based waivers apply."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹5,000 – ₹10,000 per semester for General/OBC (non-sponsored). Sponsored: ₹25,000 – ₹50,000. SC/ST/PwD are exempt."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹24 LPA (B.Tech overall, 2024–25)",
+    "medianSalary": "₹19.76 LPA",
+    "highestSalary": "₹2.44 CPA (Phase 1, 2025–26)",
+    "highestDomestic": "₹1.68 – ₹2.68 CPA (historical high range)",
+    "placementRate": "B.Tech ~80–86%, M.Tech ~60–70%",
+    "totalOffers": "1,500+ (Phase 1, 2025–26), 1,800+ (2024–25 full session)",
+    "companiesVisited": "Apple, Google, Microsoft, Quantbox, Databricks, DE Shaw, Capital One, Qualcomm, Texas Instruments",
+    "internationalOffers": "₹2+ Cr international packages reported in Phase 1, 2025–26",
+    "topRecruiters": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Quantbox",
+      "Databricks",
+      "DE Shaw",
+      "Capital One",
+      "Qualcomm",
+      "Texas Instruments"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE", "CAT", "CEED"],
+    "admissionProcess": "Admissions are based on national-level exams followed by JoSAA, COAP, or institute-level counseling for seat allocation.",
+    "importantDates": "Admissions follow JoSAA/COAP schedule and IIT Kharagpur's academic calendar."
+  },
+  "campus": {
+    "area": "2,100 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Student Gymkhana",
+      "Innovation and Incubation Centre",
+      "Sports Complex",
+      "Auditoriums",
+      "Computer Centre",
+      "Research Parks"
+    ],
+    "specialNote": "Hostel and mess charges are included in the ~₹48,000 per semester non-tuition fee component. One-time admission fee is ~₹6,700. Waivers are available based on income and category."
+  },
+  "contact": {
+    "phone": "+91-3222-255221",
+    "email": "info@iitkgp.ac.in",
+    "address": "IIT Kharagpur, Kharagpur – 721302, West Bengal, India",
+    "admissionsEmail": "admissions@iitkgp.ac.in"
+  },
+  "website": "https://www.iitkgp.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iitkgp.ac.in",
+    "fees": "https://www.iitkgp.ac.in/academics/fees-structure",
+    "placements": "https://www.iitkgp.ac.in/placement",
+    "admissions": "https://www.iitkgp.ac.in/admission",
+    "campus": "https://www.iitkgp.ac.in/campus-life",
+    "contact": "https://www.iitkgp.ac.in/contact"
+  }
+}

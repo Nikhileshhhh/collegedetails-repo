@@ -1,0 +1,63 @@
+{
+  "overview": "AnuBose Institute of Technology for Women is a women's engineering college at New Paloncha in Bhadradri Kothagudem district. The official website describes ABIT as a UGC autonomous institution, approved by AICTE and affiliated to JNTUH, with engineering, diploma, and MBA offerings.",
+  "accreditation": "UGC Autonomous Institution; AICTE approved; affiliated to JNTUH.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Civil, CSE, CSE (AI and ML), CSE (Data Science), ECE, EEE, Mechanical, Mining",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 95,000/year (current TG EAPCET counseling data)"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "Fee not clearly published on current public admissions pages"
+    },
+    {
+      "program": "Diploma - Civil, EEE, CSE",
+      "duration": "3 Years",
+      "tuitionFee": "Fee not clearly published on current public admissions pages"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "202 students placed in 2022-23",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": []
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET",
+      "TG ECET",
+      "TG ICET"
+    ],
+    "admissionProcess": "The official admissions page states that B.Tech admissions are based on EAMCET merit after eligibility in 10+2 with Physics and Mathematics. The site also lists MBA and diploma intake and provides a separate admissions office contact for guidance.",
+    "importantDates": "TG EAPCET, TG ECET, and TG ICET schedules are notified by Telangana authorities each cycle; the institute also maintains its own admissions enquiry page for updates."
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Central library",
+      "Sports",
+      "Placement cell",
+      "Akanksha e-learning and ICT support",
+      "Women empowerment cell",
+      "Medical assistance cell",
+      "Student activity cell"
+    ],
+    "specialNote": "ABIT is positioned and branded on its official pages as a women's engineering institution."
+  },
+  "contact": {
+    "phone": "+91-9618750109, 08744-25833, +91-9246664563",
+    "email": "info@abit.ac.in",
+    "address": "K.S.P. Road, New Paloncha - 507115, Bhadradri Kothagudem District, Telangana, India",
+    "admissionsEmail": "ao@abit.ac.in"
+  },
+  "website": "https://abit.ac.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "google-assisted"
+}

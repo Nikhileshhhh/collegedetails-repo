@@ -1,0 +1,100 @@
+{
+  "overview": "The Indian Institute of Technology (IIT) Gandhinagar, located in Palaj, Gujarat, is an Institute of National Importance known for its interdisciplinary approach, research-driven education, innovation ecosystem, and sustainable 5-star green campus.",
+  "accreditation": "Institute of National Importance recognized by the Government of India.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 Years",
+      "tuitionFee": "₹2,00,000 per year for General/OBC students. Full and partial tuition fee waivers available based on category and family income. Additional other fees around ₹15,000 annually. Hostel & Mess charges approximately ₹55,000 – ₹65,000 per year."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 Years",
+      "tuitionFee": "₹20,000 – ₹40,000 per year depending on specialization. Eligible students receive monthly stipends based on GATE qualification."
+    },
+    {
+      "program": "M.Sc",
+      "duration": "2 Years",
+      "tuitionFee": "₹10,000 – ₹20,000 per year with additional hostel and academic charges"
+    },
+    {
+      "program": "Ph.D.",
+      "duration": "3–6 Years",
+      "tuitionFee": "₹20,000 – ₹30,000 per year. Research scholars receive fellowships/stipends based on NET/GATE and institute norms."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹13.07 LPA – ₹19.60 LPA (B.Tech Overall 2024-25, branch dependent)",
+    "medianSalary": "₹14.00 LPA (B.Tech, NIRF 2026)",
+    "highestSalary": "₹62.00 LPA",
+    "highestDomestic": "₹62.00 LPA",
+    "placementRate": "B.Tech CSE: 95.00%, Mechanical Engineering: 90.00%, Chemical Engineering: 85.71%",
+    "totalOffers": "150+ offers in 2024-25 with over 166 B.Tech students placed",
+    "companiesVisited": "Amazon, Google, Microsoft, Oracle, Texas Instruments, Rakuten, Barclays, Salesforce",
+    "internationalOffers": "International and high-value offers reported from global technology firms",
+    "topRecruiters": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Oracle",
+      "Texas Instruments",
+      "Rakuten",
+      "Barclays",
+      "Salesforce"
+    ]
+  },
+  "rankings": {
+    "nirfOverall2025": "25th Best Engineering College in India",
+    "nirfOverall2025": "39th in India",
+    "qsWorldUniversityRanking2026": "801–850 band"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "IIT JAM"
+    ],
+    "admissionProcess": "Admissions are based on national-level entrance examinations followed by JoSAA, COAP, or JAM counseling depending on the program.",
+    "importantDates": "Follows JoSAA, COAP, and IIT academic admission schedules."
+  },
+  "campus": {
+    "area": "Approximately 400 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Innovation and Entrepreneurship Center",
+      "Sports Complex",
+      "Medical Facilities",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Green Campus Infrastructure",
+      "Dining Facilities"
+    ],
+    "specialNote": "IIT Gandhinagar is known for its award-winning dining system, sustainable architecture, interdisciplinary curriculum, and student-centric academic flexibility."
+  },
+  "scholarships": {
+    "fullTuitionWaiver": "Provided to SC/ST/PH students.",
+    "meritCumMeans": "100% tuition fee waiver for General/OBC students with family income < ₹1 LPA; 2/3rd waiver for income between ₹1–₹5 LPA.",
+    "donorScholarships": "Special grants and donor-supported scholarships for needy and meritorious students.",
+    "stipends": "M.Tech and Ph.D. students receive monthly stipends of ₹12,400 to ₹31,000+ based on GATE/NET qualifications."
+  },
+  "contact": {
+    "phone": "+91-79-2395-2000",
+    "email": "office@iitgn.ac.in",
+    "address": "Indian Institute of Technology Gandhinagar, Palaj, Gandhinagar – 382355, Gujarat, India",
+    "admissionsEmail": "admissions@iitgn.ac.in"
+  },
+  "website": "https://iitgn.ac.in",
+  "lastVerified": "2026-05-12",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://iitgn.ac.in",
+    "fees": "https://iitgn.ac.in/admissions",
+    "placements": "https://cds.iitgn.ac.in",
+    "admissions": "https://iitgn.ac.in/admissions",
+    "campus": "https://iitgn.ac.in/about",
+    "contact": "https://iitgn.ac.in/contact"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "overview": "A.M. Reddy Memorial College of Engineering and Technology (AMRN), Narasaraopet, was established in 2008 by A.M. Reddy Educational Society. The official college website presents AMRN as an AICTE-approved, JNTU Kakinada-affiliated engineering institution with undergraduate, postgraduate, and polytechnic offerings in a green campus near Petlurivaripalem.",
+  "accreditation": "AICTE approved; affiliated to JNTU Kakinada.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Civil Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Computer Science and Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Electronics and Communication Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Electrical and Electronics Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Agricultural Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Cyber Security",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "M.Tech - Structural Design",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "M.Tech - Transportation Engineering",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Infosys",
+      "Wipro",
+      "TCS",
+      "IBM",
+      "Cognizant",
+      "HCL"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAMCET",
+      "AP ECET",
+      "AP PGECET"
+    ],
+    "admissionProcess": "The official AMRN site lists the college's AP EAPCET, POLYCET, and ECET codes and publishes institute and university examination notifications. First-year B.Tech admissions are handled through AP EAMCET counseling, with lateral-entry and PG admissions following the relevant state counseling routes.",
+    "importantDates": "AP EAMCET, AP ECET, and AP PGECET schedules are announced by APSCHE each cycle, while institute-specific notices are posted on the AMRN website."
+  },
+  "campus": {
+    "area": "10.9425 acres",
+    "facilities": [
+      "Well-furnished classrooms",
+      "State-of-the-art laboratories",
+      "Digital library with 17,000+ books and journals",
+      "Computer center with internet facility",
+      "Seminar hall",
+      "Auditorium",
+      "Hostels",
+      "Transport",
+      "Sports and gymnasium",
+      "Medical center",
+      "Solar power plant"
+    ],
+    "specialNote": "The official about page also references a 14.5-acre green campus profile and highlights a solar power plant along with strong road and rail access from Narasaraopet."
+  },
+  "contact": {
+    "phone": "+91-9550254554, +91-9989123388, +91-9866414252",
+    "email": "principal@amreddyengineering.ac.in",
+    "address": "Vinukonda Road, Petlurivaripalem, Narasaraopet - 522601, Andhra Pradesh, India",
+    "admissionsEmail": "principal@amreddyengineering.ac.in"
+  },
+  "website": "https://amreddyengineering.ac.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "official-website"
+}

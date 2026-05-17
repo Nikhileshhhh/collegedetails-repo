@@ -1,0 +1,144 @@
+{
+  "overview": "University College of Engineering, Adikavi Nannaya University (AKNUCOE), established in 2006, is a constituent public university college located within the main campus of Adikavi Nannaya University in Rajamahendravaram (Rajahmundry), Andhra Pradesh. The college was established to serve the technical education needs of the twin Godavari districts, offering a modern Choice Based Credit System (CBCS) curriculum across key engineering disciplines integrated with the university’s centralized placement and research facility network.",
+  
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi, and recognized under the public university framework of Adikavi Nannaya University (UGC recognized and NAAC accredited).",
+
+  "nirfRanking": {
+    "engineering": "Rank Band 101-150 (State/University Allotment Framework Level)",
+    "university": "Adikavi Nannaya University is recognized among prominent state-run universities in Andhra Pradesh"
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Tech in Computer Science and Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹35,000 per year (Total course tuition approx. ₹1,40,000)"
+    },
+    {
+      "program": "B.Tech in Information Technology",
+      "duration": "4 years",
+      "tuitionFee": "₹35,000 per year (Total course tuition approx. ₹1,40,000)"
+    },
+    {
+      "program": "B.Tech in Electronics and Communication Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹35,000 per year (Total course tuition approx. ₹1,40,000)"
+    },
+    {
+      "program": "B.Tech in Civil Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹42,000 per year (Total course tuition approx. ₹1,68,000)"
+    },
+    {
+      "program": "B.Tech in Mechanical Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹42,000 per year (Total course tuition approx. ₹1,68,000)"
+    },
+    {
+      "program": "M.Tech (Master of Technology Specializations)",
+      "duration": "2 years",
+      "tuitionFee": "₹26,900 per year (Total course tuition approx. ₹53,800)"
+    },
+    {
+      "program": "MCA (Master of Computer Applications)",
+      "duration": "2 years",
+      "tuitionFee": "₹32,600 – ₹35,000 per year"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "₹3.50 LPA – ₹4.00 LPA",
+    "medianSalary": "₹4.30 LPA (Institutional standard tracking)",
+    "highestSalary": "₹6.50 LPA (Consistent domestic benchmark; student pool feedback reports up to isolated peak highlights)",
+    "highestDomestic": "₹6.50 LPA verified core operational range",
+    "placementRate": "70% – 85% primarily for CSE, IT, and ECE branches",
+    "totalOffers": "Varies by annual graduation pool",
+    "companiesVisited": "35+ companies through campus drives and state university pooling initiatives",
+    "internationalOffers": "Data not available",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Tech Mahindra",
+      "Savantis Solutions",
+      "Surya Tech Solutions",
+      "VC Tech Robotics"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (B.Tech)",
+      "AP PGECET (M.Tech/MCA)",
+      "GATE"
+    ],
+    "admissionProcess": "Undergraduate B.Tech allocations are strictly executed via Category A convener seats through AP EAPCET counseling administered by APSCHE. PG streams are filled through AP PGECET or ICET counseling mechanisms based on state rank metrics.",
+    "importantDates": "The admissions timeline follows the annual APSCHE state-level calendar, running primarily between June and September."
+  },
+
+  "campus": {
+    "area": "Spacious block inside the extensive main university campus ecosystem",
+    "facilities": [
+      "Centralized University Library",
+      "Advanced Computer and Networking Laboratories",
+      "Departmental Engineering Labs",
+      "Wi-Fi Enabled Academic Buildings",
+      "On-Campus Boys Hostel",
+      "On-Campus Girls Hostel",
+      "University Health Centre / Medical Room",
+      "Spacious Sports Ground & Athletic Facilities",
+      "Auditorium & Conference Seminar Halls",
+      "Central Placement Cell Network",
+      "NCC and NSS Campus Units"
+    ],
+    "specialNote": "As a constituent college, engineering students have complete access to the central amenities, sporting facilities, and cultural forums of the main Adikavi Nannaya University campus."
+  },
+
+  "cutoffs": {
+    "acceptedExam": "AP EAPCET",
+    "popularBranch": "Information Technology / Computer Science Engineering",
+    "closingRanks2024": {
+      "OC Boys": "8,000 – 27,000 (Varies by premium branch like CSE/IT)",
+      "OC Girls": "12,000 – 30,000",
+      "SC Boys": "35,000 – 65,000",
+      "SC Girls": "40,000 – 70,000",
+      "ST Boys": "50,000+",
+      "ST Girls": "50,000+",
+      "BCA Boys": "18,000 – 35,000",
+      "BCA Girls": "22,000 – 38,000"
+    }
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹30,000 – ₹40,000 per year (Highly subsidized university accommodation standard fees)",
+    "messFee": "Charged separately based on dynamic monthly structural usage",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD) structural full fee reimbursements for eligible AP candidates",
+      "State Post-Matric Scholarships for SC, ST, BC, and EBC candidates",
+      "National Fellowship provisions for research students"
+    ]
+  },
+
+  "contact": {
+    "phone": "0883-2566030, 9441046449",
+    "email": "admissions@aknu.edu.in, principal.tpg@aknu.edu.in",
+    "address": "University College of Engineering, Adikavi Nannaya University, Rajahmahendravaram - 533296, East Godavari District, Andhra Pradesh, India",
+    "admissionsEmail": "admissions@aknu.edu.in"
+  },
+
+  "website": "https://aknu.edu.in",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "official-university-portal-and-state-counseling-databases",
+
+  "sources": {
+    "overview": "https://aknu.edu.in/",
+    "placements": "https://aknu.edu.in/Placement",
+    "admissions": "https://aknu.edu.in/AdmissionPage?type=ug",
+    "fees": "https://aknu.edu.in/fee-structure",
+    "campus": "https://aknu.edu.in/#about-aknu",
+    "contact": "https://aknu.edu.in/contact"
+  }
+}

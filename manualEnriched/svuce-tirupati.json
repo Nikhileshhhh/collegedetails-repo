@@ -1,0 +1,74 @@
+{
+  "overview": "Sri Venkateswara University College of Engineering (SVUCE), Tirupati is a constituent college of Sri Venkateswara University established in 1959. It is one of the oldest engineering colleges in Andhra Pradesh, known for its affordable government education.",
+  "accreditation": "NAAC A+ Grade (SVU)",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (all branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹30,000/year"
+    },
+    {
+      "program": "M.Tech (various)",
+      "duration": "2 Years",
+      "tuitionFee": "Varies"
+    },
+    {
+      "program": "Ph.D",
+      "duration": "4-5 Years",
+      "tuitionFee": "Varies"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.00 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹12 LPA",
+    "highestDomestic": "₹12 LPA",
+    "placementRate": "65%",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Capgemini",
+      "Accenture",
+      "IBM",
+      "Tech Mahindra",
+      "HCL",
+      "DXC Technology"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAMCET (B.Tech)",
+      "GATE (M.Tech)"
+    ],
+    "admissionProcess": "B.Tech: AP EAMCET counselling. M.Tech: GATE based admission.",
+    "importantDates": "AP EAMCET: 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "1,000 acres (SVU campus)",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Hostels",
+      "Sports Facilities",
+      "Health Centre",
+      "Wi-Fi Campus",
+      "Canteen",
+      "Transportation"
+    ],
+    "specialNote": ""
+  },
+  "contact": {
+    "phone": "+91-877-224 9601",
+    "email": "",
+    "address": "SVU Campus, Tirupati – 517502, AP",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.svuniversity.edu.in",
+  "lastVerified": "2026-04-16",
+  "verifiedBy": "official-website"
+}

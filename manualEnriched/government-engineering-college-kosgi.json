@@ -1,0 +1,71 @@
+{
+  "overview": "Government Engineering College Kosgi (GEC Kosgi), established in 2024, is a state-funded technical institution located in the Narayanpet district of Telangana. It was founded to provide accessible, high-quality engineering education to students in rural and semi-urban areas. The college currently focuses on modern computing branches and shares premises with the Government Polytechnic Kosgi, utilizing a combined infrastructure to support its early-stage growth.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech in Computer Science and Engineering (CSE)",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics + TG EAPCET rank"
+    },
+    {
+      "course": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics + TG EAPCET rank"
+    },
+    {
+      "course": "B.Tech in CSE (Data Science)",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics + TG EAPCET rank"
+    },
+    {
+      "course": "Diploma (Civil, Mechanical, EEE)",
+      "duration": "3 Years",
+      "totalFees": "₹11,400 (Approx. ₹3,800 per year)",
+      "eligibility": "10th standard pass + TG POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "Data Pending (First B.Tech batch yet to graduate)",
+    "medianSalary": "Data Pending",
+    "highestSalary": "Data Pending",
+    "highestDomestic": "Data Pending",
+    "placementRate": "N/A",
+    "totalOffers": "N/A",
+    "companiesVisited": "Training & Placement cell in development",
+    "internationalOffers": "N/A",
+    "topRecruiters": []
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (EAMCET)",
+      "TG POLYCET (for Diploma)"
+    ],
+    "admissionProcess": "Admissions are conducted through the Telangana State Council of Higher Education (TGCHE) web counseling process. Seats are allotted based on merit ranks in TG EAPCET for B.Tech and TG POLYCET for Diploma courses. 100% of seats are filled under the Convener Quota (Government Quota).",
+    "importantDates": "TG EAPCET 2026: May 9–11, 2026; Results: May 2026; Counseling: July 2026; TG POLYCET: May 2026."
+  },
+  "campus": {
+    "area": "5.01 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Computing Laboratories for AI/ML and Data Science",
+      "Central Library with Academic Book Bank",
+      "Department-specific Engineering Workshops",
+      "Separate Hostel Facilities for Boys and Girls",
+      "Playground for Outdoor Sports",
+      "Canteen & Drinking Water RO Plant"
+    ],
+    "specialNote": "Being a newly established B.Tech institution (2024), GEC Kosgi is currently scaling its infrastructure. It operates with a strong focus on 'Emerging Technologies' and benefits from government-subsidized fee structures and state-run scholarship programs like RTF (Reimbursement of Tuition Fee)."
+  },
+  "contact": {
+    "phone": "+91 8096907524",
+    "email": "gptkosgi@gmail.com",
+    "address": "Government Engineering College Campus, Kosgi, Narayanpet District, Telangana - 509339",
+    "admissionsEmail": "gptkosgi@gmail.com"
+  },
+  "website": "Information typically hosted via http://dtets.telangana.gov.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

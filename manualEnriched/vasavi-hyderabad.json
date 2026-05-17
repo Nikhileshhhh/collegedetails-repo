@@ -1,0 +1,44 @@
+{
+  "overview": "Vasavi College of Engineering (VCE), Hyderabad is a premier private engineering college established in 1981 by the Vasavi Academy of Education. It is an autonomous institution affiliated to Osmania University and approved by AICTE. VCE has been ranked in the 201-300 band in NIRF India Rankings 2025. The college is known for its strong academic culture, consistent placement track record, and focus on holistic student development. VCE is one of the most sought-after private engineering colleges in Telangana.",
+  "accreditation": "NAAC A+ Grade, NBA Accredited (8 programs), AICTE approved, Osmania University affiliated (Autonomous)",
+  "coursesAndFees": [
+    { "program": "B.E. (CSE)", "duration": "4 Years", "tuitionFee": "₹1,25,000/year (Convenor), ₹2,50,000/year (Category-B)" },
+    { "program": "B.E. (ECE)", "duration": "4 Years", "tuitionFee": "₹1,25,000/year (Convenor)" },
+    { "program": "B.E. (EEE)", "duration": "4 Years", "tuitionFee": "₹1,25,000/year (Convenor)" },
+    { "program": "B.E. (IT)", "duration": "4 Years", "tuitionFee": "₹1,25,000/year (Convenor)" },
+    { "program": "B.E. (ME, Civil, CHE)", "duration": "4 Years", "tuitionFee": "₹1,25,000/year (Convenor)" },
+    { "program": "B.E. (CSE - AI/ML, Data Science)", "duration": "4 Years", "tuitionFee": "₹1,25,000/year (Convenor)" },
+    { "program": "M.E. (Various Specializations)", "duration": "2 Years", "tuitionFee": "₹80,000/year" },
+    { "program": "MBA", "duration": "2 Years", "tuitionFee": "₹1,00,000/year" }
+  ],
+  "placements": {
+    "avgSalary": "₹5.50 LPA",
+    "medianSalary": "₹4.80 LPA",
+    "highestSalary": "₹20 LPA",
+    "highestDomestic": "",
+    "placementRate": "75%",
+    "totalOffers": "600+",
+    "companiesVisited": "100+",
+    "internationalOffers": "",
+    "topRecruiters": ["TCS", "Infosys", "Wipro", "Cognizant", "Capgemini", "Accenture", "Amazon", "Microsoft", "IBM", "Oracle", "Tech Mahindra", "HCL", "L&T Infotech", "Deloitte", "DXC Technology"]
+  },
+  "admissions": {
+    "examsAccepted": ["TG EAPCET (B.E.)", "GATE (M.E.)", "TSICET (MBA)"],
+    "admissionProcess": "B.E.: 70% seats through TG EAPCET counselling (TSCHE convenor quota), 30% management quota. M.E.: GATE score based admission. MBA: TSICET counselling.",
+    "importantDates": "TG EAPCET: May 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "15 acres",
+    "facilities": ["Central Library (50,000+ books)", "Well-equipped Labs (50+)", "Sports Complex", "Indoor Games Room", "Basketball & Tennis Courts", "Gymnasium", "Separate Boys & Girls Hostels", "Health Centre", "Wi-Fi Campus", "Seminar Halls", "Auditorium (1500 seats)", "Canteen & Food Court", "Banks & ATMs", "Transportation Facility"],
+    "specialNote": "VCE is located at Ibrahimbagh, near the historic Golconda Fort, in a prime area of Hyderabad with excellent connectivity."
+  },
+  "contact": {
+    "phone": "+91-40-2342 0599",
+    "email": "principal@staff.vce.ac.in",
+    "address": "9-1-369, Ibrahimbagh, Hyderabad – 500031, Telangana, India",
+    "admissionsEmail": "admissions@vce.ac.in"
+  },
+  "website": "https://www.vce.ac.in",
+  "lastVerified": "2026-04-09",
+  "verifiedBy": "official-website"
+}

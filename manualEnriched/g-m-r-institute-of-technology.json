@@ -1,0 +1,81 @@
+{
+  "overview": "GMR Institute of Technology (GMRIT), established in 1997 by the GMR Varalakshmi Foundation, is a premier autonomous engineering college located in Rajam, Andhra Pradesh. The institution is recognized for its high academic standards, industry-oriented curriculum, and strong emphasis on research and innovation. It is part of the GMR Group's educational initiative, providing a professional learning environment in a sprawling rural setting.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. All undergraduate programs are NBA accredited. Approved by AICTE and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, ECE, EEE, Civil, Mechanical, IT, Chemical)",
+      "duration": "4 Years",
+      "totalFees": "₹3,11,200 (Approx. ₹77,800 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM (40% for SC/ST) + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹2,33,400 (Approx. ₹77,800 per year)",
+      "eligibility": "Diploma in Engineering with valid AP ECET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI, Power & Industrial Drives, Transportation Engg, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech with 50% aggregate (45% for SC/ST) + GATE / AP PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.55 LPA - ₹5.0 LPA",
+    "medianSalary": "₹4.55 LPA",
+    "highestSalary": "₹20.0 LPA - ₹40.0 LPA (Top packages across 2024-25 cycles)",
+    "highestDomestic": "₹40.0 LPA",
+    "placementRate": "95%",
+    "totalOffers": "830+",
+    "companiesVisited": "100+",
+    "internationalOffers": "Occasional (primarily via GMR Group global operations)",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Amazon",
+      "HCL Technologies",
+      "Capgemini",
+      "Accenture",
+      "Cognizant",
+      "Mindtree",
+      "Hexaware"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP ECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "70% of seats (Category A) are filled via state-level web counseling (APSCHE) based on AP EAPCET ranks. 30% (Category B) are Management Quota seats filled based on merit or JEE scores. GMRIT also offers significant merit scholarships: 100% tuition waiver for EAPCET ranks < 5,000. Counseling Code: GMRM.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Result: June 2026; AP PGECET 2026: May 27–30, 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "117 Acres",
+    "facilities": [
+      "Smart ICT Classrooms & Seminar Halls",
+      "Advanced Research & Development Centers",
+      "24/7 Wi-Fi Enabled Lush Green Campus",
+      "Separate Hostels for Boys and Girls (In-campus)",
+      "Central Library with Digital Resource Centre",
+      "Extensive Sports Stadium & Gymnasium",
+      "Medical Centre & Shopping Complex",
+      "Solar Power Plants & Rainwater Harvesting Units",
+      "Bank & ATM Facilities"
+    ],
+    "specialNote": "The campus is eco-friendly and fully residential, emphasizing holistic development. GMRIT is known for its strong 'Language Lab' and personality development programs that cater to its diverse student population. It also provides 100% financial assistance for selected projects through its GMR Varalakshmi Foundation."
+  },
+  "contact": {
+    "phone": "08941-251592, 08941-252944",
+    "email": "gmrit@gmrit.edu.in",
+    "address": "GMR Nagar, Rajam, Srikakulam District, Andhra Pradesh - 532127",
+    "admissionsEmail": "admissions@gmrit.edu.in"
+  },
+  "website": "https://gmrit.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

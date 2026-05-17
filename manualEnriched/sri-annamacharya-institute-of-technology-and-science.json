@@ -1,0 +1,93 @@
+{
+  "overview": "Sri Annamacharya Institute of Technology and Sciences (AITS), Rajampet, operates under the Annamacharya educational framework and is known for active placement drives, autonomous academic structure, and strong regional industry engagement.",
+  "accreditation": "NAAC 'A' Grade Accredited (Cycle 2).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹60,000 – ₹68,000 per year under Convenor Quota. Management quota fees vary by branch."
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹38,000 – ₹45,000 per year."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Varies by specialization."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.50 LPA – ₹5.20 LPA",
+    "medianSalary": "UG 4-Year: ₹5.10 LPA | PG Programs: ₹4.00 LPA",
+    "highestSalary": "₹14.00 LPA (2024-25)",
+    "highestDomestic": "₹14.00 LPA",
+    "placementRate": "75% – 92%",
+    "totalOffers": "600+ offers",
+    "companiesVisited": "Sutherland Global Services, TCS, Hexaware, Wipro, Infosys, Capgemini, Tech Mahindra",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Sutherland Global Services",
+      "TCS",
+      "Hexaware",
+      "Wipro",
+      "Infosys",
+      "Capgemini",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "PGECET",
+      "ICET"
+    ],
+    "admissionProcess": "Admissions are conducted through Andhra Pradesh state counseling and institutional quota admissions.",
+    "importantDates": "Follows APSCHE admission and counseling timelines."
+  },
+  "campus": {
+    "area": "Large autonomous engineering campus in Rajampet",
+    "facilities": [
+      "Separate Hostels",
+      "Central Library",
+      "Innovation Labs",
+      "Sports Facilities",
+      "Placement Cell",
+      "Wi-Fi Campus",
+      "Transportation"
+    ],
+    "specialNote": "Hostel & Mess combined fee ranges from ₹65,000 – ₹85,000 annually."
+  },
+  "contact": {
+    "phone": "9848998641,(08565)251863",
+    "email": "aitsap@yahoo.co.in",
+    "address": "Annamacharya Institute of Technology and Sciences, New Boyanapalli, Rajampet, Kadapa District, Andhra Pradesh-516126",
+    "admissionsEmail": "aitsap@yahoo.co.in"
+  },
+  "website": "https://aitsrajampet.ac.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://aitsrajampet.ac.in",
+    "fees": "https://annamacharyauniversity.edu.in/fee-structure/",
+    "placements": "https://aitsrajampet.ac.in/t-and-p-cell",
+    "admissions": "https://aitsrajampet.ac.in/admission",
+    "campus": "https://aitsrajampet.ac.in/photo-gallery",
+    "contact": "https://aitsrajampet.ac.in/contactus"
+  },
+  "hostel": {
+    "hostelFee": "?65,000 ? ?85,000 per year",
+    "amenities": [
+      "Boys Hostel",
+      "Girls Hostel"
+    ],
+    "note": "Separate residential layouts are provided for boys and girls."
+  },
+  "scholarships": [
+    {
+      "name": "Jagananna Vidya Deevena (JVD)",
+      "description": "State reimbursement pathways for qualifying lower-income groups."
+    }
+  ]
+}

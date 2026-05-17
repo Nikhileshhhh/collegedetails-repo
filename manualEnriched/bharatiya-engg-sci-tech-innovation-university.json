@@ -1,0 +1,83 @@
+{
+  "overview": "Bharatiya Engineering Science and Technology Innovation University (BESTIU), established in 2019, is a private university located in Gownivaripalli, Anantapur, Andhra Pradesh. It is designed as a world-class eco-friendly university focusing on innovation, research, and industry-aligned education across engineering, agriculture, and management.",
+  "accreditation": "Recognized by the University Grants Commission (UGC) under Section 2(f). Affiliated with the Association of Indian Universities (AIU) and accredited by NAAC.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI, Data Science, Cyber Security, etc.)",
+      "duration": "4 Years",
+      "totalFees": "₹8,00,000",
+      "eligibility": "10+2 with 50% aggregate in PCM + BEE/AP EAPCET rank"
+    },
+    {
+      "course": "B.Sc (Hons.) Agriculture / Horticulture",
+      "duration": "4 Years",
+      "totalFees": "₹5,20,000 - ₹6,40,000",
+      "eligibility": "10+2 with 50% in PCB/PCM + BEE score"
+    },
+    {
+      "course": "MBA (General, Fintech, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹2,25,000 - ₹3,60,000",
+      "eligibility": "Graduation with 50% + BEE/CAT/MAT/TSICET"
+    },
+    {
+      "course": "B.Des (Visual Communication, Product Design)",
+      "duration": "4 Years",
+      "totalFees": "₹4,80,000",
+      "eligibility": "10+2 with 50% aggregate"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.0 LPA - ₹4.6 LPA",
+    "medianSalary": "₹3.6 LPA",
+    "highestSalary": "₹8.0 LPA (B.Tech) / ₹32.0 LPA (Historic high/Off-campus)",
+    "highestDomestic": "₹8.0 LPA",
+    "placementRate": "100% for eligible candidates",
+    "totalOffers": "1200+ (cumulative including partner networks)",
+    "companiesVisited": "Over 1,200 (including Sunstone network)",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "Infosys",
+      "Wipro",
+      "TCS",
+      "Accenture",
+      "HCL",
+      "Biocon",
+      "Dr. Reddy's",
+      "Reliance"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "BEE (BESTIU Entrance Exam)",
+      "AP EAPCET",
+      "CAT/MAT/XAT",
+      "AP LAWCET"
+    ],
+    "admissionProcess": "Admission is primarily through the BEE (BESTIU Entrance Exam). Candidates are shortlisted based on entrance scores followed by an interview process. National/State level exam scores (like AP EAPCET) are also considered for relevant courses.",
+    "importantDates": "BEE 2026 Application: Open; Exam Phases: April - June 2026; Session Starts: August 2026."
+  },
+  "campus": {
+    "area": "Acres of eco-friendly landscape",
+    "facilities": [
+      "Innovation & Incubation Lab",
+      "Smart Classrooms",
+      "Agri-Research Fields",
+      "Digital Library",
+      "Residential Hostels",
+      "Multi-cuisine Cafeteria",
+      "Outdoor Sports Complex"
+    ],
+    "specialNote": "The university emphasizes sustainability and has a distinct focus on Agri-Tech. It offers 'Placement Opportunity Programs' (POP) which include career readiness training and guaranteed interview opportunities."
+  },
+  "contact": {
+    "phone": "+91 6366961122, +91 6366961133",
+    "email": "info@bestiu.edu.in",
+    "address": "Gownivaripalli, Gorantla Mandal, Anantapur District, Andhra Pradesh - 515231",
+    "admissionsEmail": "admissions@bestiu.edu.in"
+  },
+  "website": "https://bestiu.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

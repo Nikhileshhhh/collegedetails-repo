@@ -1,0 +1,105 @@
+{
+  "overview": "National Institute of Technology Patna (NIT Patna), formerly known as Bihar School of Engineering, is an Institute of National Importance located in Patna, Bihar. Established in 1886, it is the 6th oldest engineering institute in India and is highly regarded for technical education, research, and its expanding modern Bihta campus.",
+  "accreditation": "Institute of National Importance; NAAC accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 per semester for General/OBC students with annual family income above ₹5 lakh. ₹20,833 per semester for income between ₹1–5 lakh (66.6% tuition waiver). SC/ST/PwD and students with family income below ₹1 lakh receive 100% tuition waiver. One-time admission charges approximately ₹15,000–₹20,000."
+    },
+    {
+      "program": "M.Tech / M.Arch / M.Plan",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 per semester. Eligible GATE-qualified students receive AICTE stipend of ₹12,400 per month."
+    },
+    {
+      "program": "MCA",
+      "duration": "2–3 years",
+      "tuitionFee": "Approximately ₹50,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹9.90 LPA (B.Tech Overall, 2024–25)",
+    "medianSalary": "₹8.00 LPA (B.Tech, 2024–25)",
+    "highestSalary": "₹41.37 LPA (B.Tech 2024–25)",
+    "highestDomestic": "₹35 LPA",
+    "placementRate": "CSE: 87%, ECE: 79%, Electrical Engineering: 94%",
+    "totalOffers": "524 offers (2024–25 batch)",
+    "companiesVisited": "Microsoft, Amazon, Oracle, Google, Accenture, Goldman Sachs, Cisco, SAP, Reliance Industries",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Oracle",
+      "Google",
+      "Accenture",
+      "Goldman Sachs",
+      "Cisco",
+      "SAP",
+      "Reliance Industries"
+    ],
+    "highestPreviousYear": "₹44.92 LPA (B.Tech 2023–24)",
+    "branchStatistics": {
+      "CSEAverage": "₹12.64 LPA",
+      "ECEAverage": "₹12.43 LPA"
+    }
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "NIMCET"
+    ],
+    "admissionProcess": "Admissions to undergraduate and postgraduate programs are based on national-level entrance examinations followed by JoSAA, CCMT, or NIMCET counseling depending on the course.",
+    "importantDates": "Admissions follow JoSAA, CCMT, and NIMCET counseling schedules for the academic year 2025–26."
+  },
+  "campus": {
+    "area": "Main campus in Patna with expanding 120-acre Bihta campus",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Computer Centre",
+      "Research Labs",
+      "Sports Complex",
+      "Medical Facilities",
+      "Auditorium",
+      "Wi-Fi Campus",
+      "Innovation & Incubation Facilities"
+    ],
+    "specialNote": "Hostel charges vary slightly between the old Patna campus and newly developed Bihta facilities.",
+    "hostelFee": "₹12,000–₹16,000 per semester",
+    "messFee": "Approximately ₹18,000–₹22,000 per semester"
+  },
+  "contact": {
+    "phone": "+91-612-237-1715",
+    "email": "registrar@nitp.ac.in",
+    "address": "National Institute of Technology Patna, Ashok Rajpath, Patna – 800005, Bihar, India",
+    "admissionsEmail": "academic@nitp.ac.in"
+  },
+  "website": "https://www.nitp.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website-and-placement-data",
+  "rankings": {
+    "nirfOverall2025": "53"
+  },
+  "scholarships": {
+    "feeRemission": "100% and 66.6% tuition fee waivers available based on annual family income.",
+    "governmentScholarships": [
+      "National Scholarship Portal (NSP)",
+      "SC/ST Scholarships",
+      "Minority Scholarships",
+      "State Welfare Schemes"
+    ],
+    "pgScholarship": "AICTE GATE stipend of ₹12,400 per month for eligible M.Tech students."
+  },
+  "sources": {
+    "overview": "https://www.nitp.ac.in",
+    "fees": "https://www.nitp.ac.in",
+    "placements": "https://www.nitp.ac.in/placement",
+    "admissions": "https://www.nitp.ac.in/admission",
+    "rankings": "https://www.nirfindia.org",
+    "campus": "https://www.nitp.ac.in",
+    "contact": "https://www.nitp.ac.in/contact-us"
+  }
+}

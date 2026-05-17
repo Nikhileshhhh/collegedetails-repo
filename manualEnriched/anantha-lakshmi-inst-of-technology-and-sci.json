@@ -1,0 +1,83 @@
+{
+  "overview": "Anantha Lakshmi Institute of Technology and Sciences (ALITS), Anantapur, officially says the college was started in 2008 under the Anantha Lakshmi Educational Society and is located near Itukalapalli on the Anantapur-Chennai highway. The institute describes itself as a 54-acre campus serving more than 1600 students with over 130 teaching faculty members.",
+  "accreditation": "AICTE approved; affiliated to JNTUA; NAAC accredited as shown on the official site.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Civil, EEE, Mechanical, ECE, CSE, CSE (AI and ML), CSE (Data Science), CSE (AI)",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 50,200/year"
+    },
+    {
+      "program": "M.Tech - CSE, VLSI, EPS, Structural Engineering",
+      "duration": "2 Years",
+      "tuitionFee": "Contact admissions for the latest fee structure"
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2 Years",
+      "tuitionFee": "Contact admissions for the latest fee structure"
+    },
+    {
+      "program": "Diploma - CME, ECE, EEE",
+      "duration": "3 Years",
+      "tuitionFee": "Contact admissions for the latest fee structure"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "540+ recent selections listed across official placement updates",
+    "companiesVisited": "15+ recent drives listed on the official site",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "HCL",
+      "Tech Mahindra",
+      "Allsec Technologies",
+      "Schneider Electric",
+      "QSpiders",
+      "Karur Vysya Bank",
+      "Zentree Labs",
+      "MCore Tech Academy",
+      "PIE Infotech",
+      "ExcelR"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ECET",
+      "AP ICET",
+      "AP PGECET"
+    ],
+    "admissionProcess": "The official site provides separate admission procedure, eligibility, and fee structure pages for diploma, UG, and PG programs. Undergraduate engineering admissions are aligned with AP EAPCET and other applicable state counseling routes.",
+    "importantDates": "Admission notifications and prospectus links are published on the official ALITS website, while AP EAPCET, ECET, ICET, and PGECET schedules are issued by the respective Andhra Pradesh authorities."
+  },
+  "campus": {
+    "area": "54 acres",
+    "facilities": [
+      "College buildings",
+      "Laboratories",
+      "Library",
+      "Computer center",
+      "Seminar hall",
+      "Digital classrooms",
+      "Transport",
+      "Hostels",
+      "Sports facilities",
+      "NSS activities"
+    ],
+    "specialNote": "The official site emphasizes the green campus near S.K. University and highlights an ideal teacher-learner ratio with personalized academic attention."
+  },
+  "contact": {
+    "phone": "+91-9492288869, +91-9533513999, +91-9676023906, +91-9347918939",
+    "email": "principal@alits.ac.in",
+    "address": "Near S.K. University, Itukalapalli, Near SKU, Anantapur, Andhra Pradesh - 515721, India",
+    "admissionsEmail": "principal@alits.ac.in"
+  },
+  "website": "https://alits.ac.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "google-assisted"
+}

@@ -1,0 +1,79 @@
+{
+  "overview": "CMR Institute of Technology (CMRIT), Hyderabad, established in 2005 by the MGR Educational Society, is a premier autonomous engineering college. It is recognized for its commitment to technical excellence and research, serving as a key hub for engineering and management education in the Medchal-Malkajgiri region.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A+' Grade and NBA (for specific departments). Approved by AICTE and affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE)",
+      "duration": "4 Years",
+      "totalFees": "₹2,50,000 - ₹3,60,000",
+      "eligibility": "10+2 with 45% aggregate in PCM (40% for reserved) + TS EAMCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000",
+      "eligibility": "Graduation with 50% aggregate + TS ICET rank"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000",
+      "eligibility": "B.E./B.Tech degree + GATE/TS PGECET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹5.0 LPA - ₹6.0 LPA",
+    "medianSalary": "₹4.5 LPA",
+    "highestSalary": "₹22.0 LPA - ₹25.0 LPA",
+    "highestDomestic": "₹25.0 LPA",
+    "placementRate": "85%+",
+    "totalOffers": "500+ (Recent cycle)",
+    "companiesVisited": "60+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "Capgemini",
+      "Cognizant",
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "IBM",
+      "Tech Mahindra",
+      "Virtusa"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET (EAPCET)",
+      "TS ICET",
+      "TS PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "70% of seats (Category A) are filled through TGCHE web counseling based on entrance ranks. 30% are Management Quota (Category B) seats filled based on merit or JEE scores. The process includes online registration followed by certificate verification.",
+    "importantDates": "TS EAMCET 2026 Engineering: May 9 - 11, 2026; Results: Mid-May 2026; Counseling: June - August 2026."
+  },
+  "campus": {
+    "area": "10 Acres",
+    "facilities": [
+      "Air-conditioned Auditorium",
+      "ICT Enabled Classrooms",
+      "Advanced R&D Laboratories",
+      "Digital Library",
+      "On-campus Hostels (Separate for Boys and Girls)",
+      "Sports Grounds",
+      "Hygienic Canteen",
+      "ATM & Medical Facilities"
+    ],
+    "specialNote": "The institute is part of the larger CMR Group of Institutions and is situated in a pollution-free environment. It emphasizes 'outcome-based education' and provides extensive training in emerging technologies to enhance student employability."
+  },
+  "contact": {
+    "phone": "+91 9248727210, +91 9247961234",
+    "email": "info@cmrithyderabad.edu.in",
+    "address": "Kandlakoya (V), Medchal Road, Hyderabad, Telangana - 501401",
+    "admissionsEmail": "admissions@cmrithyderabad.edu.in"
+  },
+  "website": "https://cmrithyderabad.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

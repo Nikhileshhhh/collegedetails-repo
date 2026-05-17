@@ -1,0 +1,74 @@
+{
+  "overview": "C.V. Raman Global University (CGU), Bhubaneswar was established in 2009 in Odisha. Named after Nobel Laureate C.V. Raman, CGU offers engineering, management, and science programs with AICTE approval.",
+  "accreditation": "NAAC A Grade, AICTE approved",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (all branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹1,50,000/year"
+    },
+    {
+      "program": "M.Tech (various)",
+      "duration": "2 Years",
+      "tuitionFee": "Varies"
+    },
+    {
+      "program": "Ph.D",
+      "duration": "4-5 Years",
+      "tuitionFee": "Varies"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.50 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹15 LPA",
+    "highestDomestic": "₹15 LPA",
+    "placementRate": "70%",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Microsoft",
+      "Amazon",
+      "Cognizant",
+      "Capgemini",
+      "Accenture",
+      "Deloitte",
+      "L&T"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "CGU Entrance (B.Tech)",
+      "GATE (M.Tech)"
+    ],
+    "admissionProcess": "See official website for admission process details.",
+    "importantDates": "See official website for dates."
+  },
+  "campus": {
+    "area": "40 acres",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Hostels",
+      "Sports Facilities",
+      "Health Centre",
+      "Wi-Fi Campus",
+      "Canteen",
+      "Transportation"
+    ],
+    "specialNote": ""
+  },
+  "contact": {
+    "phone": "+91-674-661 3101",
+    "email": "",
+    "address": "Bidyanagar, Mahura, Janla, Bhubaneswar – 752054, Odisha",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.cvrce.edu.in",
+  "lastVerified": "2026-04-16",
+  "verifiedBy": "official-website"
+}

@@ -1,0 +1,99 @@
+{
+  "overview": "Indian Institute of Technology Bhubaneswar (IIT Bhubaneswar), established in 2008 by the Government of India, is a premier public technical university located in Kansapada, Khordha district near Bhubaneswar, Odisha. Recognized as an Institute of National Importance, the institute is known for advanced research, multidisciplinary academic programs, strong industry collaborations, and global outreach initiatives.",
+  "accreditation": "Institute of National Importance under the Institutes of Technology Act; autonomous IIT system institution; not NAAC accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / Dual Degree (Undergraduate)",
+      "duration": "4–5 years",
+      "tuitionFee": "₹1,00,000 tuition + ₹9,650 institute fees per semester for General/OBC students with family income above ₹5 lakh. Tuition waivers available for lower income categories. SC/ST/PwD students receive full tuition exemption and pay only institute fees."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹65,540 per semester including institutional and setup-related charges. GATE-qualified students are eligible for monthly stipends."
+    },
+    {
+      "program": "M.Sc / Ph.D",
+      "duration": "2–5 years",
+      "tuitionFee": "Approximately ₹43,150 – ₹65,540 depending on branch, session structure, and research requirements."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹14.98 LPA (Overall B.Tech Average 2025)",
+    "medianSalary": "₹12.00 LPA (Overall B.Tech Median 2025)",
+    "highestSalary": "₹67.60 LPA (B.Tech/Dual Degree 2025)",
+    "highestDomestic": "₹67.60 LPA",
+    "placementRate": "Overall B.Tech: 90.07%",
+    "totalOffers": "411 students placed during the 2025 placement cycle",
+    "companiesVisited": "Google, Microsoft, Amazon, Oracle, D.E. Shaw, Accenture, Reliance Industries, Zomato, MathWorks, BEL, BPCL, HPCL, OIL",
+    "internationalOffers": "Multiple high-value global technology and research opportunities through multinational recruiters",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Oracle",
+      "D.E. Shaw",
+      "Accenture",
+      "Reliance Industries",
+      "Zomato",
+      "MathWorks",
+      "BEL",
+      "BPCL",
+      "HPCL",
+      "OIL"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "IIT JAM"
+    ],
+    "admissionProcess": "Admissions are conducted through national-level entrance examinations followed by centralized counseling processes such as JoSAA, COAP, and JAM counseling depending on the program.",
+    "importantDates": "Admission timelines follow JoSAA, COAP, JAM, and the IIT Bhubaneswar academic calendar."
+  },
+  "campus": {
+    "area": "936 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Medical Centre",
+      "Sports Complex",
+      "Auditorium",
+      "Innovation & Incubation Centre",
+      "Computer Centre",
+      "Wi-Fi Enabled Campus",
+      "Student Activity Centre",
+      "Cafeteria"
+    ],
+    "specialNote": "Hostel charges are approximately ₹9,500 per semester and mess advance charges are approximately ₹18,000 per semester. One-time admission setup fee (~₹8,000) and refundable caution deposit (~₹12,000) are applicable for fresh admissions."
+  },
+  "contact": {
+    "phone": "+91-674-713-4800",
+    "email": "info@iitbbs.ac.in",
+    "address": "Indian Institute of Technology Bhubaneswar, Argul, Jatni, Khordha – 752050, Odisha, India",
+    "admissionsEmail": "admissions@iitbbs.ac.in"
+  },
+  "website": "https://www.iitbbs.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website",
+  "scholarships": {
+    "availableScholarships": [
+      "Merit-cum-Means Scholarship",
+      "Free Messing Scheme for SC/ST Students",
+      "Central Sector Scholarship Scheme",
+      "MHRD Fellowships for M.Tech and Ph.D Students"
+    ],
+    "details": "Eligible General/OBC students can receive tuition fee waivers and monthly allowances through Merit-cum-Means scholarships. SC/ST students are eligible for free messing assistance and central government scholarships. GATE-qualified M.Tech students receive ₹12,400 monthly stipends, while Ph.D scholars receive fellowships starting around ₹31,000 per month."
+  },
+  "sources": {
+    "overview": "https://www.iitbbs.ac.in",
+    "fees": "https://www.iitbbs.ac.in/admissions/fees",
+    "placements": "https://www.iitbbs.ac.in/cdc",
+    "admissions": "https://www.iitbbs.ac.in/admissions",
+    "campus": "https://www.iitbbs.ac.in/about-us",
+    "contact": "https://www.iitbbs.ac.in/contact-us"
+  }
+}

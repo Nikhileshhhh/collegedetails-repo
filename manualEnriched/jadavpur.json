@@ -1,0 +1,93 @@
+{
+  "overview": "Jadavpur University (JU), Kolkata, is one of India's premier public universities known for its strong emphasis on engineering, arts, and interdisciplinary education. It consistently delivers one of the highest returns on investment (ROI) in India due to its extremely low fees and strong placement performance. JU ranked 1st among State Public Universities in NIRF 2025.",
+  "accreditation": "NAAC Grade A+ (CGPA 3.46, 4th Cycle); NBA accredited for key B.Tech programs (CSE, IT, Electrical, etc.).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (General Courses – CSE, ME, EE, Civil, etc.)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,400 per year + ~₹600 other charges (Total ~₹3,000/year). Extremely subsidized."
+    },
+    {
+      "program": "B.Tech Information Technology (Self-Financed)",
+      "duration": "4 years",
+      "tuitionFee": "₹30,000 per year + ~₹600 other charges (Total ~₹30,600/year)."
+    },
+    {
+      "program": "B.Tech (TFW Scheme – WB Domicile, Income < ₹2.5L)",
+      "duration": "4 years",
+      "tuitionFee": "₹0 tuition (100% waived) + ~₹600 other charges."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Highly subsidized; median placement ~₹9.25 LPA."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹11.04 LPA overall (2024–25)",
+    "medianSalary": "₹10–12 LPA (B.Tech overall)",
+    "highestSalary": "₹1.80 CPA (Intl) / ₹1.40 CPA (Domestic) (2024–25)",
+    "highestDomestic": "₹1.40 CPA",
+    "placementRate": "B.Tech: ~90–92%; M.Tech: ~70–80%",
+    "totalOffers": "1,000+ placements across engineering and arts (2024–25)",
+    "companiesVisited": "Google, Microsoft, Amazon, Wells Fargo, Texas Instruments, Samsung, Airbus, PwC",
+    "internationalOffers": "Consistent ₹1 Cr+ international packages with strong global presence",
+    "branchWiseHighlights": [
+      { "branch": "Instrumentation & Electronics (IEE)", "placementRate": "100%" },
+      { "branch": "Mechanical Engineering", "placementRate": "~100%" },
+      { "branch": "Information Technology (IT)", "placementRate": "98.77%", "avgCTC": "₹23.41 LPA" },
+      { "branch": "Computer Science (CSE)", "placementRate": "98–100%", "avgCTC": "₹21.60 LPA" },
+      { "branch": "Electronics (ETCE)", "avgCTC": "₹19.00 LPA" },
+      { "branch": "Production Engineering", "placementRate": "96%" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "International highest ₹1.40 CPA (2023–24) → ₹1.80 CPA (2024–25); Domestic ₹57 LPA → ₹1.40 CPA",
+      "mtechStats": "M.Tech placement ~70–80%, median ~₹9.25 LPA"
+    },
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Wells Fargo",
+      "Texas Instruments",
+      "Samsung",
+      "Airbus",
+      "PwC"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["WBJEE", "GATE"],
+    "admissionProcess": "B.Tech admissions are through WBJEE counseling. M.Tech admissions are based on GATE followed by university-level selection.",
+    "importantDates": "Follows WBJEE and GATE counseling schedules."
+  },
+  "campus": {
+    "area": "Jadavpur Campus (main) + Salt Lake Campus",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Laboratories",
+      "Wi-Fi Campus",
+      "Sports Facilities",
+      "Auditorium"
+    ],
+    "specialNote": "Hostel: ₹25–₹30/month rent; Mess: ₹1,800–₹3,000/month. Total monthly cost ~₹2,000–₹3,000. One of the cheapest residential setups in India. Hostel admission fee ₹3,000 (one-time)."
+  },
+  "contact": {
+    "phone": "+91-33-2414-6666",
+    "email": "registrar@jadavpuruniversity.in",
+    "address": "Jadavpur University, 188 Raja S.C. Mallick Road, Kolkata – 700032, West Bengal, India",
+    "admissionsEmail": "admissions@jadavpuruniversity.in"
+  },
+  "website": "http://www.jaduniv.edu.in",
+  "lastVerified": "2026-05-01",
+  "verifiedBy": "compiled-data",
+  "sources": {
+    "overview": "http://www.jaduniv.edu.in",
+    "fees": "Official university fee structure",
+    "placements": "University placement reports 2024-25",
+    "admissions": "WBJEE & JU admission portals",
+    "rankings": "NIRF 2025",
+    "contact": "http://www.jaduniv.edu.in/contact.php"
+  }
+}

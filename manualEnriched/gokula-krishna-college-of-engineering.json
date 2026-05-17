@@ -1,0 +1,91 @@
+{
+  "overview": "Gokula Krishna College of Engineering (GKCE), established in 2001, is a prominent private engineering institution located in Sullurpet, Tirupati District (formerly Nellore), Andhra Pradesh. The college is strategically situated near major industrial hubs like ISRO's Satish Dhawan Space Centre (SHAR) and SriCity, which enhances industry-institution interaction. It is recognized for providing accessible technical education to students in the coastal Andhra and neighboring Tamil Nadu regions, emphasizing practical skills and professional discipline.",
+  "accreditation": "Accredited by NAAC with an 'A' Grade. Approved by AICTE, New Delhi, and permanently affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA). ISO 9001:2000 certified.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, ECE, EEE, Mechanical, Civil)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 (Approx. ₹40,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA (Human Resources, Finance, Marketing)",
+      "duration": "2 Years",
+      "totalFees": "₹54,000 - ₹70,000 (Approx. ₹27,000 - ₹35,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹62,200 - ₹70,000",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (Digital Electronics & Comm., Machine Design, Power Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹80,000 - ₹1,00,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (ECE, EEE, ME, CSE, AI&ML)",
+      "duration": "3 Years",
+      "totalFees": "₹72,000 - ₹75,000 (Approx. ₹24,000 - ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA - ₹3.6 LPA",
+    "medianSalary": "₹3.4 LPA",
+    "highestSalary": "₹6.5 LPA - ₹8.0 LPA",
+    "highestDomestic": "₹8.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "200+ (Combined group placements)",
+    "companiesVisited": "35+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Tech Mahindra",
+      "Syntel",
+      "HCL Technologies",
+      "Sutherland",
+      "Maintec"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted through the Andhra Pradesh State Council of Higher Education (APSCHE) web counseling. 70% of seats (Category A) are filled via entrance exam ranks. 30% (Category B) are Management Quota seats filled based on merit. Counseling Code: GKCS.",
+    "importantDates": "AP EAPCET 2026: May 12 – 18, 2026; AP ICET 2026 Rank Card: May 16, 2026; AP PGECET 2026: May 2026; B.Tech Counseling: July 2026."
+  },
+  "campus": {
+    "area": "19.2 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & E-Learning Studios",
+      "Advanced Engineering Labs & Computer Centers",
+      "Central Library with 30,000+ volumes and Digital Access",
+      "On-campus Hostels for Boys and Girls",
+      "Auditorium & Multiple Seminar Halls",
+      "Sports Fields (Cricket, Volleyball, Athletics)",
+      "Hygienic Canteen & Health Care Unit",
+      "Transport (Fleet covering Sullurpet, Tada, and Gummidipundi)"
+    ],
+    "specialNote": "GKCE is uniquely positioned near the SriCity SEZ and TADA industrial zones, providing students with frequent industrial visits and internship opportunities. The college runs a dedicated 'Training and Placement Cell' that conducts personality development and coding bootcamps specifically for rural-background students to improve their corporate readiness."
+  },
+  "contact": {
+    "phone": "08623-294255, +91 9948986111",
+    "email": "gkce_sullurpet@yahoo.com",
+    "address": "Behind RTC Depot, Sullurpet, Tirupati District (formerly Nellore), Andhra Pradesh - 524121",
+    "admissionsEmail": "principal@gkce.edu.in"
+  },
+  "website": "https://gkce.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,93 @@
+{
+  "overview": "Guru Nanak Institutions Technical Campus (GNITC), established in 2001, is a premier autonomous engineering institution located in Ibrahimpatnam, Hyderabad. It is part of the Guru Nanak Institutions (GNI) group and is recognized for its massive 31-acre lush green campus. The institution is known for its strong academic framework, focus on research through various innovation centers, and high placement records. It offers a wide range of programs across Engineering, Pharmacy, and Management, attracting students from across India and abroad.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A+' Grade (CGPA 3.41). Major B.Tech programs (CSE, ECE, IT) are accredited by the National Board of Accreditation (NBA). Approved by AICTE, PCI (for Pharmacy), and affiliated with JNTU-Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, IT, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹4,28,000 - ₹4,80,000 (Approx. ₹1,07,000 - ₹1,20,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM (40% for reserved) + TG EAPCET rank"
+    },
+    {
+      "course": "B.Pharm",
+      "duration": "4 Years",
+      "totalFees": "₹3,32,000 (Approx. ₹83,000 per year)",
+      "eligibility": "10+2 with PCM/PCB + TG EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 - ₹1,20,000 (Approx. ₹50,000 - ₹60,000 per year)",
+      "eligibility": "Graduation with 50% + TG ICET / CAT / MAT rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI, Embedded Systems, Thermal Engineering)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000 - ₹1,64,400",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / TG PGECET score"
+    },
+    {
+      "course": "Pharm.D",
+      "duration": "6 Years",
+      "totalFees": "₹4,08,000 - ₹6,90,000",
+      "eligibility": "10+2 with PCM/PCB or Diploma in Pharmacy"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.72 LPA - ₹5.20 LPA",
+    "medianSalary": "₹5.20 LPA (B.Tech); ₹3.80 LPA (PG)",
+    "highestSalary": "₹30.0 LPA - ₹60.0 LPA (Recent high offers from Mu Sigma & Amazon)",
+    "highestDomestic": "₹30.0 LPA (Mu Sigma)",
+    "placementRate": "85% - 90%",
+    "totalOffers": "1,517 (2025 cycle)",
+    "companiesVisited": "118+ (2025 cycle)",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "TCS (Digital & Ninja)",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Cognizant",
+      "Capgemini",
+      "Mu Sigma",
+      "HCL Technologies",
+      "Virtusa"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (EAMCET)",
+      "TG ICET",
+      "TG PGECET",
+      "GATE",
+      "JEE Main",
+      "TS ECET"
+    ],
+    "admissionProcess": "Admissions are conducted via state-level web counseling (TGCHE). 70% of seats (Category A) are based on entrance ranks. 30% are Management Quota (Category B) seats filled based on merit or JEE scores. Counseling Code: GURU.",
+    "importantDates": "TG EAPCET 2026: May 9–11, 2026; Results: Mid-May 2026; TG ICET 2026: May 13–14, 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "31 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & Digital Library",
+      "Innovation Centers & Specialized Research Labs",
+      "Separate In-campus Hostels for Boys and Girls (AC & Non-AC)",
+      "Indoor Sports Complex & Outdoor Grounds (Cricket, Football)",
+      "Auditorium with 1000+ seating capacity",
+      "Hygienic Food Courts & Canteens",
+      "Solar Power Plant & Eco-friendly Initiatives",
+      "Transport (Fleet covering all major suburbs of Hyderabad)"
+    ],
+    "specialNote": "GNITC is a part of the UN Academic Impact and is known for its 'Foreign Student Cell' which hosts students from 15+ countries. The campus also features a unique 'Idea Lab' and entrepreneurship cell that assists students in launching startups and obtaining patents."
+  },
+  "contact": {
+    "phone": "08414-202120, +91 8096600700",
+    "email": "director.gnitc@gniindia.org, admissions@gniindia.org",
+    "address": "Khanapur Village, Ibrahimpatnam Mandal, Ranga Reddy District, Telangana - 501506",
+    "admissionsEmail": "admissions@gniindia.org"
+  },
+  "website": "https://www.gniindia.org/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,110 @@
+{
+  "overview": "Dr B R Ambedkar National Institute of Technology Jalandhar (NIT Jalandhar), formerly Regional Engineering College Jalandhar, is an Institute of National Importance established in 1987 and located in Jalandhar, Punjab. The institute is recognized for its strong academic ecosystem, advanced research culture, and consistently reliable placement performance across IT and core engineering sectors.",
+  "accreditation": "Institute of National Importance; NAAC Accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 per semester for General/OBC students with family income above ₹5 lakh. ₹20,833 per semester for General/OBC students with income between ₹1–5 lakh (66.6% tuition waiver). Full tuition waiver for SC/ST/PwD and students with family income below ₹1 lakh."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 per semester. Eligible GATE-qualified students receive AICTE stipend of ₹12,400 per month."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹50,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹9.78 LPA (B.Tech Overall)",
+    "medianSalary": "₹7.66 LPA (B.Tech Overall)",
+    "highestSalary": "₹52.00 LPA (2024-25 B.Tech Batch)",
+    "highestDomestic": "₹52.00 LPA",
+    "placementRate": "B.Tech: 91.88%, M.Tech: 52.54%",
+    "totalOffers": "1,003 offers for the 2025 B.Tech graduating batch",
+    "companiesVisited": "Google, Microsoft, Amazon, Nvidia, Atlassian, Cisco, Oracle, Flipkart, Bosch, EY, Trident",
+    "internationalOffers": "Multiple high-value international and global role opportunities through multinational recruiters",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Nvidia",
+      "Atlassian",
+      "Cisco",
+      "Oracle",
+      "Flipkart",
+      "Bosch",
+      "EY",
+      "Trident"
+    ],
+    "branchWiseStats": {
+      "CSE": {
+        "averageSalary": "₹15.83 LPA",
+        "medianSalary": "₹12.50 LPA"
+      },
+      "IT": {
+        "averageSalary": "₹15.07 LPA",
+        "medianSalary": "₹11.00 LPA"
+      },
+      "ECE": {
+        "averageSalary": "₹13.20 LPA"
+      }
+    }
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "CAT"
+    ],
+    "admissionProcess": "B.Tech admissions are conducted through JoSAA/CSAB counseling based on JEE Main ranks. M.Tech admissions are based on GATE scores through CCMT counseling. MBA admissions are conducted through CAT scores and institute selection procedures.",
+    "importantDates": "Admissions follow JoSAA, CCMT, and institute academic calendar schedules."
+  },
+  "campus": {
+    "area": "Approximately 154 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Computer Centre",
+      "Medical Facilities",
+      "Research Laboratories",
+      "Innovation & Incubation Centre",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Banking Facilities",
+      "Cafeteria"
+    ],
+    "specialNote": "Hostel fee ranges from ₹10,000–₹14,000 per semester while mess charges are approximately ₹18,000–₹21,000 per semester depending on operational costs."
+  },
+  "contact": {
+    "phone": "+91-181-2690301",
+    "email": "registrar@nitj.ac.in",
+    "address": "Dr B R Ambedkar National Institute of Technology Jalandhar, Grand Trunk Road, Jalandhar – 144011, Punjab, India",
+    "admissionsEmail": "admissions@nitj.ac.in"
+  },
+  "website": "https://www.nitj.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website",
+  "scholarships": {
+    "feeRemission": "100% and 66.6% tuition fee waivers available for economically weaker students based on annual family income.",
+    "nationalScholarships": "Integrated with National Scholarship Portal (NSP) for SC/ST/OBC/Minority/PwD scholarship schemes.",
+    "stateScholarships": "Supports various state-level post-matric and welfare scholarship schemes.",
+    "gateStipend": "Eligible GATE-qualified M.Tech students receive ₹12,400 per month AICTE fellowship."
+  },
+  "rankings": {
+    "nirfOverall2025": "55"
+  },
+  "sources": {
+    "overview": "https://www.nitj.ac.in",
+    "fees": "https://www.nitj.ac.in",
+    "placements": "https://www.nitj.ac.in/placement",
+    "admissions": "https://www.nitj.ac.in/admissions",
+    "campus": "https://www.nitj.ac.in/about",
+    "contact": "https://www.nitj.ac.in/contact-us"
+  }
+}

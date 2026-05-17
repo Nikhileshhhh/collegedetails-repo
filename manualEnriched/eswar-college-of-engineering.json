@@ -1,0 +1,86 @@
+{
+  "overview": "Eswar College of Engineering, established in 2008 in Narasaraopet, is a prominent private engineering institution in the Guntur district of Andhra Pradesh. Sponsored by the Shaik Dada Saheb Charitable Trust, the college is known for its commitment to providing technical education to rural and semi-urban students. It focuses on academic excellence, skill development, and creating a disciplined environment for professional growth.",
+  "accreditation": "Accredited by NAAC with a 'B++' Grade. Approved by AICTE, New Delhi, and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, ECE, EEE, Civil, Mechanical, Automobile)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,72,000 (Approx. ₹40,000 - ₹43,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science, Digital Electronics, Machine Design, Power Electronics)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 - ₹1,00,000 (Approx. ₹35,000 - ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.5 LPA",
+    "medianSalary": "₹3.50 LPA",
+    "highestSalary": "₹8.0 LPA - ₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "85% - 93%",
+    "totalOffers": "150+ (Recent cycle)",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Amazon",
+      "L&T",
+      "Capgemini",
+      "HCL Technologies",
+      "Tata Motors",
+      "Cognizant"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (APSCHE). 70% of seats (Category A) are filled via entrance ranks. 30% (Category B) are Management Quota seats filled based on merit or qualifying scores. Counseling Code: ESWR.",
+    "importantDates": "AP EAPCET 2026: July 6 – July 29, 2026; AP ICET 2026: July 9 – July 13, 2026; M.Tech Application: March 31 – April 29, 2026."
+  },
+  "campus": {
+    "area": "22 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Specialized Engineering & Research Labs",
+      "Central Library with Digital Access",
+      "On-campus Separate Hostels for Boys and Girls",
+      "Gymnasium & Physical Education Center",
+      "Hygienic Canteen",
+      "Sports Facilities (Volleyball, Cricket, Basketball)",
+      "Transportation (Fleet covering Narasaraopet and nearby regions)"
+    ],
+    "specialNote": "The college emphasizes overall personality development through various student-led clubs and mandatory technical training programs. It is located at Kesanupalli Village, providing a peaceful and sprawling academic environment outside the main town."
+  },
+  "contact": {
+    "phone": "+91 9121214708, +91 9885578652, 08647-218256",
+    "email": "eswarcollegeofengg@gmail.com",
+    "address": "Kesanupalli Village, Narasaraopet, Palnadu District (formerly Guntur), Andhra Pradesh - 522601",
+    "admissionsEmail": "principal@eswarcollegeofengg.org"
+  },
+  "website": "https://eswarcollegeofengg.org/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

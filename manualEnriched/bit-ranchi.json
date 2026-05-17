@@ -1,0 +1,104 @@
+{
+  "overview": "Birla Institute of Technology (BIT), Mesra, established in 1955 by industrialist B.M. Birla, is a premier deemed university located in Ranchi, Jharkhand. The institute is widely recognized for excellence in engineering, pharmaceutical sciences, architecture, management, and space engineering programs. BIT Mesra also operates multiple extension centers across India and maintains strong industry-academia collaboration.",
+  "accreditation": "Deemed University; NAAC 'A' Grade accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (All Engineering Branches)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,65,000 – ₹1,95,000 per semester depending on semester progression. One-time admission fee: ₹95,000. Hostel Fee: ₹18,000 – ₹21,000 per semester. Mess Fee: ₹20,000 – ₹25,000 per semester."
+    },
+    {
+      "program": "B.Arch",
+      "duration": "5 years",
+      "tuitionFee": "₹1,80,000 – ₹2,10,000 per semester depending on semester progression. Additional hostel and mess charges applicable."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "₹1,10,000 – ₹1,15,000 per semester. Eligible GATE-qualified students receive AICTE stipend support."
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹1,30,000 – ₹1,45,000 per semester depending on the program."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹11.66 LPA (B.Tech Overall)",
+    "medianSalary": "₹8.80 LPA (B.Tech)",
+    "highestSalary": "₹1.45 CPA Domestic (2024–25, CSE)",
+    "highestDomestic": "₹1.45 CPA",
+    "placementRate": "~90% for eligible students in core technical branches",
+    "totalOffers": "1,080 job and internship offers (2025 graduating batch)",
+    "companiesVisited": "Microsoft, Oracle, Adobe, Goldman Sachs, Nestle, Amdocs, KPMG, Cipla, L&T, EXL Services",
+    "internationalOffers": "High-value global and domestic offers across software and analytics sectors",
+    "topRecruiters": [
+      "Microsoft",
+      "Oracle",
+      "Adobe",
+      "Goldman Sachs",
+      "Nestle",
+      "Amdocs",
+      "KPMG",
+      "Cipla",
+      "L&T",
+      "EXL Services"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "BITSAT-equivalent entrance pathways for select programs",
+      "GATE",
+      "CAT",
+      "MAT"
+    ],
+    "admissionProcess": "Admissions are primarily based on national-level entrance examinations followed by institute counseling and selection procedures depending on the program.",
+    "importantDates": "Admission schedules follow JoSAA, institute counseling timelines, and national entrance examination calendars."
+  },
+  "campus": {
+    "area": "780 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Innovation & Research Labs",
+      "Computer Centres",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Campus",
+      "Cafeterias",
+      "Pharmaceutical Research Facilities"
+    ],
+    "specialNote": "One-time admission fee of ₹95,000 includes ₹20,000 admission charges, ₹10,000 refundable caution money, and ₹65,000 IT infrastructure charges."
+  },
+  "contact": {
+    "phone": "+91-651-2275444",
+    "email": "admissions@bitmesra.ac.in",
+    "address": "Birla Institute of Technology, Mesra, Ranchi – 835215, Jharkhand, India",
+    "admissionsEmail": "admissions@bitmesra.ac.in"
+  },
+  "website": "https://www.bitmesra.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website-and-user-data",
+  "scholarships": {
+    "available": true,
+    "details": [
+      "BIT GP Birla Scholarship offering 20%–100% tuition fee waivers based on JEE Main rank and CGPA.",
+      "National Scholarship Portal (NSP) integration for SC/ST/minority scholarships.",
+      "AICTE-approved GATE fellowship of ₹12,400 per month for eligible postgraduate students."
+    ]
+  },
+  "rankings": {
+    "nirfOverall2025": "51"
+  },
+  "sources": {
+    "overview": "https://www.bitmesra.ac.in",
+    "fees": "https://www.bitmesra.ac.in",
+    "placements": "https://www.bitmesra.ac.in/placement",
+    "admissions": "https://www.bitmesra.ac.in/admission",
+    "campus": "https://www.bitmesra.ac.in",
+    "contact": "https://www.bitmesra.ac.in/contact"
+  }
+}

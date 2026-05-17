@@ -1,0 +1,105 @@
+{
+  "overview": "Indian Institute of Technology Mandi (IIT Mandi), established in 2009 by the Ministry of Education, Government of India, is an autonomous Institute of National Importance located in the scenic Kamand Valley of Himachal Pradesh. As one of the second-generation IITs, it is known for its sustainable Himalayan campus, interdisciplinary academic structure, advanced research ecosystem, and innovation-driven education across engineering, sciences, humanities, and management.",
+  "accreditation": "Institute of National Importance; NAAC accreditation not applicable for IITs governed under the IIT Act and IIT Council framework.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC students with annual family income above ₹5 lakh. ₹33,333 per semester for General/OBC students with income between ₹1 lakh–₹5 lakh (66.6% tuition waiver). Full tuition waiver for SC/ST/PwD students and students with family income below ₹1 lakh."
+    },
+    {
+      "program": "MBA (Data Science & AI)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹1,70,000 per semester."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹10,000 – ₹16,000 per semester."
+    },
+    {
+      "program": "M.Sc / M.A",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹10,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹21.64 LPA (B.Tech Overall Average 2025)",
+    "medianSalary": "₹17.00 LPA (B.Tech Overall Median 2025)",
+    "highestSalary": "₹60.00 LPA (B.Tech 2023–24)",
+    "highestDomestic": "₹45.00+ LPA (B.Tech 2024–25)",
+    "placementRate": "95.04% overall placement rate for graduating B.Tech batch (2025)",
+    "totalOffers": "Strong placement performance across engineering, analytics, consulting, and management domains",
+    "companiesVisited": "Microsoft, Amazon, Infosys, HCL, Adobe, Accenture, IBM, L&T, Flipkart, ISRO, Cisco",
+    "internationalOffers": "MBA - Data Science & AI highest package reached ₹47.00 LPA including international placements",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Infosys",
+      "HCL",
+      "Adobe",
+      "Accenture",
+      "IBM",
+      "L&T",
+      "Flipkart",
+      "ISRO",
+      "Cisco"
+    ],
+    "branchWisePlacement": {
+      "Computer Science and Engineering (CSE)": "89.32%",
+      "Data Science and Engineering (DSE)": "85.71%",
+      "Bioengineering": "70.00%",
+      "Mechanical Engineering (ME)": "66.67%"
+    }
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "JAM",
+      "CAT"
+    ],
+    "admissionProcess": "Admissions are conducted through national-level entrance examinations followed by JoSAA, COAP, CCMN, or institute-specific counseling depending on the program.",
+    "importantDates": "Admission timelines follow JoSAA, COAP, CCMN, CAT, and IIT Mandi academic schedules."
+  },
+  "campus": {
+    "area": "Approximately 538 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Medical Centre",
+      "Sports Complex",
+      "Innovation and Entrepreneurship Center",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Advanced Eco-Management Systems",
+      "High Performance Computing Facilities"
+    ],
+    "specialNote": "Hostel charges range between ₹12,000 – ₹15,000 per semester, while mess charges are approximately ₹20,000 – ₹25,000 per semester. One-time admission charges are approximately ₹17,000 during initial enrollment."
+  },
+  "contact": {
+    "phone": "+91-1905-267000",
+    "email": "registrar@iitmandi.ac.in",
+    "address": "Indian Institute of Technology Mandi, Kamand Valley, Mandi – 175075, Himachal Pradesh, India",
+    "admissionsEmail": "admissions@iitmandi.ac.in"
+  },
+  "website": "https://www.iitmandi.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website",
+  "scholarships": {
+    "incomeBasedWaiver": "100% tuition waiver for students with annual family income below ₹1 lakh and 66.6% waiver for income between ₹1 lakh–₹5 lakh.",
+    "mcmScholarship": "Merit-cum-Means scholarship provides full tuition waiver along with ₹1,000 monthly pocket allowance for eligible economically weaker General/OBC students.",
+    "governmentScholarships": "National Scholarship Portal (NSP) schemes available for SC/ST/PwD students.",
+    "pgSupport": "M.Tech students receive AICTE stipend of ₹12,400 per month. Ph.D. scholars receive JRF/SRF fellowships as per Government norms."
+  },
+  "sources": {
+    "overview": "https://www.iitmandi.ac.in",
+    "fees": "https://www.iitmandi.ac.in/academics/fees.php",
+    "placements": "https://www.iitmandi.ac.in/placement/",
+    "admissions": "https://www.iitmandi.ac.in/academics/admissions.php",
+    "campus": "https://www.iitmandi.ac.in/institute/campus.php",
+    "contact": "https://www.iitmandi.ac.in/contact/"
+  }
+}

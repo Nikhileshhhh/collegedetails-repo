@@ -1,0 +1,82 @@
+{
+  "overview": "Indian Institute of Technology Madras (IIT Madras), established in 1959, is a premier engineering and research institute in India. Known for its academic rigor, innovation ecosystem, and research leadership, IIT Madras ranks consistently among the top engineering institutions in India.",
+  "accreditation": "Recognized as an Institute of National Importance by the Government of India. Accredited by the National Board of Accreditation (NBA).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech in Computer Science and Engineering",
+      "duration": "4 years",
+      "tuitionFee": "INR 1,00,000 per semester (approx.)"
+    },
+    {
+      "program": "M.Tech in Artificial Intelligence",
+      "duration": "2 years",
+      "tuitionFee": "INR 25,000 per semester (approx.)"
+    }
+  ],
+  "placements": {
+    "avgSalary": "INR 22 LPA",
+    "medianSalary": "INR 20 LPA",
+    "highestSalary": "INR 4.3 Cr (international, 2024-25)",
+    "highestDomestic": "INR 1.31 Cr (2023-24)",
+    "placementRate": "86% (Phase 1, 2023-24)",
+    "totalOffers": "1,100+ (Phase 1, 2023-24)",
+    "companiesVisited": "400+",
+    "internationalOffers": "85+ (2024-25 Phase 1 ongoing)",
+    "topRecruiters": [
+      "Jane Street",
+      "Google",
+      "Microsoft",
+      "BlackRock",
+      "Da Vinci Derivatives",
+      "Glean",
+      "Texas Instruments",
+      "BCG",
+      "McKinsey",
+      "Goldman Sachs"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "CAT",
+      "HSEE",
+      "CEED"
+    ],
+    "admissionProcess": "B.Tech admissions are through JEE Advanced based on All India Rank. Postgraduate programs require GATE, CAT, CEED, or HSEE depending on the program.",
+    "importantDates": "JEE Advanced usually in May-June; GATE in February. Refer to the official website for real-time updates."
+  },
+  "campus": {
+    "area": "620 acres",
+    "facilities": [
+      "Central Library",
+      "Computer Center",
+      "Student Hostels (Boys and Girls)",
+      "Sports Complex",
+      "Research Park",
+      "Medical Center",
+      "Innovation Labs",
+      "Wi-Fi Campus",
+      "Auditoriums",
+      "Swimming Pool"
+    ],
+    "specialNote": "The IIT Madras campus is set within a natural forest reserve and is home to diverse flora and fauna."
+  },
+  "contact": {
+    "phone": "+91 44 2257 8000",
+    "email": "reachout@iitm.ac.in",
+    "address": "Indian Institute of Technology Madras, Chennai - 600036, Tamil Nadu, India",
+    "admissionsEmail": "admissions@iitm.ac.in"
+  },
+  "website": "https://www.iitm.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website and media",
+  "sources": {
+    "overview": "https://www.iitm.ac.in/about-iitmadras",
+    "fees": "https://www.iitm.ac.in/admissions/btech",
+    "placements": "https://www.iitm.ac.in/placements/statistics",
+    "admissions": "https://www.iitm.ac.in/admissions",
+    "campus": "https://www.iitm.ac.in/campus-life",
+    "contact": "https://www.iitm.ac.in/contact"
+  }
+}

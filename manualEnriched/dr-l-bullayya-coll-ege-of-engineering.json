@@ -1,0 +1,71 @@
+{
+  "overview": "Dr. Lankapalli Bullayya College of Engineering (LBCE), established in 2010, is a prominent private engineering college located in the heart of Visakhapatnam. It is part of the prestigious Dr. Lankapalli Bullayya Colleges group, which has been a staple of educational excellence in the city since 1973. The institution is known for its academic rigor and its prime urban location, providing students with easy access to the city's industrial and tech hubs.",
+  "accreditation": "Approved by AICTE, New Delhi. Affiliated with Andhra University (AU), Visakhapatnam.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&DS, ECE, EEE, Civil)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,80,000 (Approx. ₹40,000 - ₹45,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹1,20,000 - ₹1,35,000",
+      "eligibility": "Diploma in relevant branch + AP ECET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.0 LPA",
+    "medianSalary": "₹3.4 LPA",
+    "highestSalary": "₹10.0 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "200+ (Across the group)",
+    "companiesVisited": "35+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Accenture",
+      "Tech Mahindra",
+      "HCL Technologies",
+      "Syntel",
+      "Mindtree"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ECET",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (APSCHE). 70% of seats (Category A) are filled via AP EAPCET ranks. 30% (Category B) are Management Quota seats filled based on merit or JEE scores. Counseling Code: LBCE.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Registration Deadline: April 2026; Results: Late May 2026."
+  },
+  "campus": {
+    "area": "10 Acres (Part of the larger Dr. L. Bullayya College complex)",
+    "facilities": [
+      "Modern Computer Centers with high-speed internet",
+      "Specialized Engineering Labs",
+      "Central Library with over 50,000 volumes across the group",
+      "Seminar Halls & Conference Rooms",
+      "Gymnasium & Physical Education Center",
+      "Canteen & Student Hangout Zones",
+      "Extensive Sports Infrastructure (Cricket, Basketball)",
+      "Health Center"
+    ],
+    "specialNote": "The college is uniquely positioned within a 10-acre campus in the city center (Resapuvanipalem), making it highly accessible without requiring long-distance transport. It emphasizes overall personality development through various student-led clubs and regular industry guest lectures."
+  },
+  "contact": {
+    "phone": "0891-2703296, +91 9177573456",
+    "email": "lbce_vsp@yahoo.com",
+    "address": "Survey No. 44, Resapuvanipalem, Visakhapatnam, Andhra Pradesh - 530013",
+    "admissionsEmail": "principal@bullayyacollege.info"
+  },
+  "website": "http://www.bullayyacollege.info/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

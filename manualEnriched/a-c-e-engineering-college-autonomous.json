@@ -1,0 +1,84 @@
+{
+  "overview": "ACE Engineering College, established in 2007 by the Yadala Satyanarayana Memorial Educational Society, is an autonomous, private engineering institution situated along the Hyderabad-Warangal National Highway in Medchal-Malkajgiri District, Telangana. Nurtured under the leadership of the prominent ACE Engineering Academy, the college focuses on delivering quality technical education, industry readiness programs, and competitive engineering capability to cultivate employable engineering professionals.",
+  "accreditation": "UGC Autonomous, NAAC Accredited with 'A' Grade, and NBA Accredited (eligible branches).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate Engineering)",
+      "duration": "4 years",
+      "tuitionFee": "Convenor Quota (Category A): ₹1,10,000 per year as fixed by the Telangana Admission and Fee Regulatory Committee (TAFRC) for the state block period. Management Quota (Category B): Variable/Higher based on specialization structural demand."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.30 LPA – ₹5.85 LPA",
+    "medianSalary": "₹4.00 LPA (As per official institutional data tracking templates)",
+    "highestSalary": "₹13.20 LPA – ₹17.80 LPA (Varying by ongoing 2025 cycle milestones and 2024 records)",
+    "highestDomestic": "₹17.80 LPA",
+    "placementRate": "Approximately 75% – 85% for eligible students across IT and computing disciplines",
+    "totalOffers": "585+ job placements recorded during full-scale annual recruitment cycles",
+    "companiesVisited": "Amazon, Deloitte, Accenture, TCS, Intellipaat, Hexaware, Cisco, Pega Systems, IBM, Cognizant, Infosys",
+    "internationalOffers": "Not explicitly reported or verified via open dashboards",
+    "topRecruiters": [
+      "Amazon",
+      "Deloitte",
+      "Accenture",
+      "TCS",
+      "Cisco",
+      "Pega Systems",
+      "IBM",
+      "Cognizant",
+      "Infosys"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (TS EAMCET)"
+    ],
+    "admissionProcess": "70% of intake is reserved for Category A (Convenor Quota) based on the ranks secured in the state-level TG EAPCET entrance examination followed by centralized counseling. 30% is allocated via Category B (Management Quota).",
+    "importantDates": "Aligned completely with the counseling windows and admission timelines notified by the Telangana State Council of Higher Education (TGCHE)."
+  },
+  "campus": {
+    "area": "Eco-friendly suburban campus located on the Warangal National Highway, Ghatkesar, Medchal-Malkajgiri District, Hyderabad, Telangana 501301",
+    "facilities": [
+      "AICTE IDEA Lab",
+      "Central Library",
+      "Advanced Computing & Branch Laboratories",
+      "Modern Placement Cell",
+      "Spacious Auditoriums & Seminar Halls",
+      "Separate Boys & Girls Hostels",
+      "Campus Cafeteria",
+      "Extensive Sports Facilities",
+      "Transportation Network across Hyderabad-Secunderabad",
+      "Wi-Fi Connectivity"
+    ],
+    "specialNote": "Specialized industry training tracks are provided, including PEGA Certification, Salesforce CRM, Azure Cloud, and the WE Google Program tailored for Women Engineers."
+  },
+  "scholarshipsAndAid": {
+    "availableScholarships": [
+      "Telangana State Post-Matric Scholarships",
+      "Tuition Fee Reimbursement (RTF) Scheme",
+      "Merit-based institutional fee concessions"
+    ],
+    "details": "Eligible candidates from SC, ST, BC, EBC, and minority communities can claim full or partial tuition fee reclaims through the Electronic Payment and Application System of Scholarships (ePASS) network governed by Telangana state guidelines."
+  },
+  "rankings": {
+    "nirf": "Participated/Data Submitted under the Engineering Band (Not Ranked in Top 200)",
+    "naac": "Accredited with 'A' Grade"
+  },
+  "contact": {
+    "phone": "8712225044",
+    "email": "admissions@aceec.ac.in",
+    "address": "Ankushapur, Ghatkesar Mandal,Medchal District,Telangana. – 501 301",
+    "admissionsEmail": "admissions@aceec.ac.in"
+  },
+  "website": "https://www.aceec.ac.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://www.aceec.ac.in/nirf/",
+    "fees": "https://vce.ac.in/downloads/2026/go-ms-6-be-btech-07-03-2026.pdf",
+    "placements": "https://www.aceec.ac.in/placement-cell/#Placement-Statistics",
+    "admissions":"https://www.aceec.ac.in/admissions/",
+    "campus": "https://www.aceec.ac.in/infrastructure/",
+    "contact": "https://www.aceec.ac.in/contact-us/"
+  }
+}

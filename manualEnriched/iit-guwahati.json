@@ -1,0 +1,82 @@
+{
+  "overview": "Indian Institute of Technology Guwahati (IIT Guwahati), established in 1994, is a premier IIT known for its academic excellence and vibrant campus. It offers top-tier programs across engineering, design, sciences, and interdisciplinary fields, with notable strengths in computing, electronics, and design.",
+  "accreditation": "Institute of National Importance; NAAC 'A' accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.Des (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC (income > ₹5 lakh). Income-based and caste-based waivers apply. Additional ~₹43,900 per semester for hostel, mess, and other charges."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹15,000 per semester (Regular). Sponsored: ₹30,000. SC/ST/PwD: Tuition exempted. Other charges ~₹43,900."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹18.9 LPA (2025 Estimate)",
+    "medianSalary": "₹20.44 LPA (B.Tech Overall)",
+    "highestSalary": "₹1.25 CPA (Domestic/International, 2024–25)",
+    "highestDomestic": "₹1.25 CPA",
+    "placementRate": "62% overall (1,001/1,606); B.Tech: ~75.65%, M.Tech: ~44.65%",
+    "totalOffers": "1,001 placed out of 1,606 eligible students (2024–25)",
+    "companiesVisited": "Google, Microsoft, Qualcomm, Texas Instruments, Bajaj, Goldman Sachs, HPCL, Navi, Piramal",
+    "internationalOffers": "Multiple students received ₹1 Cr+ offers",
+    "prePlacementOffers": "214 students received PPOs (2024–25)",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science & Engineering", "placementRate": "90.76%" },
+      { "branch": "Electronics & Communication Engineering", "placementRate": "84.91%" },
+      { "branch": "Electronics & Electrical Engineering", "placementRate": "84.38%" },
+      { "branch": "Engineering Physics", "placementRate": "45.24%" }
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Qualcomm",
+      "Texas Instruments",
+      "Bajaj",
+      "Goldman Sachs",
+      "HPCL",
+      "Navi",
+      "Piramal"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE", "CEED", "CAT"],
+    "admissionProcess": "Admissions are based on national-level exams followed by JoSAA or COAP counseling or institute-level selection.",
+    "importantDates": "Follows JoSAA/COAP timelines and institute's academic calendar."
+  },
+  "campus": {
+    "area": "700 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Unit",
+      "Design Center",
+      "Research Labs",
+      "Innovation & Incubation Centre",
+      "Sports Facilities",
+      "Auditorium",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Semester charges (~₹43,900) include mess, hostel, exam, medical, and welfare fees. One-time admission fees ~₹10,800 + ₹12,000 caution deposit."
+  },
+  "contact": {
+    "phone": "+91-361-258-3000",
+    "email": "acad@iitg.ac.in",
+    "address": "Indian Institute of Technology Guwahati, Guwahati – 781039, Assam, India",
+    "admissionsEmail": "ugadmissions@iitg.ac.in"
+  },
+  "website": "https://www.iitg.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iitg.ac.in",
+    "fees": "https://www.iitg.ac.in/acad/fee_structure.html",
+    "placements": "https://www.iitg.ac.in/ccd/",
+    "admissions": "https://www.iitg.ac.in/admissions",
+    "campus": "https://www.iitg.ac.in/infrastructure",
+    "contact": "https://www.iitg.ac.in/contact/"
+  }
+}

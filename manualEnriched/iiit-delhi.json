@@ -1,0 +1,143 @@
+{
+  "overview": "Indraprastha Institute of Information Technology Delhi (IIIT Delhi / IIITD), located in Okhla Industrial Estate Phase III, New Delhi, is a premier autonomous state university established in 2008 by an Act of the Delhi Legislature. The institute is widely recognized for its advanced research ecosystem, globally reputed faculty, cutting-edge computer science programs, and strong industry collaboration in deep tech, artificial intelligence, data science, and innovation-driven engineering education.",
+  "accreditation": "Autonomous State University established by the Government of Delhi; recognized under UGC and known for strong research-oriented engineering education.",
+  "nirfRanking": {
+    "overallCategory": "Rank Band 101–150 (NIRF 2025)"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Programs (All Streams)",
+      "duration": "4 years",
+      "tuitionFee": "₹4,50,000 – ₹4,75,000 per academic year depending on semester progression and fee structure revisions."
+    },
+    {
+      "program": "M.Tech Programs",
+      "duration": "2 years",
+      "tuitionFee": "₹2,50,000 – ₹3,00,000 per academic year."
+    },
+    {
+      "program": "Ph.D. Programs",
+      "duration": "3–5 years",
+      "tuitionFee": "Generally offset through institute-funded research fellowships and stipends."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹21.00 LPA (B.Tech Average 2025)",
+    "medianSalary": "₹18.00 LPA (B.Tech Median 2025)",
+    "overallAverageSalary": "₹19.79 LPA (Combined B.Tech & M.Tech 2025)",
+    "highestSalary": "₹1.07 CPA International (2025)",
+    "highestDomestic": "₹51.31 LPA Domestic (2025)",
+    "highestSalaryPreviousYear": "₹1.09 CPA International / ₹49.00 LPA Domestic (2024)",
+    "mtechHighestSalary": "₹38.84 LPA (2025)",
+    "placementRate": {
+      "CSAM": "98.28%",
+      "ECE": "96.43%",
+      "CSAI": "95.92%",
+      "CSE": "93.55%",
+      "overallBTech": "88.30%"
+    },
+    "totalOffers": "769 total offers including 559 domestic full-time offers and 210 internships (2025 season)",
+    "companiesVisited": "207 recruiters participated in the 2025 placement cycle",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Goldman Sachs",
+      "Adobe",
+      "Flipkart",
+      "PayPal"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "B.Tech admissions are conducted through JAC Delhi counseling based on JEE Main ranks. M.Tech admissions are generally based on GATE scores and institute-level processes.",
+    "importantDates": "Admissions follow the JAC Delhi and institute academic admission calendar every year."
+  },
+  "cutoffs": {
+    "category": "General Category - Outside Delhi Quota",
+    "round": "JAC Delhi Round 5 Closing Ranks (2025)",
+    "branches": [
+      {
+        "branch": "Computer Science & Artificial Intelligence (CSAI)",
+        "closingRank": "620"
+      },
+      {
+        "branch": "Computer Science & Engineering (CSE)",
+        "closingRank": "629"
+      },
+      {
+        "branch": "Computer Science & Applied Mathematics (CSAM)",
+        "closingRank": "881"
+      },
+      {
+        "branch": "Computer Science & Economics (CSSE)",
+        "closingRank": "955"
+      },
+      {
+        "branch": "Computer Science & Design (CSD)",
+        "closingRank": "1,008"
+      }
+    ]
+  },
+  "hostelAndMess": {
+    "hostelFee": "₹60,000 – ₹90,000 per annum depending on occupancy type and accommodation configuration.",
+    "messFee": "Approximately ₹50,000 per annum paid semester-wise.",
+    "facilities": [
+      "Single and Double Sharing Rooms",
+      "AC and Non-AC Accommodation",
+      "Modern Dining Facilities",
+      "Wi-Fi Enabled Hostels",
+      "Multi-cuisine Food Services"
+    ]
+  },
+  "scholarships": [
+    {
+      "name": "Delhi Government Fee Waiver Scheme",
+      "details": "Provides 100%, 50%, or 25% tuition fee waivers for economically weaker students based on annual family income."
+    },
+    {
+      "name": "Chairman’s Merit Scholarship",
+      "details": "Merit-based financial awards for top-performing JEE Main entrants."
+    },
+    {
+      "name": "M.Tech GATE Fellowship",
+      "details": "Eligible GATE-qualified M.Tech students receive approximately ₹12,400 per month stipend support."
+    }
+  ],
+  "campus": {
+    "location": "Okhla Industrial Estate, Phase III, New Delhi",
+    "facilities": [
+      "Research Labs",
+      "Innovation & Incubation Centers",
+      "Central Library",
+      "Smart Classrooms",
+      "Sports Complex",
+      "Auditorium",
+      "High-Speed Wi-Fi Campus",
+      "Hostel Facilities",
+      "AI & Data Science Research Centers",
+      "Startup Incubation Ecosystem"
+    ],
+    "specialNote": "IIIT Delhi is particularly known for specialized interdisciplinary computer science programs, strong startup culture, international collaborations, and advanced AI/data-driven research initiatives."
+  },
+  "contact": {
+    "phone": "+91-11-26907400",
+    "email": "info@iiitd.ac.in",
+    "address": "Indraprastha Institute of Information Technology Delhi, Okhla Industrial Estate, Phase III, New Delhi – 110020, India",
+    "admissionsEmail": "admissions@iiitd.ac.in"
+  },
+  "website": "https://www.iiitd.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-reports",
+  "sources": {
+    "overview": "https://www.iiitd.ac.in",
+    "placements": "https://placement.iiitd.ac.in",
+    "admissions": "https://www.iiitd.ac.in/admission",
+    "fees": "https://www.iiitd.ac.in/admission/fees",
+    "campus": "https://www.iiitd.ac.in/about",
+    "contact": "https://www.iiitd.ac.in/contact"
+  }
+}

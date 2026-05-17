@@ -1,0 +1,130 @@
+{
+  "overview": "ABR College of Engineering and Technology (ABRCET) was established in 2008 by Sri A. Basi Reddy under the ABR Educational Society. Located in Chinairlapadu Village, Kanigiri, Prakasam District, Andhra Pradesh, the institute operates a sustainable 25-acre green campus. ABRCET focuses on imparting technical and management education to bridge the gap between industrial demands and student skills.",
+  
+  "accreditation": "Approved by AICTE, New Delhi and permanently affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+
+  "nirfRanking": {
+    "engineering": "Not Ranked in Top NIRF Categories",
+    "university": "Not Ranked"
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Computer Science, Electronics & Communication, Electrical & Electronics, Mechanical, Agricultural, Geo-Informatics, Mining)",
+      "duration": "4 years",
+      "tuitionFee": "₹43,000 per year (Category A Convener Quota Approx. / Total course approx. ₹1,68,400 - ₹1,72,000)"
+    },
+    {
+      "program": "MBA (Master of Business Administration)",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 – ₹75,000 per year depending on admission category"
+    },
+    {
+      "program": "Diploma (Polytechnic in Civil, Mechanical Engineering, etc.)",
+      "duration": "3 years",
+      "tuitionFee": "₹25,000 onwards per year"
+    },
+    {
+      "program": "M.Tech (Computer Science and Engineering)",
+      "duration": "2 years",
+      "tuitionFee": "Data not explicitly specified by convener quota standard structures"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "₹3.00 LPA – ₹4.00 LPA",
+    "medianSalary": "Data not publicly published",
+    "highestSalary": "₹12.00 LPA (2024 batch peak highlight)",
+    "highestDomestic": "₹3.60 LPA – ₹12.00 LPA historical range",
+    "placementRate": "Up to 85% reported for top batches (like 2024)",
+    "totalOffers": "1200+ collective placements historically reported",
+    "companiesVisited": "30+ recruiters globally and domestically across sectors",
+    "internationalOffers": "Data not explicitly highlighted",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "L&T",
+      "Tech Mahindra",
+      "Wipro",
+      "Cognizant",
+      "Accenture",
+      "Deloitte",
+      "Beta Bulls",
+      "Amazon"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (B.Tech)",
+      "AP ICET (MBA)",
+      "AP ECET (Lateral Entry)"
+    ],
+    "admissionProcess": "UG engineering admissions are primarily allocated through AP EAPCET counseling administered by APSCHE for Category A seats. Management seats (Category B) are fulfilled based on institutional merit guidelines. MBA admissions require APICET qualification.",
+    "importantDates": "Admissions process aligns with the yearly timelines published by APSCHE, commonly spanning June to September."
+  },
+
+  "campus": {
+    "area": "25-acre pollution-free green campus",
+    "facilities": [
+      "Library (16,000+ books, 2,000 online journals)",
+      "Digital Library Facilities",
+      "Well-Equipped Practical Labs",
+      "Separate Boys Hostel",
+      "Separate Girls Hostel",
+      "Sports Complex & Large Playgrounds",
+      "Wi-Fi Enabled Campus",
+      "Dispensary / Medical Room",
+      "Canteen & In-house Mess",
+      "Seminar Hall & Audio-Visual Classrooms"
+    ],
+    "specialNote": "The institute houses a business school alongside its technology department and offers an ecosystem that actively drives co-curricular events and NSS social activities."
+  },
+
+  "cutoffs": {
+    "acceptedExam": "AP EAPCET",
+    "popularBranch": "Computer Science and Engineering",
+    "closingRanks2024": {
+      "OC Boys": "General cut-off ranks vary heavily by counselling phase",
+      "OC Girls": "Subject to annual counselling availability",
+      "SC Boys": "Available under reserved state allotment",
+      "SC Girls": "Available under reserved state allotment",
+      "ST Boys": "Available under reserved state allotment",
+      "ST Girls": "Available under reserved state allotment",
+      "BCA Boys": "Allotment via state reservation bands",
+      "BCA Girls": "Allotment via state reservation bands"
+    }
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "Fees fluctuate according to baseline room maintenance and environmental configurations",
+    "messFee": "Generally combined or evaluated periodically alongside canteen usage",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD) for eligible state candidates",
+      "Post-Matric Fee Reimbursements (Government of AP)",
+      "Institution level concessions for merit performers"
+    ]
+  },
+
+  "contact": {
+    "phone": "+91 98664 61623",
+    "email": "info@abrcet.edu.in",
+    "address": "ABR Nagar, Chinairlapadu Village, Kandukur Road, Kanigiri Mandal, Prakasam District - 523254, Andhra Pradesh, India",
+    "admissionsEmail": "info@abrcet.edu.in"
+  },
+
+  "website": "https://abrcet.edu.in/",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "official-college-portal-and-state-counseling-databases",
+
+  "sources": {
+    "overview": "https://abrcet.edu.in/",
+    "placements": "https://abrcet.edu.in/placements/",
+    "admissions": "https://abrcet.edu.in/admission-procedure/",
+    "fees": "https://abrcet.edu.in/fee-structure/",
+    "campus": "https://abrcet.edu.in/gallery/",
+    "contact": "https://abrcet.edu.in/contact/"
+  }
+}

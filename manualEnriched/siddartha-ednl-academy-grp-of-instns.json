@@ -1,0 +1,116 @@
+{
+  "overview": "Siddartha Educational Academy Group of Institutions (SEAT), located in Tirupati, Andhra Pradesh, is a private autonomous educational institution offering undergraduate and postgraduate programs in engineering, management, and technology disciplines. The institution focuses on industry-oriented education, practical learning, and placement support for students across technical and management streams.",
+  "accreditation": "NAAC 'B++' Grade Accredited Institution.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Convenor Quota (Category-A): Approximately ₹37,000 – ₹43,000 per year. Total estimated tuition across 4 years: ₹1,48,000 – ₹1,72,000 depending on regulatory revisions and branch."
+    },
+    {
+      "program": "B.Tech (Management Quota)",
+      "duration": "4 years",
+      "tuitionFee": "Variable fee structure based on specialization demand, especially for Computer Science Engineering and allied branches."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 – ₹40,000 per year. Total estimated fee: ₹70,000 – ₹80,000."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹37,000 – ₹40,000 per year."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.00 LPA – ₹5.00 LPA",
+    "medianSalary": "ug4Year: ₹3.50 LPA – ₹3.60 LPA; pg2Year: ₹3.50 LPA",
+    "highestSalary": "2024-25: ₹8.00 LPA – ₹10.00 LPA; 2023-24: ₹8.00 LPA",
+    "highestDomestic": "",
+    "placementRate": "Approximately 40% – 65% across eligible and registered candidates.",
+    "totalOffers": "200+ selections across core and IT departments during major placement drives.",
+    "companiesVisited": "TCS, Infosys, Capgemini, IBM, Accenture, Wipro, Tech Mahindra",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Tata Consultancy Services (TCS)",
+      "Infosys",
+      "Capgemini",
+      "IBM",
+      "Accenture",
+      "Wipro",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ICET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level entrance examinations and counseling processes for convener quota seats, while management quota admissions are offered directly by the institution based on eligibility norms.",
+    "importantDates": "Admissions follow APSCHE counseling schedules and academic calendar notifications issued annually."
+  },
+  "campus": {
+    "location": "Tirupati, Andhra Pradesh, India",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Library",
+      "Computer Labs",
+      "RO Drinking Water",
+      "Wi-Fi Connectivity",
+      "Sports Facilities",
+      "Transportation",
+      "Seminar Halls",
+      "Auditorium"
+    ],
+    "hostelFee": "₹40,000 – ₹45,000 per year including room rent and mess charges.",
+    "hostelAmenities": [
+      "Iron Cots",
+      "Ceiling Fans",
+      "Security Arrangements",
+      "RO Drinking Water",
+      "Power Backup Infrastructure"
+    ],
+    "specialNote": "One-time institutional charges range between ₹5,000 – ₹8,000 including registration and caution deposit fees."
+  },
+  "hostel": {
+    "hostelFee": "₹40,000 – ₹45,000 per year including room rent and mess charges.",
+    "amenities": [
+      "Iron Cots",
+      "Ceiling Fans",
+      "Security Arrangements",
+      "RO Drinking Water",
+      "Power Backup Infrastructure"
+    ],
+    "note": "₹40,000 – ₹45,000 per year including room rent and mess charges."
+  },
+  "scholarships": [
+    {
+      "name": "Jagananna Vidya Deevena (JVD)",
+      "description": "Eligible Andhra Pradesh students from economically weaker sections receive full tuition fee reimbursement directly from the government."
+    },
+    {
+      "name": "Post-Metric Scholarships",
+      "description": "Scholarships available for SC/ST/BC/EBC/Minority category students as per Andhra Pradesh government norms."
+    },
+    {
+      "name": "AICTE Tuition Fee Waiver (TFW)",
+      "description": "Limited tuition fee waiver seats available for meritorious students with annual family income below ₹8 LPA."
+    }
+  ],
+  "contact": {
+    "address": "Siddartha Educational Academy Group of Institutions (SEAT), Tirupati, Andhra Pradesh, India"
+  },
+  "website": "https://seatexams.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-compilation",
+  "sources": {
+    "overview": "https://seatexams.in",
+    "placements": "https://seatexams.in/placements",
+    "fees": "https://seatexams.in/fee-details/",
+    "scholarships": "Government of Andhra Pradesh scholarship schemes and AICTE TFW policy",
+    "contact": "https://seatexams.in/contact"
+  }
+}

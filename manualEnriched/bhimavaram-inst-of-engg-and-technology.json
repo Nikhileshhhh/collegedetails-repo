@@ -1,0 +1,83 @@
+{
+  "overview": "Bhimavaram Institute of Engineering and Technology (BIET), established in 2007 by the Swaranabharathi Educational Trust, is a private autonomous institution located in a serene 20-acre campus in Pennada, near Bhimavaram. The college is dedicated to providing value-based technical and management education to meet industry standards.",
+  "accreditation": "Accredited by NAAC with an 'A' Grade. Approved by AICTE and recognized under UGC Section 2(f). It holds permanent affiliation with Jawaharlal Nehru Technological University, Kakinada (JNTUK) and has been granted Autonomous status.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, ECE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,72,000 (Approx. ₹43,000 per year)",
+      "eligibility": "10+2 with 45-50% in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹86,000 (Approx. ₹43,000 per year)",
+      "eligibility": "B.E./B.Tech degree + GATE/AP PGECET"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Bachelor's degree with 50% + AP ICET"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.8 LPA",
+    "medianSalary": "₹3.2 LPA",
+    "highestSalary": "₹8.5 LPA",
+    "highestDomestic": "₹8.5 LPA",
+    "placementRate": "80% - 85%",
+    "totalOffers": "200+",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Infosys",
+      "Wipro",
+      "TCS",
+      "IBM",
+      "Cognizant",
+      "Tech Mahindra",
+      "Capgemini"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "AP POLYCET"
+    ],
+    "admissionProcess": "70% of seats are filled through the Convener Quota (Category A) based on state entrance ranks (AP EAPCET/ICET). The remaining 30% are Management Quota (Category B) seats filled based on merit or JEE scores. Lateral entry is available via AP ECET.",
+    "importantDates": "AP EAPCET 2026: May 2026; AP ICET 2026: May 2026; Counseling: June - July 2026."
+  },
+  "campus": {
+    "area": "20 Acres",
+    "facilities": [
+      "Digitally Equipped Classrooms",
+      "Modern Engineering Labs",
+      "Digital Library with E-resources",
+      "Campus-wide Wi-Fi",
+      "Separate Hostels for Boys and Girls",
+      "Auditorium & Seminar Halls",
+      "Sports Complex & Gym",
+      "Transport Facility (Bus)"
+    ],
+    "specialNote": "The campus is eco-friendly and pollution-free. It features specialized research cells and an Institution-Industry Cell to bridge the gap between academic learning and corporate requirements."
+  },
+  "contact": {
+    "phone": "+91 6301288818, +91 9948639666",
+    "email": "principal@bietbvrm.ac.in",
+    "address": "Swamy Jnanananda Ashram Road, Pennada, Palakoderu Mandal, West Godavari District, Andhra Pradesh - 534243",
+    "admissionsEmail": "biet.exams@gmail.com"
+  },
+  "website": "https://bietbvrm.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

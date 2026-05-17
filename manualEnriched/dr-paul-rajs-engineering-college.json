@@ -1,0 +1,76 @@
+{
+  "overview": "Dr. Paul Raj Engineering College (DPREC), established in 1997, is a private technical institution located in the temple town of Bhadrachalam. It was founded by the Late Rev. Dr. Satish Paul Raj with the mission of providing technical education to students in rural and agency areas. Situated on a 28-acre campus on the banks of the Godavari River, it is the first private sector engineering college in the region.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University (JNTU), Hyderabad (formerly Kakinada depending on state division timelines).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, ECE, EEE, Mechanical, Civil, IT)",
+      "duration": "4 Years",
+      "totalFees": "₹1,40,000 - ₹1,60,000 (Approx. ₹35,000 - ₹40,000 per year)",
+      "eligibility": "10+2 with 45-50% aggregate in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science, Embedded Systems, Power & Industrial Drives)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 - ₹1,15,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / TS PGECET score"
+    },
+    {
+      "course": "Diploma (Mechanical, EEE, Civil)",
+      "duration": "3 Years",
+      "totalFees": "₹45,000 - ₹75,000 (Approx. ₹15,000 - ₹25,000 per year)",
+      "eligibility": "10th standard pass + TS POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹2.8 LPA - ₹3.2 LPA",
+    "medianSalary": "₹3.0 LPA",
+    "highestSalary": "₹6.0 LPA - ₹8.0 LPA",
+    "highestDomestic": "₹8.0 LPA",
+    "placementRate": "60% - 70%",
+    "totalOffers": "100+",
+    "companiesVisited": "20+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Tech Mahindra",
+      "Cognizant",
+      "Sutherland",
+      "Genpact"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET (EAMCET)",
+      "TS PGECET",
+      "TS POLYCET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (TGCHE). 70% of seats are under the Convener Quota (Category A) based on entrance ranks. The remaining 30% are Management Quota (Category B) seats filled based on merit. Counseling Code: DPRE.",
+    "importantDates": "TS EAPCET 2026: May 9–11, 2026; Registration Deadline: April 2026; Counseling: June–July 2026."
+  },
+  "campus": {
+    "area": "28 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Well-equipped State-of-the-art Laboratories",
+      "Central Library & Reading Rooms",
+      "On-campus Hostel Facility for Boys & Girls",
+      "Indoor Stadium & Outdoor Sports Ground",
+      "Canteen & Medical Center",
+      "Bus Facility (Connecting Bhadrachalam and surrounding areas)"
+    ],
+    "specialNote": "The college is uniquely located in a serene environment near the Godavari River, providing an ideal atmosphere for academic pursuits. It places a heavy emphasis on language skills and personality development to support students from rural backgrounds in securing placements."
+  },
+  "contact": {
+    "phone": "08743-231550, +91 9866199284",
+    "email": "principal@dprec.com",
+    "address": "Bhadrachalam, Bhadradri Kothagudem District (formerly Khammam), Telangana - 507111",
+    "admissionsEmail": "principal@dprec.com"
+  },
+  "website": "http://www.dprec.com/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

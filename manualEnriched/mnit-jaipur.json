@@ -1,0 +1,105 @@
+{
+  "overview": "Malaviya National Institute of Technology (MNIT) Jaipur, located on Jawaharlal Nehru Marg, Jaipur, Rajasthan, is a premier public technical university established in 1963. Originally founded as Malaviya Regional Engineering College (MREC), it was elevated to a National Institute of Technology in 2002 and designated as an Institute of National Importance in 2007. The institute is widely recognized for excellence in engineering education, technical research, innovation, and industry collaboration.",
+  "accreditation": "Institute of National Importance under the NIT Act, 2007; operates under statutory academic frameworks and is exempt from standard NAAC accreditation processes.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.Arch (General/OBC - Income > ₹5 lakh)",
+      "duration": "4–5 years",
+      "tuitionFee": "₹62,500 tuition fee + ₹18,450 institutional charges per semester = ₹80,950 per semester."
+    },
+    {
+      "program": "B.Tech / B.Arch (General/OBC - Income ₹1 lakh – ₹5 lakh)",
+      "duration": "4–5 years",
+      "tuitionFee": "₹20,834 tuition fee + ₹18,450 institutional charges per semester = ₹39,284 per semester."
+    },
+    {
+      "program": "B.Tech / B.Arch (General/OBC - Income < ₹1 lakh)",
+      "duration": "4–5 years",
+      "tuitionFee": "₹0 tuition fee + ₹18,450 institutional charges per semester."
+    },
+    {
+      "program": "SC / ST / PwD Candidates (All Programs)",
+      "duration": "Varies by program",
+      "tuitionFee": "Tuition fee fully waived; ₹18,450 institutional charges per semester."
+    },
+    {
+      "program": "M.Tech Programs",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹7,500 – ₹35,000 per semester depending on the specialization and program structure."
+    },
+    {
+      "program": "MBA Program",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹41,725 per semester (~₹83,450 annually)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹11.58 LPA – ₹12.85 LPA overall B.Tech average (2025); CSE: ₹19.80 LPA; ECE: ₹16.21 LPA; Electrical: ₹14.73 LPA.",
+    "medianSalary": "₹10.00 LPA overall B.Tech median (2025).",
+    "highestSalary": "₹64.00 LPA (B.Tech / UG Programs, 2025 placement cycle).",
+    "highestDomestic": "₹64.00 LPA",
+    "placementRate": "Overall UG Placement Rate: ~63.69% – 77.00%; Mechanical: 87.88%; ECE: 84.47%; CSE: 77.27%; Chemical: 75.79%.",
+    "totalOffers": "802 selections with 132 PPOs during the 2025 placement cycle.",
+    "companiesVisited": "Google, D.E. Shaw, Adobe, Oracle, Apple, JPMorgan Chase & Co., Arcesium, Texas Instruments, Atlassian, Salesforce, Tata Motors, Bajaj Auto.",
+    "internationalOffers": "High-value global technology and finance recruitment across CSE and core engineering branches.",
+    "topRecruiters": [
+      "Google",
+      "D.E. Shaw",
+      "Adobe",
+      "Oracle",
+      "Apple",
+      "JPMorgan Chase & Co.",
+      "Arcesium",
+      "Texas Instruments",
+      "Atlassian",
+      "Salesforce",
+      "Tata Motors",
+      "Bajaj Auto"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "CAT",
+      "IIT JAM"
+    ],
+    "admissionProcess": "UG admissions are conducted through JoSAA/CSAB counseling based on JEE Main ranks. PG admissions are based on GATE, CAT, IIT JAM, and institute-specific admission procedures depending on the program.",
+    "importantDates": "Admissions follow the JoSAA, CCMT, CCMN, and institute academic admission calendars."
+  },
+  "campus": {
+    "area": "317 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Innovation and Incubation Centre",
+      "Sports Complex",
+      "Wi-Fi Campus",
+      "Research Laboratories",
+      "Computer Centre",
+      "Auditorium",
+      "Banking Facilities",
+      "Shopping Complex"
+    ],
+    "specialNote": "Hostel rent and utility charges are approximately ₹12,000 per semester, while mess advance is ₹25,000 per semester. First-time entrants additionally pay a refundable hostel caution deposit of ₹12,000, refundable academic caution deposit of ₹15,000, and a non-refundable admission fee of ₹3,000."
+  },
+  "contact": {
+    "phone": "+91-141-271-3211",
+    "email": "registrar@mnit.ac.in",
+    "address": "Malaviya National Institute of Technology Jaipur, Jawaharlal Nehru Marg, Jaipur – 302017, Rajasthan, India",
+    "admissionsEmail": "admission@mnit.ac.in"
+  },
+  "website": "https://www.mnit.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-data",
+  "sources": {
+    "overview": "https://www.mnit.ac.in",
+    "fees": "https://www.mnit.ac.in/admissions",
+    "placements": "https://www.mnit.ac.in/placement",
+    "admissions": "https://www.mnit.ac.in/admissions",
+    "campus": "https://www.mnit.ac.in/about",
+    "contact": "https://www.mnit.ac.in/contact"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "overview": "Netaji Subhas University of Technology (NSUT), formerly Netaji Subhas Institute of Technology (NSIT), is a premier autonomous state public university established in 1983 and located in Dwarka, New Delhi. Spread across a 145-acre campus, NSUT is recognized for its strong engineering education, advanced research ecosystem, technological innovation, and excellent placement performance under the governance of the Government of NCT of Delhi.",
+  "accreditation": "Recognized by UGC; major engineering programs aligned with Tier-1 NBA accreditation standards.",
+  "nirfRanking": {
+    "overallCategory": "Rank Band 101–150 nationally (NIRF 2025)"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.Des",
+      "duration": "4 years",
+      "tuitionFee": "₹2,40,000 – ₹2,50,000 per academic year",
+      "totalCourseFee": "₹10.51 Lakhs – ₹11.29 Lakhs"
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "₹2,31,000 total program fee"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹5,14,000 total program fee"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹18.75 LPA (2026)",
+    "averageSalary2025": "₹16.50 LPA",
+    "medianSalary": "₹15.00 LPA (2026)",
+    "highestSalary": "₹1.20 CPA / ₹120 LPA (2026)",
+    "highestDomestic": "₹100 LPA",
+    "placementRate": "Overall B.Tech: 90%",
+    "csePlacementRate": "64.61%",
+    "itPlacementRate": "59.60%",
+    "totalOffers": "1000+ offers",
+    "companiesVisited": "150–200 recruiters annually",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Amazon India",
+      "Adobe",
+      "Flipkart",
+      "DE Shaw & Co",
+      "Morgan Stanley"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "B.Tech admissions are conducted through JAC Delhi counseling based on JEE Main ranks. Postgraduate admissions follow national-level entrance examination criteria.",
+    "importantDates": "Admissions follow the official JAC Delhi and university academic schedule."
+  },
+  "cutoffs": {
+    "outsideDelhiGeneralCategory2025": [
+      {
+        "branch": "Computer Science & Engineering (Artificial Intelligence - CSAI)",
+        "round1ClosingRank": "2092",
+        "lastRoundClosingRank": "2922"
+      },
+      {
+        "branch": "Computer Engineering (COE)",
+        "round1ClosingRank": "2612",
+        "lastRoundClosingRank": "4889"
+      },
+      {
+        "branch": "Computer Science & Engineering (Data Science - CSDS)",
+        "round1ClosingRank": "3161",
+        "lastRoundClosingRank": "6844"
+      },
+      {
+        "branch": "Information Technology (IT)",
+        "round1ClosingRank": "4013",
+        "lastRoundClosingRank": "5200"
+      },
+      {
+        "branch": "Mathematics & Computing Engineering (MAC)",
+        "round1ClosingRank": "4181",
+        "lastRoundClosingRank": "6150"
+      },
+      {
+        "branch": "Electronics & Communication Engineering (AI)",
+        "round1ClosingRank": "6427",
+        "lastRoundClosingRank": "7800"
+      },
+      {
+        "branch": "Electrical Engineering (EE)",
+        "round1ClosingRank": "7456",
+        "lastRoundClosingRank": "26555"
+      }
+    ]
+  },
+  "campus": {
+    "area": "145 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Innovation & Incubation Centers",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Medical Facilities",
+      "Computer Centers"
+    ],
+    "hostelFees": "₹1,10,000 – ₹1,32,000 per year depending on room type and AC/non-AC selection",
+    "messFacilities": "Vegetarian and non-vegetarian meal services operated through hostel mess committees.",
+    "specialNote": "NSUT is widely known for strong industry collaborations, startup incubation, and high placement packages in AI, CSE, and IT branches."
+  },
+  "scholarships": {
+    "ewsSupport": "Delhi Government Higher Education Trust provides 25%–100% tuition fee waivers for eligible EWS students.",
+    "nationalScholarships": "Integrated with NSP scholarships for SC, ST, and minority students.",
+    "gateStipend": "₹12,400 per month for eligible M.Tech students admitted through GATE."
+  },
+  "contact": {
+    "address": "Netaji Subhas University of Technology (NSUT), Azad Hind Fauj Marg, Sector 3, Dwarka, New Delhi – 110078, India"
+  },
+  "website": "https://www.nsut.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-data",
+  "sources": {
+    "overview": "https://www.nsut.ac.in",
+    "placements": "https://www.nsut.ac.in",
+    "admissions": "https://jacdelhi.admissions.nic.in",
+    "fees": "https://jacdelhi.admissions.nic.in",
+    "campus": "https://www.nsut.ac.in/en",
+    "cutoffs": "https://jacdelhi.admissions.nic.in"
+  }
+}

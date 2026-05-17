@@ -1,0 +1,86 @@
+{
+  "overview": "Chalapathi Institute of Engineering and Technology (CIET), established in 2007, is a premier autonomous private engineering college located in Lam, Guntur. Situated within the capital region of Amaravati, it is known for its focus on industry-centric education and technical innovation. The campus is designed to foster a research-oriented environment with a strong emphasis on practical skills and employability.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade and NBA (for specific branches). Approved by AICTE, New Delhi, and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, Civil)",
+      "duration": "4 Years",
+      "totalFees": "₹1,72,000 (₹43,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, AI&ML, Structural Engg, VLSI & ESD)",
+      "duration": "2 Years",
+      "totalFees": "₹86,000 (₹43,000 per year)",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE/AP PGECET score"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (₹35,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "Diploma (CSE, ECE, EEE, Civil)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.0 LPA",
+    "medianSalary": "₹3.6 LPA",
+    "highestSalary": "₹12.0 LPA (Sprouts.ai)",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "82% - 85%",
+    "totalOffers": "200+ (Recent cycle)",
+    "companiesVisited": "40+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Accenture",
+      "Tech Mahindra",
+      "DXC Technologies",
+      "Mphasis",
+      "Capgemini",
+      "Square Yards"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are split into Category A (70% Convener Quota) based on state-level entrance exam counseling and Category B (30% Management Quota) based on merit or JEE scores. Registration is done through the APSCHE portal for the Convener quota.",
+    "importantDates": "AP EAPCET 2026: May 12–15 & 18, 2026; AP ICET 2026: May 2026; Counseling: July–August 2026."
+  },
+  "campus": {
+    "area": "11 - 20 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Modern Engineering & Computing Labs",
+      "Digital Library with high-speed internet",
+      "Separate Hostels for Boys and Girls (300+ capacity)",
+      "Innovation & Incubation Cell",
+      "Sports Grounds & Gymnasium",
+      "Hygienic Cafeteria",
+      "Transport Facility (Guntur, Vijayawada & surrounding areas)"
+    ],
+    "specialNote": "The institute is a Full Member of SAP University Alliances and an EC-Council Academia Partner. It features a dedicated Engineering Student Success Program (ESSP) that has facilitated over 1,700 student internships."
+  },
+  "contact": {
+    "phone": "0863-2524112, +91 9502245112",
+    "email": "chalapathioffice@gmail.com",
+    "address": "Chalapathi Nagar, Lam, Guntur, Andhra Pradesh - 522034",
+    "admissionsEmail": "principal_iet@chalapathiengg.ac.in"
+  },
+  "website": "https://www.chalapathiengg.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

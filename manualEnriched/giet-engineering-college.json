@@ -1,0 +1,88 @@
+{
+  "overview": "GIET Engineering College, established in 2009, is a prominent private engineering institution located in Chaitanya Nagar, Rajahmundry (Rajamahendravaram). It is part of the GIET Group of Institutions and is strategically situated on NH-16. The college is recognized for its industry-aligned training programs, including being the first in the region to host an Apple Centre of Excellence. It offers a technology-driven environment with a focus on practical expertise through various national and international corporate collaborations.",
+  "accreditation": "Approved by AICTE, New Delhi. Accredited by NAAC with an 'A+' Grade. Permanently affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK). ISO certified and several programs are NBA accredited.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, ME, Civil, Mining, Automobile)",
+      "duration": "4 Years",
+      "totalFees": "₹2,04,000 (Approx. ₹51,000 per year)",
+      "eligibility": "10+2 with 50% aggregate in PCM + AP EAPCET / JEE Main rank"
+    },
+    {
+      "course": "MBA (HR, Finance, Marketing)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank + GD/PI"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation with 50% and Mathematics at 10+2 level + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Structural Engg, CAD/CAM, Power Systems, VLSI)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE score / AP PGECET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.1 LPA - ₹4.5 LPA",
+    "medianSalary": "₹4.3 LPA",
+    "highestSalary": "₹19.5 LPA - ₹26.0 LPA (Recent cycles)",
+    "highestDomestic": "₹26.0 LPA",
+    "placementRate": "95% - 99%",
+    "totalOffers": "1,100+ (Combined group placements)",
+    "companiesVisited": "100+",
+    "internationalOffers": "Occasional",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Amazon",
+      "Tech Mahindra",
+      "Accenture",
+      "HCL Technologies",
+      "Cognizant",
+      "Deloitte",
+      "Jindal Steel"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "B.Tech admissions are primarily through AP EAPCET counseling (Convener Quota) and JEE Main (Management Quota). MBA and MCA admissions are via AP ICET. M.Tech candidates are selected based on GATE or AP PGECET scores followed by GD/PI. Counseling Code: GIET.",
+    "importantDates": "AP EAPCET 2026: May 12–20, 2026; Results: June 1, 2026; B.Tech Counseling: Expected July 2026; AP ICET 2026: May 2026."
+  },
+  "campus": {
+    "area": "Lush green campus integrated within the larger GIET campus",
+    "facilities": [
+      "Apple Centre of Excellence (First in the region)",
+      "Red Hat Academy for RHCP training",
+      "ICT Enabled Smart Classrooms",
+      "State-of-the-art Engineering & Research Labs",
+      "Central Library with extensive Digital Resources",
+      "Separate Boarding Hostels for Boys and Girls with 24/7 surveillance",
+      "Indoor & Outdoor Sports Facilities",
+      "Hygienic Canteen & Food Court",
+      "Health Care Unit & Banking/ATM facilities",
+      "Transport (Extensive fleet covering Rajahmundry and surrounding areas)"
+    ],
+    "specialNote": "The college is distinguished by its 'Centre for Excellence' initiatives and collaborative training with global giants like Apple and Red Hat. It provides specialized 'Pre-Placement Training' programs including GRE and EFL training for students aspiring for global careers."
+  },
+  "contact": {
+    "phone": "+91 883-2484444, +91 9440664444",
+    "email": "info@gietec.ac.in",
+    "address": "Chaitanya Nagar, Rajamahendravaram, East Godavari District, Andhra Pradesh - 533296",
+    "admissionsEmail": "principal@gietec.ac.in"
+  },
+  "website": "https://www.gietec.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

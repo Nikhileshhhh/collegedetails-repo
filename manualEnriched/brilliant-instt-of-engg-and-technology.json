@@ -1,0 +1,87 @@
+{
+  "overview": "Brilliant Institute of Engineering and Technology (BRIL), established in 2008, is a prominent private autonomous institution in Hyderabad. It is a key constituent of the Brilliant Group of Technical Institutions (BGTI) and is situated on a sprawling 70-acre campus. The institute is dedicated to delivering industry-ready technical education across engineering, management, and polytechnic streams.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. Approved by AICTE and affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH). Polytechnic programs are recognized by SBTET.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,72,000 - ₹2,94,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹90,000 - ₹1,36,000",
+      "eligibility": "Graduation with 50% aggregate + TS ICET"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000",
+      "eligibility": "B.E./B.Tech + GATE/TS PGECET"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹44,700 - ₹46,500",
+      "eligibility": "10th standard pass + TS POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.6 LPA - ₹4.5 LPA",
+    "medianSalary": "₹4.0 LPA",
+    "highestSalary": "₹20.0 LPA (2025-26 cycle record)",
+    "highestDomestic": "₹20.0 LPA",
+    "placementRate": "85% - 100% Support",
+    "totalOffers": "750+ (Group Total)",
+    "companiesVisited": "120+ Corporate Clients",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Normet",
+      "Shapoorji Pallonji E&C",
+      "HCL Technologies",
+      "TATA Electronics",
+      "Cognizant",
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "Genpact",
+      "Amazon"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET (EAPCET)",
+      "TS ICET",
+      "TS PGECET",
+      "TS POLYCET",
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "70% of seats (Category A) are filled through TGCHE convener counseling. 30% of seats (Category B) are management quota seats filled based on merit/JEE scores. Admission for 2026-27 involves an online application via the official website followed by document verification.",
+    "importantDates": "TS EAMCET 2026: May 9-11, 2026; TS ICET 2026: May 2026; Application Deadline: Typically June/July 2026."
+  },
+  "campus": {
+    "area": "70 Acres",
+    "facilities": [
+      "E-Classrooms with ICT support",
+      "Advanced R&D Laboratories",
+      "Digital Library with International Journals",
+      "Entrepreneur Development Centers (4+)",
+      "Auditorium & Seminar Halls",
+      "Sports Complexes & Gymnasium",
+      "Separate Residential Hostels",
+      "Transportation Fleet (Covers Twin Cities)"
+    ],
+    "specialNote": "The campus is an 'Integrated Technical Campus' known for its massive scale and diverse inter-college collaborations. It houses an Entrepreneurship Development Cell and over 10 Research & Development MOUs to foster a startup ecosystem among students."
+  },
+  "contact": {
+    "phone": "+91 9908810491, +91 9701340896, 09776875772",
+    "email": "info@bgti.in",
+    "address": "Abdullapurmet (V), Near Ramoji Film City, Hayathnagar (M), Ranga Reddy District, Hyderabad, Telangana - 501505",
+    "admissionsEmail": "admissions@bgti.in"
+  },
+  "website": "https://www.bgti.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

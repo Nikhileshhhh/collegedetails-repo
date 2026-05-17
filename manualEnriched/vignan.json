@@ -1,0 +1,150 @@
+{
+  "overview": "Vignan's Foundation for Science, Technology and Research (Vignan University), located in Vadlamudi, Guntur District, Andhra Pradesh, is a premier autonomous deemed-to-be university established in 2008. The university is known for its industry-oriented engineering education, modern laboratory infrastructure, student-centric academic ecosystem, and globally aligned curriculum. It has received prestigious ABET accreditation for key engineering branches including CSE, ECE, EEE, Mechanical Engineering, and Biotechnology.",
+  "accreditation": "Deemed-to-be University; NAAC Accredited; ABET Accredited for CSE, ECE, EEE, Mechanical Engineering, and Biotechnology programs.",
+  "nirfRanking": {
+    "overallCategory": "101–150 Rank Band (NIRF 2025)"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech CSE / IT / AI-ML / Data Science",
+      "duration": "4 years",
+      "tuitionFee": "₹2,80,000 per year + ₹20,000 admission fee"
+    },
+    {
+      "program": "B.Tech ECE / ECE-VLSI / Biomedical / Biotechnology",
+      "duration": "4 years",
+      "tuitionFee": "₹2,00,000 per year + ₹20,000 admission fee"
+    },
+    {
+      "program": "B.Tech Civil / Mechanical / EEE / Chemical / Robotics",
+      "duration": "4 years",
+      "tuitionFee": "₹1,20,000 per year + ₹20,000 admission fee"
+    },
+    {
+      "program": "B.Tech Textile Technology",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per year + ₹20,000 admission fee"
+    },
+    {
+      "program": "MBA (General / Business Analytics)",
+      "duration": "2 years",
+      "tuitionFee": "₹2,00,000 per year + ₹10,000 admission fee"
+    },
+    {
+      "program": "M.Tech / MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹1,00,000 – ₹1,40,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹6.50 – ₹7.00 LPA (B.Tech 2025)",
+    "medianSalary": "₹6.96 LPA (B.Tech 2024)",
+    "highestSalary": "₹44.00 LPA (2025 B.Tech Placement Cycle)",
+    "highestDomestic": "₹44.00 LPA",
+    "placementRate": "Approximately 80% – 85%",
+    "totalOffers": "811 UG students and 94 PG students placed",
+    "companiesVisited": "TCS, Cognizant, Accenture, Infosys, Wipro, HCL Technologies, HSBC",
+    "topRecruiters": [
+      "TCS",
+      "Cognizant",
+      "Accenture",
+      "Infosys",
+      "Wipro",
+      "HCL Technologies",
+      "HSBC"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "V-SAT",
+      "AP EAPCET (EAMCET)",
+      "JEE Advanced"
+    ],
+    "admissionProcess": "Admissions are conducted through the university's V-SAT examination and AP EAPCET counseling process for undergraduate engineering programs.",
+    "importantDates": "Admission schedules follow V-SAT examination timelines and AP EAPCET counseling calendar."
+  },
+  "cutoffs": {
+    "apEapcet2025ExpectedClosingRanks": [
+      {
+        "branch": "Computer Science & Engineering (CSE)",
+        "round1Cutoff": "~16,500",
+        "lastRoundClosingRank": "18,500"
+      },
+      {
+        "branch": "CSE (Artificial Intelligence & Machine Learning)",
+        "round1Cutoff": "~22,500",
+        "lastRoundClosingRank": "24,500"
+      },
+      {
+        "branch": "CSE (Data Science)",
+        "round1Cutoff": "~21,800",
+        "lastRoundClosingRank": "23,500"
+      },
+      {
+        "branch": "Information Technology (IT)",
+        "round1Cutoff": "~27,500",
+        "lastRoundClosingRank": "29,500"
+      },
+      {
+        "branch": "Electronics & Communication Engineering (ECE)",
+        "round1Cutoff": "~29,000",
+        "lastRoundClosingRank": "32,000"
+      },
+      {
+        "branch": "Electrical & Electronics Engineering (EEE)",
+        "round1Cutoff": "~65,000",
+        "lastRoundClosingRank": "72,000"
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "round1Cutoff": "~75,000",
+        "lastRoundClosingRank": "85,000"
+      }
+    ]
+  },
+  "campus": {
+    "location": "Vadlamudi, Guntur District, Andhra Pradesh",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Advanced Laboratories",
+      "Sports Complex",
+      "Auditoriums",
+      "Wi-Fi Enabled Campus",
+      "Research Centers",
+      "Innovation Labs",
+      "Cafeterias"
+    ],
+    "hostelFees": {
+      "acHostel": "₹1,25,000 – ₹1,40,000 per year + ₹5,000 registration fee",
+      "nonAcHostel": "₹95,000 – ₹1,10,000 per year + ₹5,000 registration fee"
+    },
+    "messDetails": "Integrated mess system with vegetarian and non-vegetarian meal options on rotation basis.",
+    "specialNote": "The university campus is built across a green landscaped environment in the Andhra Pradesh capital region with industry-focused infrastructure and international academic standards."
+  },
+  "scholarships": {
+    "available": true,
+    "details": [
+      "Up to 100% tuition fee waiver for top V-SAT and AP EAPCET rank holders",
+      "Special fee concessions for JEE Advanced qualified students",
+      "Sports scholarships and merit-based academic awards",
+      "Semester-wise performance scholarships for high achievers"
+    ]
+  },
+  "contact": {
+    "address": "Vignan's Foundation for Science, Technology and Research, Vadlamudi, Guntur District, Andhra Pradesh, India",
+    "admissionsInfo": "Admissions are handled through V-SAT and AP EAPCET counseling channels."
+  },
+  "website": "https://vignan.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "institutional-data",
+  "sources": {
+    "overview": "https://vignan.ac.in",
+    "fees": "https://vignan.ac.in",
+    "placements": "https://vignan.ac.in",
+    "admissions": "https://vignan.ac.in",
+    "campus": "https://vignan.ac.in",
+    "contact": "https://vignan.ac.in/newvignan/contact.php"
+  }
+}

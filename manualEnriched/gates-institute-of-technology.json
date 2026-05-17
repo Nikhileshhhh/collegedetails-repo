@@ -1,0 +1,93 @@
+{
+  "overview": "Gates Institute of Technology (GITES), established in 2001, is a premier autonomous engineering institution located in Gooty, Anantapur district, Andhra Pradesh. The college is part of the GATES Group and is situated on a sprawling 25.33-acre campus with a dedicated 10-acre green belt. Notably, it is one of the few fully solar-powered institutes in the state, utilizing a 200 KV on-site solar plant. The institution focuses on providing affordable technical education to rural students while maintaining high academic standards and industry-relevant curriculum.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. Several undergraduate programs are NBA accredited. Approved by AICTE, New Delhi, and affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI, Data Science, ECE, EEE, ME, Civil, Cyber Security)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,80,000 (Approx. ₹40,000 - ₹45,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM (40% for reserved) + AP EAPCET rank"
+    },
+    {
+      "course": "MBA (General Management)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET / CMAT rank"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation with 50% + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (Machine Design, Power Systems, VLSI, CSE)",
+      "duration": "2 Years",
+      "totalFees": "₹80,000 - ₹1,14,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE)",
+      "duration": "3 Years",
+      "totalFees": "₹54,000 - ₹75,000",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹2.8 LPA - ₹3.5 LPA",
+    "medianSalary": "₹3.0 LPA",
+    "highestSalary": "₹8.0 LPA - ₹9.0 LPA",
+    "highestDomestic": "₹9.0 LPA",
+    "placementRate": "85%",
+    "totalOffers": "500+ (Combined across recent cycles)",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Accenture",
+      "TCS",
+      "Infosys",
+      "IBM",
+      "Wipro",
+      "HCL Technologies",
+      "Capgemini",
+      "Cognizant",
+      "Mphasis",
+      "Syntel"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE",
+      "CMAT"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (APSCHE). 70% of seats (Category A) are filled via entrance exam ranks. 30% (Category B) are Management Quota seats filled based on merit or JEE Main scores. Counseling Code: GATS.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Registration (Late Fee): April 2026; AP ICET 2026: July 9–13, 2026; Counseling: August 2026."
+  },
+  "campus": {
+    "area": "25.33 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & Tech-enabled Learning Zones",
+      "Advanced Computer & Robotics Labs",
+      "Central Library with Digital Resource Center",
+      "Separate Hostels for Boys and Girls",
+      "Indoor & Outdoor Sports Complexes",
+      "200 KV Solar Power Plant (Eco-friendly campus)",
+      "Hygienic Canteen & Health Center",
+      "Transportation (Fleet covering major points in Anantapur district)"
+    ],
+    "specialNote": "GITES is distinguished by its 10-acre green belt and commitment to sustainability via solar power. The institute emphasizes 'Innovation and Research' through various campus-run technical clubs and a dedicated Training & Placement Cell that provides intensive personality development programs."
+  },
+  "contact": {
+    "phone": "+91 9490082249, 08552-252444",
+    "email": "info@gatesit.ac.in",
+    "address": "NH-44, Gooty, Anantapur District, Andhra Pradesh - 515401",
+    "admissionsEmail": "principal@gatesit.ac.in"
+  },
+  "website": "https://www.gatesit.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

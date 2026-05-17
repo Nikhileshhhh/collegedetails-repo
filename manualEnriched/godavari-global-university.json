@@ -1,0 +1,100 @@
+{
+  "overview": "Godavari Global University (GGU), formerly known as the Godavari Institute of Engineering and Technology (GIET), is a newly conferred state private university (as of 2024) located in Rajahmundry, Andhra Pradesh. Established originally in 1998, it has evolved into a massive educational hub serving over 10,000 students from 15 Indian states and 13 countries. The university is highly regarded for its 26-year legacy of academic excellence and its transition to a 'Global University' focusing on cross-border research, student exchanges, and industry-integrated learning.",
+  "accreditation": "Accredited by NAAC with an 'A++' Grade (CGPA of 3.58/4 in Cycle 3). All eligible technical programs are NBA accredited. Recognized under Sections 2(f) and 12(B) of the UGC Act, 1956. Approved by AICTE, Pharmacy Council of India (PCI), and the Indian Nursing Council.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, ME, Civil, Mining, Agri)",
+      "duration": "4 Years",
+      "totalFees": "₹2,35,000 - ₹9,75,000 (Varies significantly by specialization)",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics + AP EAPCET / JEE Main rank"
+    },
+    {
+      "course": "B.Sc (Hons.) (Agriculture, Forensic Science, Data Science, etc.)",
+      "duration": "3-4 Years",
+      "totalFees": "₹1,55,000 - ₹6,60,000",
+      "eligibility": "10+2 in relevant science stream"
+    },
+    {
+      "course": "MBA (Finance, HR, Marketing, Digital Marketing)",
+      "duration": "2 Years",
+      "totalFees": "₹1,75,000 - ₹2,95,000",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹2,70,000 - ₹2,95,000",
+      "eligibility": "Graduation with Maths at 10+2 or Degree level + AP ICET rank"
+    },
+    {
+      "course": "Pharmacy (B.Pharm, Pharm.D)",
+      "duration": "4-6 Years",
+      "totalFees": "₹4,95,000 - ₹5,15,000",
+      "eligibility": "10+2 (Bi.P.C or M.P.C) + AP EAPCET rank"
+    },
+    {
+      "course": "Health Sciences (BPT, BMLT, BOPTM)",
+      "duration": "3-4.5 Years",
+      "totalFees": "₹5,08,000 - ₹6,24,000",
+      "eligibility": "10+2 with Biology stream"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.5 LPA",
+    "medianSalary": "₹4.3 LPA",
+    "highestSalary": "₹10.0 LPA (Domestic); ₹22.0 LPA (International)",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "85%",
+    "totalOffers": "500+ annually",
+    "companiesVisited": "150+ (including virtual and off-campus drives)",
+    "internationalOffers": "Multiple (via Global Twinning programs)",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Virtusa",
+      "Amazon",
+      "Dassault Systèmes",
+      "Capgemini",
+      "Cognizant",
+      "HCL Technologies",
+      "Siemens"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "JEE Main",
+      "GGUCET (University Entrance Test)"
+    ],
+    "admissionProcess": "Engineering admissions are primarily through AP EAPCET counseling (Code: GGU). Management and Computer Application admissions are via AP ICET. The university also conducts its own test, GGUCET, for certain honors and diploma courses. 30% of seats are filled under the Management Quota (Category B).",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP ICET 2026: July 9–13, 2026; PhD Admissions Notification: May 2026."
+  },
+  "campus": {
+    "area": "300 Acres",
+    "facilities": [
+      "15 Centres of Excellence (Dassault, Virtusa, Siemens, etc.)",
+      "Kalvium Integrated Learning Hub",
+      "Apple Centre of Excellence & Red Hat Academy",
+      "Separate AC/Non-AC Hostels (5+ buildings)",
+      "Central Library with 24/7 Digital Access",
+      "Extensive Sports Complex (Volleyball, Basketball, Football)",
+      "24+ Student Clubs and Communities",
+      "Hygienic Food Courts & Multi-cuisine Canteens",
+      "Medical Health Centre & 24/7 Security"
+    ],
+    "specialNote": "GGU maintains high-profile international MOUs with German Varsity (Germany) and Staffordshire University (UK) for joint degrees and twinning programs. It is one of the few campuses in the region that is fully integrated with smart campus management systems (CAMPX) for attendance and fee tracking."
+  },
+  "contact": {
+    "phone": "+91 9440664444, +91 883-2484444",
+    "email": "info@ggu.edu.in",
+    "address": "Velgubanda, Rajaanagaram, Rajamahendravaram, East Godavari District, Andhra Pradesh - 533296",
+    "admissionsEmail": "admissions@ggu.edu.in"
+  },
+  "website": "https://ggu.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

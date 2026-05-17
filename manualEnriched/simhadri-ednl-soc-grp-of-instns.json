@@ -1,0 +1,89 @@
+{
+  "overview": "Simhadri Educational Society Group of Institutions, located in Visakhapatnam, Andhra Pradesh, is a private educational institution offering undergraduate and postgraduate programs in engineering and management. The institute primarily supports regional-level technical education and participates in consolidated placement drives and local recruitment initiatives.",
+  "accreditation": "NAAC Accreditation: Not Accredited / Grade Data Not Publicly Listed.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Convenor Quota (Category A): Approximately ₹35,000 – ₹40,000 per year (Total ~₹1.40 Lakhs – ₹1.60 Lakhs for full course). Management Quota (Category B): Fees vary based on branch demand and institutional norms."
+    },
+    {
+      "program": "MBA (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 per year (Total ~₹70,000 for the full course)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.00 LPA – ₹3.50 LPA",
+    "medianSalary": "₹2.00 LPA – ₹2.50 LPA",
+    "highestSalary": "₹5.60 LPA (2024–25 Batch)",
+    "highestDomestic": "₹5.60 LPA",
+    "placementRate": "Approximately 30% – 50% across eligible registered candidates",
+    "totalOffers": "Multiple offers through pooled campus drives and regional job melas",
+    "companiesVisited": "Tech Mahindra, HCL, Infosys, regional software consulting groups",
+    "internationalOffers": "No publicly listed international placement data",
+    "topRecruiters": [
+      "Tech Mahindra",
+      "HCL",
+      "Infosys",
+      "Regional Software Consulting Groups"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ICET"
+    ],
+    "admissionProcess": "Admissions are conducted through state counseling procedures and management quota admissions as per Andhra Pradesh higher education norms.",
+    "importantDates": "Follows Andhra Pradesh state counseling schedules for AP EAPCET and AP ICET."
+  },
+  "campus": {
+    "area": "Not Publicly Listed",
+    "facilities": [
+      "Classrooms",
+      "Computer Labs",
+      "Library",
+      "Hostel Facility",
+      "Transportation",
+      "Seminar Halls",
+      "Sports Facilities",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Hostel & Mess charges are approximately ₹45,000 – ₹55,000 annually. One-time admission and administrative charges range between ₹5,000 – ₹8,000 along with a refundable caution deposit."
+  },
+  "hostel": {
+    "hostelFee": "?45,000 ? ?55,000 per year",
+    "note": "Hostel and mess combined fee for campus or associated nearby accommodations."
+  },
+  "contact": {
+    "phone": "9603185333, 9959126247",
+    "email": "Not Publicly Listed",
+    "address": "Simhadhri educational society Narapadu(v), koduru junction, anakapalli to sabbavaram highway, Anakapalli – 531002, Andhra Pradesh",
+    "admissionsEmail": "Not Publicly Listed"
+  },
+  "website": "https://simhadhriedu.com",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-compilation",
+  "sources": {
+    "overview": "https://simhadhriedu.com",
+    "fees": "https://simhadhriedu.com",
+    "placements": "https://simhadhriedu.com/internship",
+    "admissions": "AP EAPCET / AP ICET counseling norms",
+    "campus": "https://simhadhriedu.com/gallery/",
+    "contact": "https://simhadhriedu.com/contact-us"
+  },
+  "scholarships": [
+    {
+      "name": "Jagananna Vidya Deevena (JVD)",
+      "description": "Tuition support for qualifying Andhra Pradesh students from lower economic backgrounds."
+    },
+    {
+      "name": "Post-Metric Schemes",
+      "description": "Government stipends for eligible SC, ST, BC, and EBC students."
+    },
+    {
+      "name": "AICTE Tuition Fee Waiver (TFW)",
+      "description": "Limited merit seats for candidates with family income below ?8 LPA."
+    }
+  ]
+}

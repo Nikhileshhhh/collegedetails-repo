@@ -1,0 +1,69 @@
+{
+  "overview": "Avanthi Institute of Engineering and Technology, Hyderabad, is a Hayathnagar engineering campus sponsored by Avanthi Educational Society and established in 2005. The official site presents it as an autonomous institution focused on academic quality, industry exposure, and professional training near Gunthapally and Ramoji Film City.",
+  "accreditation": "Autonomous institution; AICTE approved; affiliated to JNTUH; NAAC re-accredited with 'A' grade; NBA-accredited UG programs in CSE and ECE.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - CSE, CSE (AI and ML), CSE (Data Science), CSE (Cyber Security), ECE, EEE, Mechanical",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 70,000/year"
+    },
+    {
+      "program": "M.Tech - CSE, VLSI System Design, Electrical Power Systems",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 60,000/year"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 55,000/year"
+    },
+    {
+      "program": "MCA",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 27,000/year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": []
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET",
+      "TG ECET",
+      "TG PGECET / GATE",
+      "TG ICET"
+    ],
+    "admissionProcess": "The official admissions page states that Category-A seats are filled through Telangana centralized counseling for TG EAPCET, TG ECET, TG PGECET/GATE, and TG ICET as applicable. Category-B seats are handled by the college management based on merit in the relevant qualifying examination.",
+    "importantDates": "TG EAPCET, TG ECET, TG PGECET, and TG ICET schedules are announced by Telangana authorities each cycle; the institute also publishes fee and scholarship details on its admissions page."
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Central library",
+      "Department laboratories",
+      "Transportation",
+      "Training and placement cell",
+      "NCC",
+      "Barrier-free environment",
+      "Academic and administrative blocks"
+    ],
+    "specialNote": "The admissions page highlights scholarships for top TG EAPCET rankers, fee-reimbursement-eligible students, and students from government junior colleges."
+  },
+  "contact": {
+    "phone": "+91-8328053969, +91-9704755516",
+    "email": "principal.avanthi@gmail.com",
+    "address": "Gunthapally (V), Abdullapurmet (M), R.R. District - 501512, Telangana, India",
+    "admissionsEmail": "principalavih@avanthi.edu.in"
+  },
+  "website": "https://aietg.ac.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "official-website"
+}

@@ -1,0 +1,74 @@
+{
+  "overview": "Indian Institute of Technology Roorkee (IIT Roorkee), founded in 1847 as Thomason College of Engineering, is one of India's oldest and most prestigious technical institutions. Known for academic excellence and strong placement outcomes, it spans across diverse fields like engineering, applied sciences, and management.",
+  "accreditation": "Institute of National Importance; NAAC 'A++' accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.S. (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC (income > ₹5 lakh). Income-based and caste-based waivers apply."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹5,000 per semester for General/OBC (non-sponsored). Sponsored: ₹25,000. SC/ST/PwD are exempt."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹20–24 LPA (B.Tech overall, 2025)",
+    "medianSalary": "₹19.69 LPA",
+    "highestSalary": "₹2.05 CPA (International, 2025 Phase 1)",
+    "highestDomestic": "₹1.30–₹1.50 CPA",
+    "placementRate": "B.Tech: ~80–85%, M.Tech: ~60–75%, MBA: 100%",
+    "totalOffers": "742+ (2025 Phase 1), 1,100+ (2023–24)",
+    "companiesVisited": "Databricks, Google, Microsoft, DE Shaw, Qualcomm, Texas Instruments, Adobe, Goldman Sachs",
+    "internationalOffers": "Offers up to ₹2.05 Cr CPA in 2025 Phase 1",
+    "topRecruiters": [
+      "Databricks",
+      "Google",
+      "Microsoft",
+      "DE Shaw",
+      "Qualcomm",
+      "Texas Instruments",
+      "Adobe",
+      "Goldman Sachs"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE", "CAT", "CEED"],
+    "admissionProcess": "Admissions are based on national-level exams like JEE Advanced (UG), GATE (PG), and followed by JoSAA/COAP counseling.",
+    "importantDates": "Follows JoSAA/COAP schedule and IIT Roorkee's academic calendar."
+  },
+  "campus": {
+    "area": "365 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Computer Centre",
+      "Sports Complex",
+      "Innovation Hub",
+      "Auditorium",
+      "Entrepreneurship Cell",
+      "Research Parks"
+    ],
+    "specialNote": "Other semester fees (~₹53,300) cover hostel, mess, and other charges. SC/ST students (income < ₹5L) may receive free messing and rent waivers. One-time admission fee: ₹6,000."
+  },
+  "contact": {
+    "phone": "+91-1332-285311",
+    "email": "registrar@iitr.ac.in",
+    "address": "IIT Roorkee, Roorkee – 247667, Uttarakhand, India",
+    "admissionsEmail": "jee@iitr.ac.in"
+  },
+  "website": "https://www.iitr.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iitr.ac.in",
+    "fees": "https://www.iitr.ac.in/academics/pages/Fee_Structure.html",
+    "placements": "https://www.iitr.ac.in/placements",
+    "admissions": "https://www.iitr.ac.in/admissions",
+    "campus": "https://www.iitr.ac.in/campus-life",
+    "contact": "https://www.iitr.ac.in/contact-us"
+  }
+}

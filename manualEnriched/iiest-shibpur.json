@@ -1,0 +1,95 @@
+{
+  "overview": "Indian Institute of Engineering Science and Technology, Shibpur (IIEST Shibpur), located in Howrah, West Bengal, is a premier public institution of national importance established in 1856. It is the second oldest engineering institute in India and is globally recognized for its deep-rooted academic legacy, intensive research ecosystem, and strong engineering education framework.",
+  "accreditation": "Institute of National Importance; NAAC accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 per semester for General/OBC students with family income above ₹5 lakh. ₹20,833 per semester for income between ₹1–5 lakh (66.6% waiver). Full tuition waiver for SC/ST/PwD and students with income below ₹1 lakh. One-time admission fee: ₹15,000. Hostel Fee: ₹7,000–₹10,000 per semester. Mess Fee: ~₹18,000–₹22,000 per semester."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000–₹70,000 per semester depending on specialization. Eligible GATE-qualified students receive AICTE stipend benefits."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹1,00,000 per semester excluding hostel and other institutional charges."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹13.50 LPA (B.Tech Overall)",
+    "medianSalary": "₹8.50 LPA (B.Tech)",
+    "highestSalary": "₹56.00 LPA (2024-25 PPO by Microsoft India)",
+    "highestDomestic": "₹56.00 LPA",
+    "placementRate": "UG Engineering: ~67%; PG Programs: ~22%",
+    "totalOffers": "546 total offers (502 UG + 44 PG) for 2025 graduating batch",
+    "companiesVisited": "Microsoft, Google India, Texas Instruments, Goldman Sachs, JPMorgan Chase, BNY Mellon, Accenture, Wells Fargo, PwC",
+    "internationalOffers": "Limited but growing international and high-value PPO opportunities through multinational recruiters",
+    "topRecruiters": [
+      "Microsoft",
+      "Google India",
+      "Texas Instruments",
+      "Goldman Sachs",
+      "JPMorgan Chase",
+      "BNY Mellon",
+      "Accenture",
+      "Wells Fargo",
+      "PwC"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "CAT",
+      "MAT"
+    ],
+    "admissionProcess": "B.Tech admissions are conducted through JoSAA counseling based on JEE Main ranks. M.Tech admissions are primarily through GATE and CCMT counseling. MBA admissions consider CAT/MAT scores followed by institute selection procedures.",
+    "importantDates": "Admissions generally follow JoSAA, CCMT, and national-level counseling schedules."
+  },
+  "campus": {
+    "area": "Approximately 123 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Medical Facilities",
+      "Sports Complex",
+      "Innovation & Research Centers",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Computer Centre"
+    ],
+    "specialNote": "The institute provides automatic income-based tuition fee remissions upon submission of valid income certificates. Hostel and mess charges are calculated separately from tuition fees."
+  },
+  "contact": {
+    "phone": "+91-33-2668-4561",
+    "email": "registrar@iiests.ac.in",
+    "address": "Indian Institute of Engineering Science and Technology, Shibpur, Howrah – 711103, West Bengal, India",
+    "admissionsEmail": "academic@iiests.ac.in"
+  },
+  "website": "https://www.iiests.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website-and-placement-reports",
+  "scholarships": [
+    "100% tuition waiver for SC/ST/PwD students and students with family income below ₹1 lakh",
+    "66.6% tuition waiver for students with family income between ₹1–5 lakh",
+    "National Scholarship Portal (NSP) schemes",
+    "DAAD Scholarship opportunities for international research exposure",
+    "AICTE GATE stipend of ₹12,400 per month for eligible postgraduate students"
+  ],
+  "rankings": {
+    "nirfOverall2025": "54"
+  },
+  "sources": {
+    "overview": "https://www.iiests.ac.in",
+    "fees": "https://www.iiests.ac.in/IIEST/Administration/files/fee_structure",
+    "placements": "https://www.iiests.ac.in/IIEST/placement",
+    "admissions": "https://www.iiests.ac.in/IIEST/Admission",
+    "campus": "https://www.iiests.ac.in/IIEST/about",
+    "contact": "https://www.iiests.ac.in/IIEST/contact"
+  }
+}

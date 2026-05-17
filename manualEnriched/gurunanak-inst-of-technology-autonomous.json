@@ -1,0 +1,80 @@
+{
+  "overview": "Guru Nanak Institute of Technology (GNIT), established in 2008, is a premier autonomous engineering college located in Ibrahimpatnam, Hyderabad. Part of the Guru Nanak Institutions (GNI) group, the college is known for its research-driven academic environment and state-of-the-art infrastructure. GNIT focuses on providing industry-aligned education, particularly in emerging fields like Artificial Intelligence, Data Science, and Cyber Security, alongside traditional engineering disciplines.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. Approved by AICTE, New Delhi, and permanently affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH). Several undergraduate programs are NBA accredited.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, Civil, IT, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹4,80,000 (Approx. ₹1,20,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + TG EAPCET rank"
+    },
+    {
+      "course": "MBA (Finance, HR, Marketing, Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹1,22,000 (Approx. ₹61,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + TG ICET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science & Engineering, Embedded Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹1,50,000 (Approx. ₹75,000 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / TG PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.50 LPA - ₹5.00 LPA",
+    "medianSalary": "₹4.25 LPA",
+    "highestSalary": "₹30.0 LPA - ₹55.0 LPA (Top offers from Google/Amazon/Mu Sigma)",
+    "highestDomestic": "₹30.0 LPA (Mu Sigma)",
+    "placementRate": "80% - 85%",
+    "totalOffers": "1,517 (Combined Group Offers for 2025 cycle)",
+    "companiesVisited": "118+ (Recent cycle)",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "Google",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Capgemini",
+      "Mu Sigma",
+      "HCL Technologies",
+      "Accenture"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (EAMCET)",
+      "TG ICET",
+      "TG PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling by TGCHE. 70% of seats (Category A) are filled via entrance ranks. 30% are Management Quota (Category B) seats filled based on institutional merit. Counseling Code: GNIT.",
+    "importantDates": "TG EAPCET 2026: May 9–11, 2026; Results: Mid-May 2026; TG ICET 2026: May 13–14, 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "Lush green campus integrated within the larger Guru Nanak Institutions estate",
+    "facilities": [
+      "ICT Enabled Classrooms & Advanced Computer Labs",
+      "Specialized Research Centers and Innovation Hubs",
+      "Central Library with Digital Resource Center",
+      "On-campus Hostels for Boys and Girls (AC & Non-AC)",
+      "Indoor & Outdoor Sports Complex",
+      "Hygienic Canteen and Multi-cuisine Food Court",
+      "Health Care Unit & Banking/ATM facilities",
+      "Transport (Fleet covering all major suburbs of Hyderabad)"
+    ],
+    "specialNote": "GNIT is notable for its 'Innovation Center' and 'Entrepreneurship Development Cell' (EDC), which support student startups. It has active MoUs with international universities and industry leaders like Berkadia to provide global exposure and specialized training modules."
+  },
+  "contact": {
+    "phone": "+91 8096600700, 08414-202120",
+    "email": "info@gnithyd.ac.in",
+    "address": "Khanapur Village, Ibrahimpatnam Mandal, Ranga Reddy District, Telangana - 501506",
+    "admissionsEmail": "admissions@gniindia.org"
+  },
+  "website": "https://www.gnithyd.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,99 @@
+{
+  "overview": "Indian Institute of Technology Jodhpur (IIT Jodhpur), located in Karwar, Jodhpur, Rajasthan, is a premier autonomous public technical university established in 2008 by the Ministry of Education, Government of India. Recognized as an Institute of National Importance, IIT Jodhpur is known for its futuristic curriculum, interdisciplinary academic structure, and strong emphasis on Artificial Intelligence, Data Science, and advanced research.",
+  "accreditation": "Institute of National Importance; exempted from mandatory NAAC accreditation under Act of Parliament.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.S. (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,18,275 per semester for General/OBC students with family income > ₹5 lakh. ₹51,608 per semester for income between ₹1 lakh–₹5 lakh (66% remission). ₹18,275 per semester for income < ₹1 lakh and SC/ST/PwD categories (full tuition waiver). Hostel & Mess: ~₹30,000–₹35,000 per semester."
+    },
+    {
+      "program": "M.Tech / M.Sc",
+      "duration": "2 years",
+      "tuitionFee": "₹25,000 – ₹40,000 per semester depending on specialization and institute charges."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹2,00,000 – ₹2,25,000 per semester including institutional and academic charges."
+    }
+  ],
+  "placements": {
+    "avgSalary": "B.Tech CSE: ₹21.26 LPA (2025), AI & Data Science: ₹18.22 LPA, Electrical: ₹15.98 LPA, Mechanical: ₹14.76 LPA, MBA: ₹11.04 LPA",
+    "medianSalary": "Overall B.Tech Median: ~₹16.00 LPA (2025)",
+    "highestSalary": "₹110.00 LPA (Engineering Science, 2025)",
+    "highestDomestic": "₹110.00 LPA",
+    "placementRate": "Overall B.Tech: 92.00%, CSE: 98.84%, Mechanical: 97.80%, MBA: ~90.00%, M.Tech: ~82.00%",
+    "totalOffers": "500+ offers during the 2025 placement cycle",
+    "companiesVisited": "Microsoft, Google, Amazon, Nvidia, Goldman Sachs, Oracle, Flipkart, American Express, Tata Electronics, Hyundai",
+    "internationalOffers": "High-value international and global offers across AI, software, and consulting sectors",
+    "topRecruiters": [
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "Nvidia",
+      "Goldman Sachs",
+      "Oracle",
+      "Flipkart",
+      "American Express",
+      "Tata Electronics",
+      "Hyundai"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "CAT",
+      "IIT JAM"
+    ],
+    "admissionProcess": "Admissions are conducted through national-level entrance examinations followed by centralized counseling such as JoSAA, COAP, CCMN, or MBA selection procedures depending on the program.",
+    "importantDates": "Admission timelines follow JoSAA, COAP, JAM, and institute academic calendar schedules."
+  },
+  "campus": {
+    "area": "852 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Smart Classrooms",
+      "Central Library",
+      "AI & Data Science Labs",
+      "Research Centers",
+      "Innovation & Incubation Hub",
+      "Sports Complex",
+      "Medical Facilities",
+      "Wi-Fi Enabled Campus",
+      "Auditorium",
+      "Cafeteria"
+    ],
+    "specialNote": "Hostel charges vary between ₹7,250 – ₹13,000 per semester depending on occupancy. Mess advance ranges between ₹19,000 – ₹22,000 per semester."
+  },
+  "contact": {
+    "phone": "+91-291-280-1000",
+    "email": "office_academic@iitj.ac.in",
+    "address": "Indian Institute of Technology Jodhpur, NH 62, Karwar, Jodhpur – 342037, Rajasthan, India",
+    "admissionsEmail": "admissions@iitj.ac.in"
+  },
+  "website": "https://iitj.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website",
+  "scholarships": {
+    "available": true,
+    "details": [
+      "Merit-cum-Means Scholarship for General/OBC students with parental income below ₹4.5 LPA",
+      "100% tuition fee remission for students with family income below ₹1 lakh",
+      "66% tuition remission for students with family income between ₹1 lakh – ₹5 lakh",
+      "Free messing facility for eligible SC/ST students",
+      "Teaching Assistantship for M.Tech scholars (~₹12,400/month)",
+      "Ph.D. scholars receive stipend support of ₹31,000+ per month"
+    ]
+  },
+  "sources": {
+    "overview": "https://iitj.ac.in",
+    "fees": "https://iitj.ac.in",
+    "placements": "https://cdc.iitj.ac.in",
+    "admissions": "https://www.iitj.ac.in/m/Index/main-programs?lg=en",
+    "campus": "https://www.iitj.ac.in/m/Index/main-institute?lg=en",
+    "contact": "https://www.iitj.ac.in/main/en/contact"
+  }
+}

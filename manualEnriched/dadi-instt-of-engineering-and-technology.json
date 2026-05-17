@@ -1,0 +1,91 @@
+{
+  "overview": "Dadi Institute of Engineering and Technology (DIET), established in 2006, is a prominent private autonomous institution located in Anakapalle, Visakhapatnam. Sponsored by the Sarada Educational Trust, the institute is dedicated to empowering rural youth through high-quality technical education. It operates as a self-financing college and has emerged as a preferred destination for engineering and management studies in the North Coastal region of Andhra Pradesh.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. Approved by AICTE and UGC under sections 2(f) & 12(B). Affiliated with JNTU-Gurajada, Vizianagaram (JNTU-GV).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, Civil)",
+      "duration": "4 Years",
+      "totalFees": "₹1,89,600 (Approx. ₹47,400 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹74,400 (Approx. ₹37,200 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Bachelor's degree with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Systems & Signals Processing, Power & Industrial Drives)",
+      "duration": "2 Years",
+      "totalFees": "₹1,16,800 (Approx. ₹58,400 per year)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE/AP PGECET score"
+    },
+    {
+      "course": "Diploma (CME, ECE, EEE)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.0 LPA",
+    "medianSalary": "₹3.53 LPA",
+    "highestSalary": "₹22.0 LPA - ₹25.0 LPA",
+    "highestDomestic": "₹25.0 LPA",
+    "placementRate": "80% - 85%",
+    "totalOffers": "400+ (Recent cycle)",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Infosys",
+      "Wipro",
+      "TCS",
+      "IBM",
+      "Tech Mahindra",
+      "Cognizant",
+      "Accenture",
+      "Capgemini",
+      "Sutherland"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted via state-level web counseling (APSCHE). 70% of seats (Category A) are filled through entrance exam ranks. 30% are Management Quota (Category B) seats filled based on merit or JEE scores. Lateral entry for diploma holders is through AP ECET.",
+    "importantDates": "AP EAPCET 2026 Engineering: May 12–15 & 18, 2026; AP ICET 2026 Result: May 16, 2026; Counseling: July–August 2026."
+  },
+  "campus": {
+    "area": "Modern integrated campus on National Highway 16",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Advanced Engineering & Computer Labs",
+      "Digital Library with E-Journal access",
+      "Auditorium & Seminar Halls",
+      "Separate Hostels for Boys and Girls",
+      "Sports Complex & Gymnasium",
+      "Cafeteria",
+      "Transport Facility (Visakhapatnam & Anakapalle coverage)"
+    ],
+    "specialNote": "DIET is recognized as a 'Band-Performer' in ARIIA rankings for private technical institutes. It features specialized research centers and maintains a strong 'Training and Placement Cell' that provides intensive CRT (Campus Recruitment Training) to students from the third year onwards."
+  },
+  "contact": {
+    "phone": "+91 9963981111, +91 9963694444",
+    "email": "info@diet.edu.in",
+    "address": "National Highway 16, Anakapalle, Visakhapatnam, Andhra Pradesh - 531002",
+    "admissionsEmail": "admissions@diet.edu.in"
+  },
+  "website": "https://diet.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

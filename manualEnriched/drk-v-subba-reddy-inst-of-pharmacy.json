@@ -1,0 +1,82 @@
+{
+  "overview": "Dr. K.V. Subba Reddy Institute of Pharmacy (KVSP), established in 2007, is a premier pharmacy institution located in Kurnool, Andhra Pradesh. Part of the Dr. K.V. Subba Reddy Group of Institutions, the college is dedicated to providing high-quality pharmaceutical education and research opportunities. It is known for its strong emphasis on clinical pharmacy and industry-readiness in the Rayalaseema region.",
+  "accreditation": "Approved by the Pharmacy Council of India (PCI) and AICTE. Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Pharmacy",
+      "duration": "4 Years",
+      "totalFees": "₹2,10,000 (Approx. ₹52,500 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCB/PCM + AP EAPCET rank"
+    },
+    {
+      "course": "Pharm.D (Doctor of Pharmacy)",
+      "duration": "6 Years",
+      "totalFees": "₹3,90,000 (Approx. ₹65,000 per year)",
+      "eligibility": "10+2 with Physics & Chemistry as compulsory subjects + AP EAPCET rank"
+    },
+    {
+      "course": "M.Pharmacy (Pharmaceutics / Pharmaceutical Analysis)",
+      "duration": "2 Years",
+      "totalFees": "₹1,20,000 (Approx. ₹60,000 per year)",
+      "eligibility": "B.Pharmacy with 50% aggregate + GPAT / AP PGECET score"
+    },
+    {
+      "course": "D.Pharmacy",
+      "duration": "2 Years",
+      "totalFees": "₹50,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10+2 pass with Physics, Chemistry, and Biology/Mathematics"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA - ₹3.5 LPA",
+    "medianSalary": "₹3.2 LPA",
+    "highestSalary": "₹4.5 LPA - ₹5.0 LPA",
+    "highestDomestic": "₹5.0 LPA",
+    "placementRate": "75% - 85%",
+    "totalOffers": "100+",
+    "companiesVisited": "20+",
+    "topRecruiters": [
+      "Apollo Pharmacy",
+      "Hetero Drugs",
+      "Divi's Laboratories",
+      "Sun Pharma",
+      "TCS (Life Sciences)",
+      "Cognizant (Pharmacovigilance)",
+      "MedPlus",
+      "GlobalData"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "GPAT",
+      "AP ECET (for lateral entry)"
+    ],
+    "admissionProcess": "Admissions are strictly merit-based. 70% of seats (Category A) are filled via state-level counseling (APSCHE) based on entrance ranks. 30% (Category B) are Management Quota seats filled based on institutional merit. Counseling Code: KVSP.",
+    "importantDates": "AP EAPCET 2026 Pharmacy Exam: May 19–20, 2026; Admit Cards: Available from April 30, 2026; Results: Late May 2026."
+  },
+  "campus": {
+    "area": "Acres of specialized pharmaceutical infrastructure",
+    "facilities": [
+      "Modern Pharmaceutical Laboratories",
+      "Sophisticated Instrumentation Room",
+      "Medicinal Garden",
+      "Central Library with E-Journal access",
+      "On-campus Separate Hostels for Boys and Girls",
+      "Indoor & Outdoor Sports Stadium",
+      "Cafeteria & Health Center",
+      "Transportation (Fleet covering Kurnool city and surrounding areas)"
+    ],
+    "specialNote": "The institute is strategically located opposite the Dupadu Railway Station on NH-44. It features a dedicated Training & Placement Cell that provides specialized training in Medical Coding, Pharmacovigilance (PV), and Clinical Research to ensure graduates are globally competitive."
+  },
+  "contact": {
+    "phone": "+91 9704333789, +91 7660003357",
+    "email": "principal.er@jntua.ac.in",
+    "address": "Opp: Dupadu Railway Station, NH-44, Lakshmipuram Post, Kurnool, Andhra Pradesh - 518218",
+    "admissionsEmail": "drkvsreddy7@gmail.com"
+  },
+  "website": "https://drkvsrip.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

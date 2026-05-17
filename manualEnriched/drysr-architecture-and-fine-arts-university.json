@@ -1,0 +1,85 @@
+{
+  "overview": "Dr. YSR Architecture and Fine Arts University (YSRAFU), established in 2020, is a state-level public university located in Kadapa, Andhra Pradesh. The university was created to serve as a specialized hub for creativity, design, and technical education. For the 2026-27 academic year, it has significantly expanded its portfolio by introducing five new industry-aligned courses in AI, Fashion, and Civil Engineering to meet modern technological and creative demands.",
+  "accreditation": "State University status. Approved by AICTE (All India Council for Technical Education) and the Council of Architecture (CoA). Affiliated with the Government of Andhra Pradesh.",
+  "coursesAndFees": [
+    {
+      "course": "B.Arch (Architecture)",
+      "duration": "5 Years",
+      "totalFees": "₹1,85,000",
+      "eligibility": "10+2 with PCM + NATA rank"
+    },
+    {
+      "course": "B.Tech (Digital Techniques, Game Development, Construction Tech, Planning)",
+      "duration": "4 Years",
+      "totalFees": "₹1,48,000",
+      "eligibility": "10+2 with PCM + AP EAPCET rank"
+    },
+    {
+      "course": "B.F.A (Applied Arts, Painting, Photography, Animation, Sculpture)",
+      "duration": "4 Years",
+      "totalFees": "₹1,40,000 - ₹1,48,000",
+      "eligibility": "10+2 + ADCET (Art and Design Common Entrance Test)"
+    },
+    {
+      "course": "B.Des (Interior Design, Fashion & Apparel Design*)",
+      "duration": "4 Years",
+      "totalFees": "₹1,48,000",
+      "eligibility": "10+2 + ADCET"
+    },
+    {
+      "course": "New 2026 Courses: B.Tech (AI & ML, Civil Engg), M.Tech (AI), M.F.A (Sculpture)",
+      "duration": "2 - 4 Years",
+      "totalFees": "Varies by specialization",
+      "note": "*Introduced for the 2026-27 session"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.0 LPA - ₹5.0 LPA",
+    "medianSalary": "₹3.8 LPA",
+    "highestSalary": "₹9.0 LPA - ₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "80%+",
+    "totalOffers": "N/A (Specialized niche programs)",
+    "companiesVisited": "30+",
+    "topRecruiters": [
+      "Architectural Firms",
+      "Media Houses",
+      "Animation Studios",
+      "Design Agencies",
+      "Construction Tech Companies",
+      "Gaming Studios"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "ADCET",
+      "NATA",
+      "NID / UCEED (occasionally for design)"
+    ],
+    "admissionProcess": "Admission for B.Arch is based on NATA scores through state counseling. B.Tech seats are filled via AP EAPCET. B.F.A and B.Des seats require the Art and Design Common Entrance Test (ADCET). The university follows AP State Council of Higher Education (APSCHE) guidelines.",
+    "importantDates": "B.Tech Application: July 6 - 29, 2026; B.Arch Application: Sept 21 - 28, 2026; ADCET Exam: June 2026."
+  },
+  "campus": {
+    "area": "Modern purpose-built campus in Kadapa",
+    "facilities": [
+      "ICT Enabled Studios & Classrooms",
+      "High-end Animation & Game Development Labs",
+      "Photography Darkrooms & Digital Studios",
+      "Central Library with specialized Design Resources",
+      "On-campus Separate Hostels (₹6,000/year approx)",
+      "Sculpture Workshops & Painting Galleries",
+      "Exhibition Halls"
+    ],
+    "specialNote": "The university is unique in Andhra Pradesh for integrating traditional fine arts with high-end digital technologies like Game Design and AI. It serves as a nodal center for creative industries in the Rayalaseema region."
+  },
+  "contact": {
+    "phone": "+91 8562 244466",
+    "email": "registrar@ysrafu.ac.in",
+    "address": "Dr. YSR Architecture and Fine Arts University, Kadapa, Andhra Pradesh - 516003",
+    "admissionsEmail": "admissions@ysrafu.ac.in"
+  },
+  "website": "https://ysrafu.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,84 @@
+{
+  "overview": "Gokaraju Lailavathi Womens Engineering College (GLWEC), established in 2021, is a private autonomous women's institution located in Bachupally, Hyderabad. It is the second engineering college founded by the Gokaraju Rangaraju Educational Society (GRES), the same group that established the renowned GRIET. The college is designed to provide high-quality technical education exclusively for women in a modern, secure, and disciplined environment.",
+  "accreditation": "Approved by AICTE, New Delhi. Affiliated with Osmania University (OU), Hyderabad. Recognized as a self-financed private institution.",
+  "coursesAndFees": [
+    {
+      "course": "B.E. (Computer Science and Engineering)",
+      "duration": "4 Years",
+      "totalFees": "₹2,80,000 - ₹3,00,000 (Approx. ₹73,000 per year)",
+      "eligibility": "10+2 with 50% in PCM + TG EAPCET rank"
+    },
+    {
+      "course": "B.E. (Information Technology)",
+      "duration": "4 Years",
+      "totalFees": "₹2,80,000 - ₹3,00,000 (Approx. ₹73,000 per year)",
+      "eligibility": "10+2 with 50% in PCM + TG EAPCET rank"
+    },
+    {
+      "course": "B.E. (AI & Machine Learning)",
+      "duration": "4 Years",
+      "totalFees": "₹2,86,000 - ₹3,00,000",
+      "eligibility": "10+2 with 50% in PCM + TG EAPCET rank"
+    },
+    {
+      "course": "B.E. (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹2,10,000 - ₹2,21,000",
+      "eligibility": "Diploma in Engineering with valid TG ECET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹5.5 LPA - ₹6.0 LPA",
+    "medianSalary": "₹5.0 LPA",
+    "highestSalary": "₹16.0 LPA - ₹33.0 LPA (Historic peaks vary)",
+    "highestDomestic": "₹33.0 LPA",
+    "placementRate": "75% - 85% (Based on initial batches)",
+    "totalOffers": "200+ (Estimated for the first outgoing batch)",
+    "companiesVisited": "40+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS (Ninja & Digital)",
+      "Amazon",
+      "Capgemini",
+      "Cognizant",
+      "Accenture",
+      "Infosys",
+      "Darwinbox",
+      "LSEG",
+      "Deloitte",
+      "IBM"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (EAMCET)",
+      "TG ECET",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level web counseling (TGCHE). 70% of seats (Category A) are filled via entrance ranks. 30% are Management Quota (Category B) seats filled based on merit or qualifying marks. Counseling Code: GLWE.",
+    "importantDates": "TG EAPCET 2026 (Engineering): May 9–11, 2026; Results: May 11, 2026; TG ECET 2026: May 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "Lush green campus within the Bachupally educational belt",
+    "facilities": [
+      "ICT Enabled Smart Classrooms",
+      "High-end Computing Labs & Digital Studios",
+      "Central Library with Digital Resource Center",
+      "On-campus Secure Girls Hostels",
+      "Canteen & Refreshment Center",
+      "Outdoor Sports Courts (Basketball, Volleyball)",
+      "Medical Room & 24/7 Security",
+      "Transport (Fleet of buses covering all major suburbs of Hyderabad)"
+    ],
+    "specialNote": "As a sister concern of GRIET, the college benefits from shared expertise in placement training and technical events. The 2025-26 cycle marks a significant milestone as the first full-degree batch moves into professional placements. The college follows the Osmania University curriculum, which is known for its academic rigor."
+  },
+  "contact": {
+    "phone": "+91 7207344440, +91 7207714441",
+    "email": "info@glwec.org",
+    "address": "Survey No. 193, 194 & 195, Bachupally, Medchal-Malkajgiri District, Hyderabad, Telangana - 500090",
+    "admissionsEmail": "principal@glwec.org"
+  },
+  "website": "http://www.glwec.org/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

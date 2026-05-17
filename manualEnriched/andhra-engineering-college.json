@@ -1,0 +1,71 @@
+{
+  "overview": "Andhra Engineering College (AEC), Atmakur, presents itself on the official site as a private engineering institution focused on academic excellence, research, innovation, and holistic student development in Nellore district. The college highlights modern teaching infrastructure, expert faculty, and a career-oriented engineering environment for AP EAPCET students.",
+  "accreditation": "AICTE approved; affiliated to JNTUA; NAAC accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Computer Science and Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Artificial Intelligence and Machine Learning",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Electronics and Communication Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Electrical and Electronics Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    },
+    {
+      "program": "B.Tech - Mechanical Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 43,000/year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "95% placement record stated on the official site",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": []
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ECET"
+    ],
+    "admissionProcess": "The official site advertises B.Tech admissions under EAMCET code AECN and also indicates management/NRI pathways through the institutional admissions process.",
+    "importantDates": "Admissions for 2026-27 are shown as open on the official site, while AP EAPCET and ECET schedules are announced separately by APSCHE."
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Smart classrooms",
+      "Modern laboratories",
+      "Digital library",
+      "Sports facilities",
+      "Cultural activities",
+      "Community engagement programs"
+    ],
+    "specialNote": "The official site emphasizes industry-readiness, holistic development, and a modern campus experience for engineering students."
+  },
+  "contact": {
+    "phone": "+91-9000377399, +91-9000303399",
+    "email": "contact@aecn.in",
+    "address": "3-76-2, Atmakur, Nellore, Andhra Pradesh - 524322, India",
+    "admissionsEmail": "info@aecn.in"
+  },
+  "website": "https://www.aecn.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "google-assisted"
+}

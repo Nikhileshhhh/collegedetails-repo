@@ -1,0 +1,74 @@
+{
+  "overview": "MLR Institute of Technology, Hyderabad was established in 2005 in Dundigal. Affiliated to JNTUH and approved by AICTE, MLRIT is accredited by NAAC. Known for affordable engineering education in Telangana.",
+  "accreditation": "NAAC Accredited, AICTE approved",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (all branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹95,000/year"
+    },
+    {
+      "program": "M.Tech (various)",
+      "duration": "2 Years",
+      "tuitionFee": "Varies"
+    },
+    {
+      "program": "Ph.D",
+      "duration": "4-5 Years",
+      "tuitionFee": "Varies"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.80 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹10 LPA",
+    "highestDomestic": "₹10 LPA",
+    "placementRate": "62%",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Capgemini",
+      "Accenture",
+      "IBM",
+      "Tech Mahindra",
+      "HCL",
+      "DXC Technology"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (B.Tech)",
+      "GATE (M.Tech)"
+    ],
+    "admissionProcess": "B.Tech: TG EAPCET counselling. M.Tech: GATE based admission.",
+    "importantDates": "TG EAPCET: 2026, Counselling: July-August 2026"
+  },
+  "campus": {
+    "area": "20 acres",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Hostels",
+      "Sports Facilities",
+      "Health Centre",
+      "Wi-Fi Campus",
+      "Canteen",
+      "Transportation"
+    ],
+    "specialNote": ""
+  },
+  "contact": {
+    "phone": "+91-40-2304 2711",
+    "email": "",
+    "address": "Laxman Reddy Avenue, Dundigal – 500043, Telangana",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.mlrinstitutions.ac.in",
+  "lastVerified": "2026-04-16",
+  "verifiedBy": "official-website"
+}

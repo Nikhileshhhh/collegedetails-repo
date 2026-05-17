@@ -1,0 +1,86 @@
+{
+  "overview": "Gayatri Vidya Parishad College of Engineering (GVPCE), founded in 1996, is a premier autonomous engineering institution located in Visakhapatnam, Andhra Pradesh. It is highly regarded as one of the top private engineering colleges in the state, known for its academic rigor, research-led environment, and strong industry linkages. The college offers a wide range of undergraduate and postgraduate programs, with a particularly strong reputation in Computer Science, Electronics, and Mechanical engineering.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. All eligible undergraduate programs are NBA accredited. Approved by AICTE and affiliated with JNTU-Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, Civil, Mechanical, IT, Chemical, Robotics)",
+      "duration": "4 Years",
+      "totalFees": "₹4,20,000 (Approx. ₹1,05,000 per year)",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics + AP EAPCET rank"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹2,28,000 - ₹3,15,000",
+      "eligibility": "Diploma in Engineering with valid AP ECET rank"
+    },
+    {
+      "course": "M.Tech (Specialized branches in CSE, VLSI, Structural Engg, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000 (Approx. ₹57,000 per year)",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE / AP PGECET score"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹1,20,000 (Approx. ₹60,000 per year)",
+      "eligibility": "Graduation with Mathematics at 10+2 or Degree level + AP ICET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹5.40 LPA - ₹5.60 LPA",
+    "medianSalary": "₹5.40 LPA",
+    "highestSalary": "₹24.0 LPA - ₹50.0 LPA (Top packages from Microsoft/Amazon)",
+    "highestDomestic": "₹44.0 LPA",
+    "placementRate": "75% - 85%",
+    "totalOffers": "1,289 (2025 cycle)",
+    "companiesVisited": "80+",
+    "internationalOffers": "Occasional (Microsoft, Amazon)",
+    "topRecruiters": [
+      "TCS (Digital & Ninja)",
+      "Infosys",
+      "Wipro",
+      "Amazon",
+      "Cognizant",
+      "Deloitte",
+      "Capgemini",
+      "Adobe",
+      "Microsoft",
+      "Flipkart"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "AP ECET"
+    ],
+    "admissionProcess": "Admissions are strictly merit-based through state-level web counseling (APSCHE). 70% of seats (Category A) are filled via entrance exam ranks. 30% (Category B) are Management Quota seats filled based on institutional merit. Counseling Code: GVPE.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP ICET 2026: May 7, 2026; AP PGECET 2026: April 1 - May 26, 2026 (Registration window); Counseling: July–August 2026."
+  },
+  "campus": {
+    "area": "21 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms & E-Learning Center",
+      "Sophisticated Research & Development Labs",
+      "Central Library with Digital Resource Center",
+      "Separate Hostels for Boys and Girls",
+      "Auditorium & Multiple Seminar Halls",
+      "Comprehensive Sports Facilities & Gymnasium",
+      "Hygienic Canteen & Health Center",
+      "Transportation (Extensive fleet covering Visakhapatnam city)"
+    ],
+    "specialNote": "GVPCE is known for its strong 'Technical Societies' and research culture. It maintains several Centers of Excellence in collaboration with companies like IBM and National Instruments. The campus is located in the scenic Madhurawada valley, providing a tranquil yet tech-focused academic environment."
+  },
+  "contact": {
+    "phone": "0891-2739507, 0891-2739508",
+    "email": "gvpce@gvpce.ac.in",
+    "address": "Madhurawada, Visakhapatnam, Andhra Pradesh - 530048",
+    "admissionsEmail": "principal@gvpce.ac.in"
+  },
+  "website": "https://www.gvpce.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

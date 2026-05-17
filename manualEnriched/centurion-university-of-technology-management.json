@@ -1,0 +1,91 @@
+{
+  "overview": "Centurion University of Technology and Management (CUTM), established in 2010, is a multi-campus private state university in Odisha and Andhra Pradesh. It is widely recognized for its 'Skills Integrated' model of education, focusing on vocational training alongside traditional academics. The university operates through 12 specialized schools ranging from Engineering to Agriculture and Forensic Sciences.",
+  "accreditation": "Accredited with an 'A+' Grade by NAAC. Approved by UGC, AICTE, and ICAR (for Agriculture programs). It is the first university in India to be recognized as a 'Skill University' by the Government of Odisha.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Cyber Security, Data Science)",
+      "duration": "4 Years",
+      "totalFees": "₹7,40,000 - ₹8,00,000",
+      "eligibility": "10+2 with 50% in PCM + CUEE/JEE Main rank"
+    },
+    {
+      "course": "B.Tech (Mechanical, Civil, EEE, ECE, Mining)",
+      "duration": "4 Years",
+      "totalFees": "₹6,20,000",
+      "eligibility": "10+2 with 50% in PCM + CUEE/JEE Main rank"
+    },
+    {
+      "course": "B.Sc. (Hons) Agriculture",
+      "duration": "4 Years",
+      "totalFees": "₹8,00,000",
+      "eligibility": "10+2 with 50% in PCB/PCM + CUEE rank"
+    },
+    {
+      "course": "MBA (General, Agri-Business, Data Analytics)",
+      "duration": "2 Years",
+      "totalFees": "₹4,80,000",
+      "eligibility": "Graduation with 50% + CUEE/CAT/MAT/XAT"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹1,90,000",
+      "eligibility": "Graduation with 45% + CUEE rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.65 LPA",
+    "medianSalary": "₹4.20 LPA",
+    "highestSalary": "₹16.0 LPA (2025)",
+    "highestDomestic": "₹16.0 LPA",
+    "placementRate": "90%",
+    "totalOffers": "2,337 (2025 cycle)",
+    "companiesVisited": "202",
+    "internationalOffers": "Available through partner networks",
+    "topRecruiters": [
+      "Jio",
+      "PwC",
+      "Tech Mahindra",
+      "Cognizant",
+      "Capgemini",
+      "LTIMindtree",
+      "Infosys",
+      "Accenture",
+      "HP",
+      "ICICI Bank"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "CUEE (Centurion University Entrance Exam)",
+      "JEE Main",
+      "CAT/MAT/XAT",
+      "GATE",
+      "NEET"
+    ],
+    "admissionProcess": "Primary admission is through the university's own entrance test (CUEE). Candidates can apply online via the official portal. Shortlisted candidates undergo a counseling process based on their entrance scores and academic merit.",
+    "importantDates": "CUEE 2026 Phase 1 Deadline: May 24, 2026; Result: Late May 2026; Session Starts: August 2026."
+  },
+  "campus": {
+    "area": "100+ Acres (Bhubaneswar and Paralakhemundi campuses)",
+    "facilities": [
+      "52 Industry-sponsored Labs",
+      "45+ Production-cum-Learning Centers",
+      "Smart Classrooms",
+      "Residential Hostels with Mess Plan",
+      "E-Library with National/International Journals",
+      "Innovation & Incubation Hub",
+      "Extensive Sports Facilities"
+    ],
+    "specialNote": "The university is unique for its 'Product Centers' where students participate in real-world manufacturing and service delivery as part of their curriculum, earning while they learn."
+  },
+  "contact": {
+    "phone": "+91 8260077222, 0674-2492496",
+    "email": "admissions@cutm.ac.in",
+    "address": "At - Ramchandrapur, P.O. - Jatni, Bhubaneswar, Khurda, Odisha - 752050",
+    "admissionsEmail": "web@cutm.ac.in"
+  },
+  "website": "https://cutm.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

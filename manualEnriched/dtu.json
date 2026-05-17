@@ -1,0 +1,165 @@
+{
+  "overview": "Delhi Technological University (DTU), formerly known as Delhi College of Engineering (DCE), is a premier state public university located in Rohini, New Delhi. Established in 1941 as Delhi Polytechnic, DTU is fully funded by the Government of Delhi and is recognized for its strong engineering ecosystem, research infrastructure, innovation centers, incubation support, and industry-oriented technical education.",
+  "accreditation": "NAAC Grade 'A' accredited state public university.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (General / OBC)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,10,000 – ₹1,15,000 per semester. Hostel Fee: ₹14,000 – ₹18,000 per semester. Mess Fee: ₹18,500 – ₹22,000 per semester."
+    },
+    {
+      "program": "B.Tech (Continuing / Evening Education)",
+      "duration": "4 years",
+      "tuitionFee": "~₹76,850 per semester."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "₹60,500 – ₹61,500 per semester. GATE-qualified students receive AICTE stipend support of ₹12,400 per month."
+    },
+    {
+      "program": "MBA (Business Analytics / Data Science)",
+      "duration": "2 years",
+      "tuitionFee": "~₹1,10,250 per semester."
+    },
+    {
+      "program": "M.Sc (Sciences)",
+      "duration": "2 years",
+      "tuitionFee": "₹23,900 – ₹26,650 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹15.75 LPA (B.Tech Overall, 2025)",
+    "medianSalary": "₹13.25 LPA (B.Tech Overall, 2025)",
+    "highestSalary": "₹1.80 CPA International (2024-25)",
+    "highestDomestic": "₹85.00 LPA",
+    "placementRate": "88.50% (Highest among branches)",
+    "branchWisePlacementRate": [
+      "Software Engineering: 88.50%",
+      "Computer Engineering: 86.80%",
+      "Information Technology: 85.30%",
+      "Electronics & Communication Engineering: 79.20%"
+    ],
+    "totalOffers": "1,766+ full-time offers during 2025 placement cycle",
+    "companiesVisited": "Leading global technology, finance, and consulting firms participated in campus recruitment.",
+    "internationalOffers": "International packages reached up to ₹1.80 Crore Per Annum.",
+    "topRecruiters": [
+      "Atlassian",
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Adobe",
+      "Cisco",
+      "Flipkart"
+    ],
+    "premiumOffers": "360 offers above ₹20 LPA"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "B.Tech admissions are conducted through JAC Delhi counselling based on JEE Main CRL ranks. DTU follows 85% Home State quota for Delhi region students and 15% All India quota.",
+    "importantDates": "Admissions follow JAC Delhi and COAP/CCMT counselling schedules for UG and PG programs respectively.",
+    "btechCutoffs": {
+      "AllIndiaQuotaGeneral": {
+        "Computer Science and Engineering": {
+          "round1": "2285",
+          "lastRound": "6200"
+        },
+        "Information Technology": {
+          "round1": "3847",
+          "lastRound": "7360"
+        },
+        "Software Engineering": {
+          "round1": "4705",
+          "lastRound": "8165"
+        },
+        "Electronics and Communication Engineering": {
+          "round1": "5113",
+          "lastRound": "9569"
+        },
+        "Mechanical Engineering": {
+          "round1": "9382",
+          "lastRound": "16022"
+        },
+        "Civil Engineering": {
+          "round1": "11799",
+          "lastRound": "19179"
+        }
+      },
+      "HomeStateQuotaGeneral": {
+        "Computer Science and Engineering": {
+          "round1": "6105",
+          "lastRound": "11352"
+        },
+        "Information Technology": {
+          "round1": "9456",
+          "lastRound": "14561"
+        },
+        "Software Engineering": {
+          "round1": "12475",
+          "lastRound": "18706"
+        },
+        "Electronics and Communication Engineering": {
+          "round1": "16466",
+          "lastRound": "22278"
+        }
+      },
+      "ReservedCategoryCutoffs": {
+        "OBC-NCL": "CSE closed at 12,574 while Biotechnology extended up to 34,013.",
+        "SC": "CSE closed at 53,632 while Environmental Engineering extended up to 150,918.",
+        "ST": "CSE closed around 66,042 while Environmental Engineering extended up to 228,876."
+      },
+      "mtechGateCutoffs": {
+        "Computer Science Engineering": "600 – 700 GATE score",
+        "VLSI Design / Electronics": "580 – 670 GATE score",
+        "Mechanical / Civil Engineering": "480 – 600 GATE score"
+      }
+    }
+  },
+  "campus": {
+    "area": "164 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Innovation & Incubation Centers",
+      "Sports Complex",
+      "Wi-Fi Enabled Campus",
+      "Auditorium",
+      "Computer Centre",
+      "Medical Facilities",
+      "Cafeteria",
+      "Seminar Halls"
+    ],
+    "specialNote": "DTU is widely recognized for its advanced incubation ecosystem, industrial collaborations, startup culture, and large-scale technical research infrastructure.",
+    "location": "Rohini, New Delhi, India"
+  },
+  "contact": {
+    "phone": "+91-11-27871018",
+    "email": "vc@dtu.ac.in",
+    "address": "Delhi Technological University, Shahbad Daulatpur, Main Bawana Road, Rohini, New Delhi – 110042, India",
+    "admissionsEmail": "admissions@dtu.ac.in"
+  },
+  "website": "https://www.dtu.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website-and-provided-data",
+  "scholarships": {
+    "feeWaiverScheme": "Up to 100% tuition fee waiver for economically weaker students based on parental income verification.",
+    "postMatricScholarship": "Delhi Government integrated scholarship support for SC, ST, and OBC students.",
+    "meritCumMeans": "Financial subsidies offered for academically strong students from economically weaker backgrounds.",
+    "gateStipend": "AICTE stipend of ₹12,400 per month for valid GATE-qualified M.Tech students."
+  },
+  "sources": {
+    "overview": "https://www.dtu.ac.in",
+    "placements": "https://tnp.dtu.ac.in",
+    "fees": "https://www.dtu.ac.in/Web/fee_structure.php",
+    "admissions": "https://jacdelhi.admissions.nic.in",
+    "cutoffs": "https://jacdelhi.admissions.nic.in",
+    "campus": "https://www.dtu.ac.in/Web/About/overview.php",
+    "contact": "https://www.dtu.ac.in/Web/contact/contact.php"
+  }
+}

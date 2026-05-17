@@ -1,0 +1,95 @@
+{
+  "overview": "National Institute of Technology Calicut (NITC), located in Kozhikode, Kerala, is an Institute of National Importance and one of the premier technical universities in India. It is known for its rigorous academic environment, strong research culture, excellent placement record, and top-ranked programs in engineering and architecture.",
+  "accreditation": "Institute of National Importance; NAAC A++ Grade accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 per semester for General/OBC students with annual family income above ₹5 lakh. ₹20,833 per semester for income between ₹1 lakh and ₹5 lakh (66% tuition waiver). Full tuition waiver for SC/ST/PwD students and students with family income below ₹1 lakh."
+    },
+    {
+      "program": "M.Tech / M.Plan (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 – ₹47,500 per semester depending on the program and category."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹12.27 LPA (B.Tech Overall Average, 2025)",
+    "medianSalary": "₹10.00 LPA (B.Tech Median)",
+    "highestSalary": "₹56.59 LPA (PG Highest Package, 2024-25)",
+    "highestDomestic": "₹43.24 LPA (UG Highest Package, 2024-25)",
+    "placementRate": "UG (B.Tech): 82.16%; PG (M.Tech/MBA): 61.52%",
+    "totalOffers": "Over 1,000 offers for the 2025 graduating batch",
+    "companiesVisited": "Google, Qualcomm, Texas Instruments, Goldman Sachs, Cisco, Oracle, Samsung, Deloitte, Accenture, L&T",
+    "internationalOffers": "Several high-value international and global offers through multinational recruiters",
+    "topRecruiters": [
+      "Google",
+      "Qualcomm",
+      "Texas Instruments",
+      "Goldman Sachs",
+      "Cisco",
+      "Oracle",
+      "Samsung",
+      "Deloitte",
+      "Accenture",
+      "L&T"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "NATA"
+    ],
+    "admissionProcess": "Admissions are based on national-level entrance examinations followed by JoSAA, CCMT, or institute-level counseling depending on the program.",
+    "importantDates": "Admission timelines follow JoSAA, CCMT, and NIT academic calendars."
+  },
+  "campus": {
+    "area": "Approximately 300 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Computer Centre",
+      "Medical Centre",
+      "Research Labs",
+      "Sports Complex",
+      "Innovation Centre",
+      "Wi-Fi Campus",
+      "Auditorium",
+      "Cafeteria"
+    ],
+    "specialNote": "Hostel charges are approximately ₹9,000 – ₹10,000 per semester. Mess charges are around ₹20,000 per semester. Total hostel and mess expenses generally range between ₹30,000 – ₹35,000 per semester."
+  },
+  "contact": {
+    "phone": "+91-495-228-6100",
+    "email": "registrar@nitc.ac.in",
+    "address": "National Institute of Technology Calicut, NIT Campus PO, Kozhikode – 673601, Kerala, India",
+    "admissionsEmail": "admissions@nitc.ac.in"
+  },
+  "website": "https://nitc.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website",
+  "scholarships": {
+    "availableScholarships": [
+      "Income-Based Tuition Fee Waiver",
+      "Merit-Cum-Means Scholarship",
+      "E-Grantz Scholarship",
+      "GATE Stipend",
+      "NITC Aspire Scholarship",
+      "SILA Scholarships"
+    ],
+    "details": "Students from economically weaker sections receive 100% or 66% tuition fee waivers. Kerala students can apply for E-Grantz scholarships. GATE-qualified M.Tech students receive an AICTE stipend of ₹12,400 per month."
+  },
+  "rankings": {
+    "nirfOverall2025": "21"
+  },
+  "sources": {
+    "overview": "https://nitc.ac.in",
+    "fees": "https://nitc.ac.in",
+    "placements": "https://placement.nitc.ac.in",
+    "admissions": "https://nitc.ac.in/admissions",
+    "campus": "https://nitc.ac.in/about",
+    "contact": "https://nitc.ac.in/contact-us"
+  }
+}

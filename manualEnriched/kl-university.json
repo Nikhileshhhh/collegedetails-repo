@@ -1,0 +1,112 @@
+{
+  "overview": "Koneru Lakshmaiah Education Foundation (KLEF), formerly known as KL College of Engineering and widely referred to as KL University, is a premier private deemed-to-be university with major campuses in Vaddeswaram (Guntur district), Andhra Pradesh, and Hyderabad, Telangana. The university is recognized for its industry-oriented curriculum, strong placement ecosystem, advanced research infrastructure, and technology-driven education model.",
+  "accreditation": "NAAC A++ Accredited; ISO 21001:2018 Certified Institution.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (CSE, AI & DS, CS&IT)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,20,000 – ₹1,50,000 per semester"
+    },
+    {
+      "program": "B.Tech (ECE, EEE, Mechanical, Civil)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 – ₹1,15,000 per semester"
+    },
+    {
+      "program": "M.Tech (All Specializations)",
+      "duration": "2 years",
+      "tuitionFee": "₹60,000 – ₹85,000 per semester"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹1,35,000 per semester"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹8.10 LPA – ₹11.00 LPA (B.Tech)",
+    "medianSalary": "₹8.20 LPA (B.Tech)",
+    "highestSalary": "₹100.00 LPA (International, 2024-25)",
+    "highestDomestic": "₹75.00 LPA (2024-25)",
+    "placementRate": "100% placement support for eligible registered engineering students",
+    "totalOffers": "7,050+ offers",
+    "companiesVisited": "Amazon, Google, Microsoft, Qualcomm, Intel, Cisco, Goldman Sachs, Deloitte, Accenture, Wipro",
+    "internationalOffers": "₹100 LPA international package recorded for B.Tech 2024-25 batch",
+    "topRecruiters": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Qualcomm",
+      "Intel",
+      "Cisco",
+      "Goldman Sachs",
+      "Deloitte",
+      "Accenture",
+      "Wipro"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "KLEEE",
+      "JEE Main",
+      "AP EAMCET",
+      "TS EAMCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are primarily based on KLEEE ranks, JEE Main scores, and state-level engineering entrance examinations followed by counseling and document verification.",
+    "importantDates": "Admission schedules are announced annually through the official KLEF admissions portal."
+  },
+  "campus": {
+    "area": "Multiple campuses including Vaddeswaram (Andhra Pradesh) and Hyderabad (Telangana)",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Innovation Labs",
+      "Research Centers",
+      "Sports Complex",
+      "Auditoriums",
+      "Medical Facilities",
+      "Wi-Fi Enabled Campus",
+      "Cafeterias",
+      "Incubation Centers"
+    ],
+    "specialNote": "Hostel charges range from ₹37,500 to ₹77,500 annually depending on occupancy and AC configuration. Mess fee is fixed at ₹92,000 per year. Additional charges include ₹5,000 registration fee and refundable electricity deposits ranging from ₹4,000 to ₹15,000."
+  },
+  "contact": {
+    "phone": "+91-863-2399999",
+    "email": "admissions@kluniversity.in",
+    "address": "KL University, Green Fields, Vaddeswaram, Guntur District, Andhra Pradesh – 522302, India",
+    "admissionsEmail": "admissions@kluniversity.in"
+  },
+  "website": "https://www.kluniversity.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website-and-placement-reports",
+  "hostelFees": {
+    "hostelRent": "₹37,500 – ₹77,500 per academic year",
+    "messFee": "₹92,000 per year",
+    "additionalCharges": "₹5,000 registration fee + ₹4,000 – ₹15,000 refundable electricity deposit",
+    "totalYearlyCost": "Approximately ₹1,34,000 – ₹1,75,000 annually"
+  },
+  "scholarships": {
+    "availableScholarships": [
+      "KLEEE Merit Scholarship",
+      "JEE Main Merit Scholarship",
+      "AP/TS EAMCET Merit Scholarship",
+      "Board Marks Scholarship",
+      "GATE Stipend Support"
+    ],
+    "details": "Students with excellent KLEEE, JEE Main, and EAMCET ranks are eligible for tuition fee waivers ranging from 25% to 100%. Postgraduate students with valid GATE scores receive a monthly stipend of ₹12,400."
+  },
+  "rankings": {
+    "nirfOverall2025": "35"
+  },
+  "sources": {
+    "overview": "https://www.kluniversity.in",
+    "fees": "https://www.kluniversity.in/admissions.aspx",
+    "placements": "https://www.kluniversity.in/placements",
+    "admissions": "https://www.kluniversity.in/admissions.aspx",
+    "campus": "https://www.kluniversity.in/infrastructure.aspx",
+    "contact": "https://www.kluniversity.in/contact.aspx"
+  }
+}

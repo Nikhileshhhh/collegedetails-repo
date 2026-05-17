@@ -1,0 +1,94 @@
+{
+  "overview": "National Institute of Technology Srinagar (NIT Srinagar) was established in 1960 as the Regional Engineering College. Located on the banks of Dal Lake in Srinagar, it is one of the most scenic NIT campuses in India.",
+  "accreditation": "Institute of National Importance (NIT Act), NAAC Accredited, NBA Accredited",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (all branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹1,42,250/year (General)"
+    },
+    {
+      "program": "M.Tech (various specializations)",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,42,250/year (General)"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "₹2,50,000/year"
+    },
+    {
+      "program": "MCA",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,42,250/year (General)"
+    },
+    {
+      "program": "Ph.D",
+      "duration": "4-5 Years",
+      "tuitionFee": "Fully funded with stipend"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹7.00 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹28 LPA",
+    "highestDomestic": "₹28 LPA",
+    "placementRate": "72%",
+    "totalOffers": "350+",
+    "companiesVisited": "80+",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Cognizant",
+      "Capgemini",
+      "L&T",
+      "BHEL",
+      "NTPC",
+      "Goldman Sachs",
+      "Deloitte",
+      "Oracle",
+      "Samsung R&D"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Mains (B.Tech)",
+      "GATE (M.Tech)",
+      "CAT/MAT (MBA)",
+      "NIMCET (MCA)"
+    ],
+    "admissionProcess": "B.Tech: JoSAA/CSAB Counselling after JEE Mains. M.Tech: CCMT/COAP after GATE.",
+    "importantDates": "JEE Mains: Jan & Apr 2026, JoSAA Counselling: June-July 2026"
+  },
+  "campus": {
+    "area": "260 acres",
+    "facilities": [
+      "Central Library",
+      "Hostels",
+      "Sports Complex",
+      "Gymnasium",
+      "Health Centre",
+      "Wi-Fi Campus",
+      "Labs",
+      "Seminar Halls",
+      "Guest House",
+      "Canteen",
+      "Transportation"
+    ],
+    "specialNote": ""
+  },
+  "contact": {
+    "phone": "+91-194-242 2032",
+    "email": "",
+    "address": "Hazratbal, Srinagar – 190006, J&K",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.nitsri.ac.in",
+  "lastVerified": "2026-04-16",
+  "verifiedBy": "official-website"
+}

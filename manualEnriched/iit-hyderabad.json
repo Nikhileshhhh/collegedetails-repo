@@ -1,0 +1,83 @@
+{
+  "id": "iit-hyderabad",
+  "canonicalId": "iit-hyderabad",
+  "name": "Indian Institute of Technology Hyderabad",
+  "shortName": "IIT Hyderabad",
+  "overview": "Indian Institute of Technology Hyderabad (IIT Hyderabad), established in 2008, is one of India's fastest-growing IITs. Known for innovation-driven research and strong industry partnerships, it offers cutting-edge programs in AI, Data Science, and Engineering.",
+  "accreditation": "Institute of National Importance; NAAC 'A++' accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.S. (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC (income > ₹5 lakh). Income-based and caste-based waivers apply. Additional ~₹43,000 per semester for hostel, mess, and other charges."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹6,000 per semester (Regular). Sponsored: ₹40,000–₹50,000. SC/ST/PwD: Tuition exempted. Other charges ~₹47,000."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹30 LPA (Phase 1, 2025–26)",
+    "medianSalary": "₹21 LPA (B.Tech)",
+    "highestSalary": "₹2.50 CPA (International, 2025–26 Phase 1)",
+    "highestDomestic": "₹1.58 CPA",
+    "placementRate": "75-80% overall; B.Tech: ~75-80%, M.Tech: ~65-70%",
+    "totalOffers": "304+ (2026 Phase 1), 700+ (2024–25)",
+    "companiesVisited": "Google, Microsoft, Amazon, Qualcomm, Goldman Sachs, Texas Instruments, Mercari, Toyota",
+    "internationalOffers": "53 international offers in 2024–25; major increase in 2025 Phase 1",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Qualcomm",
+      "Goldman Sachs",
+      "Texas Instruments",
+      "Mercari",
+      "Toyota"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Advanced",
+      "GATE",
+      "CEED",
+      "CAT"
+    ],
+    "admissionProcess": "Admissions are based on national-level exams followed by JoSAA or COAP counseling or departmental selection.",
+    "importantDates": "Admissions follow JoSAA/COAP timelines and institute academic calendar."
+  },
+  "campus": {
+    "area": "576 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Center",
+      "Entrepreneurship Cell",
+      "Innovation Hub",
+      "Sports Complex",
+      "Auditorium",
+      "Computer Centre"
+    ],
+    "specialNote": "Other semester charges (~₹43,000) cover hostel, mess, and semester registration. One-time admission fees total ₹17,000."
+  },
+  "contact": {
+    "phone": "+91-40-2301-6033",
+    "email": "office.academics@iith.ac.in",
+    "address": "Indian Institute of Technology Hyderabad, Kandi, Sangareddy – 502285, Telangana, India",
+    "admissionsEmail": "ugadmissions@iith.ac.in"
+  },
+  "website": "https://www.iith.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iith.ac.in",
+    "fees": "https://www.iith.ac.in/admissions/fee-structure.html",
+    "placements": "https://www.iith.ac.in/placement/",
+    "admissions": "https://www.iith.ac.in/admissions",
+    "campus": "https://www.iith.ac.in/campus-life",
+    "contact": "https://www.iith.ac.in/contact/"
+  },
+  "nirfOverall2025": "12"
+}

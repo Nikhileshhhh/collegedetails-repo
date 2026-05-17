@@ -1,0 +1,93 @@
+{
+  "overview": "DVR and Dr. HS MIC College of Technology (also known as MIC College of Technology), established in 2002, is a premier autonomous engineering institution located in Kanchikacherla, near Vijayawada. Founded by the Devineni Venkata Ramana & Dr. Hima Sekhar MIC Trust, the college has grown into a hub for technical and management education in the NTR District of Andhra Pradesh. It is known for its discipline-centric academic environment and strong focus on student employability through industry-aligned training.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. NBA accredited for B.Tech in CSE, ECE, and ME. Approved by AICTE and affiliated with JNTU-Kakinada. ISO 9001:2015 certified.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, IT, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,85,200 - ₹2,00,000 (Approx. ₹46,300 - ₹50,000 per year)",
+      "eligibility": "10+2 with 50% in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹78,400 (Approx. ₹39,200 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹1,08,000 (Approx. ₹54,000 per year)",
+      "eligibility": "Graduation with Maths at 10+2 or Degree level + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI, Machine Design, Power Electronics)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 - ₹86,000 (Approx. ₹35,000 - ₹43,000 per year)",
+      "eligibility": "B.E./B.Tech + GATE/AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, ME, EEE, ECE, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.7 LPA - ₹4.2 LPA",
+    "medianSalary": "₹3.5 LPA",
+    "highestSalary": "₹10.0 LPA - ₹20.0 LPA (Historic records vary)",
+    "highestDomestic": "₹20.0 LPA",
+    "placementRate": "60% - 75%",
+    "totalOffers": "350+ (Recent batch)",
+    "companiesVisited": "40+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "HCL Technologies",
+      "Deloitte",
+      "Accenture",
+      "Cognizant",
+      "Hitachi Vantara",
+      "Sutherland",
+      "Efftronics"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "70% of seats are under the Convener Quota (Category A) filled through state-level web counseling based on entrance exam ranks. The remaining 30% are Management Quota (Category B) seats filled based on merit. Counseling Code: MICM.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP ICET 2026: May 2026; Counseling: July–August 2026."
+  },
+  "campus": {
+    "area": "30 Acres",
+    "facilities": [
+      "ICT Enabled Smart Classrooms",
+      "Modern Engineering Labs with high-end equipment",
+      "Central Library with 50,000+ volumes and Digital Section",
+      "Separate Hostels for Boys and Girls with Wi-Fi",
+      "Auditorium and Open Air Theatre",
+      "NSS and NCC Units",
+      "Sports Facilities (Cricket, Football, Indoor Games)",
+      "Canteen & Purified Drinking Water Plant",
+      "Transport Facility (Fleet of 45+ buses covering Vijayawada and outskirts)"
+    ],
+    "specialNote": "The college hosts 'Aagama', a popular national-level annual technical and cultural fest. It also features a dedicated 'Idea Lab' and research centers to encourage student innovation and startup culture."
+  },
+  "contact": {
+    "phone": "+91 7382616824, 9491457799",
+    "email": "office@mictech.ac.in",
+    "address": "NH 9, Vijayawada - Hyderabad Highway, Kanchikacherla, NTR District, Andhra Pradesh - 521180",
+    "admissionsEmail": "principal@mictech.ac.in"
+  },
+  "website": "https://www.mictech.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,131 @@
+{
+  "overview": "Adarsh College of Engineering (ACEE) was established in 2008 in Chebrolu Village, Gollaprolu Mandal near Kakinada, East Godavari District (now Kakinada District), Andhra Pradesh. Founded by the Adarsh Educational Institutions group, the college works to impart quality technical education to engineering aspirants in the coastal districts of Andhra Pradesh. The college emphasizes core technical proficiencies along with supplementary vocational tracks.",
+  
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi, and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK). The college also mentions NAAC evaluation and compliance parameters.",
+
+  "nirfRanking": {
+    "engineering": "Not Ranked in Top NIRF Lists",
+    "university": "Not Ranked"
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Computer Science, Electronics & Communication, Electrical & Electronics, Civil, Mechanical, Power Engineering)",
+      "duration": "4 years",
+      "tuitionFee": "₹40,000 – ₹70,000 per year (Category A Convener Quota approx. ₹1.6 Lakhs total program tuition)"
+    },
+    {
+      "program": "M.Tech (Computer Science & Engineering, Power Engineering Specializations)",
+      "duration": "2 years",
+      "tuitionFee": "₹43,000 – ₹50,000 per year (Total course approx. ₹86,000 - ₹1,000,000 depending on stream updates)"
+    },
+    {
+      "program": "MBA (Master of Business Administration)",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 per year"
+    },
+    {
+      "program": "After 10th Polytechnic Diploma (Civil, Mechanical, Electrical, CSE)",
+      "duration": "3 years",
+      "tuitionFee": "₹24,000 – ₹25,000 per year (Total course approx. ₹72,000 - ₹75,000)"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "自由 Entry level benchmarks hover between ₹1.90 LPA – ₹5.10 LPA",
+    "medianSalary": "₹3.20 LPA – ₹3.50 LPA based on core branch tracking",
+    "highestSalary": "₹18.00 LPA (Highlight package via Ask Chemicals)",
+    "highestDomestic": "₹6.50 LPA – ₹18.00 LPA overall verified package boundaries",
+    "placementRate": "Up to 85% reported overall placements for specialized computer and electronics batches",
+    "totalOffers": "1,000+ students collectively placed across active multi-year recruitment windows",
+    "companiesVisited": "50+ recruiters active across general off-campus and pool-drive recruitment models",
+    "internationalOffers": "Data not available",
+    "topRecruiters": [
+      "Ask Chemicals",
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "Cognizant",
+      "Tech Mahindra",
+      "KodNest",
+      "Palle Technologies",
+      "HCL",
+      "Savantis"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (B.Tech)",
+      "AP POLYCET (Diploma)",
+      "AP ICET (MBA)",
+      "GATE / AP PGECET (M.Tech)"
+    ],
+    "admissionProcess": "Category A (70% standard convenience pool) state engineering seats are formally allocated via the AP EAPCET counseling window monitored by APSCHE. Remaining Category B institutional management quota mandates are allocated independently on merit validation.",
+    "importantDates": "Counseling schedules run iteratively every cycle between June and October."
+  },
+
+  "campus": {
+    "area": "Spacious rural educational footprint situated on the national highway grid",
+    "facilities": [
+      "Central Library & Digital E-Resource Center",
+      "Fully Equipped Computer Laboratories",
+      "Core Mechanical, Civil, and Power Labs",
+      "Smart-ready Classrooms & Seminar Halls",
+      "Separate In-house Boys Hostel",
+      "Separate In-house Girls Hostel",
+      "Dedicated College Bus Fleet (connecting Kakinada and adjacent mandals)",
+      "Cafeteria & Snacks Counter",
+      "Outdoor Sports & Playgrounds",
+      "Secure Wi-Fi Campus Access Zone"
+    ],
+    "specialNote": "The institute is strategically situated directly on NH-216 in Gollaprolu Mandal near Kakinada, ensuring seamless transport logistics for day scholars via state and local college networks."
+  },
+
+  "cutoffs": {
+    "acceptedExam": "AP EAPCET",
+    "popularBranch": "Computer Science and Engineering (CSE)",
+    "closingRanks2024": {
+      "OC Boys": "74,305 - 1,45,549 (Varies heavily by counseling round metrics)",
+      "OC Girls": "85,000 - 1,50,000",
+      "SC Boys": "1,55,000+",
+      "SC Girls": "1,60,000+",
+      "ST Boys": "1,65,000+",
+      "ST Girls": "1,65,000+",
+      "BCA Boys": "1,25,187 - 1,40,000",
+      "BCA Girls": "1,35,000 - 1,45,000"
+    }
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹40,000 – ₹45,000 per year based on boarding variations",
+    "messFee": "Factored locally via in-house canteen management standard packages",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD) structural full fee reimbursements for qualified AP natives",
+      "Post-Matric Welfare allowances from the Government of AP",
+      "Institutional fee cuts for verified academic toppers"
+    ]
+  },
+
+  "contact": {
+    "phone": "+91 9704221666, +91 9603373378, +91 9704489666, +91 9704867666",
+    "email": "info@adarsh.ac.in",
+    "address": "Adarsh Educational Institutions, NH-216, Gollaprolu, Near Kakinada, Chebrolu Village - 533449, Kakinada District, Andhra Pradesh, India",
+    "admissionsEmail": "info@adarsh.ac.in"
+  },
+
+  "website": "https://www.adarsh.ac.in/",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "official-institution-portal-and-state-counseling-registries",
+
+  "sources": {
+    "overview": "https://www.adarsh.ac.in/",
+    "placements": "https://adarsh.ac.in/placements.html",
+    "admissions": "https://adarsh.ac.in/admissions.html",
+    "fees": "https://www.adarsh.ac.in/",
+    "campus": "https://adarsh.ac.in/gallery.html",
+    "contact": "https://adarsh.ac.in/contact-us.html"
+  }
+}

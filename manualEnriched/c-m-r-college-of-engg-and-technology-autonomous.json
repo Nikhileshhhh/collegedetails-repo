@@ -1,0 +1,80 @@
+{
+  "overview": "CMR College of Engineering & Technology (CMRCET), established in 2002 by the MGR Educational Society, is a premier autonomous institution located in Kandlakoya, Hyderabad. It is one of the most sought-after colleges in the CMR Group, known for its strong emphasis on research, innovation, and industry-oriented training.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade. Several undergraduate programs are accredited by NBA. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹4,60,000 (Approx. ₹1,15,000 per year)",
+      "eligibility": "10+2 with 45-50% in PCM + TS EAMCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹1,50,000",
+      "eligibility": "Graduation with 50% aggregate + TS ICET"
+    },
+    {
+      "course": "M.Tech (Computer Science, Structural Engg, Embedded Systems, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹1,30,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE/TS PGECET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.9 LPA",
+    "medianSalary": "₹4.5 LPA",
+    "highestSalary": "₹34.5 LPA - ₹44.0 LPA (Top record)",
+    "highestDomestic": "₹34.5 LPA",
+    "placementRate": "85% - 94% (For eligible students)",
+    "totalOffers": "550+ (2025 cycle)",
+    "companiesVisited": "60+ Global Recruiters",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "Accenture",
+      "Cognizant",
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "Capgemini",
+      "Virtusa",
+      "LTI Mindtree"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET (EAPCET)",
+      "TS ICET",
+      "TS PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "70% of seats are under the Convener Quota (Category A) filled via state-level web counseling. 30% are Management Quota (Category B) seats filled based on merit/JEE scores. Lateral entry for diploma holders is through TS ECET.",
+    "importantDates": "TS EAMCET 2026: May 9 - 11, 2026; TS ICET 2026: May 13 - 14, 2026; Results: Late May 2026."
+  },
+  "campus": {
+    "area": "10 - 25 Acres (Part of larger CMR Campus)",
+    "facilities": [
+      "Smart Classrooms & Digital Audio-Visual Aids",
+      "Advanced R&D Labs",
+      "Innovation & Incubation Center",
+      "Central Library with 20,000+ volumes",
+      "Indoor & Outdoor Sports Complexes",
+      "Auditorium & Open Air Theatre",
+      "On-campus Hostel for Boys & Girls",
+      "Food Court & Cafeteria",
+      "ATM & Medical Center"
+    ],
+    "specialNote": "CMRCET is home to various specialized professional chapters like IEEE, ISTE, and CSI. It is recognized as a center for excellence in collaborative research and holds multiple MOUs with global tech leaders for skill certification."
+  },
+  "contact": {
+    "phone": "+91 9248727210, 08418-200699",
+    "email": "info@cmrcet.ac.in",
+    "address": "Kandlakoya (V), Medchal Road, Hyderabad, Telangana - 501401",
+    "admissionsEmail": "admissions@cmrcet.ac.in"
+  },
+  "website": "https://cmrcet.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

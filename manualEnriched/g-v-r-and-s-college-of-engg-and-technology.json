@@ -1,0 +1,86 @@
+{
+  "overview": "GVR and S College of Engineering and Technology (GVR&S), established in 2007, is a private engineering institution located in Guntur, Andhra Pradesh. The college was founded with the vision of providing technical education to students in rural and semi-urban areas. It is known for its discipline-centric learning environment and its efforts to bridge the gap between academic education and industry requirements in the Guntur region.",
+  "accreditation": "Approved by AICTE, New Delhi. Affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK). Accredited by NAAC.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 (Approx. ₹40,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA (General, HR, Finance, Marketing, Agribusiness, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 (Approx. ₹35,000 per year)",
+      "eligibility": "Graduation with 50% aggregate + AP ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Digital Electronics & Communication, VLSI, Power Systems, CAD/CAM)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 (Approx. ₹50,000 per year)",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE / AP PGECET score"
+    },
+    {
+      "course": "Diploma (Polytechnic) (Civil, EEE, ECE, ME, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹74,800 - ₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA - ₹3.8 LPA",
+    "medianSalary": "₹3.5 LPA",
+    "highestSalary": "₹8.0 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "200+ (Across recent batches)",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "HCL Technologies",
+      "IBM",
+      "Dell",
+      "Oracle",
+      "Sutherland",
+      "Tech Mahindra",
+      "Kochar Tech"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are strictly merit-based. 70% of seats (Category A) are filled via state-level web counseling (APSCHE) based on entrance exam ranks. 30% are Management Quota (Category B) seats filled based on institutional merit or qualifying scores. Counseling Code: GVRS.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP ICET 2026 Rank Card: May 16, 2026; B.Tech Counseling: July 2026; AP POLYCET Result: May 10, 2026."
+  },
+  "campus": {
+    "area": "10.8 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Modern Engineering Labs & Computer Centers",
+      "Central Library with 4,000+ volumes and Digital Access (SOUL 2.0)",
+      "On-campus Separate Hostels for Boys and Girls",
+      "Auditorium & Seminar Halls",
+      "Canteen & Purified Drinking Water",
+      "Sports Facilities & Gymnasium",
+      "Transportation (Fleet covering Guntur and surrounding towns)"
+    ],
+    "specialNote": "The campus is designed to be eco-friendly and provides a peaceful environment for rural students. It emphasizes skill-building workshops and regular guest lectures to ensure students are prepared for global competition."
+  },
+  "contact": {
+    "phone": "0863-2286665, +91 9440263524",
+    "email": "gvrs_cet@yahoo.com",
+    "address": "GVR&S Campus, Near Budampadu, Guntur, Andhra Pradesh - 522017",
+    "admissionsEmail": "principal@gvrs.ac.in"
+  },
+  "website": "http://www.gvrs.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,77 @@
+{
+  "overview": "Gouthami Institute of Technology and Management for Women (GITMW), established in 2009, is a private engineering institution exclusively for women located in Proddatur, YSR Kadapa District, Andhra Pradesh. The college was founded with the objective of providing high-quality technical education to women in the Rayalaseema region, empowering them with the skills required for the global job market in a secure and conducive academic environment.",
+  "accreditation": "Approved by AICTE, New Delhi. Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA). Recognized as a self-financed private institution.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, ECE, EEE)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,72,000 (Approx. ₹40,000 - ₹43,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "Diploma (Polytechnic) (EEE, ECE, CSE)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx. ₹25,000 per year)",
+      "eligibility": "10th standard pass + AP POLYCET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science & Engineering, VLSI)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000 - ₹1,00,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / AP PGECET score"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA - ₹3.6 LPA",
+    "medianSalary": "₹3.2 LPA",
+    "highestSalary": "₹6.0 LPA - ₹8.5 LPA",
+    "highestDomestic": "₹8.5 LPA",
+    "placementRate": "65% - 75%",
+    "totalOffers": "120+ (Across recent batches)",
+    "companiesVisited": "25+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Cognizant",
+      "Sutherland",
+      "Tech Mahindra",
+      "Capgemini",
+      "Genpact"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are strictly governed by the APSCHE web counseling process. 70% of seats (Category A) are filled via entrance exam ranks. 30% are Management Quota (Category B) seats filled based on institutional merit. Counseling Code: GOWP.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP PGECET 2026: May 2026; B.Tech Counseling: Tentatively July 2026."
+  },
+  "campus": {
+    "area": "Lush green campus in Proddatur",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Modern Computer Centers & Engineering Labs",
+      "Central Library with Digital Resource Center",
+      "Secure On-campus Girls Hostels with 24/7 Surveillance",
+      "Seminar Halls for Technical Workshops",
+      "Canteen & RO Drinking Water Plant",
+      "Indoor Games & Yoga Center",
+      "Transport (Fleet of buses covering Proddatur and surrounding areas)"
+    ],
+    "specialNote": "The institution is noted for its high safety standards and secure environment, making it a preferred choice for women students in the Kadapa region. It places strong emphasis on 'Campus Recruitment Training' (CRT) and soft skills development starting from the second year to prepare students for corporate placement drives."
+  },
+  "contact": {
+    "phone": "+91 9440621356, +91 9849508535",
+    "email": "gouthami_engg@rediffmail.com",
+    "address": "Sai Nagar, Peddasettypalli (V), Proddatur, YSR Kadapa District, Andhra Pradesh - 516360",
+    "admissionsEmail": "principal@gitmw.ac.in"
+  },
+  "website": "http://www.gitmw.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

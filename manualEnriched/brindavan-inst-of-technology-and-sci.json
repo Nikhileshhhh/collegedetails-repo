@@ -1,0 +1,76 @@
+{
+  "overview": "Brindavan Institute of Technology and Science (BITS), established in 2008, is a private engineering college located in Peddatekur, Kurnool district, Andhra Pradesh. The institution is dedicated to providing high-quality technical education and professional training to students in the Rayalaseema region.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&DS, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 - ₹1,72,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Structural Engineering, Digital Systems & Computer Electronics)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 - ₹1,10,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE/AP PGECET"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000",
+      "eligibility": "10th standard pass + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA",
+    "medianSalary": "₹2.8 LPA",
+    "highestSalary": "₹6.0 LPA - ₹8.0 LPA",
+    "highestDomestic": "₹8.0 LPA",
+    "placementRate": "60% - 75%",
+    "totalOffers": "120+",
+    "companiesVisited": "20+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "IBM",
+      "Tech Mahindra",
+      "Capgemini",
+      "Accenture"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level counseling (APSCHE). 70% of seats are filled under the Convener Quota (Category A) based on entrance exam ranks, and 30% are Management Quota (Category B) seats filled based on merit.",
+    "importantDates": "AP EAPCET 2026: May 12 - 18, 2026; AP PGECET 2026: May 2026; Counseling: June - July 2026."
+  },
+  "campus": {
+    "area": "10.27 Acres",
+    "facilities": [
+      "Smart Classrooms",
+      "Advanced Engineering Laboratories",
+      "Digital Library",
+      "Auditorium",
+      "On-campus Hostel (Boys & Girls)",
+      "Cafeteria",
+      "Sports Facilities (Cricket, Volleyball)",
+      "Transport Facility (Kurnool & surrounding areas)"
+    ],
+    "specialNote": "The campus is situated on the NH-7 highway, providing excellent accessibility. It is known for its focus on rural student empowerment and maintaining a disciplined academic environment."
+  },
+  "contact": {
+    "phone": "08518-286777, +91 9440294333",
+    "email": "bitskurnool@gmail.com",
+    "address": "NH-7, Peddatekur, Kurnool District, Andhra Pradesh - 518218",
+    "admissionsEmail": "principal@bitskurnool.edu.in"
+  },
+  "website": "https://www.bitskurnool.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

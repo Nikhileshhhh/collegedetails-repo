@@ -1,0 +1,130 @@
+{
+  "overview": "Abdulkalam Institute of Technological Sciences (AKITS), established in 2007 in Vepalagadda, Kothagudem (formerly Khammam district), Telangana, is a private engineering college affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH). It offers undergraduate (B.Tech), postgraduate (M.Tech, MBA), and diploma programs, focusing on technical education and research.",
+  
+  "accreditation": "Approved by AICTE, New Delhi; Affiliated to JNTU Hyderabad (JNTUH) and SBTET (for Diploma). The institute mentions NAAC Certification on its official portal.",
+
+  "nirfRanking": {
+    "engineering": "Not Ranked in Top 100-300 (NIRF 2024)",
+    "university": "Not Ranked"
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Civil, EEE, Mechanical, ECE, CSE, Mining, AI & ML)",
+      "duration": "4 years",
+      "tuitionFee": "₹65,000 per year (Govt. Norms/Convener Quota)"
+    },
+    {
+      "program": "M.Tech (Power Electronics, Thermal Engg, CSE, Embedded Systems)",
+      "duration": "2 years",
+      "tuitionFee": "₹57,000 per year"
+    },
+    {
+      "program": "MBA (Master of Business Administration)",
+      "duration": "2 years",
+      "tuitionFee": "₹45,000 per year"
+    },
+    {
+      "program": "Diploma (Polytechnic)",
+      "duration": "3 years",
+      "tuitionFee": "₹15,500 per year"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "₹3.00 LPA – ₹4.00 LPA",
+    "medianSalary": "₹3.20 LPA",
+    "highestSalary": "₹6.80 LPA – ₹7.00 LPA (Consistent records)",
+    "highestDomestic": "₹6.80 LPA",
+    "placementRate": "60% – 75% (Varies by branch)",
+    "totalOffers": "Varies annually (e.g., 100+ in recent drives)",
+    "companiesVisited": "30+ recruiters",
+    "internationalOffers": "Data not available",
+    "topRecruiters": [
+      "Wipro",
+      "Tech Mahindra",
+      "TCS",
+      "Capgemini",
+      "Infosys",
+      "HCL",
+      "Genpact",
+      "Surya Tech Solutions",
+      "Savantis"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "TS EAMCET (B.Tech)",
+      "TS ECET (Lateral Entry)",
+      "TS ICET (MBA)",
+      "TS POLYCET (Diploma)",
+      "TS PGECET / GATE (M.Tech)"
+    ],
+    "admissionProcess": "Admissions are primarily conducted through the Telangana State Council of Higher Education (TSCHE) counseling based on entrance exam ranks (Category A). Management quota (Category B) seats are filled directly by the college.",
+    "importantDates": "TS EAMCET counseling typically occurs between June and August."
+  },
+
+  "campus": {
+    "area": "10.38 acres",
+    "facilities": [
+      "Central Library (32,000+ volumes)",
+      "Digital Library",
+      "Separate Hostels for Boys & Girls",
+      "Transportation (College Buses)",
+      "Cafeteria",
+      "Sports Grounds (Cricket, Volley Ball, etc.)",
+      "Computer Labs with Wi-Fi",
+      "Seminar Halls"
+    ],
+    "specialNote": "The campus is located near Kothagudem, providing connectivity to industrial hubs like KTPS and SCCL for student industrial visits."
+  },
+
+  "cutoffs": {
+    "acceptedExam": "TS EAMCET",
+    "popularBranch": "Computer Science and Engineering (CSE)",
+    "closingRanks2024": {
+      "OC Boys": "55,000 – 85,000 (Rank range varies by phase)",
+      "OC Girls": "60,000 – 90,000",
+      "SC Boys": "1,00,000+",
+      "SC Girls": "1,00,000+",
+      "ST Boys": "1,00,000+",
+      "ST Girls": "1,00,000+",
+      "BCA Boys": "1,00,000+",
+      "BCA Girls": "1,00,000+"
+    }
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹40,000 – ₹45,000 per year (Approx. standard fee)",
+    "messFee": "Included in hostel fee",
+    "scholarships": [
+      "Telangana ePASS (Fee Reimbursement)",
+      "Post-Matric Scholarships for SC/ST/BC/Minority",
+      "Merit-based Concessions (Institute level)",
+      "AICTE Pragati Scholarship"
+    ]
+  },
+
+  "contact": {
+    "phone": "9866698961, 9133397892, 8639164084, 9704545494",
+    "email": "akits.org@gmail.com, info@akits.ac.in",
+    "address": "Abdul Kalam Engineering College Kothagudem, Kothagudem, Telangana 507101",
+    "admissionsEmail": "info@akits.ac.in"
+  },
+
+  "website": "https://akits.ac.in",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "official-website-and-educational-portals",
+
+  "sources": {
+    "overview": "https://akits.ac.in",
+    "placements": "https://akits.ac.in/placement-record/",
+    "admissions": "https://akits.ac.in/admissions/",
+    "fees": "https://akits.ac.in/admissions/",
+    "campus": "https://akits.ac.in/gallery/photo-gallery/",
+    "contact": "https://akits.ac.in/contact-us/"
+  }
+}

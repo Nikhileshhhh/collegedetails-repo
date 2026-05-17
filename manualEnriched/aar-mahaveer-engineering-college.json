@@ -1,0 +1,93 @@
+{
+  "overview": "AAR Mahaveer Engineering College (AARMEC), established in 2010 by the Mahaveer Educational Society, is a private engineering institution situated in Bandlaguda, Hyderabad, Telangana. Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH) and approved by the All India Council for Technical Education (AICTE), the institution provides undergraduate engineering programs designed to deliver technically sound and ethical professional development in an eco-friendly campus.",
+  "accreditation": "Approved by AICTE and Affiliated with JNTU Hyderabad.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech in Computer Science and Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹60,000 per year (Additional JNTUH university fee of ₹13,500 for the first year and ₹6,000 for subsequent years)"
+    },
+    {
+      "program": "B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+      "duration": "4 years",
+      "tuitionFee": "₹60,000 per year (Additional JNTUH university fee of ₹13,500 for the first year and ₹6,000 for subsequent years)"
+    },
+    {
+      "program": "B.Tech in Electronics and Communication Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹60,000 per year (Additional JNTUH university fee of ₹13,500 for the first year and ₹6,000 for subsequent years)"
+    },
+    {
+      "program": "B.Tech in Electrical and Electronics Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹45,000 – ₹60,000 per year depending on state allotment variables"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.50 LPA – ₹4.50 LPA",
+    "medianSalary": "₹3.20 LPA (UG 4-Year B.Tech)",
+    "highestSalary": "₹15.00 LPA",
+    "highestDomestic": "₹15.00 LPA",
+    "placementRate": "Approximately 60% – 70% of eligible students placed",
+    "totalOffers": "Multiple technical and support roles offered through combined pooled and on-campus selection cycles",
+    "companiesVisited": "Genpact, Wipro, Cognizant, Tech Mahindra, Dell, Microsoft",
+    "internationalOffers": "Not officially reported / Disclosed",
+    "topRecruiters": [
+      "Genpact",
+      "Wipro",
+      "Cognizant",
+      "Tech Mahindra",
+      "Dell"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET (formerly TS EAMCET)"
+    ],
+    "admissionProcess": "Admissions are split between the Convenor Quota (Category A) allocated based on state-level merit ranks achieved in the TG EAPCET exam and the Management Quota (Category B) governed by state criteria.",
+    "importantDates": "Operates strictly via the schedules and windows released by the Telangana State Council of Higher Education (TGCHE)."
+  },
+  "campus": {
+    "area": "Campus located in Vyasapuri, Bandlaguda, Keshavgiri, Hyderabad, Telangana 500005",
+    "facilities": [
+      "Modern Classrooms",
+      "Centralized Library",
+      "Engineering Laboratories",
+      "Computer Labs",
+      "Placement Cell",
+      "Seminar Halls",
+      "Cafeteria",
+      "Sports Infrastructure",
+      "Separate Hostel Accommodations (Shared with parent society assets)"
+    ],
+    "specialNote": "The institution is situated adjacent to the sister facility, Mahaveer Institute of Science and Technology (MIST), leveraging combined campus utilities and perimeter infrastructure."
+  },
+  "scholarshipsAndAid": {
+    "availableScholarships": [
+      "Telangana State Post-Matric Scholarships",
+      "RTF (Reimbursement of Tuition Fee) Schemes"
+    ],
+    "details": "Government scholarship programs and full/partial tuition fee reclaims are directly applicable to eligible candidates mapping into reservation or economically backward guidelines verified by the state board."
+  },
+  "rankings": {
+    "nirf": "Not Ranked in Top NIRF Categories",
+    "naac": "Information not distinct from parent society registration tier"
+  },
+  "contact": {
+    "phone": "9441425421,9441293964,9666691477",
+    "email": "principal.8p@gmail.com, principal@aarm.ac.in",
+    "address": "Vyasapuri, Bandlaguda, Post: Keshavgiri, Hyderabad, Telangana - 500005, India",
+    "admissionsEmail": "aarm.admissions@gmail.com"
+  },
+  "website": "https://aarm.ac.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://aarm.ac.in/about-college.php",
+    "fees": "https://aarm.ac.in/index.php",
+    "placements": "https://aarm.ac.in/placements.php",
+    "admissions": "https://aarm.ac.in/index.php",
+    "campus": "https://aarm.ac.in/college-life.php",
+    "contact": "https://aarm.ac.in/contact-us.php"
+  }
+}

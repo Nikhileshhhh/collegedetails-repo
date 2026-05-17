@@ -1,0 +1,152 @@
+{
+  "overview": "Aditya Institute of Technology and Management (AITAM), established in 2001, is a premier self-financing autonomous engineering college located in Tekkali, Srikakulam District, Andhra Pradesh. Founded by the Sri Aditya Educational Society, the campus covers 50 acres of land in the north coastal region of the state. The institution focuses on expanding career readiness, technology-led training frameworks, and research paradigms across undergraduate, postgraduate, and polytechnic diplomas.",
+  
+  "accreditation": "Autonomous status granted by the UGC. Approved by the All India Council for Technical Education (AICTE), New Delhi, and permanently affiliated with Jawaharlal Nehru Technological University Gurajada, Vizianagaram (JNTUGV). The institution is accredited with an 'A+' grade by NAAC and holds NBA accreditation for several core engineering programs.",
+
+  "nirfRanking": {
+    "engineering": "Rank Band 201-300 in the B.Tech Category (NIRF 2024 tracking frameworks)",
+    "university": "Ranked among leading autonomous private technical institutions across coastal Andhra Pradesh"
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Tech in Computer Science & Engineering (CSE)",
+      "duration": "4 years",
+      "tuitionFee": "₹79,600 per year (Category A Convener Quota via AP EAPCET; dynamic training/placement charges may apply separately)"
+    },
+    {
+      "program": "B.Tech in CSE (Artificial Intelligence & Machine Learning) (CSM)",
+      "duration": "4 years",
+      "tuitionFee": "₹79,600 per year (Category A Convener Quota via AP EAPCET)"
+    },
+    {
+      "program": "B.Tech in CSE (Data Science) (CSD)",
+      "duration": "4 years",
+      "tuitionFee": "₹79,600 per year (Category A Convener Quota via AP EAPCET)"
+    },
+    {
+      "program": "B.Tech in Information Technology / Computer Science & Business Systems",
+      "duration": "4 years",
+      "tuitionFee": "₹79,600 per year (Category A Convener Quota via AP EAPCET)"
+    },
+    {
+      "program": "B.Tech in Electronics & Communication Engineering (ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹79,600 per year (Category A Convener Quota via AP EAPCET)"
+    },
+    {
+      "program": "B.Tech in Electrical & Electronics Engineering (EEE)",
+      "duration": "4 years",
+      "tuitionFee": "₹79,600 per year (Category A Convener Quota via AP EAPCET)"
+    },
+    {
+      "program": "B.Tech in Mechanical Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹79,600 per year (Category A Convener Quota via AP EAPCET)"
+    },
+    {
+      "program": "B.Tech in Civil Engineering",
+      "duration": "4 years",
+      "tuitionFee": "₹79,600 per year (Category A Convener Quota via AP EAPCET)"
+    },
+    {
+      "program": "MBA (Master of Business Administration)",
+      "duration": "2 years",
+      "tuitionFee": "₹50,000 per year"
+    },
+    {
+      "program": "MCA (Master of Computer Applications)",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 per year"
+    },
+    {
+      "program": "Polytechnic Diploma streams (Civil, ME, EEE, ECE, CSE)",
+      "duration": "3 years",
+      "tuitionFee": "₹25,000 per year"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "₹3.50 LPA – ₹4.50 LPA",
+    "medianSalary": "₹3.60 LPA",
+    "highestSalary": "₹11.50 LPA – ₹16.00 LPA (Peak highlights recorded in recent computer software recruitment categories)",
+    "highestDomestic": "₹10.65 LPA – ₹16.00 LPA top-tier software developer engineering band",
+    "placementRate": "75% – 90% average student placement across core and software alignments",
+    "totalOffers": "600+ selections achieved collectively during recent centralized operational cycles",
+    "companiesVisited": "55+ corporate recruiters active during campus recruitment calendars",
+    "internationalOffers": "Data not available via institutional public records",
+    "topRecruiters": [
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "Capgemini",
+      "Tech Mahindra",
+      "Cognizant",
+      "Accenture",
+      "Hexaware",
+      "Fujitsu Research"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (B.Tech)",
+      "AP POLYCET (Diploma)",
+      "AP ICET (MBA/MCA)",
+      "AP ECET (Lateral Entry)",
+      "GATE / AP PGECET (M.Tech)"
+    ],
+    "admissionProcess": "Category A standard convenience seats (70%) are secured strictly via centralized state web counseling administered by APSCHE based on entrance test ranks. Remaining Category B management quota allocations are filled internally based on academic requirements.",
+    "importantDates": "The admissions cycle operates between June and September following APSCHE and SBTET regulatory timelines."
+  },
+
+  "campus": {
+    "area": "50-acre expansive residential technical campus layout",
+    "facilities": [
+      "Central Library with comprehensive textbook and research journal options",
+      "Digital Knowledge Center",
+      "Departmental Engineering Workshops and Testing Labs",
+      "Dedicated In-campus Boys Hostel Infrastructure",
+      "Dedicated In-campus Girls Hostel Infrastructure",
+      "Student Cafeteria & Dining Hall",
+      "Extensive Playfields (Cricket, Football, Basketball platforms)",
+      "High-speed Campus Wi-Fi and advanced server networks",
+      "Central Fleet of College Transit Buses servicing the Srikakulam region",
+      "Recognized MSME Business Incubation Center",
+      "JNTU Recognized Ph.D. Core Research Hubs"
+    ],
+    "specialNote": "AITAM is recognized as a Scientific and Industrial Research Organization (SIRO) by DSIR under the Ministry of Science and Technology, providing a solid workspace for student prototyping and technical research."
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹42,000 – ₹55,000 per year based on room configurations and layout versions",
+    "messFee": "Factored alongside institutional residential dining facility packages",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD) structural full fee reimbursements for qualified AP native applicants",
+      "Post-Matric Student Welfare Schemes from the Government of AP",
+      "AITAM Institutional Merit Scholarships providing up to ₹50,000 for top-tier entrance qualifiers"
+    ]
+  },
+
+  "contact": {
+    "phone": "+91 92466 57908",
+    "email": "info@adityatekkali.edu.in",
+    "address": "AITAM Campus, K. Kotturu, Tekkali, Srikakulam District - 532201, Andhra Pradesh, India",
+    "admissionsEmail": "info@adityatekkali.edu.in"
+  },
+
+  "website": "https://www.adityatekkali.edu.in/",
+
+  "lastVerified": "2026-05-17",
+
+  "verifiedBy": "official-institution-portal-and-state-counseling-registries",
+
+  "sources": {
+    "overview": "https://www.adityatekkali.edu.in/",
+    "placements": "https://www.adityatekkali.edu.in/placements.php",
+    "admissions": "https://www.adityatekkali.edu.in/admissions.php",
+    "fees": "https://www.adityatekkali.edu.in/collegefee.php",
+    "campus": "https://www.adityatekkali.edu.in/index.php",
+    "contact": "https://www.adityatekkali.edu.in/contact.php"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "overview": "Chandigarh University (CU), located in Mohali, Punjab, is a leading private multidisciplinary university recognized for its industry-oriented curriculum, strong global collaborations, and record-breaking placement sessions across engineering, management, pharmacy, and other professional programs.",
+  "accreditation": "NAAC A+ Grade Accredited University.",
+  "coursesAndFees": [
+    {
+      "program": "B.E. / B.Tech (CSE & Related Specializations)",
+      "duration": "4 Years",
+      "tuitionFee": "₹1,02,000 – ₹1,85,000 per semester depending on specialization"
+    },
+    {
+      "program": "MBA (General & Specializations)",
+      "duration": "2 Years",
+      "tuitionFee": "₹1,39,900 – ₹1,69,500 per semester"
+    },
+    {
+      "program": "BBA / BCA",
+      "duration": "3 Years",
+      "tuitionFee": "₹86,500 – ₹90,000 per semester"
+    },
+    {
+      "program": "M.E. / M.Tech",
+      "duration": "2 Years",
+      "tuitionFee": "₹60,000 – ₹82,000 per semester"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹9.54 LPA (B.Tech 2024 Batch)",
+    "medianSalary": "CSE/IT: ₹8.00 LPA; ECE/EE: ₹6.25 LPA; Mechanical/Civil: ₹4.00 LPA",
+    "highestSalary": "₹1.70 CPA (International)",
+    "highestDomestic": "₹59.90 LPA",
+    "placementRate": "Consistently high placement rate with over 10,000 students placed in the 2025 cycle.",
+    "totalOffers": "10,000+ offers (2025 Batch)",
+    "companiesVisited": "1,300+ recruiters participated in placement sessions.",
+    "internationalOffers": "Multiple international offers including packages up to ₹1.70 Crore per annum.",
+    "topRecruiters": [
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "IBM",
+      "Arcesium",
+      "Adobe",
+      "Deloitte",
+      "Morgan Stanley",
+      "Qualcomm",
+      "Goldman Sachs"
+    ]
+  },
+  "rankings": {
+    "NIRFUniversity2025": "19th Best University in India",
+    "NIRFEngineering2025": "31st",
+    "NIRFManagement2025": "32nd",
+    "NIRFPharmacy2025": "15th",
+    "NIRFArchitecture2025": "19th",
+    "QSWorldUniversityRankings2026": "Global Rank 575"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "CUCET",
+      "JEE Main",
+      "CAT",
+      "MAT",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are based on entrance exams, merit scores, and counseling depending on the course. Scholarships are available through CUCET and merit-based schemes.",
+    "importantDates": "Admission timelines generally follow the annual CU admission cycle and CUCET examination schedule."
+  },
+  "campus": {
+    "area": "Large modern residential campus in Mohali, Punjab.",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Labs",
+      "Sports Complex",
+      "Innovation Center",
+      "Medical Facilities",
+      "Wi-Fi Campus",
+      "Auditorium",
+      "Food Courts",
+      "Transport Services"
+    ],
+    "specialNote": "Hostel and mess charges vary by room type. Annual hostel fees range from ₹1.06 Lakhs to ₹2.10 Lakhs depending on occupancy and AC/non-AC facilities."
+  },
+  "hostelFees": {
+    "fiveSeaterBoys": {
+      "nonAC": "₹1.06 Lakhs per year",
+      "AC": "₹1.38 Lakhs per year"
+    },
+    "fourSeater": {
+      "nonAC": "₹1.20 Lakhs per year"
+    },
+    "oneSeaterBoys": {
+      "nonAC": "₹1.80 Lakhs per year",
+      "AC": "₹2.10 Lakhs per year"
+    },
+    "messCharges": "Included in hostel fee."
+  },
+  "scholarships": {
+    "CUCETScholarship": "Up to 100% tuition fee waiver based on CUCET scores.",
+    "meritScholarship": "Scholarships based on Class 12 performance (e.g., ₹35,000 for above 90% aggregate).",
+    "otherScholarships": [
+      "Defense Personnel Ward Scholarship",
+      "Single Girl Child Scholarship",
+      "Sports Scholarship for State/National Achievers"
+    ]
+  },
+  "feesAndCharges": {
+    "oneTimeFee": "Approximately ₹2,000 (Security/Caution Deposit).",
+    "examFee": "₹2,500 per semester.",
+    "annualIncreaseNote": "Annual fees may increase by ₹2,000–₹4,000 due to inflation and operational costs."
+  },
+  "contact": {
+    "phone": "+91-160-3051003",
+    "email": "info@cumail.in",
+    "address": "Chandigarh University, NH-05 Chandigarh-Ludhiana Highway, Mohali, Punjab 140413, India",
+    "admissionsEmail": "admissions@cumail.in"
+  },
+  "website": "https://www.cuchd.in",
+  "lastVerified": "2026-05-12",
+  "verifiedBy": "official-website-and-placement-reports",
+  "sources": {
+    "overview": "https://www.cuchd.in",
+    "placements": "https://www.cuchd.in/placements/",
+    "fees": "https://www.cuchd.in/fee-structure.php",
+    "admissions": "https://www.cuchd.in/admissions/",
+    "hostel": "https://www.cuchd.in/campus-life/hostels/",
+    "rankings": "https://www.cuchd.in/ranking-and-awards/",
+    "contact": "https://www.cuchd.in/contact-us.php"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "overview": "Indian Institute of Technology (Indian School of Mines), Dhanbad, established in 1926 and converted to an IIT in 2016, is one of India's premier institutions specializing in mining, petroleum, and core engineering disciplines alongside modern computing and interdisciplinary programs.",
+  "accreditation": "Institute of National Importance (under IIT Act); NIRF Overall Rank 2024: 17.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / Integrated M.Tech (Undergraduate)",
+      "duration": "4–5 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC (income > ₹5 lakh). Income-based and caste-based waivers apply. Additional ~₹15,700 per semester for institute charges. Hostel & Mess: ~₹30,000 per semester."
+    },
+    {
+      "program": "M.Tech / M.Sc. (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹15,000 per semester (General/OBC). SC/ST/PwD: Tuition exempted. Other charges ~₹12,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹19.82 LPA (2024–25 Estimate)",
+    "medianSalary": "₹16.25 LPA (4-Year UG, 2023–24)",
+    "highestSalary": "₹1.10 CPA (2024–25 Phase 1)",
+    "highestDomestic": "₹1.10 CPA",
+    "placementRate": "B.Tech: ~85–92% (varies by branch)",
+    "totalOffers": "1,154 offers (2023–24); 700+ in Phase 1 2024–25",
+    "companiesVisited": "Google, Amazon, Oracle, Microsoft, Goldman Sachs, ONGC, Coal India, Tata Steel, Schlumberger, McKinsey",
+    "internationalOffers": "Multiple offers exceeding ₹1 Crore in 2024–25 Phase 1",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "94.5%", "avgCTC": "₹28.40 LPA" },
+      { "branch": "Petroleum Engineering", "placementRate": "91.0%", "avgCTC": "₹18.50 LPA" },
+      { "branch": "Electronics & Communication", "placementRate": "89.0%" },
+      { "branch": "Mining Engineering", "placementRate": "88.5%", "avgCTC": "₹16.20 LPA" },
+      { "branch": "Mechanical Engineering", "placementRate": "82.0%" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "Domestic highest surged from ₹56 LPA (2023–24) to ₹1.10 CPA (2024–25)",
+      "mtechStats": "M.Tech median ₹10.50 LPA (NIRF 2025)"
+    },
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Oracle",
+      "Microsoft",
+      "Goldman Sachs",
+      "ONGC",
+      "Coal India (CIL)",
+      "Tata Steel",
+      "Schlumberger",
+      "McKinsey & Company"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE"],
+    "admissionProcess": "Admissions are based on national-level entrance exams followed by JoSAA or COAP counseling depending on the program.",
+    "importantDates": "Follows JoSAA/COAP schedules and institute academic calendar."
+  },
+  "campus": {
+    "area": "393 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Centre",
+      "Computer Centre",
+      "Research Labs",
+      "Innovation & Incubation Centre",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Other semester charges (~₹15,700) include academic and facility fees. Hostel + mess ~₹30,000 per semester. One-time admission fee ~₹6,000–₹8,000 and ₹5,000 refundable caution deposit."
+  },
+  "contact": {
+    "phone": "+91-326-2235001",
+    "email": "registrar@iitism.ac.in",
+    "address": "Indian Institute of Technology (ISM), Dhanbad – 826004, Jharkhand, India",
+    "admissionsEmail": "admissions@iitism.ac.in"
+  },
+  "website": "https://www.iitism.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iitism.ac.in",
+    "fees": "https://www.iitism.ac.in/admissions/fee-structure",
+    "placements": "https://www.iitism.ac.in/placement",
+    "admissions": "https://www.iitism.ac.in/admissions",
+    "campus": "https://www.iitism.ac.in/about",
+    "contact": "https://www.iitism.ac.in/contact"
+  }
+}

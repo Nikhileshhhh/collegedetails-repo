@@ -1,0 +1,69 @@
+{
+  "overview": "Buchepalli Venkayamma Subbareddy (BVSR) Engineering College, established in 2008, is a private technical institution situated in Chimakurthy, Prakasam district. Founded with the mission of bringing quality engineering education to rural populations, the college offers undergraduate and postgraduate programs in a green, 13-acre campus environment.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science & Engineering, ECE)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000 - ₹1,14,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE/AP PGECET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA",
+    "medianSalary": "₹2.5 LPA",
+    "highestSalary": "₹15.0 LPA (Historic high/Off-campus)",
+    "highestDomestic": "₹6.0 LPA",
+    "placementRate": "60% - 80%",
+    "totalOffers": "100+",
+    "companiesVisited": "20+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "Cognizant",
+      "HCL Technologies",
+      "IBM",
+      "Dell",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted via state-level counseling (APSCHE). 70% of seats are under the Convener Quota (Category A) based on entrance exam ranks. 30% are Management Quota (Category B) seats filled based on merit in 10+2 marks.",
+    "importantDates": "AP EAPCET 2026: May 12 - May 18, 2026; AP PGECET 2026: May 2026; Counselling: June - July 2026."
+  },
+  "campus": {
+    "area": "13 Acres",
+    "facilities": [
+      "Digital Classrooms",
+      "Well-equipped Engineering Laboratories",
+      "Central Library with E-resources",
+      "Separate Hostels for Boys and Girls",
+      "Canteen",
+      "Transport Facility (Covers Chimakurthy & Ongole)",
+      "Sports Playground"
+    ],
+    "specialNote": "The campus is eco-friendly and located on the Ongole-Kurnool road, making it accessible while remaining far enough from city noise to provide a peaceful academic atmosphere. It focuses heavily on 'value-added' certification courses to boost student employability."
+  },
+  "contact": {
+    "phone": "+91 7093642555, +91 7799417555",
+    "email": "bvsrec@gmail.com",
+    "address": "Ongole - Kurnool Road, Chimakurthy, Prakasam District, Andhra Pradesh - 523226",
+    "admissionsEmail": "cao.bvsr@gmail.com"
+  },
+  "website": "https://www.bvsr.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

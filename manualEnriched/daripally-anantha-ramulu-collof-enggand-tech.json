@@ -1,0 +1,84 @@
+{
+  "overview": "Daripally Anantha Ramulu College of Engineering and Technology (DARE), established in 2007 by the Sai Krupa Charitable and Educational Society, is a private technical institution located in Khammam, Telangana. Named after its founder, Shri Daripally Anantha Ramulu, the college aims to provide quality technical and professional education to students in the Khammam region and beyond.",
+  "accreditation": "Approved by AICTE (All India Council for Technical Education) and the Government of Telangana. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,00,000 - ₹2,06,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹80,000 - ₹82,000",
+      "eligibility": "Graduation with 50% aggregate + TS ICET rank"
+    },
+    {
+      "course": "M.Tech (Computer Science, Power Electronics, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹1,14,000",
+      "eligibility": "B.E./B.Tech + GATE / TS PGECET rank"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹46,500 - ₹50,000",
+      "eligibility": "10th standard pass + TS POLYCET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA",
+    "medianSalary": "₹3.0 LPA",
+    "highestSalary": "₹7.0 LPA - ₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "65% - 75%",
+    "totalOffers": "150+",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Tech Mahindra",
+      "Cognizant",
+      "Accenture",
+      "HCL Technologies",
+      "Genpact"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET (EAMCET)",
+      "TS ICET",
+      "TS PGECET",
+      "TS POLYCET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are conducted via state-level web counseling (TGCHE). 70% of seats (Category A) are filled based on entrance exam ranks (EAMCET/ICET/POLYCET). 30% are Management Quota (Category B) seats filled based on merit. Counseling Code: DARE.",
+    "importantDates": "TS EAPCET 2026: May 3–May 11, 2026; TS ICET 2026: May 12–13, 2026; TS PGECET 2026: May 27–30, 2026."
+  },
+  "campus": {
+    "area": "Acres of modern infrastructure near Khammam town",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Advanced Engineering Laboratories",
+      "Central Library with National/International Journals",
+      "Book Bank Facility for Students",
+      "Separate Hostels for Boys and Girls",
+      "Air-conditioned Computer Lab",
+      "Sports Ground & Indoor Games",
+      "Transport Facility (Covers major areas in Khammam district)"
+    ],
+    "specialNote": "The college is located just 2 km away from Khammam town towards Mahabubabad, making it highly accessible. It places a strong emphasis on soft skills and personality development programs through dedicated training sessions to bridge the industry-academia gap."
+  },
+  "contact": {
+    "phone": "+91-8886829498, 08742-298499",
+    "email": "principal@dare.ac.in",
+    "address": "Satyanarayanapuram (Kothur), Post: Gandhi Chowk, Khammam, Telangana - 507003",
+    "admissionsEmail": "dare.office@gmail.com"
+  },
+  "website": "https://www.dare.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

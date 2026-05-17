@@ -1,0 +1,75 @@
+{
+  "overview": "Bheema Institute of Technology and Science (BITS), established in 2008, is a private engineering college located in Adoni, Kurnool district, Andhra Pradesh. The institution is dedicated to providing technical education to students in the rural and semi-urban regions of Rayalaseema, focusing on engineering and technology disciplines.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹1,20,000 - ₹1,72,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Embedded Systems, Power Systems, Highway Engg, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹1,23,000 - ₹1,25,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE/AP PGECET"
+    },
+    {
+      "course": "Diploma (After 10th) in Engineering",
+      "duration": "3 Years",
+      "totalFees": "₹72,000 - ₹75,000",
+      "eligibility": "10th standard pass + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA",
+    "medianSalary": "₹2.3 LPA",
+    "highestSalary": "₹5.5 LPA",
+    "highestDomestic": "₹5.5 LPA",
+    "placementRate": "75%",
+    "totalOffers": "100+",
+    "companiesVisited": "15+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Capgemini",
+      "Tech Mahindra",
+      "Mphasis"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "GATE",
+      "AP POLYCET"
+    ],
+    "admissionProcess": "Admissions are primarily through state-level counseling (APSCHE). 70% of seats are filled under the Convener Quota (Category A) based on entrance exam ranks, and 30% are Management Quota (Category B) seats filled based on merit.",
+    "importantDates": "AP EAPCET 2026 Engineering Exam: May 12 - May 18, 2026; AP PGECET 2026: May 2026; AP POLYCET 2026: April-May 2026."
+  },
+  "campus": {
+    "area": "15+ Acres",
+    "facilities": [
+      "Digital Classrooms",
+      "Well-equipped Laboratories",
+      "Library with Digital Access",
+      "Wi-Fi Campus",
+      "Separate Hostels for Boys and Girls",
+      "Sports Grounds (Cricket, Volleyball, Badminton)",
+      "Canteen",
+      "Transport Facility (Adoni & surrounding areas)"
+    ],
+    "specialNote": "The college is particularly noted for its support of students from economically weaker backgrounds and its functional laboratory facilities that emphasize practical learning."
+  },
+  "contact": {
+    "phone": "+91 7660011179, 08512-200611",
+    "email": "bit5adoni@rediffmail.com",
+    "address": "Alur Road, Mandigiri (V), Adoni, Kurnool District, Andhra Pradesh - 518301",
+    "admissionsEmail": "bitsadoni@gmail.com"
+  },
+  "website": "https://bitsadoni.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

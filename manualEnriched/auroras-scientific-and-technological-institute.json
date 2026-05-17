@@ -1,0 +1,62 @@
+{
+  "overview": "Aurora's Scientific and Technological Institute at Aushapur, Ghatkesar, was established in 2003 as Church Institute of Technology under Church Educational Society and later renamed ASTI. The official site positions it as a long-running JNTUH-affiliated engineering campus on the Warangal Highway with a calm, residential learning environment.",
+  "accreditation": "AICTE approved; affiliated to JNTUH; established by Church Educational Society.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - CSE, CSE (AI and ML), ECE, Mechanical Engineering",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 50,800/year tuition plus special fee of Rs. 5,500 in first year and Rs. 2,500 in later years"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Infosys",
+      "Satyam",
+      "Cognizant",
+      "IBM",
+      "Value Labs",
+      "Wipro",
+      "Genpact",
+      "Amazon",
+      "HCL",
+      "TCS"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET"
+    ],
+    "admissionProcess": "The official undergraduate admissions page states that admissions are through EAMCET counseling based on rank and 10+2 eligibility.",
+    "importantDates": "TG EAPCET schedules are notified by TSCHE each cycle; ASTI publishes admission forms and fee details on its website."
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Library",
+      "Transportation",
+      "Canteen",
+      "Hostel",
+      "Sports and games",
+      "Recreation spaces",
+      "Placement cell"
+    ],
+    "specialNote": "The institute was originally launched as Church Institute of Technology and continues to operate from Aushapur on the Warangal Highway."
+  },
+  "contact": {
+    "phone": "+91-8415-200038, +91-8415-200040, +91-9100000040, +91-9100000041, +91-9100000401",
+    "email": "info@asti.edu.in",
+    "address": "Aushapur (V), Ghatkesar (M), Medchal District - 501301, Telangana, India",
+    "admissionsEmail": "admin@asti.edu.in"
+  },
+  "website": "https://www.asti.edu.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "official-website"
+}

@@ -1,0 +1,101 @@
+{
+  "overview": "Sir C.R. Reddy College of Pharmaceutical Sciences (CRRCOPS), located in Eluru, Andhra Pradesh, is a pharmacy-focused institution known for its pharmaceutical education, laboratory infrastructure, and industry-oriented training programs. The college actively supports placements, pharmaceutical research exposure, and academic development for undergraduate, postgraduate, and doctoral pharmacy students.",
+  "accreditation": "NAAC 'A' Grade accredited (Cycle 1) with a CGPA of 3.25 on a 4-point scale.",
+  "coursesAndFees": [
+    {
+      "program": "B.Pharm",
+      "duration": "4 years",
+      "tuitionFee": "Approximately ₹48,300 per year (~₹1.93 Lakhs total for the complete course)."
+    },
+    {
+      "program": "Pharm.D (Doctor of Pharmacy)",
+      "duration": "6 years",
+      "tuitionFee": "Approximately ₹42,800 – ₹45,000 per year."
+    },
+    {
+      "program": "M.Pharm",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹60,000 per year (~₹1.20 Lakhs total)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.50 LPA – ₹4.50 LPA",
+    "medianSalary": "UG 4-Year (B.Pharm): ₹2.40 LPA – ₹2.61 LPA",
+    "highestSalary": "₹12.00 LPA (2024-25 Batch)",
+    "highestDomestic": "₹12.00 LPA",
+    "placementRate": "Approximately 60% – 85% depending on specialization and eligibility",
+    "totalOffers": "Multiple offers through campus recruitment drives and off-campus hiring initiatives",
+    "companiesVisited": "Dr. Reddy's Laboratories, Cadila Healthcare, Avenida, Optum, Cognizant, and regional healthcare organizations",
+    "internationalOffers": "Limited international healthcare and research-linked opportunities through specialized recruiters",
+    "topRecruiters": [
+      "Dr. Reddy's Laboratories",
+      "Cadila Healthcare",
+      "Avenida",
+      "Optum",
+      "Cognizant"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "PGECET",
+      "LPCET"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level entrance examinations and counseling procedures regulated by Andhra Pradesh technical and pharmacy education authorities.",
+    "importantDates": "Admissions generally follow AP EAPCET, PGECET, and LPCET counseling schedules announced by the Andhra Pradesh State Council."
+  },
+  "campus": {
+    "area": "Campus area not officially specified",
+    "facilities": [
+      "Pharmaceutical Laboratories",
+      "Library",
+      "Boys Hostel",
+      "Girls Hostel",
+      "Computer Labs",
+      "Research Facilities",
+      "Wi-Fi Enabled Campus",
+      "Seminar Halls",
+      "Transportation",
+      "Sports Facilities"
+    ],
+    "specialNote": "Hostel and mess charges range between ₹40,000 and ₹55,000 annually. One-time admission and registration-related charges range from ₹5,000 to ₹10,000."
+  },
+  "hostel": {
+    "hostelFee": "Approximately ₹40,000 – ₹55,000 per year",
+    "amenities": [
+      "Shared Rooms",
+      "Mess Facility",
+      "Security",
+      "Water Supply",
+      "Basic Furniture",
+      "Student Kitchen Services"
+    ]
+  },
+  "scholarships": [
+    {
+      "scholarships": [
+        "Jagananna Vidya Deevena (JVD)",
+        "Post-Matric Scholarships",
+        "AICTE Tuition Fee Waiver (TFW)"
+      ],
+      "details": "Eligible students from economically weaker and reserved category backgrounds can avail tuition reimbursement and scholarship benefits under Andhra Pradesh government welfare schemes."
+    }
+  ],
+  "contact": {
+    "phone": "08812-231492",
+    "email": "sircrreddypharmcy@gmail.com",
+    "address": "Sir C.R.Reddy College of Pharmaceutical Sciences Santhi Nagar, GNT Road, Eluru, Andhra Pradesh 534007",
+    "admissionsEmail": "Not Officially Specified"
+  },
+  "website": "https://sircrrcops.edu.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://sircrrcops.edu.in",
+    "fees": "https://sircrrcops.edu.in/fee-structures",
+    "placements": "https://sircrrcops.edu.in/placements-2",
+    "admissions": "https://sircrrcops.edu.in/departments",
+    "campus": "https://scrcops.org",
+    "contact": "https://sircrrcops.edu.in/contact-us"
+  }
+}

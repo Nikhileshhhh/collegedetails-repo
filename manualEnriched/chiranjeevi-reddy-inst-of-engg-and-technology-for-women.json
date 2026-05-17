@@ -1,0 +1,84 @@
+{
+  "overview": "Chiranjeevi Reddy Institute of Engineering and Technology (CRIT), established in 2008, is a prominent private institution located in Anantapur, Andhra Pradesh. While the group operates specific wings focused on women's empowerment in technical education, the main campus is known for providing a wide array of undergraduate and postgraduate programs in engineering and management fields.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi. Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, ECE, EEE, Mechanical, Civil)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "MBA (General, HR, Finance, Marketing, IT)",
+      "duration": "2 Years",
+      "totalFees": "₹70,000",
+      "eligibility": "Graduation with 50% aggregate + APICET"
+    },
+    {
+      "course": "M.Tech (Software Engineering, Structural Engineering, DSCE, EPS)",
+      "duration": "2 Years",
+      "totalFees": "₹1,79,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE/AP PGECET"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹75,000 (Approx.)",
+      "eligibility": "Pass in 10th standard + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.2 LPA",
+    "medianSalary": "₹2.8 LPA",
+    "highestSalary": "₹6.5 LPA - ₹10.0 LPA",
+    "highestDomestic": "₹10.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "150+",
+    "companiesVisited": "25+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Cognizant",
+      "Tech Mahindra",
+      "Accenture",
+      "HCL Technologies",
+      "Sutherland"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "AP POLYCET"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level counseling (APSCHE). 70% of seats are filled under the Convener Quota (Category A) based on entrance exam ranks. The remaining 30% are Management Quota (Category B) seats filled based on merit or qualifying exam scores.",
+    "importantDates": "AP EAPCET 2026: May 2026; AP ICET 2026: May 2026; AP PGECET 2026: May-June 2026."
+  },
+  "campus": {
+    "area": "10 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Specialized Engineering Laboratories",
+      "Central Library with Digital Resources",
+      "Separate Hostels for Boys and Girls",
+      "Auditorium & Seminar Halls",
+      "Cafeteria",
+      "Sports Facilities",
+      "Health Center"
+    ],
+    "specialNote": "The campus is situated on Bellary Road and is recognized for its disciplined environment. It emphasizes a 'complete learning environment' with a high faculty-to-student ratio to ensure personalized academic support."
+  },
+  "contact": {
+    "phone": "+91 9502245112, +91 9441124444",
+    "email": "principal_crit@yahoo.com",
+    "address": "Susheela Nagar, Bellary Road, Anantapur, Andhra Pradesh - 515001",
+    "admissionsEmail": "admissions@critcolleges.com"
+  },
+  "website": "https://www.critcolleges.com/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

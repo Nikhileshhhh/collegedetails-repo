@@ -1,0 +1,86 @@
+{
+  "overview": "Indian Institute of Technology Indore (IIT Indore), established in 2009, is one of India's rapidly emerging IITs known for strong academic programs, research excellence, and growing industry collaboration. The institute has gained recognition for its performance in placements, particularly in computing and core engineering domains.",
+  "accreditation": "Institute of National Importance; NAAC accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,00,000 per semester for General/OBC (income > ₹5 lakh). Income-based and caste-based waivers apply. Additional ~₹6,300–₹8,100 per semester for other charges. Hostel & Mess: ~₹32,750–₹36,000 per semester."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹10,000–₹13,300 per semester (General/OBC). SC/ST/PwD: Tuition exempted. Other charges ~₹6,300."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹27.27 LPA (2024–25)",
+    "medianSalary": "₹19.48 LPA (4-Year UG, 2023–24)",
+    "highestSalary": "₹1.37 CPA (2024–25)",
+    "highestDomestic": "₹1.37 CPA",
+    "placementRate": "B.Tech: ~85–89%, M.Tech: ~64.15%",
+    "totalOffers": "500+ offers (2024–25), ~88% batch placed",
+    "companiesVisited": "Amazon, Microsoft, Google, Samsung, Flipkart, Qualcomm, Goldman Sachs, Zomato, Larsen & Toubro",
+    "internationalOffers": "Multiple ₹1 Cr+ offers; 5 students secured ₹1 Cr+ packages in 2024–25",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "96.83%", "avgCTC": "₹32.89 LPA" },
+      { "branch": "Electrical Engineering", "placementRate": "96.88%", "avgCTC": "₹26.04 LPA" },
+      { "branch": "Mechanical Engineering", "placementRate": "88.33%", "avgCTC": "₹22.17 LPA" },
+      { "branch": "Metallurgical (MEMS)", "placementRate": "89.29%" },
+      { "branch": "Civil Engineering", "placementRate": "71.05%" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "Highest package surged from ₹68 LPA (2023–24) to ₹1.37 CPA (2024–25)",
+      "mtechStats": "M.Tech avg ₹14.60 LPA, highest ₹54 LPA (2024–25)"
+    },
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Samsung",
+      "Flipkart",
+      "Qualcomm",
+      "Goldman Sachs",
+      "Zomato",
+      "Larsen & Toubro"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["JEE Advanced", "GATE"],
+    "admissionProcess": "Admissions are based on national-level entrance exams followed by JoSAA or COAP counseling depending on the program.",
+    "importantDates": "Follows JoSAA/COAP timelines and institute academic calendar."
+  },
+  "campus": {
+    "area": "501 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Facility",
+      "Research Labs",
+      "Innovation & Incubation Centre",
+      "Sports Complex",
+      "Auditorium",
+      "Computer Centre",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Other semester charges (~₹6,300–₹8,100) include academic and service fees. One-time admission fee ~₹18,100. Hostel and mess charges are ~₹32,750–₹36,000 per semester."
+  },
+  "contact": {
+    "phone": "+91-731-660-3000",
+    "email": "academic@iiti.ac.in",
+    "address": "Indian Institute of Technology Indore, Simrol, Indore – 453552, Madhya Pradesh, India",
+    "admissionsEmail": "ugadmissions@iiti.ac.in"
+  },
+  "website": "https://www.iiti.ac.in",
+  "lastVerified": "2026-04-30",
+  "verifiedBy": "official-website",
+  "sources": {
+    "overview": "https://www.iiti.ac.in",
+    "fees": "https://www.iiti.ac.in/page/fee-structure",
+    "placements": "https://www.iiti.ac.in/page/career-development-cell",
+    "admissions": "https://www.iiti.ac.in/admissions",
+    "campus": "https://www.iiti.ac.in/page/campus",
+    "contact": "https://www.iiti.ac.in/contact"
+  }
+}

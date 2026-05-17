@@ -1,0 +1,73 @@
+{
+  "overview": "Aditya University, Surampalem, is a state private university in Kakinada district that officially states it was established in 2024 under the Andhra Pradesh Private Universities Act, 2016 and evolved from the long-running Aditya Engineering College campus. The university presents itself as a multidisciplinary institution with schools of Engineering, Business, Pharmacy, and Sciences, built on the wider Aditya educational group's academic and industry ecosystem.",
+  "accreditation": "UGC recognized under Section 2(f); NAAC A++; 6 UG engineering programs accredited by NBA under Tier-I; approvals on the official site include AICTE and PCI as applicable; NIRF 151-200 band reference published on official university pages.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Agricultural, Civil, CSE, CSE (AI and ML), CSE (Data Science), ECE, EEE, IT, Mechanical, Mining, Petroleum",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 60,000/year"
+    },
+    {
+      "program": "M.Tech - Structural Engineering, Power Electronics and Drives, Energy Science and Technology, VLSI Design, CSE, CSE (AI and ML)",
+      "duration": "2 Years",
+      "tuitionFee": "Varies by program; confirm with admissions"
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2 Years",
+      "tuitionFee": "Published public sources list MBA around Rs. 1.20 lakh total and MCA around Rs. 69,800 total"
+    },
+    {
+      "program": "B.Pharmacy / Pharm.D / M.Pharmacy",
+      "duration": "4-6 Years",
+      "tuitionFee": "Official admissions site lists the programs; fee details are handled through the admissions desk"
+    },
+    {
+      "program": "B.Sc / M.Sc - Forensic Science, Cyber Security and Digital Forensics; Ph.D programs",
+      "duration": "2-5 Years",
+      "tuitionFee": "Varies by program"
+    }
+  ],
+  "placements": {
+    "avgSalary": "Rs. 4.11 LPA",
+    "medianSalary": "",
+    "highestSalary": "Rs. 35.36 LPA",
+    "highestDomestic": "Rs. 35.36 LPA",
+    "placementRate": "100% placement assistance for registered and eligible students",
+    "totalOffers": "3024+ placements in 2024",
+    "companiesVisited": "260+",
+    "internationalOffers": "100+ companies listed as international/industry-connect on the official admissions portal",
+    "topRecruiters": []
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ICET",
+      "AP PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "The official admissions portal accepts registrations for undergraduate and postgraduate programs, while AP EAPCET, AP ICET, and AP PGECET/GATE are used for the relevant state counseling and PG admissions. The university also runs direct admissions help desks for management, global, and other categories.",
+    "importantDates": "Admissions are open through the official portal, while AP EAPCET, AP ICET, and AP PGECET schedules are published each cycle by APSCHE and the respective admission authorities."
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Engineering, business, pharmacy, and science schools",
+      "Industry-linked internships",
+      "Research and innovation ecosystem",
+      "Student clubs and cultural activities",
+      "Sports facilities",
+      "Admissions and scholarship support"
+    ],
+    "specialNote": "Official university pages highlight 33+ functional MoUs, 250+ patents, 1200+ research publications, and government-funded sponsored projects worth about Rs. 16.3 crore."
+  },
+  "contact": {
+    "phone": "+91-70950 76664",
+    "email": "info@adityauniversity.in",
+    "address": "Aditya Nagar, ADB Road, Surampalem, Kakinada District - 533437, Andhra Pradesh, India",
+    "admissionsEmail": "info@adityauniversity.in"
+  },
+  "website": "https://adityauniversity.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "google-assisted"
+}

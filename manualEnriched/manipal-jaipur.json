@@ -1,0 +1,183 @@
+{
+  "overview": "Manipal University Jaipur (MUJ), located in Dahmi Kalan off the Ajmer-Jaipur Expressway in Jaipur, Rajasthan, is a premier multidisciplinary private state university established in 2011 by the Manipal Education and Medical Group (MEMG). The university is widely recognized for its modern campus infrastructure, advanced computing ecosystem, research-oriented academic environment, and strong industry-aligned engineering and management programs.",
+  "accreditation": "NAAC A+ Accredited; first state private university in Rajasthan to achieve NAAC A+ status. Several flagship B.Tech programs are also accredited by the National Board of Accreditation (NBA).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Computer Science & Engineering (CSE)",
+      "duration": "4 years",
+      "tuitionFee": "~₹2,43,500 per semester (Annual tuition approximately ₹4,87,000)."
+    },
+    {
+      "program": "Other B.Tech Programs (Mechanical, Civil, Chemical, etc.)",
+      "duration": "4 years",
+      "tuitionFee": "~₹1,67,000 – ₹1,90,000 per semester."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "~₹2,54,500 – ₹2,86,500 per semester (Total program tuition approximately ₹10.18L – ₹11.46L)."
+    },
+    {
+      "program": "BBA",
+      "duration": "3 years",
+      "tuitionFee": "~₹96,000 – ₹1,42,000 per semester."
+    },
+    {
+      "program": "BCA",
+      "duration": "3 years",
+      "tuitionFee": "~₹75,000 – ₹1,50,000 per semester."
+    },
+    {
+      "program": "M.Tech / Postgraduate Programs",
+      "duration": "2 years",
+      "tuitionFee": "~₹90,000 – ₹1,20,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹7.60 LPA overall campus average (2025); ₹8.20 LPA for B.Tech Engineering programs.",
+    "medianSalary": "₹8.00 LPA for B.Tech programs; ₹7.25 LPA for MBA programs.",
+    "highestSalary": "₹64.00 LPA for Engineering/B.Tech (2025 Batch).",
+    "highestDomestic": "₹64.00 LPA",
+    "placementRate": "94.00% overall campus placement rate.",
+    "totalOffers": "2,100+ job offers during the 2025 placement cycle including 1,663 unique placements.",
+    "companiesVisited": "Microsoft, Google, Amazon, Cisco, Deloitte, EY, KPMG, Accenture, Infosys, Bosch, NVIDIA, Oracle",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "Cisco",
+      "Deloitte",
+      "EY",
+      "KPMG",
+      "Accenture",
+      "Infosys",
+      "Bosch",
+      "NVIDIA",
+      "Oracle"
+    ],
+    "historicalHighest": "₹85.00 – ₹88.00 LPA"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "Manipal Entrance Test (MET)"
+    ],
+    "admissionProcess": "Admissions to B.Tech programs are based on the Manipal Entrance Test (MET) followed by centralized counselling and rank-based seat allotment.",
+    "importantDates": "Admissions follow the annual MET examination and counselling schedule published by Manipal University Jaipur.",
+    "categoryPolicy": "MUJ follows a unified General All India Merit quota system for MET counselling. Standard caste-based reservation cutoffs such as OBC/SC/ST are not applicable for seat allocation."
+  },
+  "campus": {
+    "area": "128 acres",
+    "facilities": [
+      "Modern Smart Classrooms",
+      "Advanced Computing Labs",
+      "Central Library",
+      "Innovation & Research Centers",
+      "Sports Complex",
+      "Wi-Fi Enabled Campus",
+      "Hostels",
+      "Medical Facilities",
+      "Auditorium",
+      "Food Courts",
+      "Student Activity Centers"
+    ],
+    "specialNote": "MUJ is known for its highly modern residential campus with industry-grade infrastructure and strong emphasis on research-driven education.",
+    "location": "Dahmi Kalan, Jaipur, Rajasthan, India",
+    "hostelFees": {
+      "doubleOccupancy": "₹1,74,050 per annum",
+      "doubleOrTripleOccupancy": "₹1,57,220 per annum",
+      "messAndLaundry": "Approximately ₹45,000 – ₹60,000 annually",
+      "estimatedResidentialCost": "Approximately ₹1,00,000 – ₹1,20,000 per semester including hostel, mess, and laundry.",
+      "hostelCautionDeposit": "₹24,250 refundable one-time deposit"
+    }
+  },
+  "contact": {
+    "phone": "+91-141-3999100",
+    "email": "info@jaipur.manipal.edu",
+    "address": "Manipal University Jaipur, Dehmi Kalan, Off Jaipur-Ajmer Expressway, Jaipur – 303007, Rajasthan, India",
+    "admissionsEmail": "admissions@jaipur.manipal.edu"
+  },
+  "website": "https://jaipur.manipal.edu",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-data",
+  "cutoffs": [
+    {
+      "branch": "Computer Science & Engineering (CSE)",
+      "round1ClosingRank": 30100,
+      "lastRoundClosingRank": 33571
+    },
+    {
+      "branch": "Robotics and Artificial Intelligence",
+      "round1ClosingRank": 31135,
+      "lastRoundClosingRank": 35002
+    },
+    {
+      "branch": "Electronics & Communication Engineering (ECE)",
+      "round1ClosingRank": 31756,
+      "lastRoundClosingRank": 35163
+    },
+    {
+      "branch": "Computer Science and Biosciences",
+      "round1ClosingRank": 31981,
+      "lastRoundClosingRank": 35824
+    },
+    {
+      "branch": "Electronics Engineering (VLSI Design & Technology)",
+      "round1ClosingRank": 32283,
+      "lastRoundClosingRank": 35993
+    },
+    {
+      "branch": "Electrical and Computer Engineering",
+      "round1ClosingRank": 32753,
+      "lastRoundClosingRank": 36435
+    },
+    {
+      "branch": "Mechanical Engineering",
+      "round1ClosingRank": 34555,
+      "lastRoundClosingRank": 39439
+    },
+    {
+      "branch": "Mechatronics Engineering",
+      "round1ClosingRank": 34373,
+      "lastRoundClosingRank": 39515
+    },
+    {
+      "branch": "Chemical Engineering",
+      "round1ClosingRank": 36175,
+      "lastRoundClosingRank": 48753
+    },
+    {
+      "branch": "Civil Engineering",
+      "round1ClosingRank": 36863,
+      "lastRoundClosingRank": 49945
+    },
+    {
+      "branch": "Biotechnology",
+      "round1ClosingRank": 38460,
+      "lastRoundClosingRank": 50589
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "TMA Pai Merit Scholarships",
+      "description": "Full or partial tuition fee waivers for top performers in the Manipal Entrance Test (MET)."
+    },
+    {
+      "name": "Academic Performance Scholarships",
+      "description": "Merit-based tuition rebates for semester toppers and academically outstanding students."
+    },
+    {
+      "name": "Dr. Ramdas Pai Ph.D. Fellowships",
+      "description": "Research fellowships offering publication incentives and stipends for doctoral scholars."
+    }
+  ],
+  "sources": {
+    "overview": "https://jaipur.manipal.edu",
+    "placements": "https://jaipur.manipal.edu/career-development-center.html",
+    "admissions": "https://jaipur.manipal.edu/admission.html",
+    "fees": "https://jaipur.manipal.edu/admission/fees.html",
+    "scholarships": "https://jaipur.manipal.edu/admission/scholarships.html",
+    "campus": "https://jaipur.manipal.edu/about-us.html",
+    "contact": "https://jaipur.manipal.edu/contact-us.html"
+  }
+}

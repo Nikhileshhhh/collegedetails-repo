@@ -1,0 +1,82 @@
+{
+  "overview": "Sree Venkateswara College of Engineering (SVCN), Nellore, is a reputed engineering institution in the Nellore region known for strong technical infrastructure and steady placement performance in software and IT sectors.",
+  "accreditation": "NAAC 'A' Grade Accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹50,000 – ₹63,000 per year under Convenor Quota. Management quota varies by branch."
+    },
+    {
+      "program": "M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "₹43,000 – ₹50,000 per year."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.00 LPA – ₹4.80 LPA",
+    "medianSalary": "₹3.80 LPA – ₹4.10 LPA",
+    "highestSalary": "₹15.00 LPA (2024-25)",
+    "highestDomestic": "₹15.00 LPA",
+    "placementRate": "70% – 85%",
+    "totalOffers": "400+ offers",
+    "companiesVisited": "TCS, Infosys, Cognizant, Wipro, Savantis, Hexaware, Tech Mahindra",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Cognizant",
+      "Wipro",
+      "Savantis",
+      "Hexaware",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "PGECET"
+    ],
+    "admissionProcess": "Admissions are conducted through Andhra Pradesh counseling and management quota admissions.",
+    "importantDates": "Follows APSCHE counseling schedule."
+  },
+  "campus": {
+    "area": "Engineering campus near Nellore",
+    "facilities": [
+      "Hostels",
+      "Library",
+      "Placement Cell",
+      "Sports Complex",
+      "Computer Labs",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "Hostel & Mess combined fee ranges from ₹60,000 – ₹75,000 annually."
+  },
+  "contact": {
+    "phone": "+91 7032642099",
+    "email": "sving9@gmail.com",
+    "address": "Golden Nagar, North Rajupalem, NH-5 Bypass Road, SPSR Nellore District, Nellore, Andhra Pradesh 524316.",
+    "admissionsEmail": "sving9@gmail.com"
+  },
+  "website": "https://svcn.ac.in",
+  "lastVerified": "2026-05-16",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://svcn.ac.in",
+    "fees": "https://svcn.ac.in/college-fee",
+    "placements": "https://svcn.ac.in/about-training-and-placements",
+    "admissions": "https://svcn.ac.in/admission-procedure",
+    "campus": "https://svcn.ac.in/sports-yoga",
+    "contact": "https://svcn.ac.in"
+  },
+  "hostel": {
+    "hostelFee": "?60,000 ? ?75,000 per year",
+    "note": "Hostel and mess combined fee."
+  },
+  "scholarships": [
+    {
+      "name": "JVD & Post-Metric Benefits",
+      "description": "Statutory fee waiver pathways based on Andhra Pradesh state criteria."
+    }
+  ]
+}

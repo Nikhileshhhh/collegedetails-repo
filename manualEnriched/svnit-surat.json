@@ -1,0 +1,121 @@
+{
+  "overview": "Sardar Vallabhbhai National Institute of Technology (SVNIT Surat), located in Ichchhanath, Surat, Gujarat, is a premier autonomous public technical institute established in 1961 as a Regional Engineering College (REC). Elevated to an Institute of National Importance under the NIT Act, the institute is known for excellence in engineering, research, innovation, and industry collaboration, particularly in automotive, water resources, and environmental engineering domains.",
+  "nirfRanking": {
+    "year": 2025,
+    "category": "Overall",
+    "rankBand": "101–150"
+  },
+  "accreditation": "Institute of National Importance under NIT Act; NAAC 'A' Grade accredited; NBA Tier-I accredited core B.Tech programs under Washington Accord standards; Approved by Ministry of Education (MoE) and recognized by UGC.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (General/OBC, Income > ₹5L)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,25,000 per year (₹62,500 per semester)"
+    },
+    {
+      "program": "B.Tech (General/OBC, Income ₹1L–₹5L)",
+      "duration": "4 years",
+      "tuitionFee": "~₹41,666 per year after 2/3 tuition remission"
+    },
+    {
+      "program": "B.Tech (SC/ST/PwD or Income < ₹1L)",
+      "duration": "4 years",
+      "tuitionFee": "₹0 tuition fee (100% tuition waiver)"
+    },
+    {
+      "program": "Integrated M.Sc.",
+      "duration": "5 years",
+      "tuitionFee": "₹53,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹11.24 LPA (Overall 2025)",
+    "btechAverageSalary": "₹11.83 LPA (2025)",
+    "medianSalary": "₹10.00 LPA (B.Tech 2025)",
+    "highestSalary": "₹74.00 LPA (B.Tech CSE 2025)",
+    "highestBtechSalary2024": "₹52.71 LPA",
+    "highestMtechSalary": "₹42.00 LPA",
+    "highestMscSalary": "₹20.00 LPA",
+    "topSpecialisationAverage": "CSE: ₹17.44 LPA",
+    "placementRate": {
+      "overallBtech": "82%",
+      "mechanicalEngineering": "88%",
+      "chemicalEngineering": "87%",
+      "computerScienceEngineering": "82%"
+    },
+    "totalOffers": "591 B.Tech students placed out of 720 appearing students",
+    "companiesVisited": "205 recruiters visited during 2025 placement drive",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Mastercard",
+      "Capgemini",
+      "JP Morgan",
+      "Airtel",
+      "L&T",
+      "Reliance Industries"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "IIT JAM"
+    ],
+    "admissionProcess": "Admissions to undergraduate programs are conducted through JoSAA counseling based on JEE Main ranks. Postgraduate admissions are based on GATE, IIT JAM, and CCMT/CCMN counseling procedures.",
+    "importantDates": "Follows JoSAA, CCMT, and CCMN national counseling schedules."
+  },
+  "campus": {
+    "location": "Ichchhanath, Surat, Gujarat, India",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Advanced Research Laboratories",
+      "Sports Complex",
+      "Wi-Fi Campus",
+      "Auditorium",
+      "Medical Facilities",
+      "Innovation & Incubation Centers",
+      "Computer Center"
+    ],
+    "hostelFees": "₹12,000 per annum for shared occupancy rooms",
+    "messCharges": "₹35,000–₹45,000 per annum",
+    "specialNote": "The institute is recognized as an Anchor Institute in automotive and engineering sectors with strong research infrastructure in environmental and water resources engineering."
+  },
+  "scholarships": [
+    {
+      "name": "National Fellowship and Scholarship for ST Students",
+      "benefit": "Full tuition and living allowance support"
+    },
+    {
+      "name": "Dr. A.P. Verma Scholarship",
+      "benefit": "Merit scholarship for Mathematics domain toppers"
+    },
+    {
+      "name": "Mr. Nishith Vijay Sampat Merit Scholarship",
+      "benefit": "Awarded to top-performing Mechanical Engineering students"
+    },
+    {
+      "name": "M.Tech GATE Stipend",
+      "benefit": "₹12,400 per month stipend for eligible postgraduate students"
+    }
+  ],
+  "contact": {
+    "phone": "+91-261-220-1600",
+    "email": "director@svnit.ac.in",
+    "address": "Sardar Vallabhbhai National Institute of Technology, Ichchhanath, Surat – 395007, Gujarat, India",
+    "admissionsEmail": "acad@svnit.ac.in"
+  },
+  "website": "https://www.svnit.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-institutional-data",
+  "sources": {
+    "overview": "https://www.svnit.ac.in",
+    "placements": "https://www.svnit.ac.in/placement",
+    "admissions": "https://www.svnit.ac.in/admission",
+    "fees": "https://www.svnit.ac.in/fees",
+    "campus": "https://www.svnit.ac.in/campus",
+    "contact": "https://www.svnit.ac.in/contact"
+  }
+}

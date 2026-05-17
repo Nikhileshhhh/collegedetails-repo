@@ -1,0 +1,85 @@
+{
+  "overview": "DRK Institute of Science and Technology (DRKIST), established in 2004, is a private engineering college located in Bowrampet, Hyderabad. It is part of the DRK Group of Institutions and is known for its focus on modern engineering disciplines, particularly in computer science and its specialized sub-branches like AI&ML and Data Science.",
+  "accreditation": "Approved by AICTE (All India Council for Technical Education). Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, Cyber Security, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,46,000 (Approx. ₹60,000 - ₹63,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹62,000 - ₹80,000",
+      "eligibility": "Graduation with 50% aggregate + TS ICET rank"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹1,20,000",
+      "eligibility": "B.E./B.Tech + GATE / TS PGECET"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹1,80,000",
+      "eligibility": "Diploma in relevant branch + TS ECET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA - ₹3.5 LPA",
+    "medianSalary": "₹3.2 LPA",
+    "highestSalary": "₹12.0 LPA - ₹25.0 LPA (Top packages often reported from off-campus drives)",
+    "highestDomestic": "₹25.0 LPA",
+    "placementRate": "60% - 75%",
+    "totalOffers": "150+",
+    "companiesVisited": "30+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "Capgemini",
+      "Cognizant",
+      "Accenture",
+      "Tech Mahindra",
+      "Amazon"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET (EAMCET)",
+      "TS ICET",
+      "TS PGECET",
+      "TS ECET",
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "70% of seats (Category A) are filled via state-level web counseling (TGCHE) based on entrance ranks. 30% are Management Quota (Category B) seats filled based on merit or JEE scores. Lateral entry for diploma holders is through TS ECET.",
+    "importantDates": "TS EAPCET 2026: May 9–11, 2026; TS ICET 2026: May 13–14, 2026; Result: May 2026; Counseling: June–July 2026."
+  },
+  "campus": {
+    "area": "Acres of modern building infrastructure",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Advanced Computer & Engineering Labs",
+      "Digital Library with wide resource access",
+      "Auditorium & Seminar Halls",
+      "Separate Hostels for Boys and Girls",
+      "Cafeteria",
+      "Sports Facilities (Cricket, Football, Basketball)",
+      "Transport Facility (Miyapur, Medchal, and surrounding areas)"
+    ],
+    "specialNote": "The college emphasizes 'Skill-Based Learning' and conducts regular workshops on emerging technologies. It is located near Pragathi Nagar on the Miyapur-Medchel highway, making it highly accessible for students from both Hyderabad city and the Medchal outskirts."
+  },
+  "contact": {
+    "phone": "+91 9246101899, +91 9849503333",
+    "email": "principal.n7@gmail.com",
+    "address": "Bowrampet (V), Near Pragathi Nagar, Quthbullapur (M), Medchal-Malkajgiri District, Telangana - 500043",
+    "admissionsEmail": "info@drkist.edu.in"
+  },
+  "website": "http://www.drkist.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,81 @@
+{
+  "overview": "CMR Technical Campus (CMRTC), established in 2009 by the CMR Technical Education Society, is a premier UGC Autonomous engineering college located in Kandlakoya, Hyderabad. It is part of the extensive CMR Group of Institutions and is recognized for its high-tech infrastructure and focus on innovation-driven technical education.",
+  "accreditation": "UGC Autonomous status. Accredited by NAAC with an 'A' Grade and NBA (National Board of Accreditation). Approved by AICTE and affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, Data Science, AI, ECE, IT)",
+      "duration": "4 Years",
+      "totalFees": "₹4,20,000 (₹1,05,000 per year)",
+      "eligibility": "10+2 with Mathematics, Physics, and Chemistry + TS EAPCET rank"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹1,30,000 - ₹1,50,000 (Total)",
+      "eligibility": "Graduation with 45-50% aggregate + TS ICET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Embedded Systems)",
+      "duration": "2 Years",
+      "totalFees": "₹1,20,000 (Total)",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE / TS PGECET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.5 LPA",
+    "medianSalary": "₹4.2 LPA - ₹4.5 LPA",
+    "highestSalary": "₹44.0 LPA (2024-25 cycle)",
+    "highestDomestic": "₹44.0 LPA",
+    "placementRate": "85% - 87% (2024 NIRF trend)",
+    "totalOffers": "505 (B.Tech 2025 cycle)",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Amazon",
+      "IBM",
+      "HSBC Technology",
+      "TCS",
+      "Cognizant",
+      "Capgemini",
+      "Accenture",
+      "Wipro",
+      "Infosys",
+      "Autodesk",
+      "Hyundai"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET (EAMCET)",
+      "TS ICET",
+      "TS PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions follow the TGCHE guidelines. 70% of seats (Category A) are filled via state-level web counseling based on entrance ranks. 30% are Management Quota (Category B) seats filled based on merit or JEE scores. The application process for the 2026-27 session typically begins in mid-2026.",
+    "importantDates": "TS EAPCET 2026: May 9 - 11, 2026; TS ICET 2026: May 13 - 14, 2026; MBA Registration: Mar - May 2026."
+  },
+  "campus": {
+    "area": "Acres of lush green landscape",
+    "facilities": [
+      "Central Library (39,175+ volumes)",
+      "ICT Enabled Smart Classrooms",
+      "Auditorium & Seminar Halls",
+      "Separate Hostels for Boys (₹1.10L/pa) and Girls (₹1.0L/pa)",
+      "Innovation & Research Labs",
+      "Cafeteria",
+      "ATM & Medical Facilities",
+      "Sports Infrastructure & Gym"
+    ],
+    "specialNote": "The campus is noted for its high-tech 'Innovation Hub' and dedicated R&D cells for every department. It consistently ranks within the top private engineering colleges in Telangana and maintains a strong alumni network across global tech firms."
+  },
+  "contact": {
+    "phone": "+91 9247033441, +91 9247033440",
+    "email": "info@cmrtc.ac.in",
+    "address": "Kandlakoya (V), Medchal Road, Hyderabad, Telangana - 501401",
+    "admissionsEmail": "admissions@cmrtc.ac.in"
+  },
+  "website": "https://cmrtc.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

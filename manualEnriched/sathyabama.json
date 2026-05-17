@@ -1,0 +1,109 @@
+{
+  "overview": "Sathyabama Institute of Science and Technology, located in Jeppiaar Nagar, Chennai, Tamil Nadu, is a premier private deemed-to-be university established in 1987 as Sathyabama Engineering College. Founded by Dr. Jeppiaar, the institution is widely recognized for excellence in engineering, biotechnology, marine biology, space science, and interdisciplinary research, maintaining a strong reputation across South India's technical education ecosystem.",
+  "accreditation": "NAAC A++ Accredited; Category-1 Deemed-to-be University status granted by UGC; Several engineering programs accredited by ABET.",
+  "coursesAndFees": [
+    {
+      "program": "B.E. / B.Tech Computer Science (CSE) & Elite IT Programs",
+      "duration": "4 years",
+      "tuitionFee": "₹1,15,000 – ₹1,35,000 per semester (₹2,30,000 – ₹2,70,000 annually)"
+    },
+    {
+      "program": "B.E. / B.Tech Other Engineering Branches",
+      "duration": "4 years",
+      "tuitionFee": "₹85,000 – ₹1,05,000 per semester (₹1,70,000 – ₹2,10,000 annually)"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹45,000 per semester (₹90,000 annually)"
+    },
+    {
+      "program": "B.Arch / B.Des",
+      "duration": "4–5 years",
+      "tuitionFee": "₹90,000 – ₹1,10,000 per semester"
+    },
+    {
+      "program": "B.Com / BBA / Non-Technical UG Programs",
+      "duration": "3 years",
+      "tuitionFee": "₹30,000 – ₹45,000 per semester"
+    },
+    {
+      "program": "M.E. / M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "₹60,000 – ₹66,250 per semester"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹5.57 LPA (2025)",
+    "medianSalary": "₹5.00 – ₹5.25 LPA (2025)",
+    "highestSalary": "₹53.00 LPA (2025 Batch)",
+    "highestDomestic": "₹53.00 LPA",
+    "placementRate": "B.Tech CSE & IT: 94.50% – 96.00%; Overall: 91.87% (2025)",
+    "totalOffers": "3,733 offers with 3,365 students placed (2025)",
+    "companiesVisited": "Amazon, Accenture, Cognizant, Deloitte, Capgemini, HCL Technologies, Ernst & Young, PwC, Renault Nissan, TCS",
+    "internationalOffers": "Global technology enterprises offered packages up to ₹53 LPA.",
+    "topRecruiters": [
+      "Amazon",
+      "Accenture",
+      "Cognizant",
+      "Deloitte",
+      "Capgemini",
+      "HCL Technologies",
+      "Ernst & Young",
+      "PwC",
+      "Renault Nissan",
+      "Tata Consultancy Services (TCS)"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "SAEEE",
+      "JEE Main",
+      "Class 12 Merit"
+    ],
+    "admissionProcess": "Admissions are primarily conducted through the Sathyabama All India Entrance Examination (SAEEE), JEE Main scores, and merit-based eligibility depending on the program.",
+    "importantDates": "Admission timelines generally follow SAEEE examination schedules and the annual academic admission calendar released by the university."
+  },
+  "campus": {
+    "area": "Large urban residential campus in Jeppiaar Nagar, Chennai",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Innovation & Incubation Centers",
+      "Sports Complex",
+      "Auditorium",
+      "Wi-Fi Enabled Campus",
+      "Medical Facilities",
+      "Centralized Dining Facilities",
+      "Transportation Services"
+    ],
+    "specialNote": "Hostel charges range between ₹40,000 – ₹50,000 per semester with integrated mess facilities serving North Indian and South Indian meals. Total residential expenditure generally ranges between ₹45,000 – ₹55,000 per semester."
+  },
+  "contact": {
+    "phone": "+91-44-2450-3150",
+    "email": "info@sathyabama.ac.in",
+    "address": "Sathyabama Institute of Science and Technology, Jeppiaar Nagar, Rajiv Gandhi Salai, Chennai – 600119, Tamil Nadu, India",
+    "admissionsEmail": "admissions@sathyabama.ac.in"
+  },
+  "website": "https://www.sathyabama.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "institutional-data-and-official-sources",
+  "scholarships": {
+    "available": true,
+    "details": [
+      "Dr. Jeppiaar Remission Subsidies with full tuition and mess fee waivers for SAEEE top rankers",
+      "Merit-based tuition fee concessions ranging from 10% to 50%",
+      "Government scholarship support for SC, ST, and minority students through central and state portals"
+    ]
+  },
+  "sources": {
+    "overview": "https://www.sathyabama.ac.in",
+    "fees": "https://www.sathyabama.ac.in/admissions",
+    "placements": "https://www.sathyabama.ac.in/placement",
+    "admissions": "https://www.sathyabama.ac.in/admissions",
+    "campus": "https://www.sathyabama.ac.in/about-us",
+    "contact": "https://www.sathyabama.ac.in/contact-us"
+  }
+}

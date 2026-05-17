@@ -1,0 +1,155 @@
+{
+  "overview": "Madan Mohan Malaviya University of Technology (MMMUT) Gorakhpur, located on Deoria Road, Gorakhpur, Uttar Pradesh, is a premier state-funded public technical university established in 2013 by the Government of Uttar Pradesh. Originally founded in 1962 as Madan Mohan Malaviya Engineering College (MMMEC), the university is known for its strong regional academic reputation, affordable technical education, legacy alumni network, and quality engineering, management, pharmacy, and applied science programs.",
+  "accreditation": "NAAC 'A' Grade accredited; State Government Technical University recognized by UGC. Major B.Tech programs are accredited by NBA.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "~₹45,000 per semester (~₹90,000 annually). Hostel & Mess charges: ~₹28,000–₹31,000 per semester."
+    },
+    {
+      "program": "B.Tech (TFW / Fee Waiver Seats)",
+      "duration": "4 years",
+      "tuitionFee": "~₹20,000 per semester with tuition fee waiver benefits under AICTE TFW scheme."
+    },
+    {
+      "program": "B.Pharm",
+      "duration": "4 years",
+      "tuitionFee": "~₹55,000 per semester (~₹1,10,000 annually)."
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2 years",
+      "tuitionFee": "~₹47,500 per semester (~₹95,000 annually)."
+    },
+    {
+      "program": "M.Tech / M.Sc",
+      "duration": "2 years",
+      "tuitionFee": "~₹35,000–₹40,000 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹7.00 LPA (2025 Overall)",
+    "medianSalary": "B.Tech: ₹13.75 LPA | PG Programs: ₹12.65 LPA | MBA: ₹13.15 LPA",
+    "highestSalary": "₹59.00 LPA (Uber, IT Student - 2025 Batch)",
+    "highestDomestic": "₹59.00 LPA",
+    "placementRate": "CSE & IT: ~85–90% | Core Engineering: ~75%",
+    "totalOffers": "1,100+ offers by 80+ organizations during 2025 placements",
+    "companiesVisited": "Google, Amazon, Uber, IBM, BEL, TCS, Infosys, Cognizant, Deloitte",
+    "internationalOffers": "Limited international hiring with majority of offers from leading Indian and multinational companies",
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Uber",
+      "IBM",
+      "Bharat Electronics Limited (BEL)",
+      "TCS",
+      "Infosys",
+      "Cognizant",
+      "Deloitte"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "CUET PG",
+      "GATE"
+    ],
+    "admissionProcess": "B.Tech admissions are based on JEE Main CRL ranks through centralized counseling. Postgraduate admissions are based on GATE, CUET PG, or university-level eligibility criteria depending on the program.",
+    "importantDates": "Admissions generally follow JEE Main counseling schedules and MMMUT academic calendar notifications."
+  },
+  "campus": {
+    "area": "Large residential technical university campus in Gorakhpur, Uttar Pradesh",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Wi-Fi Campus",
+      "Sports Complex",
+      "Medical Facilities",
+      "Research Laboratories",
+      "Computer Centres",
+      "Auditorium",
+      "Innovation & Training Cells",
+      "Cafeteria",
+      "Seminar Halls"
+    ],
+    "specialNote": "Hostel rent and upkeep cost around ₹10,000 per semester, while mess charges range between ₹18,000–₹21,000 per semester depending on consumption and cooperative mess operations."
+  },
+  "contact": {
+    "phone": "+91-551-2273958",
+    "email": "info@mmmut.ac.in",
+    "address": "Madan Mohan Malaviya University of Technology, Deoria Road, Gorakhpur – 273010, Uttar Pradesh, India",
+    "admissionsEmail": "admissions@mmmut.ac.in"
+  },
+  "website": "https://www.mmmut.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-data",
+  "cutoffs": {
+    "btechGeneralAIQuota": {
+      "Computer Science and Engineering": {
+        "round1ClosingRank": 55895,
+        "lastRoundClosingRank": 76643
+      },
+      "Information Technology": {
+        "round1ClosingRank": 64538,
+        "lastRoundClosingRank": 93141
+      },
+      "Electronics and Communication Engineering": {
+        "round1ClosingRank": 77242,
+        "lastRoundClosingRank": 104647
+      },
+      "ECE Internet of Things": {
+        "round1ClosingRank": 80835,
+        "lastRoundClosingRank": 107264
+      },
+      "Electrical Engineering": {
+        "round1ClosingRank": 87300,
+        "lastRoundClosingRank": 128415
+      },
+      "Mechanical Engineering": {
+        "round1ClosingRank": 100667,
+        "lastRoundClosingRank": 146811
+      },
+      "Civil Engineering": {
+        "round1ClosingRank": 114504,
+        "lastRoundClosingRank": 170947
+      },
+      "Chemical Engineering": {
+        "round1ClosingRank": 112601,
+        "lastRoundClosingRank": 172344
+      }
+    },
+    "categoryWiseEstimatedClosingRanks": {
+      "OBC-NCL": {
+        "cseAndIT": "85,000 – 95,000",
+        "coreBranches": "1,30,000 – 1,60,000"
+      },
+      "EWS": {
+        "cseAndIT": "80,000 – 92,000",
+        "coreBranches": "1,25,000 – 1,50,000"
+      },
+      "SC": {
+        "cseAndIT": "1,60,000 – 1,95,000",
+        "coreBranches": "2,20,000 – 2,80,000"
+      },
+      "ST": {
+        "cseAndIT": "2,50,000 – 3,10,000",
+        "coreBranches": "3,40,000 – 4,20,000"
+      }
+    }
+  },
+  "scholarships": [
+    "UP Government Post-Matric Scholarship for eligible SC/ST/OBC students",
+    "AICTE Tuition Fee Waiver (TFW) Scheme for top 5% students in each branch",
+    "GATE Assistantship of ₹12,400 per month for eligible M.Tech students"
+  ],
+  "sources": {
+    "overview": "https://www.mmmut.ac.in",
+    "fees": "https://www.mmmut.ac.in",
+    "placements": "https://www.mmmut.ac.in/placement",
+    "admissions": "https://www.mmmut.ac.in/admission",
+    "campus": "https://www.mmmut.ac.in/about-us",
+    "contact": "https://www.mmmut.ac.in/contact-us"
+  }
+}

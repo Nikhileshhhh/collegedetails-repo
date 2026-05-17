@@ -1,0 +1,135 @@
+{
+  "overview": "Aditya College of Engineering and Technology (ACET) was established in 2004 by the Aditya Academy in Surampalem, East Godavari District (now Kakinada District), Andhra Pradesh. Situated within a vast, eco-friendly campus ecosystem alongside Aditya Engineering College, ACET is recognized for its extensive tech-driven infrastructure and comprehensive career-development programs designed to equip regional students with globally competitive technical and management capabilities.",
+  
+  "accreditation": "Autonomous status conferred by UGC. Approved by the All India Council for Technical Education (AICTE), New Delhi, and permanently affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+
+  "nirfRanking": {
+    "engineering": "Ranked with a prominent #AAA+ rating by Careers360 (NIRF evaluation active across university tier structures)",
+    "university": "Part of the expansive Aditya group institutional network"
+  },
+
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Computer Science, Data Science, AI & ML, Electronics & Communication, Information Technology, Electrical, Civil, Mechanical)",
+      "duration": "4 years",
+      "tuitionFee": "₹40,000 – ₹53,500 per year (Category A Convener Quota via AP EAPCET; total fees stretch up to ₹2,14,000 based on specialization paths)"
+    },
+    {
+      "program": "MCA (Master of Computer Applications)",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 – ₹45,000 per year"
+    },
+    {
+      "program": "MBA (Master of Business Administration)",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 – ₹50,000 per year"
+    },
+    {
+      "program": "M.Tech (Computer Science, Embedded Systems, Power Electronics)",
+      "duration": "2 years",
+      "tuitionFee": "₹43,000 – ₹55,000 per year"
+    },
+    {
+      "program": "After 10th Polytechnic Diploma streams",
+      "duration": "3 years",
+      "tuitionFee": "₹24,000 per year"
+    }
+  ],
+
+  "placements": {
+    "avgSalary": "₹4.00 LPA",
+    "medianSalary": "₹3.50 LPA – ₹3.80 LPA",
+    "highestSalary": "₹19.00 LPA (Historical peak milestone achieved via AWS in 2018-19)",
+    "highestDomestic": "₹8.00 LPA verified branch operational bounds",
+    "placementRate": "65% – 80% reported across high-demand computer software and circuitry disciplines",
+    "totalOffers": "Centralized campus drive models regularly yield thousands of collective student offers annually",
+    "companiesVisited": "50+ prominent national and global multi-national corporations",
+    "internationalOffers": "Data not systematically isolated from general corporate pool alignments",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Cognizant",
+      "Tech Mahindra",
+      "Capgemini",
+      "HCL",
+      "IBM",
+      "Savantis Solutions"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (B.Tech)",
+      "AP ICET (MBA/MCA)",
+      "AP POLYCET (Diploma)",
+      "AP PGECET / GATE (M.Tech)"
+    ],
+    "admissionProcess": "Category A state counseling seats (70%) are securely administered online by the Andhra Pradesh State Council of Higher Education (APSCHE) depending on AP EAPCET scores. Remaining Category B seats are completed under standard regulatory institutional management quotas.",
+    "importantDates": "The admissions lifecycle routinely operates relative to standard APSCHE release periods spanning June through September."
+  },
+
+  "campus": {
+    "area": "Extensive eco-friendly self-contained educational campus ecosystem",
+    "facilities": [
+      "Centralized Multi-storey Library & Digital Hub",
+      "Advanced Practical Domain Laboratories",
+      "High-speed Campus Wi-Fi and Advanced IT Infrastructure",
+      "Separate In-campus Boys Hostels",
+      "Separate In-campus Girls Hostels",
+      "Satya Canteen & Diverse Food Courts",
+      "Vast Sports Complexes and Active Playgrounds",
+      "Extensive Fleet of Dedicated Institutional Transit Buses",
+      "Air-Conditioned Seminar Rooms & Smart Lecture Theatres",
+      "Dedicated Maker's Zone & IoT Incubation Hub"
+    ],
+    "specialNote": "Students at ACET actively share the vast infrastructure, industrial simulation layouts (such as the Polavaram project model display), and a unified centralized corporate placement cell network with other sister organizations on campus."
+  },
+
+  "cutoffs": {
+    "acceptedExam": "AP EAPCET",
+    "popularBranch": "B.Tech Computer Science and Engineering (CSE)",
+    "closingRanks2024": {
+      "OC Boys": "23,312 – 42,000 (Varies heavily across top choices like Data Science or AI branches)",
+      "OC Girls": "25,144 – 45,500",
+      "SC Boys": "1,15,000+",
+      "SC Girls": "1,20,000+",
+      "ST Boys": "1,45,000+",
+      "ST Girls": "1,50,000+",
+      "BCA Boys": "56,535 – 68,000",
+      "BCA Girls": "60,000 – 72,000"
+    }
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹45,000 – ₹65,000 per year depending on lodging choices and room specifications",
+    "messFee": "Factored inside seasonal structured dining facility profiles",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD) state tuition-fee waivers for eligible Andhra Pradesh applicants",
+      "Post-Matric financial safety schemes from the Department of Welfare",
+      "Institutional tuition waivers and award funds for top academic achievers"
+    ]
+  },
+
+  "contact": {
+    "phone": "0884-2326212,9959176665",
+    "email": "office@acet.ac.in",
+    "address": "Aditya Nagar, ADB Road, Surampalem, Gandepalli Mandal, Kakinada District - 533437, Andhra Pradesh, India",
+    "admissionsEmail": "office@acet.ac.in"
+  },
+
+  "website": "https://acet.ac.in/",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "official-college-portal-and-state-counseling-registries",
+
+  "sources": {
+    "overview": "https://acet.ac.in/",
+    "placements": "https://acet.ac.in/?p=Placements",
+    "admissions": "https://aec.edu.in/admission/",
+    "fees": "https://acet.ac.in",
+    "campus": "https://acet.ac.in",
+    "contact": "https://acet.ac.in/?p=contactus"
+  }
+}

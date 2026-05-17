@@ -1,0 +1,160 @@
+{
+  "overview": "SRM University AP, located in Neerukonda, Mangalagiri Mandal, Amaravati, Andhra Pradesh, is a premier private university established in 2017 by the SRM Institute of Science and Technology (SRMIST) Trust. Situated in the capital region of Andhra Pradesh, the university is known for its modern infrastructure designed by international architects, globally qualified faculty, strong research ecosystem, international collaborations, and startup incubation initiatives.",
+  "accreditation": "Private University established under Andhra Pradesh State Legislature; recognized by UGC.",
+  "nirfRanking": {
+    "overall": "Rank Band 101-150 (2025/2026)",
+    "university": "Rank Band 101-150 nationally",
+    "engineering": "Rank Band 101-150 nationally"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech CSE / AI & ML",
+      "duration": "4 years",
+      "tuitionFee": "Rs. 3,50,000 - Rs. 4,00,000 per year (General Merit)"
+    },
+    {
+      "program": "B.Tech Core Branches (Civil, Mechanical, EEE, Semiconductor)",
+      "duration": "4 years",
+      "tuitionFee": "Rs. 2,50,000 per year"
+    },
+    {
+      "program": "B.Tech via AP EAPCET Convener Quota",
+      "duration": "4 years",
+      "tuitionFee": "Rs. 90,000 - Rs. 1,20,000 per year"
+    },
+    {
+      "program": "B.Sc / B.Com / BBA",
+      "duration": "3 years",
+      "tuitionFee": "Rs. 1,50,000 - Rs. 2,50,000 per year"
+    },
+    {
+      "program": "M.Tech Specializations",
+      "duration": "2 years",
+      "tuitionFee": "Rs. 1,50,000 per year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹7.64 LPA (2025)",
+    "medianSalary": "₹6.50 - ₹7.00 LPA (B.Tech Overall 2025)",
+    "highestSalary": "₹46.37 LPA (2025)",
+    "highestDomestic": "₹46.37 LPA",
+    "placementRate": "100% for eligible and registered B.Tech students; Core Engineering branches achieved 100% placement",
+    "totalOffers": "1,600+ offers (2025)",
+    "studentsPlaced": "728 students placed",
+    "companiesVisited": "393 recruiters",
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "PayPal",
+      "Uber",
+      "Barclays",
+      "TCS",
+      "Cognizant",
+      "Infosys",
+      "Bank of America"
+    ],
+    "marqueeOffers": "13 students secured Rs. 40+ LPA packages; 60 students secured Rs. 20+ LPA packages",
+    "top10PercentAverage": "Rs. 28.00 LPA"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "SRMJEEE",
+      "AP EAPCET (EAMCET)"
+    ],
+    "admissionProcess": "Admissions are based on SRMJEEE ranks or AP EAPCET counseling depending on the admission category and quota.",
+    "importantDates": "Admissions follow SRMJEEE phase schedules and AP EAPCET counseling timelines."
+  },
+  "cutoffs": {
+    "SRMJEEEExpectedClosingRanks2025": [
+      {
+        "branch": "Computer Science & Engineering (CSE)",
+        "round1ClosingRank": "~3,500",
+        "lastRoundClosingRank": "4,904"
+      },
+      {
+        "branch": "Artificial Intelligence & Machine Learning",
+        "round1ClosingRank": "~4,200",
+        "lastRoundClosingRank": "5,500"
+      },
+      {
+        "branch": "Electronics & Communication Engineering (ECE)",
+        "round1ClosingRank": "~1,748",
+        "lastRoundClosingRank": "4,976"
+      },
+      {
+        "branch": "Electrical & Electronics Engineering (EEE)",
+        "round1ClosingRank": "~4,404",
+        "lastRoundClosingRank": "6,430"
+      },
+      {
+        "branch": "Civil Engineering",
+        "round1ClosingRank": "~7,465",
+        "lastRoundClosingRank": "21,726"
+      }
+    ]
+  },
+  "hostelAndMess": {
+    "hostelFee": "Rs. 1,10,000 - Rs. 1,50,000 per year",
+    "messFee": "Included within hostel charges",
+    "roomTypes": [
+      "2-sharing",
+      "3-sharing",
+      "AC Rooms",
+      "Non-AC Rooms"
+    ],
+    "foodOptions": [
+      "Vegetarian",
+      "Non-Vegetarian",
+      "Multi-cuisine Dining"
+    ]
+  },
+  "scholarships": [
+    {
+      "name": "SRM Founder's Merit Scholarship",
+      "benefit": "100% tuition fee and hostel fee waiver for top SRMJEEE rank holders and outstanding board performers"
+    },
+    {
+      "name": "SRMJEEE Rank-Based Scholarship",
+      "benefit": "25% - 75% tuition fee concession based on entrance rank percentile"
+    },
+    {
+      "name": "M.Tech Fellowship",
+      "benefit": "Rs. 6,000 monthly stipend for eligible M.Tech students"
+    }
+  ],
+  "campus": {
+    "location": "Neerukonda, Mangalagiri Mandal, Amaravati, Andhra Pradesh",
+    "facilities": [
+      "Smart Classrooms",
+      "Research Laboratories",
+      "Innovation & Incubation Center",
+      "Central Library",
+      "Wi-Fi Enabled Campus",
+      "Sports Complex",
+      "Hostels",
+      "Cafeterias",
+      "Medical Facilities",
+      "Auditorium"
+    ],
+    "specialNote": "The campus infrastructure is internationally designed with strong emphasis on research, innovation, entrepreneurship, and global academic collaborations."
+  },
+  "contact": {
+    "address": "SRM University AP, Neerukonda, Mangalagiri Mandal, Amaravati, Andhra Pradesh, India",
+    "phone": "+91-863-2343000",
+    "email": "admissions@srmap.edu.in",
+    "admissionsEmail": "admissions@srmap.edu.in"
+  },
+  "website": "https://srmap.edu.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "compiled-data",
+  "sources": {
+    "overview": "https://srmap.edu.in",
+    "placements": "https://srmap.edu.in/placements",
+    "admissions": "https://srmap.edu.in/admissions",
+    "fees": "https://srmap.edu.in/admissions/fee-structure",
+    "scholarships": "https://srmap.edu.in/scholarships",
+    "campus": "https://srmap.edu.in/about-us",
+    "contact": "https://srmap.edu.in/contact-us"
+  }
+}

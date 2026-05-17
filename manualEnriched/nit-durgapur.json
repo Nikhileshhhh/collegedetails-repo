@@ -1,0 +1,90 @@
+{
+  "overview": "National Institute of Technology Durgapur (NIT Durgapur), established in 1960 in Durgapur, West Bengal, is an Institute of National Importance and one of the premier public technical institutions in Eastern India. The institute is widely recognized for its strong academic curriculum, research ecosystem, and excellent placement performance across engineering and technology disciplines.",
+  "accreditation": "Institute of National Importance; NAAC 'B++' accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹62,500 per semester for General/OBC students with family income above ₹5 lakh. ₹20,833 per semester for General/OBC students with income between ₹1 lakh and ₹5 lakh (66.6% tuition waiver). Full tuition waiver for SC/ST/PwD students and students with family income below ₹1 lakh."
+    },
+    {
+      "program": "M.Tech / MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 per semester."
+    },
+    {
+      "program": "M.Sc / MSW",
+      "duration": "2 years",
+      "tuitionFee": "₹7,500 per semester."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹12.61 LPA (Overall B.Tech Average, 2025)",
+    "medianSalary": "Not officially specified",
+    "highestSalary": "₹80.00 LPA (B.Tech 2024-25 Batch)",
+    "highestDomestic": "₹80.00 LPA",
+    "placementRate": "Overall: 82% (2025)",
+    "totalOffers": "589+ offers (2024-25 Batch)",
+    "companiesVisited": "Microsoft, Amazon, Adobe, Oracle, Qualcomm, Wells Fargo, PwC, Publicis Sapient, Adani Group, TCS",
+    "internationalOffers": "Multiple high-value international and global offers reported across top branches",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Adobe",
+      "Oracle",
+      "Qualcomm",
+      "Wells Fargo",
+      "PwC",
+      "Publicis Sapient",
+      "Adani Group",
+      "TCS"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "IIT JAM",
+      "CAT/MAT/CMAT"
+    ],
+    "admissionProcess": "B.Tech admissions are conducted through JoSAA counseling based on JEE Main ranks. Postgraduate admissions are based on GATE, IIT JAM, and national-level management entrance examinations depending on the program.",
+    "importantDates": "Admission timelines follow JoSAA, CCMN, CCMT, and institute academic schedules."
+  },
+  "campus": {
+    "area": "Approximately 187 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Laboratories",
+      "Medical Unit",
+      "Sports Complex",
+      "Gymnasium",
+      "Auditorium",
+      "Computer Centre",
+      "Wi-Fi Campus",
+      "Innovation and Incubation Facilities"
+    ],
+    "specialNote": "Hostel seat rent and establishment charges are approximately ₹11,500 per semester. Mess charges range between ₹18,000–₹22,000 per semester depending on consumption. One-time admission fee is approximately ₹15,500 including refundable deposits."
+  },
+  "contact": {
+    "phone": "+91-343-275-2000",
+    "email": "registrar@nitdgp.ac.in",
+    "address": "National Institute of Technology Durgapur, Mahatma Gandhi Avenue, Durgapur – 713209, West Bengal, India",
+    "admissionsEmail": "admission@nitdgp.ac.in"
+  },
+  "website": "https://nitdgp.ac.in",
+  "lastVerified": "2026-05-13",
+  "verifiedBy": "official-website-and-placement-records",
+  "sources": {
+    "overview": "https://nitdgp.ac.in",
+    "fees": "https://nitdgp.ac.in/p/fees-and-scholarships",
+    "placements": "https://nitdgp.ac.in/p/training-and-placement",
+    "admissions": "https://nitdgp.ac.in/p/admissions",
+    "campus": "https://nitdgp.ac.in/p/about-institute",
+    "contact": "https://nitdgp.ac.in/p/contact"
+  },
+  "rankings": {
+    "nirfOverall2025": "49"
+  }
+}

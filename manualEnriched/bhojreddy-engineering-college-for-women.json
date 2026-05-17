@@ -1,0 +1,89 @@
+{
+  "overview": "Bhoj Reddy Engineering College for Women (BRECW), established in 1997, is a private women's engineering college sponsored by Sangam Lakshmibai Vidyapeeth. It is situated in the heart of Hyderabad and is dedicated to empowering women through high-quality technical education and professional development.",
+  "accreditation": "Accredited by NAAC with an 'A' Grade. Approved by the All India Council for Technical Education (AICTE), New Delhi, and affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech in Computer Science and Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹3,00,000 - ₹3,12,000",
+      "eligibility": "10+2 with 45% aggregate in PCM (40% for reserved) + TS EAPCET"
+    },
+    {
+      "course": "B.Tech in Information Technology",
+      "duration": "4 Years",
+      "totalFees": "₹3,00,000 - ₹3,12,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAPCET"
+    },
+    {
+      "course": "B.Tech in CSE (Artificial Intelligence and Machine Learning)",
+      "duration": "4 Years",
+      "totalFees": "₹3,00,000 - ₹3,12,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAPCET"
+    },
+    {
+      "course": "B.Tech in Electronics and Communication Engineering",
+      "duration": "4 Years",
+      "totalFees": "₹3,00,000 - ₹3,12,000",
+      "eligibility": "10+2 with 45% aggregate in PCM + TS EAPCET"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹60,000 - ₹80,000",
+      "eligibility": "Graduation with 50% aggregate + TS ICET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹4.5 LPA",
+    "medianSalary": "₹4.0 LPA",
+    "highestSalary": "₹32.0 LPA",
+    "highestDomestic": "₹32.0 LPA",
+    "placementRate": "75% - 85%",
+    "totalOffers": "350+",
+    "companiesVisited": "50+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "Accenture",
+      "Tech Mahindra",
+      "Capgemini",
+      "Optum"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET (EAMCET)",
+      "JEE Main",
+      "TS ICET (for MBA)"
+    ],
+    "admissionProcess": "70% of seats (Category A) are filled via TS EAPCET counseling. 30% of seats (Category B/Management) are filled based on merit in JEE Main or 10+2 marks as per TSCHE norms.",
+    "importantDates": "TS EAPCET 2026: May 9 - May 11, 2026; Result: May 17, 2026; Counselling: June - July 2026."
+  },
+  "campus": {
+    "area": "6.5 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "State-of-the-art Computer Labs",
+      "Digital Library & Reading Halls",
+      "Ramdev Convention Center (300 capacity)",
+      "Open Air Theatre (1200 capacity)",
+      "Canteen",
+      "Indoor & Outdoor Sports Courts (Basketball, Volleyball, etc.)",
+      "Campus Radio Station"
+    ],
+    "specialNote": "The campus is known for its strict discipline and safe environment for women. While it is located in a busy part of the city (Saidabad), the internal campus is noted for being lush green and pollution-free."
+  },
+  "contact": {
+    "phone": "040-24537282, +91 9490751910",
+    "email": "principal@brecw.ac.in",
+    "address": "Vinaynagar, I S Sadan Crossroads, Saidabad, Hyderabad, Telangana - 500059",
+    "admissionsEmail": "principal.brecw32@gmail.com"
+  },
+  "website": "http://www.brecw.ac.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

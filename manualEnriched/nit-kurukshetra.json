@@ -1,0 +1,105 @@
+{
+  "overview": "National Institute of Technology Kurukshetra (NIT Kurukshetra / NITKKR), located in Thanesar, Kurukshetra, Haryana, is a premier autonomous public technical and research university established in 1963 as a Regional Engineering College (REC). It was elevated to an Institute of National Importance under the NIT Act and is widely recognized for excellence in engineering education, technical research, strong industry collaborations, and a vast alumni network across India.",
+  "accreditation": "Institute of National Importance under the NIT Act; undergraduate technical programs aligned with national Tier-1 engineering education benchmarks.",
+  "nirfRanking": {
+    "overallCategory": "151–200 Rank Band nationally (NIRF 2025)"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,25,000 per year for General/OBC students with family income above ₹5 lakh. Students with income between ₹1–5 lakh receive approximately 2/3 tuition fee remission (~₹41,666 per year). Full tuition waiver for students with income below ₹1 lakh and for SC/ST/PwD categories. Additional institutional charges approximately ₹35,000 annually."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Varies by specialization. GATE-qualified students admitted through CCMT are eligible for ₹12,400 monthly fellowship."
+    },
+    {
+      "program": "MBA / MCA",
+      "duration": "2–3 years",
+      "tuitionFee": "₹1,00,000 – ₹1,15,000 per year depending on the program structure."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹13.21 LPA (Overall B.Tech Average, 2025)",
+    "medianSalary": "₹10.00 LPA (Overall B.Tech Median, 2025)",
+    "highestSalary": "₹63.12 LPA (B.Tech Overall, 2025)",
+    "highestDomestic": "₹63.12 LPA",
+    "highestMTechSalary": "₹44.74 LPA (Cyber Security, 2025)",
+    "placementRate": "Overall B.Tech: 85.90%",
+    "branchPlacementRates": {
+      "Information Technology": "97.58%",
+      "Computer Engineering": "88.14%"
+    },
+    "totalOffers": "900 placement offers for 1,124 eligible students during the 2025 placement cycle",
+    "companiesVisited": "Google, Microsoft, Amazon, ICICI Bank, L&T, Deloitte, Shiksha, Public Sector Undertakings (PSUs)",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "ICICI Bank",
+      "L&T",
+      "Deloitte",
+      "Shiksha",
+      "PSUs"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "NIMCET",
+      "CAT"
+    ],
+    "admissionProcess": "Admissions to B.Tech programs are conducted through JoSAA/CSAB counseling based on JEE Main ranks. M.Tech admissions are through CCMT using GATE scores. MCA and MBA admissions follow national-level entrance examinations and institute counseling procedures.",
+    "importantDates": "Admissions follow the official JoSAA, CCMT, and institute academic calendars."
+  },
+  "campus": {
+    "area": "300 acres",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Computer Centre",
+      "Research Laboratories",
+      "Sports Complex",
+      "Auditorium",
+      "Medical Facilities",
+      "Wi-Fi Campus",
+      "Innovation & Research Centers"
+    ],
+    "hostelFees": "₹14,000 – ₹18,000 annually depending on room allocation and occupancy type.",
+    "messCharges": "₹40,000 – ₹46,000 annually managed by hostel committees.",
+    "specialNote": "The campus is known for advanced engineering infrastructure, strong research ecosystem, and extensive technical development facilities across core engineering disciplines."
+  },
+  "scholarships": {
+    "availableScholarships": [
+      "OP Jindal Engineering and Management Scholarship",
+      "Post-Matric Scholarship Scheme",
+      "M.Tech GATE Fellowship"
+    ],
+    "details": {
+      "OP Jindal Scholarship": "Awarded to top-performing engineering and management students based on academic merit.",
+      "PostMatricScholarship": "Provides tuition reimbursement and financial assistance for eligible SC/ST/minority students through NSP.",
+      "GATEFellowship": "₹12,400 per month for eligible M.Tech students admitted through CCMT with valid GATE scores."
+    }
+  },
+  "contact": {
+    "phone": "+91-1744-233208",
+    "email": "registrar@nitkkr.ac.in",
+    "address": "National Institute of Technology Kurukshetra, Thanesar, Kurukshetra – 136119, Haryana, India",
+    "admissionsEmail": "admissions@nitkkr.ac.in"
+  },
+  "website": "https://nitkkr.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-reports",
+  "sources": {
+    "overview": "https://nitkkr.ac.in",
+    "fees": "https://nitkkr.ac.in",
+    "placements": "https://nitkkr.ac.in/placement-statistics/",
+    "admissions": "https://nitkkr.ac.in/admission-2021/",
+    "campus": "https://nitkkr.ac.in/campus-infra/",
+    "contact": "https://nitkkr.ac.in/contact-us-5/"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "overview": "JAIN (Deemed to be University), Bangalore was established in 1990. Known for its multidisciplinary approach. JAIN offers engineering, science, commerce, and design programs across multiple campuses in Bangalore.",
+  "accreditation": "NAAC A++ Grade",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (all branches)",
+      "duration": "4 Years",
+      "tuitionFee": "₹2,20,000/year"
+    },
+    {
+      "program": "M.Tech (various)",
+      "duration": "2 Years",
+      "tuitionFee": "Varies"
+    },
+    {
+      "program": "Ph.D",
+      "duration": "4-5 Years",
+      "tuitionFee": "Varies"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.50 LPA",
+    "medianSalary": "",
+    "highestSalary": "₹15 LPA",
+    "highestDomestic": "₹15 LPA",
+    "placementRate": "70%",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Microsoft",
+      "Amazon",
+      "Cognizant",
+      "Capgemini",
+      "Accenture",
+      "Deloitte",
+      "L&T"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JAIN Entrance (B.Tech)",
+      "JEE Mains (B.Tech)"
+    ],
+    "admissionProcess": "See official website for admission process details.",
+    "importantDates": "See official website for dates."
+  },
+  "campus": {
+    "area": "50+ acres",
+    "facilities": [
+      "Library",
+      "Labs",
+      "Hostels",
+      "Sports Facilities",
+      "Health Centre",
+      "Wi-Fi Campus",
+      "Canteen",
+      "Transportation"
+    ],
+    "specialNote": ""
+  },
+  "contact": {
+    "phone": "+91-80-4343 2300",
+    "email": "",
+    "address": "44/4, District Fund Road, Jayanagar 9th Block, Bangalore – 560069",
+    "admissionsEmail": ""
+  },
+  "website": "https://www.jainuniversity.ac.in",
+  "lastVerified": "2026-04-16",
+  "verifiedBy": "official-website"
+}

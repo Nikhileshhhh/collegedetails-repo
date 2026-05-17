@@ -1,0 +1,78 @@
+{
+  "overview": "Dr. NTR College of Agricultural Engineering (CAE), Bapatla, established in 1983, is a constituent college of Acharya N.G. Ranga Agricultural University (ANGRAU). It is the oldest and one of the most prestigious agricultural engineering colleges in Andhra Pradesh, dedicated to the development of farm machinery, soil and water conservation, and post-harvest technology. The campus is known for its research-driven academic environment and its historical significance as a leader in technical agricultural education.",
+  "accreditation": "Accredited by ICAR (Indian Council of Agricultural Research). Affiliated with Acharya N.G. Ranga Agricultural University (ANGRAU). Approved by AICTE.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (Agricultural Engineering)",
+      "duration": "4 Years",
+      "totalFees": "₹40,000 - ₹50,000 (Approx. for Government Quota)",
+      "eligibility": "10+2 with 45-50% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (Farm Machinery & Power Engineering, Soil & Water Engineering, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹56,000 - ₹68,000",
+      "eligibility": "B.Tech in Agricultural Engineering + GATE / AP PGECET score"
+    },
+    {
+      "course": "Ph.D. (Agricultural Engineering)",
+      "duration": "3 Years",
+      "totalFees": "Varies by specialization",
+      "eligibility": "Post-graduation in relevant field with 50% aggregate"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.0 LPA - ₹4.5 LPA",
+    "medianSalary": "₹3.5 LPA - ₹5.0 LPA",
+    "highestSalary": "₹8.5 LPA - ₹12.0 LPA",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "80% - 90%",
+    "totalOffers": "100+ (Across recent cycles)",
+    "companiesVisited": "25+",
+    "internationalOffers": "Occasional (primarily via global NGOs or food tech firms)",
+    "topRecruiters": [
+      "John Deere",
+      "Mahindra & Mahindra",
+      "Tractors and Farm Equipment Limited (TAFE)",
+      "Jain Irrigation Systems",
+      "ITC Limited",
+      "Netafim",
+      "Escorts Group",
+      "Kubota"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "ICAR AIEEA",
+      "GATE"
+    ],
+    "admissionProcess": "70% of seats are under the Convener Quota (Category A) based on AP EAPCET ranks. The university offers a specific reservation for candidates from agricultural backgrounds (Farmer Quota). Counseling is conducted by ANGRAU. National quota seats (15-20%) are filled through ICAR AIEEA.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; Registration Deadline: April 2026; Results: Late May 2026; Counseling: July 2026."
+  },
+  "campus": {
+    "area": "150+ Acres",
+    "facilities": [
+      "Farm Machinery Testing & Training Center",
+      "Advanced Irrigation & Soil Engineering Labs",
+      "Post-Harvest & Food Processing Research Units",
+      "Meteorological Observatory",
+      "Experimental Research Farm (over 100 acres)",
+      "Separate Hostels for Boys and Girls with Wi-Fi",
+      "Central Library with Digital Resource Center",
+      "Extensive Sports Complex and Gymnasium",
+      "Hygienic Student-managed Canteen"
+    ],
+    "specialNote": "The college is a recognized center for 'Farm Machinery Testing' for the Government of India. It also hosts the RAWE (Rural Agricultural Work Experience) program, which provides students with intensive on-field residency and interaction with the farming community."
+  },
+  "contact": {
+    "phone": "08643-225201, +91 8643 24023",
+    "email": "deanagengg@angrau.ac.in",
+    "address": "Bapatla, Guntur District, Andhra Pradesh - 522101",
+    "admissionsEmail": "agadbpt@gmail.com"
+  },
+  "website": "https://agcbapatla.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

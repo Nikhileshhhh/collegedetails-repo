@@ -1,0 +1,98 @@
+{
+  "overview": "Manipal Institute of Technology (MIT Manipal), a premier constituent institute of Manipal Academy of Higher Education (MAHE), is known for its strong industry connections, modern infrastructure, and high placement rates in IT and core engineering sectors.",
+  "accreditation": "NAAC A++ Grade (Cycle 3, CGPA 3.65/4.0). MAHE is a deemed-to-be university. NIRF 2024: 61st Engineering, 4th University Category.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech CSE/IT/CCE (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹4,80,000–₹5,20,000/year (~₹2,40,000/sem). Total 4-year: ~₹19.5L. One-time caution deposit ~₹10,000."
+    },
+    {
+      "program": "B.Tech ECE/EEE (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹4,30,000–₹4,60,000/year (~₹2,15,000/sem). Total 4-year: ~₹17.5L."
+    },
+    {
+      "program": "B.Tech Mech/Civil/Others (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "₹3,50,000–₹4,00,000/year (~₹1,75,000/sem). Total 4-year: ~₹14.5L."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "₹2,20,000/year (~₹1,10,000/sem)."
+    },
+    {
+      "program": "MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹2,40,000/year (~₹1,20,000/sem)."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹12.31 LPA (2024–25 ongoing); ₹10.49 LPA (2023–24)",
+    "medianSalary": "₹10.05 LPA (2025); ₹8.50 LPA (2024)",
+    "highestSalary": "₹2.19 CPA (Intl, 2024–25)",
+    "highestDomestic": "₹69.25 LPA (2024–25); ₹54.75 LPA (2023–24)",
+    "placementRate": "Overall ~86% (2024–25); ~73% (2023–24)",
+    "totalOffers": "1,150+ offers (2025 batch so far)",
+    "companiesVisited": "Microsoft, Amazon, Goldman Sachs, Samsung, Cisco, Oracle, Deutsche Bank, Wells Fargo",
+    "internationalOffers": "International packages up to ₹2.19 Crore recorded",
+    "branchWiseHighlights": [
+      { "branch": "Computer Science (CSE)", "placementRate": "90–95%" },
+      { "branch": "Information Technology (IT)", "placementRate": "85–90%" },
+      { "branch": "MCA", "placementRate": "~85%" },
+      { "branch": "Electronics & Communication (ECE)", "placementRate": "80–85%" }
+    ],
+    "keyTrends": {
+      "highestPackageTrend": "Domestic highest: ₹54.75 LPA (2023–24) → ₹69.25 LPA (2024–25); Intl: ₹2.19 CPA",
+      "top50Avg": "Top 50 offers avg: ₹30.70 LPA (2025)"
+    },
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Goldman Sachs",
+      "Samsung",
+      "Cisco",
+      "Oracle",
+      "Deutsche Bank",
+      "Wells Fargo"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": ["MET (Manipal Entrance Test)"],
+    "admissionProcess": "Admissions based on MET rank followed by counseling conducted by MAHE.",
+    "importantDates": "Follows MET exam schedule and MAHE counseling timeline."
+  },
+  "campus": {
+    "area": "Part of MAHE Manipal campus (~600+ acres)",
+    "facilities": [
+      "Boys & Girls Hostels",
+      "Central Library",
+      "Innovation Centre",
+      "Labs & Research Facilities",
+      "Sports Complex",
+      "Medical Facilities",
+      "Wi-Fi Enabled Campus",
+      "Auditoriums",
+      "Food Courts"
+    ],
+    "specialNote": "Hostel: ₹45,000–₹1,80,000/year (by room type). Mess: ~₹46,000/year. Utilities: ~₹35,000. Semester hostel total: ~₹65,000–₹1,30,000. Scholarships: Top 100 MET: 100% waiver; 101–500: 50%; 501–5000: 20%. AICTE TFW: 5% seats (income < ₹8L)."
+  },
+  "contact": {
+    "phone": "+91-820-292-3050",
+    "email": "admissions@manipal.edu",
+    "address": "Manipal Institute of Technology, Manipal – 576104, Karnataka, India",
+    "admissionsEmail": "admissions@manipal.edu"
+  },
+  "website": "https://manipal.edu/mit.html",
+  "lastVerified": "2026-05-01",
+  "verifiedBy": "compiled-data",
+  "sources": {
+    "overview": "https://manipal.edu/mit.html",
+    "fees": "https://manipal.edu/mit/admissions/fees.html",
+    "placements": "https://manipal.edu/mit/placements.html",
+    "admissions": "https://manipal.edu/admissions.html",
+    "campus": "https://manipal.edu/mit/about.html",
+    "scholarships": "https://manipal.edu/admissions/scholarships.html"
+  }
+}

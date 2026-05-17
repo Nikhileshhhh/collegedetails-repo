@@ -1,0 +1,89 @@
+{
+  "overview": "Bonam Venkata Chalamayya Institute of Technology and Science (BVCITS), established in 2002, is a premier private engineering college located in Batlapalem, Amalapuram. It is part of the BVC Group of Institutions and is known for its strong academic focus in the Konaseema region of Andhra Pradesh.",
+  "accreditation": "Accredited by NAAC with an 'A' Grade and NBA. Approved by AICTE and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, AI&ML, AI&DS, ECE, EEE, ME, Civil)",
+      "duration": "4 Years",
+      "totalFees": "₹2,11,200",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAMCET"
+    },
+    {
+      "course": "MBA",
+      "duration": "2 Years",
+      "totalFees": "₹86,600",
+      "eligibility": "Graduation with 50% aggregate + AP ICET"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹85,400",
+      "eligibility": "Graduation with Maths at 10+2 or Degree level + AP ICET"
+    },
+    {
+      "course": "M.Tech (Various Specializations)",
+      "duration": "2 Years",
+      "totalFees": "₹1,00,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE/AP PGECET"
+    },
+    {
+      "course": "Diploma (Polytechnic)",
+      "duration": "3 Years",
+      "totalFees": "₹72,100",
+      "eligibility": "10th standard pass + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹4.0 LPA",
+    "medianSalary": "₹3.0 LPA",
+    "highestSalary": "₹11.0 LPA",
+    "highestDomestic": "₹11.0 LPA",
+    "placementRate": "70% - 80%",
+    "totalOffers": "500+",
+    "companiesVisited": "40+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "Capgemini",
+      "Accenture",
+      "HCL Technologies",
+      "DXC Technology",
+      "Tech Mahindra"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAMCET (EAPCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "AP POLYCET"
+    ],
+    "admissionProcess": "Admissions are conducted through APSCHE counseling. 70% of seats are Convener Quota (Category A) based on entrance ranks, and 30% are Management Quota (Category B) based on merit. Lateral entry is available for Diploma holders via AP ECET.",
+    "importantDates": "AP EAMCET 2026: May 2026; AP ICET 2026: May 2026; Counseling: June-July 2026."
+  },
+  "campus": {
+    "area": "Acres of lush green landscape",
+    "facilities": [
+      "Modern Computer Labs",
+      "Digital Library",
+      "Wi-Fi Enabled Campus",
+      "Separate Hostels for Boys and Girls",
+      "Sports Complex",
+      "Canteen",
+      "Transport Facility (Amalapuram & surrounding areas)"
+    ],
+    "specialNote": "The institute is highly regarded for its disciplined environment and is located near the scenic town of Amalapuram. It offers extensive scholarship programs including Government Fee Reimbursement and merit-based incentives."
+  },
+  "contact": {
+    "phone": "08856-235416, +91 9494192021",
+    "email": "bvcits@gmail.com",
+    "address": "Batlapalem, Amalapuram, East Godavari District, Andhra Pradesh - 533221",
+    "admissionsEmail": "principal.bvcits@gmail.com"
+  },
+  "website": "https://bvcits.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,86 @@
+{
+  "overview": "BVC College of Engineering (BVCR), established in 2009 by the BVC Educational Society, is a prominent autonomous technical institution located in Palacherla, Rajamahendravaram. Designed on a 'Gurukulam' model, the college emphasizes a serene and pollution-free learning environment with modern infrastructure and industry-aligned training.",
+  "accreditation": "UGC Autonomous Institution. Accredited by NAAC with an 'A' Grade. Approved by AICTE and affiliated with Jawaharlal Nehru Technological University (JNTU), Kakinada. It is also ISO certified and recognized by NBA.",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, ECE, EEE, IT, Civil, Mechanical)",
+      "duration": "4 Years",
+      "totalFees": "₹2,20,000 (Approx. ₹55,000 per year)",
+      "eligibility": "10+2 with 50% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, VLSI, Structural Engg, Power Electronics, Thermal Engg)",
+      "duration": "2 Years",
+      "totalFees": "₹56,000",
+      "eligibility": "B.E./B.Tech with 50% aggregate + GATE/AP PGECET"
+    },
+    {
+      "course": "MCA",
+      "duration": "2 Years",
+      "totalFees": "₹50,000",
+      "eligibility": "Bachelor's degree with 50% aggregate + AP ICET"
+    },
+    {
+      "course": "Diploma (CSE, ECE, EEE, Mechanical)",
+      "duration": "3 Years",
+      "totalFees": "₹25,000 (Per year)",
+      "eligibility": "10th standard pass with 50% + AP POLYCET"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.5 LPA - ₹5.0 LPA",
+    "medianSalary": "₹3.5 LPA",
+    "highestSalary": "₹12.0 LPA (2025-26 cycle)",
+    "highestDomestic": "₹12.0 LPA",
+    "placementRate": "80% - 85%",
+    "totalOffers": "350+",
+    "companiesVisited": "45+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "HCL Technologies",
+      "Accenture",
+      "Cognizant",
+      "Capgemini",
+      "Tech Mahindra",
+      "Amazon"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE",
+      "AP POLYCET",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are categorized into Category A (Convener Quota - 70%) and Category B (Management Quota - 30%). Convener seats are filled via APSCHE web counseling based on state-level entrance ranks. Management seats are filled based on merit or JEE scores.",
+    "importantDates": "AP EAPCET 2026: May 2026; AP ICET 2026: May 2026; AP PGECET 2026: May-June 2026."
+  },
+  "campus": {
+    "area": "10+ Acres",
+    "facilities": [
+      "ICT Enabled Smart Classrooms",
+      "Advanced Engineering Labs",
+      "Digital Library with International Journals",
+      "Separate Hostels for Boys and Girls",
+      "Sports Ground & Gymnasium",
+      "Auditorium & Seminar Halls",
+      "Cafeteria",
+      "Transport Facility (Rajahmundry & surrounding areas)"
+    ],
+    "specialNote": "The campus has signed MOUs with global organizations like Cambridge, Oracle, ServiceNow, and ICT Academy to provide professional certifications and bridge the skill gap between academia and industry."
+  },
+  "contact": {
+    "phone": "+91 9849466709, +91 7093333144",
+    "email": "enquiry@bvcgroup.in",
+    "address": "Palacherla, Rajanagaram Mandal, Rajamahendravaram (Rajahmundry), Andhra Pradesh - 533102",
+    "admissionsEmail": "bvcr.admissions@bvcgroup.in"
+  },
+  "website": "https://bvcr.edu.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

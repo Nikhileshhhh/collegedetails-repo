@@ -1,0 +1,105 @@
+{
+  "overview": "Motilal Nehru National Institute of Technology Prayagraj (MNNIT Allahabad), located in Teliarganj, Prayagraj, Uttar Pradesh, is a premier autonomous public technical institute established in 1961 as a Regional Engineering College (REC). It was elevated to an Institute of National Importance under the NIT Act of 2007. MNNIT is renowned for launching India’s first undergraduate Computer Science program in 1976 and is widely recognized for its strong research ecosystem, industry collaborations, and national academic reputation.",
+  "accreditation": "Institute of National Importance under the NIT Act, 2007; Autonomous Public Technical Institution.",
+  "nirfRankings": {
+    "engineering": "#62 in India (2025)",
+    "overall": "151–200 Rank Band (2025)",
+    "management": "#183 in India (2025)"
+  },
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (General/OBC - Family Income > ₹5L)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,25,000 per year (₹62,500 per semester) + ~₹38,000 institute charges."
+    },
+    {
+      "program": "B.Tech (General/OBC - Family Income ₹1L–₹5L)",
+      "duration": "4 years",
+      "tuitionFee": "~₹41,666 per year after 2/3 tuition fee remission + institute charges."
+    },
+    {
+      "program": "B.Tech (SC/ST/PwD or Income < ₹1L)",
+      "duration": "4 years",
+      "tuitionFee": "100% tuition fee waiver. Only institute and hostel/mess charges applicable."
+    },
+    {
+      "program": "M.Tech / MBA / MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹1,00,000 – ₹1,20,000 per year depending on program."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹20.43 LPA (B.Tech Overall 2025)",
+    "medianSalary": "₹12.60 LPA (B.Tech Overall 2025)",
+    "highestSalary": "₹72.00 LPA (2025)",
+    "highestDomestic": "₹72.00 LPA",
+    "mtechHighestSalary": "₹52.57 LPA (2025)",
+    "mcaHighestSalary": "₹38.12 LPA (2025)",
+    "topSpecialisationAverage": "CSE Average: ₹27.72 LPA (2025)",
+    "placementRate": "B.Tech Overall: 83.29%",
+    "csePlacementRate": "96.75%",
+    "mtechPlacementRate": "87.56%",
+    "totalOffers": "966 job offers for 844 eligible B.Tech students (2025)",
+    "companiesVisited": "558 recruiters visited the campus during the 2025 placement cycle.",
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Accenture",
+      "Infosys",
+      "Goldman Sachs",
+      "Samsung",
+      "EY",
+      "Tata Power"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "JEE Main",
+      "GATE",
+      "NIMCET",
+      "CAT"
+    ],
+    "admissionProcess": "Admissions are conducted through national-level entrance examinations followed by JoSAA, CCMT, NIMCET, or institute-level counseling depending on the program.",
+    "importantDates": "Admissions generally follow JoSAA, CCMT, and NIMCET national counseling schedules."
+  },
+  "campus": {
+    "location": "Teliarganj, Prayagraj, Uttar Pradesh",
+    "hostelCharges": "₹24,000 – ₹25,000 per year (~₹12,000 per semester).",
+    "messCharges": "~₹50,000 per year (~₹25,000 per semester).",
+    "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Medical Facilities",
+      "Sports Complex",
+      "Wi-Fi Enabled Campus",
+      "Computer Centre",
+      "Research Laboratories",
+      "Auditorium",
+      "Innovation & Entrepreneurship Support"
+    ],
+    "specialNote": "The institute operates a multi-cuisine mess system with separate vegetarian and non-vegetarian meal cycles. Tuition waivers are available for eligible income and reserved category students."
+  },
+  "scholarships": {
+    "centralSectorScholarship": "Eligible SC/ST students can receive full financial support including tuition fees, hostel expenses, and books.",
+    "nspScholarships": "State and corporate scholarships including OP Jindal Engineering Scholarships are available through the National Scholarship Portal.",
+    "mtechStipend": "GATE-qualified M.Tech students receive a stipend of ₹12,400 per month."
+  },
+  "contact": {
+    "address": "Motilal Nehru National Institute of Technology Allahabad, Teliarganj, Prayagraj – 211004, Uttar Pradesh, India",
+    "phone": "+91-532-254-5404",
+    "email": "registrar@mnnit.ac.in",
+    "admissionsEmail": "academic@mnnit.ac.in"
+  },
+  "website": "https://www.mnnit.ac.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-reports",
+  "sources": {
+    "overview": "https://www.mnnit.ac.in",
+    "fees": "https://www.mnnit.ac.in/index.php/admission/fee-structure",
+    "placements": "https://www.mnnit.ac.in/index.php/placement",
+    "admissions": "https://www.mnnit.ac.in/index.php/admission",
+    "campus": "https://www.mnnit.ac.in/index.php/home/about",
+    "contact": "https://www.mnnit.ac.in/index.php/home/contact"
+  }
+}

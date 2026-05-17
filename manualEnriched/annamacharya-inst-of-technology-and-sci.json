@@ -1,0 +1,73 @@
+{
+  "overview": "Annamacharya Institute of Technology and Sciences, Hayathnagar, is a private engineering campus at Piglipur/Blatasingaram in the Hayathnagar side of Hyderabad. Published admissions directories tied to the official website describe it as a JNTUH-affiliated institute of the Annamacharya group serving engineering and management students in Ranga Reddy district.",
+  "accreditation": "AICTE approved; affiliated to JNTUH; published Telangana admissions directories list the institute as autonomous and NAAC-accredited.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Civil, CSE, CSE (Data Science), CSE (AI and ML), ECE, EEE, Mechanical",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 75,000/year (current TG EAPCET counseling data)"
+    },
+    {
+      "program": "M.Tech (various specializations)",
+      "duration": "2 Years",
+      "tuitionFee": "Fee not clearly published on current public pages"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "Fee not clearly published on current public pages"
+    },
+    {
+      "program": "MCA",
+      "duration": "2 Years",
+      "tuitionFee": "Fee not clearly published on current public pages"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "",
+    "highestDomestic": "",
+    "placementRate": "",
+    "totalOffers": "",
+    "companiesVisited": "",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Capgemini",
+      "Amazon",
+      "TCS",
+      "Oracle",
+      "Wipro"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TG EAPCET",
+      "TG ECET",
+      "TG PGECET / GATE",
+      "TG ICET"
+    ],
+    "admissionProcess": "B.Tech admissions are handled through TG EAPCET counseling, with lateral-entry admissions through TG ECET. Published admissions pages for the institute also reference postgraduate and management admissions through the relevant Telangana entrance routes.",
+    "importantDates": "TG EAPCET, TG ECET, TG ICET, and TG PGECET schedules are notified by Telangana authorities each cycle; institute-level updates are typically reflected through the official website and admissions directories."
+  },
+  "campus": {
+    "area": "",
+    "facilities": [
+      "Library",
+      "Academic laboratories",
+      "Canteen",
+      "Transportation",
+      "Sports facilities"
+    ],
+    "specialNote": "Published pages place the campus at Piglipur, Blatasingaram, Hayathnagar, Hyderabad."
+  },
+  "contact": {
+    "phone": "+91-8415-201689, +91-9848924706",
+    "email": "principalaith@gmail.com",
+    "address": "Piglipur, Blatasingaram, Hayathnagar, Hyderabad - 501512, Telangana, India",
+    "admissionsEmail": ""
+  },
+  "website": "https://aits-hyd.org/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "google-assisted"
+}

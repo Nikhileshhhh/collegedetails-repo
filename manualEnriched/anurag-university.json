@@ -1,0 +1,115 @@
+{
+  "overview": "Anurag University, located on Ghatkesar Road in Venkatapur, Hyderabad, Telangana, is a premier multi-disciplinary private state university established in 2020. Originally founded in 2002 as CVSR College of Engineering under the Anurag Group of Institutions, it was granted private university status by the Government of Telangana. The university is widely recognized for its 110-acre smart campus, industry-oriented engineering programs, strong research ecosystem, innovation incubators, and entrepreneurship-focused education model.",
+  "accreditation": "NAAC Grade 'A'; Recognized under Sections 2(f) and 12(B) of the UGC Act. Flagship B.Tech programs accredited by NBA under Tier-I parameters.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship Programs (CSE, AI, IT, ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,85,000 per year. Additional ₹10,000 applicable for Honors/Minors specializations."
+    },
+    {
+      "program": "B.Tech Core Programs (Civil, Mechanical, EEE)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,20,000 – ₹1,60,000 per year."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹1,50,000 – ₹2,00,000 per year. Total course fee approximately ₹3 – ₹4 Lakhs."
+    },
+    {
+      "program": "BBA & B.Pharma",
+      "duration": "3–4 years",
+      "tuitionFee": "₹1,10,000 – ₹1,50,000 per year."
+    },
+    {
+      "program": "M.Tech Specializations (AI, Cyber Security)",
+      "duration": "2 years",
+      "tuitionFee": "₹1,00,000 per year."
+    },
+    {
+      "program": "M.Tech Core Streams (VLSI, Structural, Power)",
+      "duration": "2 years",
+      "tuitionFee": "₹57,000 per year."
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹6.00 LPA (Overall University Average 2025)",
+    "medianSalary": "₹4.20 LPA (MBA/Postgraduate Programs 2025)",
+    "highestSalary": "₹32.00 LPA (2025 Placement Cycle)",
+    "highestDomestic": "₹53.00 LPA (Historical Highest Package)",
+    "placementRate": "B.Tech Technical Streams: 90% – 97%",
+    "totalOffers": "1,600+ job offers and 600+ internship offers during the 2025 placement drive",
+    "companiesVisited": "PwC, Amazon, JPMorgan Chase, Microsoft, Accenture, Capgemini, LTI Mindtree, Cognizant",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "PwC",
+      "Amazon",
+      "JPMorgan Chase",
+      "Microsoft",
+      "Accenture",
+      "Capgemini",
+      "LTI Mindtree",
+      "Cognizant"
+    ],
+    "internshipHighlights": "Top internship stipend reached ₹1.25 Lakh per month"
+  },
+  "admissions": {
+    "examsAccepted": [
+      "TS EAPCET",
+      "JEE Main",
+      "GATE",
+      "CAT",
+      "MAT",
+      "Anurag CET"
+    ],
+    "admissionProcess": "Admissions are based on entrance examination performance followed by counseling or direct university admission procedures depending on the program.",
+    "importantDates": "Admissions generally follow TS EAPCET, JEE Main, GATE, and university academic admission schedules."
+  },
+  "campus": {
+    "area": "110 acres",
+    "facilities": [
+      "Smart Campus Infrastructure",
+      "Boys Hostel",
+      "Girls Hostel",
+      "Central Library",
+      "Research Labs",
+      "Innovation & Incubation Centers",
+      "Sports Complex",
+      "Auditoriums",
+      "Wi-Fi Campus",
+      "Cafeterias",
+      "Medical Facilities",
+      "Transportation"
+    ],
+    "specialNote": "Mess charges are integrated into hostel fees and include multi-cuisine vegetarian and non-vegetarian meal services.",
+    "hostelFees": {
+      "4SharingAC": "₹1,25,000 per year",
+      "4SharingNonAC": "₹1,15,000 per year",
+      "5SharingNonAC": "₹1,05,000 per year"
+    }
+  },
+  "contact": {
+    "phone": "+91-8415-230000",
+    "email": "info@anurag.edu.in",
+    "address": "Anurag University, Venkatapur, Ghatkesar Road, Hyderabad, Telangana – 500088, India",
+    "admissionsEmail": "admissions@anurag.edu.in"
+  },
+  "website": "https://www.anurag.edu.in",
+  "lastVerified": "2026-05-14",
+  "verifiedBy": "official-website-and-placement-data",
+  "scholarships": {
+    "meritScholarships": "Anurag CET and TS EAPCET merit-based tuition fee waivers available for top rankers.",
+    "fullWaiver": "TS EAPCET ranks 1–2000 eligible for 100% tuition fee waiver.",
+    "partialWaiver": "TS EAPCET ranks 2001–10000 eligible for 50% tuition fee waiver.",
+    "governmentAid": "Eligible Telangana state SC/ST/OBC/EWS students can avail TS ePASS fee reimbursement schemes."
+  },
+  "sources": {
+    "overview": "https://www.anurag.edu.in",
+    "fees": "https://www.anurag.edu.in/admissions",
+    "placements": "https://www.anurag.edu.in/placements",
+    "admissions": "https://www.anurag.edu.in/admissions",
+    "campus": "https://www.anurag.edu.in/about-us",
+    "contact": "https://www.anurag.edu.in/contact-us"
+  }
+}

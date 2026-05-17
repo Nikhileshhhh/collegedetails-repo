@@ -1,0 +1,75 @@
+{
+  "overview": "Daita Madhusudana Sastry Sri Venkateswara Hindu (DMSSVH) College of Engineering, established in 1980, is one of the oldest private engineering institutions in Andhra Pradesh. Located in Machilipatnam, it was founded by the Hindu College Committee to provide technical education in the coastal region. The college is known for its long-standing academic tradition and its location near the scenic Manginapudi Beach.",
+  "accreditation": "Approved by AICTE and affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK). It is recognized by the University Grants Commission (UGC).",
+  "coursesAndFees": [
+    {
+      "course": "B.Tech (CSE, ECE, EEE, Civil, Mechanical, IT)",
+      "duration": "4 Years",
+      "totalFees": "₹1,60,000 (Approx. ₹35,000 - ₹40,000 per year)",
+      "eligibility": "10+2 with 45% aggregate in PCM + AP EAPCET rank"
+    },
+    {
+      "course": "M.Tech (CSE, Structural Engineering, Machine Design, etc.)",
+      "duration": "2 Years",
+      "totalFees": "₹68,000 - ₹1,10,000",
+      "eligibility": "B.E./B.Tech in relevant branch + GATE/AP PGECET"
+    },
+    {
+      "course": "B.Tech (Lateral Entry)",
+      "duration": "3 Years",
+      "totalFees": "₹1,20,000",
+      "eligibility": "Diploma in Engineering with 45% + AP ECET rank"
+    }
+  ],
+  "placements": {
+    "avgSalary": "₹3.0 LPA - ₹3.5 LPA",
+    "medianSalary": "₹2.8 LPA",
+    "highestSalary": "₹6.0 LPA - ₹8.0 LPA",
+    "highestDomestic": "₹8.0 LPA",
+    "placementRate": "65% - 75%",
+    "totalOffers": "100+",
+    "companiesVisited": "20+",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "HCL Technologies",
+      "Tech Mahindra",
+      "Syntel",
+      "Efftronics"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP PGECET",
+      "AP ECET",
+      "GATE"
+    ],
+    "admissionProcess": "70% of seats are filled under the Convener Quota (Category A) through APSCHE counseling based on state-level entrance ranks. The remaining 30% are Management Quota (Category B) seats filled based on merit. The college code for counseling is SVHE.",
+    "importantDates": "AP EAPCET 2026: May 12–18, 2026; AP PGECET 2026 Results: May 14, 2026; Counseling: July–August 2026."
+  },
+  "campus": {
+    "area": "12 Acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Well-equipped Laboratories",
+      "Central Library with Digital Access",
+      "Hostels for Boys and Girls",
+      "Sports Grounds (Volleyball, Cricket, etc.)",
+      "Cafeteria",
+      "Transportation (Dedicated bus fleet for Machilipatnam and suburbs)"
+    ],
+    "specialNote": "The college is historically significant as the first engineering college in the Krishna district. It offers a peaceful study environment on the Manginapudi Beach Road and has a strong focus on government scholarship schemes like Jagananna Vidya Deevena for eligible students."
+  },
+  "contact": {
+    "phone": "08672-223392, 08672-250450",
+    "email": "principal.dmssvhce@gmail.com",
+    "address": "Manginapudi Beach Road, Machilipatnam, Krishna District, Andhra Pradesh - 521002",
+    "admissionsEmail": "principal.dmssvhce@gmail.com"
+  },
+  "website": "http://www.svhce.org.in/",
+  "lastVerified": "May 2026",
+  "verifiedBy": "Gemini AI Search"
+}

@@ -1,0 +1,86 @@
+{
+  "overview": "Amrita Sai Institute of Science and Technology (ASIST), Paritala, officially states that it was established in 2007 by the Amrita Sai Educational Improvement Trust. The institute is a self-financing autonomous campus in the Vijayawada capital region and operates from a 10.39-acre green campus with engineering, management, MCA, and diploma offerings.",
+  "accreditation": "Autonomous institution; AICTE approved; permanently affiliated to JNTU Kakinada; NAAC A Grade; UGC 2(f) and 12(B).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech - Civil, EEE, Mechanical, ECE, CSE, CSE (Data Science), CSE (Big Data Analytics), CSE (IoT and Cyber Security including Blockchain), CSE (AI and ML)",
+      "duration": "4 Years",
+      "tuitionFee": "Rs. 52,900/year under Cat-A; selected Cat-B fees are higher for ECE and CSE specializations"
+    },
+    {
+      "program": "M.Tech - CSE, DECS, VLSI, Structural Engineering, Power Electronics",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 50,000/year"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 35,000/year"
+    },
+    {
+      "program": "MCA",
+      "duration": "2 Years",
+      "tuitionFee": "Rs. 47,800/year"
+    },
+    {
+      "program": "Diploma - Mechanical, EEE",
+      "duration": "3 Years",
+      "tuitionFee": "Rs. 25,000/year"
+    }
+  ],
+  "placements": {
+    "avgSalary": "",
+    "medianSalary": "",
+    "highestSalary": "Rs. 12.00 LPA",
+    "highestDomestic": "Rs. 12.00 LPA",
+    "placementRate": "",
+    "totalOffers": "426 placements shown for the 2021-2025 batch summary",
+    "companiesVisited": "16 listed drives in the 2021-2025 summary",
+    "internationalOffers": "",
+    "topRecruiters": [
+      "Dexterity",
+      "Technodyne Informatics",
+      "24/7.ai",
+      "Efftronics",
+      "Sutherland",
+      "RJAY Technologies",
+      "Zentree Labs",
+      "TVS Brakes India",
+      "Schneider Electric",
+      "GestAmp"
+    ]
+  },
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ECET",
+      "AP ICET",
+      "AP PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "The official site publishes admission procedures for B.Tech, lateral entry, M.Tech, MBA, MCA, and diploma programs. B.Tech admissions are routed through AP EAPCET counseling and institutional categories as per the applicable APSCHE and university rules.",
+    "importantDates": "AP EAPCET, ECET, ICET, and PGECET schedules are announced each year by the relevant Andhra Pradesh authorities, while college-level notifications are published on the official ASIST site."
+  },
+  "campus": {
+    "area": "10.39 acres",
+    "facilities": [
+      "State-of-the-art laboratories",
+      "Medical center",
+      "Seminar hall",
+      "Gym",
+      "Playground",
+      "Student clubs",
+      "Value-added training programs"
+    ],
+    "specialNote": "The official site says the campus has a built-up area of over 18,248.44 square meters within the CRDA limits near Vijayawada."
+  },
+  "contact": {
+    "phone": "1800-1212-369, +91-9490797539, +91-9502950858",
+    "email": "",
+    "address": "Gani Atkuru Road, Bathinapadu, Andhra Pradesh - 521180, India",
+    "admissionsEmail": ""
+  },
+  "website": "https://amritasai.org.in/",
+  "lastVerified": "2026-04-17",
+  "verifiedBy": "official-website"
+}

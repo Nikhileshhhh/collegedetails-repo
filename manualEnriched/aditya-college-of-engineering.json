@@ -1,0 +1,141 @@
+{
+  "overview": "Aditya College of Engineering (ACEM), Madanapalle was established in 2009 by the Veda Educational Society in Valasapalle, Madanapalle, Annamayya District (formerly Chittoor District), Andhra Pradesh. Nestled near a scenic mountain range, the institution focuses on delivering career-oriented technical education to students in the Rayalaseema region, prioritizing professional excellence alongside rural empowerment and practical talent cultivation.",
+  
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi, and permanently affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA). The college holds NAAC accreditation parameters.",
+
+  "nirfRanking": {
+    "engineering": "Not Ranked in Top 300 NIRF Categories",
+    "university": "Not Ranked"
+  },
+
+  "coursesAndFees": [
+  {
+    "program": "B.Tech in Computer Science & Engineering (CSE)",
+    "duration": "4 years",
+    "tuitionFee": "₹35,000 – ₹43,000 per year (Category A Convener Quota via AP EAPCET; total course tuition approx. ₹1,40,000 – ₹1,72,000)"
+  },
+  {
+    "program": "B.Tech in Computer Science and Engineering (Artificial Intelligence) (CAI)",
+    "duration": "4 years",
+    "tuitionFee": "₹35,000 – ₹43,000 per year (Category A Convener Quota via AP EAPCET; total course tuition approx. ₹1,40,000 – ₹1,72,000)"
+  },
+  {
+    "program": "B.Tech in Artificial Intelligence & Data Science (AID)",
+    "duration": "4 years",
+    "tuitionFee": "₹35,000 – ₹43,000 per year (Category A Convener Quota via AP EAPCET; total course tuition approx. ₹1,40,000 – ₹1,72,000)"
+  },
+  {
+    "program": "B.Tech in Electronics & Communication Engineering (ECE)",
+    "duration": "4 years",
+    "tuitionFee": "₹35,000 – ₹43,000 per year (Category A Convener Quota via AP EAPCET; total course tuition approx. ₹1,40,000 – ₹1,72,000)"
+  },
+  {
+    "program": "B.Tech in Electrical and Electronics Engineering (EEE)",
+    "duration": "4 years",
+    "tuitionFee": "₹35,000 – ₹43,000 per year (Category A Convener Quota via AP EAPCET; total course tuition approx. ₹1,40,000 – ₹1,72,000)"
+  },
+  {
+    "program": "B.Tech in Civil Engineering (CIV)",
+    "duration": "4 years",
+    "tuitionFee": "₹35,000 – ₹43,000 per year (Category A Convener Quota via AP EAPCET; total course tuition approx. ₹1,40,000 – ₹1,72,000)"
+  }
+]
+,
+
+  "placements": {
+    "avgSalary": "₹3.00 LPA – ₹3.78 LPA",
+    "medianSalary": "₹3.25 LPA",
+    "highestSalary": "₹12.00 LPA (Peak tech stream individual selection highlights)",
+    "highestDomestic": "₹5.00 LPA – ₹12.00 LPA core software development recruitment range",
+    "placementRate": "50% – 70% during active branch placement cycles",
+    "totalOffers": "180+ seasonal recruitment offers across participating batches",
+    "companiesVisited": "30 – 50 companies including regional off-campus pool drives",
+    "internationalOffers": "Data not available",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "IBM",
+      "Capgemini",
+      "Accenture",
+      "Mindtree",
+      "HCL",
+      "Savantis",
+      "Byju's",
+      "Amazon"
+    ]
+  },
+
+  "admissions": {
+    "examsAccepted": [
+      "AP EAPCET (B.Tech)",
+      "AP ECET (Lateral Entry)"
+    ],
+    "admissionProcess": "Category A seats (70% standard convenience block) are distributed through AP EAPCET web counseling conducted annually by APSCHE. Category B institutional management quota admissions (30%) are allocated directly following minimum qualification parameters.",
+    "importantDates": "The admissions cycle operates between June and September in line with state regulatory notifications."
+  },
+
+  "campus": {
+    "area": "10.25 acres beautifully nestled 10 km outside the heart of Madanapalle town",
+    "facilities": [
+      "Central Library with abundant volumes and digital catalogs",
+      "Advanced Computing Centers and Electronics Labs",
+      "Mechanical and Core Engineering Workspaces",
+      "In-campus Secure Separate Hostels for Boys",
+      "In-campus Secure Separate Hostels for Girls",
+      "Student Cafeteria and Dynamic Food Counter",
+      "Sports Infrastructure & Outfield Playgrounds",
+      "Dedicated Institution Transport Bus Fleets",
+      "Audio-Visual Enabled Seminar Halls & Classrooms",
+      "First-Aid and Health Safety Room"
+    ],
+    "specialNote": "The institution features extensive dedicated training windows from the third year onwards, covering aptitude, mock interviews, and group discussions to improve technical career placement readiness."
+  },
+
+  "cutoffs": {
+    "acceptedExam": "AP EAPCET",
+    "popularBranch": "Computer Science and Engineering (CSE)",
+    "closingRanks2024": {
+      "OC Boys": "45,000 – 85,000 (Varies by branch, counseling stage, and specialized software tracks)",
+      "OC Girls": "52,000 – 92,000",
+      "SC Boys": "1,35,000+",
+      "SC Girls": "1,40,000+",
+      "ST Boys": "1,45,000+",
+      "ST Girls": "1,50,000+",
+      "BCA Boys": "75,000 – 98,000",
+      "BCA Girls": "80,000 – 1,05,000"
+    }
+  },
+
+  "hostelAndScholarships": {
+    "hostelFee": "₹40,000 – ₹50,000 per year based on chosen room type and infrastructure updates",
+    "messFee": "Factored alongside institutional boarding services packages",
+    "scholarships": [
+      "Jagananna Vidya Deevena (JVD) structural full fee reimbursements for qualified state candidates",
+      "Post-Matric Student Assistance programs from the Government of Andhra Pradesh",
+      "Institutional merit score accommodations for high qualifiers"
+    ]
+  },
+
+  "contact": {
+    "phone": "7416948100 , 7416963100",
+    "email": "info@acem.ac.in",
+    "address": "Valasapalle (Post), Punganur Road, Madanapalle, Annamayya District (formerly Chittoor) - 517325, Andhra Pradesh, India",
+    "admissionsEmail": "info@acem.ac.in"
+  },
+
+  "website": "https://acem.ac.in/",
+
+  "lastVerified": "2026-05-16",
+
+  "verifiedBy": "official-college-portal-and-state-counseling-registries",
+
+  "sources": {
+    "overview": "https://acem.ac.in/",
+    "placements": "https://acem.ac.in/placement-cell-record/",
+    "admissions": "https://acem.ac.in/contact-us/",
+    "fees": "https://acem.ac.in/courses-offered/",
+    "campus": "https://acem.ac.in/contact-us/",
+    "contact": "https://acem.ac.in/contact-us/"
+  }
+}
