@@ -1,84 +1,103 @@
 {
-  "overview": "National Institute of Technology Rourkela (NIT Rourkela), established in 1961, is one of India's premier NITs known for strong academic programs, research excellence, and consistent placement performance across engineering, sciences, and management disciplines.",
-  "accreditation": "Institute of National Importance; NAAC 'A' grade accredited (CGPA ~3.12).",
+  "overview": "National Institute of Technology Rourkela (NIT Rourkela), formerly known as Regional Engineering College Rourkela, is a premier autonomous public technical university established in 1961. Located in Odisha, India, it has been recognized as an Institute of National Importance under the Ministry of Education, Government of India. The institute offers a comprehensive range of undergraduate, postgraduate, and doctoral programs across engineering, science, architecture, and management streams.",
+  "accreditation": "An Institution of National Importance approved by the AICTE and Ministry of Education, Government of India.",
   "coursesAndFees": [
     {
-      "program": "B.Tech / B.Arch / Dual Degree (Undergraduate)",
-      "duration": "4–5 years",
-      "tuitionFee": "₹62,500 per semester for General/OBC/EWS (income > ₹5 lakh). Income-based and caste-based waivers apply. Additional ~₹14,000 per semester for other charges. Hostel & Mess: ~₹40,000 per semester."
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "General/OBC (Family Income > ₹5 Lakhs): ₹62,500 per semester (Total tuition fee around ₹5.00 Lakhs for 4 years). Tuition fees are completely exempted for SC/ST/PH students and those with an annual family income under ₹1 Lakh."
     },
     {
-      "program": "M.Tech / MBA / M.Sc. (Postgraduate)",
+      "program": "B.Arch (Undergraduate)",
+      "duration": "5 years",
+      "tuitionFee": "General/OBC (Family Income > ₹5 Lakhs): ₹62,500 per semester (Total tuition fee around ₹6.25 Lakhs for 5 years). Centralized fee remission benefits apply based on category and family income matrices."
+    },
+    {
+      "program": "M.Tech (Postgraduate)",
       "duration": "2 years",
-      "tuitionFee": "M.Tech: ₹35,000/sem; MBA: ₹1,00,000/sem; M.Sc.: ₹7,500/sem. SC/ST/PwD: Tuition exempted. Other charges ~₹12,000."
+      "tuitionFee": "Approximately ₹35,000 to ₹40,000 base tuition fee per semester. Total semester institutional fees vary based on allocation criteria."
+    },
+    {
+      "program": "M.Sc (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹7,500 tuition fee per semester (Total base institutional fees exclude food and variable mess advance components)."
     }
   ],
   "placements": {
-    "avgSalary": "₹13.29 LPA overall, ₹14.10 LPA B.Tech (2024–25)",
-    "medianSalary": "₹15.25 LPA (UG 4-Year, 2023–24)",
-    "highestSalary": "₹1.20 CPA (2023–24)",
-    "highestDomestic": "₹62.44 LPA (2024–25 Phase 1)",
-    "placementRate": "B.Tech: 82.20%, M.Tech: ~71.34%",
-    "totalOffers": "1,274 offers + 509 internships (2024–25)",
-    "companiesVisited": "Google, Microsoft, Amazon, Qualcomm, Texas Instruments, Deloitte, Tata Steel, JSW Group",
-    "internationalOffers": "Consistent presence of high-value offers across IT and analytics roles",
-    "branchWiseHighlights": [
-      { "branch": "Ceramic Engineering", "placementRate": "97.73%" },
-      { "branch": "Electronics & Instrumentation", "placementRate": "97.06%" },
-      { "branch": "Computer Science (CSE)", "placementRate": "94.48%", "avgCTC": "₹20.35 LPA" },
-      { "branch": "Electronics & Communication (ECE)", "avgCTC": "₹20.18 LPA" },
-      { "branch": "Electrical Engineering", "avgCTC": "₹14.28 LPA" }
-    ],
-    "keyTrends": {
-      "mtechStats": "M.Tech avg ₹13.48 LPA, placement rate ~71.34% (2024–25)"
-    },
+    "avgSalary": "₹13.29 LPA (Overall Average Package), ₹14.10 LPA (B.Tech Average Package)",
+    "medianSalary": "₹15.25 LPA (UG 4-Year B.Tech Program)",
+    "highestSalary": "₹62.44 LPA (Current Batch Drive)",
+    "highestDomestic": "₹62.44 LPA",
+    "placementRate": "Approximately 88% - 92% across prominent B.Tech branches",
+    "totalOffers": "1,274 recruitment offers generated for graduating students",
+    "companiesVisited": "373 companies participated in the formal placement drive",
+    "internationalOffers": "Limited / Kept under institutional non-disclosure guidelines",
     "topRecruiters": [
+      "Amazon",
+      "Deloitte",
+      "EY",
       "Google",
       "Microsoft",
-      "Amazon",
-      "Qualcomm",
-      "Texas Instruments",
-      "Deloitte",
-      "Tata Steel",
-      "JSW Group"
+      "Apple",
+      "Larsen & Toubro",
+      "Bharat Petroleum"
     ]
   },
   "admissions": {
-    "examsAccepted": ["JEE Main", "GATE", "CAT"],
-    "admissionProcess": "Admissions are based on national-level entrance exams followed by JoSAA, CCMT, or institute-level counseling depending on the program.",
-    "importantDates": "Follows JoSAA/CCMT schedules and institute academic calendar."
+    "examsAccepted": [
+      "JEE Main",
+      "NATA",
+      "GATE",
+      "IIT JAM",
+      "NIMCET",
+      "CAT"
+    ],
+    "admissionProcess": "B.Tech and B.Arch admissions are strictly managed via JoSAA/CSAB counseling schedules using JEE Main/NATA scores. M.Tech allocations depend on valid GATE parameters handled through CCMT. M.Sc courses utilize IIT JAM scores via CCMN channels.",
+    "importantDates": "Strictly aligned with the centralized public notices from the National Testing Agency (NTA), JoSAA/CSAB, and CCMT platforms."
   },
   "campus": {
-    "area": "650 acres",
+    "area": "Sprawling 1,200-acre modern residential green campus located in Rourkela, Odisha",
     "facilities": [
       "Boys Hostel",
       "Girls Hostel",
       "Central Library",
-      "Medical Centre",
-      "Computer Centre",
-      "Innovation & Incubation Centre",
-      "Sports Complex",
-      "Auditorium",
-      "Research Labs",
-      "Wi-Fi Campus"
+      "Central Research Facility",
+      "Centre for Technology Innovation and Industry Relations",
+      "Foundation for Technology and Business Incubation",
+      "High Performance Computing",
+      "Sports Centre & Stadiums",
+      "Wi-Fi Enabled Campus",
+      "Medical Health Centre"
     ],
-    "specialNote": "Other semester charges (~₹14,000) include academic and service fees. Hostel & mess cost ~₹40,000 per semester. One-time admission fee ~₹15,000–₹25,000 with ₹10,000 refundable caution deposit."
+    "specialNote": "Hostel seat rent is ₹5,000 per semester, with Hall Establishment fees at ₹5,000 per semester. The approximate variable Mess Advance is around ₹30,000 per semester. A one-time refundable institutional Caution Money deposit of ₹10,000 is collected at enrollment."
+  },
+  "scholarshipsAndAid": {
+    "availableScholarships": [
+      "Central Sector Scholarship Scheme",
+      "National Scholarship Portal (NSP) Schemes",
+      "Income-based Tuition Fee Remission Matrix"
+    ],
+    "details": "General/OBC candidates with a certified family income under ₹1 Lakh per year qualify for a 100% tuition waiver. Students whose family income ranges between ₹1 Lakh and ₹5 Lakhs per annum secure a 2/3rd tuition fee remission."
+  },
+  "rankings": {
+    "nirf": "Ranked #13 under the Engineering Category and #7 under the Architecture Category in India by NIRF 2025",
+    "naac": "Not applicable (An autonomous Institute of National Importance governed by the centralized NIT Council Act)"
   },
   "contact": {
-    "phone": "+91-661-246-2020",
+    "phone": "0661-246-2020",
     "email": "registrar@nitrkl.ac.in",
-    "address": "National Institute of Technology Rourkela, Rourkela – 769008, Odisha, India",
-    "admissionsEmail": "admissions@nitrkl.ac.in"
+    "address": "National Institute of Technology Rourkela, Sector 1, Rourkela, Odisha, India 769008",
+    "admissionsEmail": "director@nitrkl.ac.in"
   },
   "website": "https://www.nitrkl.ac.in",
-  "lastVerified": "2026-04-30",
-  "verifiedBy": "official-website",
+  "lastVerified": "2026-05-17",
+  "verifiedBy": "institutional-data-and-public-sources",
   "sources": {
-    "overview": "https://www.nitrkl.ac.in",
-    "fees": "https://www.nitrkl.ac.in/Academics/Fees",
-    "placements": "https://www.nitrkl.ac.in/Placement",
-    "admissions": "https://www.nitrkl.ac.in/Admissions",
-    "campus": "https://www.nitrkl.ac.in/About",
-    "contact": "https://www.nitrkl.ac.in/Contact"
+    "overview": "https://www.nitrkl.ac.in/",
+    "fees": "https://www.scribd.com/document/899085744/FEE-Structure-2025-26",
+    "placements": "https://www.nitrkl.ac.in/CDC/Statistics/",
+    "admissions": "https://www.nitrkl.ac.in/Institute/RankingRecognition/",
+    "campus": "https://www.nitrkl.ac.in/Institute/NIRF/",
+    "contact": "https://www.nitrkl.ac.in/Institute/ContactUs/"
   }
 }

@@ -1,94 +1,103 @@
 {
-  "overview": "National Institute of Technology Raipur (NIT Raipur) was established in 1956 as an engineering college and became an NIT in 2005. One of the older technical institutes in Central India.",
-  "accreditation": "Institute of National Importance (NIT Act), NAAC Accredited, NBA Accredited",
+  "overview": "National Institute of Technology Raipur (NIT Raipur), originally established as Government Engineering College Raipur in 1956 and inaugurated by India's first President Dr. Rajendra Prasad, is a premier autonomous public technical institution. Elevated to the status of an Institute of National Importance in 2007, it is funded by the Ministry of Education, Government of India. The campus offers high-quality undergraduate, postgraduate, and doctoral degrees in engineering, architecture, and sciences.",
+  "accreditation": "An Institute of National Importance approved by the AICTE and Ministry of Education, Government of India.",
   "coursesAndFees": [
     {
-      "program": "B.Tech (all branches)",
-      "duration": "4 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "General/EWS/OBC (Family Income > ₹5 Lakhs): ₹62,500 per semester (Total tuition around ₹5.00 Lakhs for 4 years). Complete tuition waivers are provided for SC/ST/PH categories and students with family income under ₹1 Lakh per year."
     },
     {
-      "program": "M.Tech (various specializations)",
-      "duration": "2 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
+      "program": "B.Arch (Undergraduate)",
+      "duration": "5 years",
+      "tuitionFee": "General/EWS/OBC (Family Income > ₹5 Lakhs): ₹62,500 per semester (Total tuition around ₹6.25 Lakhs for 5 years). Income-based and category waivers match the standard central government rules."
     },
     {
-      "program": "MBA",
-      "duration": "2 Years",
-      "tuitionFee": "₹2,50,000/year"
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 to ₹37,500 base tuition fee per semester. Total institutional charges vary based on category and academic year rules."
     },
     {
-      "program": "MCA",
-      "duration": "2 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
-    },
-    {
-      "program": "Ph.D",
-      "duration": "4-5 Years",
-      "tuitionFee": "Fully funded with stipend"
+      "program": "MCA (Postgraduate)",
+      "duration": "3 years",
+      "tuitionFee": "Approximately ₹35,000 to ₹37,500 tuition fee per semester, subject to the institution's updated PG semester schedules."
     }
   ],
   "placements": {
-    "avgSalary": "₹8.00 LPA",
-    "medianSalary": "",
-    "highestSalary": "₹32 LPA",
-    "highestDomestic": "₹32 LPA",
-    "placementRate": "78%",
-    "totalOffers": "400+",
-    "companiesVisited": "100+",
-    "internationalOffers": "",
+    "avgSalary": "₹11.07 LPA (B.Tech Overall Average), ₹4.48 LPA (PG Programs Average)",
+    "medianSalary": "₹8.00 LPA – ₹8.50 LPA (UG 4-Year B.Tech)",
+    "highestSalary": "₹60.00 LPA (2024-25 Batch)",
+    "highestDomestic": "₹60.00 LPA",
+    "placementRate": "Approximately 76.73% for eligible UG students and 36.15% for eligible PG students",
+    "totalOffers": "786 total placement offers received across UG and PG programs",
+    "companiesVisited": "135 companies participated in the placement drive",
+    "internationalOffers": "Limited / Not officially distinguished in annual board publications",
     "topRecruiters": [
-      "TCS",
-      "Infosys",
-      "Wipro",
-      "Microsoft",
+      "Adobe",
       "Amazon",
-      "Google",
-      "Cognizant",
-      "Capgemini",
-      "L&T",
-      "BHEL",
-      "NTPC",
-      "Goldman Sachs",
       "Deloitte",
       "Oracle",
-      "Samsung R&D"
+      "TCS",
+      "Cognizant",
+      "Infosys",
+      "Wipro"
     ]
   },
   "admissions": {
     "examsAccepted": [
-      "JEE Mains (B.Tech)",
-      "GATE (M.Tech)",
-      "CAT/MAT (MBA)",
-      "NIMCET (MCA)"
+      "JEE Main",
+      "NATA",
+      "GATE",
+      "NIMCET",
+      "IIT JAM"
     ],
-    "admissionProcess": "B.Tech: JoSAA/CSAB Counselling after JEE Mains. M.Tech: CCMT/COAP after GATE.",
-    "importantDates": "JEE Mains: Jan & Apr 2026, JoSAA Counselling: June-July 2026"
+    "admissionProcess": "B.Tech and B.Arch admissions are primarily administered through JoSAA/CSAB counseling based on JEE Main/NATA results. M.Tech admissions require valid GATE scores under CCMT. MCA utilizes NIMCET evaluations, and M.Sc streams rely on CCMN structures.",
+    "importantDates": "Operates strictly in tandem with testing timelines from the National Testing Agency (NTA) and central distribution councils (JoSAA/CSAB, CCMT, NIMCET)."
   },
   "campus": {
-    "area": "100 acres",
+    "area": "Sprawling 100-acre historic campus located on Great Eastern Road (G.E. Road), Raipur, Chhattisgarh",
     "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
       "Central Library",
-      "Hostels",
-      "Sports Complex",
-      "Gymnasium",
-      "Health Centre",
-      "Wi-Fi Campus",
-      "Labs",
-      "Seminar Halls",
-      "Guest House",
-      "Canteen",
-      "Transportation"
+      "Advanced Computing & Network Center",
+      "Career Development Cell (CDC)",
+      "Health Unit & Medical Center",
+      "Auditorium & Seminar Halls",
+      "Sports Ground & Gymnasium",
+      "Wi-Fi Enabled Campus",
+      "Amphi-Theatre"
     ],
-    "specialNote": ""
+    "specialNote": "Hostel allotments follow strict merit matrices and home-distance parameters due to finite room counts. Fee remission requires standard income certificates for the financial year issued by a competent revenue authority like a Tehsildar or District Magistrate."
+  },
+  "scholarshipsAndAid": {
+    "availableScholarships": [
+      "Full Tuition Fee Reimbursement Scheme",
+      "National Scholarship Portal (NSP) Scholarships",
+      "Dr. K.K. Sugandhi Scholarship Scheme",
+      "Runaya Reach Scholarship Program"
+    ],
+    "details": "General/OBC-NCL candidates with total parental income below ₹1 Lakh receive 100% tuition remission. Students with parental income ranging between ₹1 Lakh and ₹5 Lakhs receive a 2/3rd waiver on base tuition fee demands."
+  },
+  "rankings": {
+    "nirf": "Ranked #86 in India under the Engineering Category in NIRF 2025",
+    "naac": "Not applicable (An autonomous Institute of National Importance governed by the centralized National Institutes of Technology Act)"
   },
   "contact": {
-    "phone": "+91-771-225 4200",
-    "email": "",
-    "address": "G.E. Road, Raipur – 492010, Chhattisgarh",
-    "admissionsEmail": ""
+    "phone": "+91-771-2254200",
+    "email": "director@nitrr.ac.in",
+    "address": "National Institute of Technology Raipur, G.E. Road, Raipur, Chhattisgarh 492010",
+    "admissionsEmail": "registrar@nitrr.ac.in"
   },
   "website": "https://www.nitrr.ac.in",
-  "lastVerified": "2026-04-16",
-  "verifiedBy": "official-website"
+  "lastVerified": "2026-05-17",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://www.nitrr.ac.in/",
+    "fees": "https://www.nitrr.ac.in/fee_structure.php",
+    "placements": "https://cdc.nitrr.ac.in/stats.html",
+    "admissions": "https://www.nitrr.ac.in/admission.php",
+    "campus": "https://www.nitrr.ac.in/nirf_data.php",
+    "contact": "https://nitrr.ac.in/contact.php/notice1.php"
+  }
 }
