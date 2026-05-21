@@ -1,94 +1,96 @@
 {
-  "overview": "National Institute of Technology Meghalaya (NIT Meghalaya) was established in 2010 in Shillong, Meghalaya. It is one of the newer NITs serving the educational needs of Northeast India.",
-  "accreditation": "Institute of National Importance (NIT Act), NAAC Accredited, NBA Accredited",
+  "overview": "National Institute of Technology (NIT) Meghalaya, established in 2010, is one of the 31 NITs in India and is recognized as an Institute of National Importance. Fully funded by the Ministry of Education, Government of India, the institute operates from a temporary campus in Shillong while its permanent 300-acre campus is being readied at Sohra (Cherrapunji). It offers premier undergraduate, postgraduate, and doctoral programs across various disciplines of engineering and sciences.",
+  "accreditation": "Autonomous Institute of National Importance under the NIT Act; curricula approved by the Ministry of Education, Government of India.",
   "coursesAndFees": [
     {
-      "program": "B.Tech (all branches)",
-      "duration": "4 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Approximately ₹1,25,000 to ₹1,50,000 per year for General/OBC candidates (Total Tuition roughly ₹5.00 Lakhs to ₹5.97 Lakhs). Tuition fee is completely waived for SC/ST/PH students, and full/partial remissions apply based on family income criteria."
     },
     {
-      "program": "M.Tech (various specializations)",
-      "duration": "2 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹35,000 to ₹70,000 per year depending on admission criteria (CCMT vs. Sponsored categories)."
     },
     {
-      "program": "MBA",
-      "duration": "2 Years",
-      "tuitionFee": "₹2,50,000/year"
-    },
-    {
-      "program": "MCA",
-      "duration": "2 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
-    },
-    {
-      "program": "Ph.D",
-      "duration": "4-5 Years",
-      "tuitionFee": "Fully funded with stipend"
+      "program": "M.Sc (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹15,000 to ₹25,000 per year."
     }
   ],
   "placements": {
-    "avgSalary": "₹6.50 LPA",
-    "medianSalary": "",
-    "highestSalary": "₹25 LPA",
-    "highestDomestic": "₹25 LPA",
-    "placementRate": "70%",
-    "totalOffers": "150+",
-    "companiesVisited": "50+",
-    "internationalOffers": "",
+    "avgSalary": "₹9.70 LPA (2024 Batch Overall across all programs; B.Tech CSE averages around ₹12.79 LPA)",
+    "medianSalary": "₹10.50 LPA (UG 4-Year B.Tech as per recent institutional disclosures)",
+    "highestSalary": "₹46.30 LPA (2024 placement drive)",
+    "highestDomestic": "₹46.30 LPA",
+    "placementRate": "Approximately 79.6% across standard registered batches, with Mechanical and Computer Science engineering tracking above 80%",
+    "totalOffers": "117 placement offers made during the 2024 graduating batch cycle",
+    "companiesVisited": "Amazon, Samsung, Deloitte, L&T, Infosys, Wipro, TCS, IBM, HCL",
+    "internationalOffers": "Limited/Mainly focused on domestic technical and research roles",
     "topRecruiters": [
-      "TCS",
+      "Amazon",
+      "Samsung",
+      "Deloitte",
+      "L&T",
       "Infosys",
       "Wipro",
-      "Microsoft",
-      "Amazon",
-      "Google",
-      "Cognizant",
-      "Capgemini",
-      "L&T",
-      "BHEL",
-      "NTPC",
-      "Goldman Sachs",
-      "Deloitte",
-      "Oracle",
-      "Samsung R&D"
+      "TCS",
+      "IBM",
+      "HCL"
     ]
   },
   "admissions": {
     "examsAccepted": [
-      "JEE Mains (B.Tech)",
-      "GATE (M.Tech)",
-      "CAT/MAT (MBA)",
-      "NIMCET (MCA)"
+      "JEE Main",
+      "GATE",
+      "IIT JAM"
     ],
-    "admissionProcess": "B.Tech: JoSAA/CSAB Counselling after JEE Mains. M.Tech: CCMT/COAP after GATE.",
-    "importantDates": "JEE Mains: Jan & Apr 2026, JoSAA Counselling: June-July 2026"
+    "admissionProcess": "B.Tech admissions are handled centrally via JoSAA/CSAB based on JEE Main ranks. M.Tech seats are distributed through CCMT based on GATE scores, and M.Sc seats are populated via CCMN using IIT JAM ranks.",
+    "importantDates": "Follows the national schedules published by JoSAA, CSAB, CCMT, and CCMN regulatory bodies."
   },
   "campus": {
-    "area": "300 acres",
-    "facilities": [
+    "area": "Currently operational from its temporary setup at Bijni Complex in Laitumkhrah, Shillong, while transitions scale up toward the 300-acre master-planned permanent site at Saitsohpen, Sohra (Cherrapunji).",
+  "facilities": [
+      "Boys Hostels",
+      "Girls Hostels",
       "Central Library",
-      "Hostels",
-      "Sports Complex",
-      "Gymnasium",
-      "Health Centre",
-      "Wi-Fi Campus",
-      "Labs",
-      "Seminar Halls",
-      "Guest House",
-      "Canteen",
-      "Transportation"
+      "State-of-the-Art Computing Center",
+      "Advanced Research Laboratories",
+      "Centre for Career Development",
+      "Medical Units",
+      "Transportation Services",
+      "Design Innovation Center",
+      "Wi-Fi Connectivity"
     ],
-    "specialNote": ""
+    "specialNote": "Hostel mess fees and dynamic caution deposits are calculated semester-wise. Institution caution deposits include a refundable ₹5,000 baseline upon initial admission verification."
+  },
+  "scholarshipsAndAid": {
+    "availableScholarships": [
+      "National Scholarship Portal (NSP) Schemes",
+      "Central Sector Scholarship Scheme for SC/ST students",
+      "Income-Linked Tuition Fee Remissions (MHRD/MoE guidelines)"
+    ],
+    "details": "100% tuition fee waiver for SC, ST, and PH students. General/OBC students with an annual family income below ₹1 Lakh get a full tuition waiver, while those between ₹1 Lakh and ₹5 Lakhs receive a 2/3rd tuition fee remission."
+  },
+  "rankings": {
+    "nirf": "Ranked 68th in 2024 and 83rd in 2025 under the 'Engineering' category in India",
+    "naac": "Evaluated strictly under the tier-1 national technical frameworks by the Ministry of Education as an Institute of National Importance"
   },
   "contact": {
-    "phone": "+91-364-230 7821",
-    "email": "",
-    "address": "Bijni Complex, Laitumkhrah, Shillong – 793003, Meghalaya",
-    "admissionsEmail": ""
+    "phone": "0364-2501294",
+    "email": "registrar@nitm.ac.in",
+    "address": "National Institute of Technology Meghalaya, Bijni Complex, Laitumkhrah, Shillong, Meghalaya 793003 (Permanent site: Saitsohpen, Sohra, East Khasi Hills District, Meghalaya 793108)",
+    "admissionsEmail": "asst.registrar.aa@nitm.ac.in"
   },
   "website": "https://www.nitm.ac.in",
-  "lastVerified": "2026-04-16",
-  "verifiedBy": "official-website"
+  "lastVerified": "2026-05-17",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://www.nitm.ac.in",
+    "fees": "https://www.nitm.ac.in/page_download.php?c=fee-structures/fee-structure",
+    "placements": "https://nitm.ac.in/Career/",
+    "admissions": "https://www.nitm.ac.in/",
+    "campus": "https://www.nitm.ac.in",
+    "contact": "https://www.nitm.ac.in"
+  }
 }

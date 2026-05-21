@@ -1,94 +1,96 @@
 {
-  "overview": "National Institute of Technology Puducherry (NIT Puducherry) was established in 2010 in Karaikal. It is one of the newer NITs with growing infrastructure and academic programs.",
-  "accreditation": "Institute of National Importance (NIT Act), NAAC Accredited, NBA Accredited",
+  "overview": "National Institute of Technology Puducherry (NITPY), located in Karaikal, Puducherry, is a premier autonomous public engineering institute established in 2009 by the Ministry of Education, Government of India. As an Institution of National Importance, it focuses on high-quality technical education, research, and innovation, offering comprehensive undergraduate, postgraduate, and doctoral programs across key engineering and science disciplines.",
+  "accreditation": "An Institution of National Importance approved by the AICTE and Ministry of Education, Government of India.",
   "coursesAndFees": [
     {
-      "program": "B.Tech (all branches)",
-      "duration": "4 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "General/OBC (Family Income > ₹5 Lakhs): ₹62,500 per semester (Approximately ₹5.00 Lakhs to ₹5.48 Lakhs total tuition fee for 4 years). Full tuition fee waivers apply for SC/ST/PH students and those with family income below ₹1 Lakh per annum."
     },
     {
-      "program": "M.Tech (various specializations)",
-      "duration": "2 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "General/OBC/EWS: Approximately ₹35,000 tuition fee per semester (Total institutional fees around ₹1.40 Lakhs to ₹1.94 Lakhs for 2 years). Tuition waivers are applicable for SC/ST categories."
     },
     {
-      "program": "MBA",
-      "duration": "2 Years",
-      "tuitionFee": "₹2,50,000/year"
-    },
-    {
-      "program": "MCA",
-      "duration": "2 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
-    },
-    {
-      "program": "Ph.D",
-      "duration": "4-5 Years",
-      "tuitionFee": "Fully funded with stipend"
+      "program": "M.Sc (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "General/OBC/EWS: Approximately ₹7,500 tuition fee per semester (Total institutional fees around ₹30,000 to ₹83,890 for 2 years)."
     }
   ],
   "placements": {
-    "avgSalary": "₹6.50 LPA",
-    "medianSalary": "",
-    "highestSalary": "₹22 LPA",
-    "highestDomestic": "₹22 LPA",
-    "placementRate": "68%",
-    "totalOffers": "150+",
-    "companiesVisited": "50+",
-    "internationalOffers": "",
+    "avgSalary": "₹8.30 LPA (B.Tech overall average), ₹9.70 LPA (M.Tech ECE average)",
+    "medianSalary": "₹9.50 LPA (B.Tech CSE), ₹6.30 LPA (B.Tech ECE)",
+    "highestSalary": "₹22.00 LPA (B.Tech), ₹23.00 LPA (M.Tech)",
+    "highestDomestic": "₹23.00 LPA",
+    "placementRate": "85% for B.Tech, 66.6% for M.Tech, and 40% for M.Sc students",
+    "totalOffers": "169 students successfully placed with 22 students securing double offers",
+    "companiesVisited": "Zoho, SAP, Tech Mahindra, L&T, TCS, Deloitte, Whirlpool, Accenture, Cognizant",
+    "internationalOffers": "Limited / Not explicitly disclosed in the latest official report",
     "topRecruiters": [
-      "TCS",
-      "Infosys",
-      "Wipro",
-      "Microsoft",
-      "Amazon",
-      "Google",
-      "Cognizant",
-      "Capgemini",
+      "Zoho",
+      "SAP",
+      "Tech Mahindra",
       "L&T",
-      "BHEL",
-      "NTPC",
-      "Goldman Sachs",
+      "TCS",
       "Deloitte",
-      "Oracle",
-      "Samsung R&D"
+      "Whirlpool",
+      "Accenture"
     ]
   },
   "admissions": {
     "examsAccepted": [
-      "JEE Mains (B.Tech)",
-      "GATE (M.Tech)",
-      "CAT/MAT (MBA)",
-      "NIMCET (MCA)"
+      "JEE Main",
+      "GATE",
+      "IIT JAM",
+      "DASA UG"
     ],
-    "admissionProcess": "B.Tech: JoSAA/CSAB Counselling after JEE Mains. M.Tech: CCMT/COAP after GATE.",
-    "importantDates": "JEE Mains: Jan & Apr 2026, JoSAA Counselling: June-July 2026"
+    "admissionProcess": "B.Tech admissions are based on JEE Main scores followed by JoSAA/CSAB counseling. M.Tech admissions require valid GATE scores handled through CCMT counseling. M.Sc admissions require IIT JAM scores followed by CCMN counseling.",
+    "importantDates": "Follows the National testing schedules of NTA and central counseling timelines of JoSAA/CSAB, CCMT, and CCMN."
   },
   "campus": {
-    "area": "130 acres",
+    "area": "Sprawling campus situated in Thiruvettakudy, Karaikal, Puducherry - 609609",
     "facilities": [
+      "Boys Hostel",
+      "Girls Hostel",
       "Central Library",
-      "Hostels",
-      "Sports Complex",
-      "Gymnasium",
-      "Health Centre",
-      "Wi-Fi Campus",
-      "Labs",
-      "Seminar Halls",
-      "Guest House",
-      "Canteen",
-      "Transportation"
+      "Computer Labs & Networks",
+      "Training & Placement Cell",
+      "Medical Facilities & Health Centre",
+      "Sports Centre & Physical Education",
+      "Science & Research Labs",
+      "Wi-Fi Enabled Campus",
+      "Guest House"
     ],
-    "specialNote": ""
+    "specialNote": "Hostel fees range between ₹35,500 to ₹38,500 per semester for B.Tech and ₹39,300 to ₹42,300 per semester for M.Tech/PhD students (inclusive of mess charges and room rent). A refundable caution deposit of ₹3,500 is collected one-time."
+  },
+  "scholarshipsAndAid": {
+    "availableScholarships": [
+      "National Scholarship Portal (NSP) Schemes",
+      "Central Sector Scholarship Scheme for SC/ST students",
+      "Income-linked Tuition Fee Remission/Waiver for B.Tech students"
+    ],
+    "details": "B.Tech students belonging to General/OBC categories receive a 100% tuition fee waiver if family income is under ₹1 Lakh per annum, and a 2/3rd tuition fee remission if family income falls between ₹1 Lakh and ₹5 Lakhs per annum."
+  },
+  "rankings": {
+    "nirf": "Ranked #99 in India under the Engineering Category in NIRF 2025",
+    "naac": "Not applicable (An autonomous Institute of National Importance governed directly under the NIT Council)"
   },
   "contact": {
-    "phone": "+91-4368-225 3000",
-    "email": "",
-    "address": "Thirunallar Road, Karaikal – 609609, Puducherry",
-    "admissionsEmail": ""
+    "phone": "04368-265235",
+    "email": "registrar[at]nitpy[dot]ac[dot]in",
+    "address": "National Institute of Technology Puducherry, Thiruvettakudy, Karaikal, Puducherry 609609",
+    "admissionsEmail": "thangavel.s@nitpy.ac.in"
   },
-  "website": "https://www.nitpy.ac.in",
-  "lastVerified": "2026-04-16",
-  "verifiedBy": "official-website"
+  "website": "https://nitpy.ac.in",
+  "lastVerified": "2026-05-17",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://nitpy.ac.in",
+    "fees": "https://www.nitpy.ac.in/academics/fee-structure",
+    "placements": "https://nitpy.ac.in/placement_statistics",
+    "admissions": "https://nitpy.ac.in/institute/contact",
+    "campus": "https://nitpy.ac.in/academics/emailContacts",
+    "contact": "https://nitpy.ac.in/faculty/adminDirectory"
+  }
 }

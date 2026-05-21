@@ -1,94 +1,94 @@
 {
-  "overview": "National Institute of Technology Delhi (NIT Delhi) was established in 2010 as one of the ten new NITs. Located in the national capital, NIT Delhi benefits from proximity to major tech companies and industries though it has a compact campus.",
-  "accreditation": "Institute of National Importance (NIT Act), NAAC Accredited, NBA Accredited",
+  "overview": "National Institute of Technology (NIT) Delhi, established in 2010 by the Ministry of Education, Government of India, is designated as an Institute of National Importance. The institute has successfully transitioned to its permanent campus at Narela in New Delhi, offering premium undergraduate (B.Tech), postgraduate (M.Tech, MCA), and doctoral programs. Known for its strong faculty and state-of-the-art infrastructure, NIT Delhi has become a highly sought-after engineering institute in northern India.",
+  "accreditation": "Autonomous Institute of National Importance under the NIT Act; curricula and standard regulations are governed directly by the Ministry of Education, Government of India.",
   "coursesAndFees": [
     {
-      "program": "B.Tech (all branches)",
-      "duration": "4 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
+      "program": "B.Tech (Undergraduate)",
+      "duration": "4 years",
+      "tuitionFee": "Approximately ₹1,25,000 to ₹1,59,000 per year for General/OBC candidates (Total Tuition roughly ₹5.00 Lakhs). Tuition fee is completely waived for SC/ST/PH students, and full/partial remissions apply based on annual parental income slabs."
     },
     {
-      "program": "M.Tech (various specializations)",
-      "duration": "2 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
+      "program": "M.Tech (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹70,000 to ₹1,00,000 per year depending on specialized tracks and entry category (CCMT vs. Self-Financed)."
     },
     {
-      "program": "MBA",
-      "duration": "2 Years",
-      "tuitionFee": "₹2,50,000/year"
-    },
-    {
-      "program": "MCA",
-      "duration": "2 Years",
-      "tuitionFee": "₹1,42,250/year (General)"
-    },
-    {
-      "program": "Ph.D",
-      "duration": "4-5 Years",
-      "tuitionFee": "Fully funded with stipend"
+      "program": "MCA (Postgraduate)",
+      "duration": "2 years",
+      "tuitionFee": "Approximately ₹75,000 to ₹90,000 per year."
     }
   ],
   "placements": {
-    "avgSalary": "₹9.50 LPA",
-    "medianSalary": "",
-    "highestSalary": "₹38 LPA",
-    "highestDomestic": "₹38 LPA",
-    "placementRate": "82%",
-    "totalOffers": "200+",
-    "companiesVisited": "100+",
-    "internationalOffers": "",
+    "avgSalary": "₹16.80 LPA (Overall Institutional Average across programs; B.Tech Computer Science Engineering tracks an average of ₹18.30 LPA to ₹18.87 LPA)",
+    "medianSalary": "IINR 10.50 LPA - INR 11.50 LPA (Derived from engineering institutional batch records)",
+    "highestSalary": "₹58.50 LPA to ₹87.00 LPA (Dynamic across seasonal packages and technical roles)",
+    "highestDomestic": "₹87.00 LPA",
+    "placementRate": "Approximately 86.20% overall B.Tech placement success, with Computer Science achieving a 100% track record",
+    "totalOffers": "Highly competitive with numerous unique job profiles and paid technical internships distributed across batches",
+    "companiesVisited": "Google, Amazon, DE Shaw, Morgan Stanley, Oracle, Flipkart, Siemens Healthineers, Deloitte, TCS, Wipro",
+    "internationalOffers": "Limited/Predominantly top-tier domestic tech hubs and research development operations",
     "topRecruiters": [
-      "TCS",
-      "Infosys",
-      "Wipro",
-      "Microsoft",
-      "Amazon",
       "Google",
-      "Cognizant",
-      "Capgemini",
-      "L&T",
-      "BHEL",
-      "NTPC",
-      "Goldman Sachs",
-      "Deloitte",
+      "Amazon",
+      "DE Shaw",
+      "Morgan Stanley",
       "Oracle",
-      "Samsung R&D"
+      "Flipkart",
+      "Siemens Healthineers"
     ]
   },
   "admissions": {
     "examsAccepted": [
-      "JEE Mains (B.Tech)",
-      "GATE (M.Tech)",
-      "CAT/MAT (MBA)",
-      "NIMCET (MCA)"
+      "JEE Main",
+      "GATE",
+      "NIMCET"
     ],
-    "admissionProcess": "B.Tech: JoSAA/CSAB Counselling after JEE Mains. M.Tech: CCMT/COAP after GATE.",
-    "importantDates": "JEE Mains: Jan & Apr 2026, JoSAA Counselling: June-July 2026"
+    "admissionProcess": "B.Tech seats are strictly allocated through JoSAA/CSAB centralized counseling cycles using JEE Main ranks. M.Tech relies on GATE qualification via CCMT counseling, and MCA relies on NIMCET rankings.",
+    "importantDates": "Operates fully in sync with the national timelines published by JoSAA, CSAB, CCMT, and NIMCET counseling administrative committees."
   },
   "campus": {
-    "area": "8 acres",
+    "area": "Operational from its developed permanent site spread over its master-planned layout in Sector A-7, Narela, Delhi.",
     "facilities": [
+      "Boys Hostels",
+      "Girls Hostels",
       "Central Library",
-      "Hostels",
-      "Sports Complex",
-      "Gymnasium",
-      "Health Centre",
-      "Wi-Fi Campus",
-      "Labs",
-      "Seminar Halls",
-      "Guest House",
-      "Canteen",
-      "Transportation"
+      "Advanced Computer Centre",
+      "Departmental Engineering Laboratories",
+      "Training & Placement Cell",
+      "Medical Room Facility",
+      "Sports Fields and Courts",
+      "Wi-Fi Connectivity Campus",
+      "Student Cafeteria & Mess Units"
     ],
-    "specialNote": ""
+    "specialNote": "Hostel charges for AC and non-AC structures fall approximately at ₹98,800 to ₹1,20,000 annually. Institutional caution deposits for hostel/mess baseline stand at ₹10,000 each upon registration."
+  },
+  "scholarshipsAndAid": {
+    "availableScholarships": [
+      "National Scholarship Portal (NSP) Schemes",
+      "Central Sector Scholarship Scheme for SC/ST/PH Categories",
+      "Income-based Tuition Fee Remissions (MHRD/MoE norms)"
+    ],
+    "details": "SC/ST/PH students receive 100% tuition waivers. General/OBC candidates with family income under ₹1 Lakh per annum receive full tuition waiver, whereas those between ₹1 Lakh and ₹5 Lakhs receive a 2/3rd tuition fee remission."
+  },
+  "rankings": {
+    "nirf": "Ranked 65th in the 'Engineering' category by the Ministry of Education, Government of India",
+    "naac": "Evaluated through Tier-1 central government technological institute benchmarks as an Institute of National Importance"
   },
   "contact": {
-    "phone": "+91-11-3386 1007",
-    "email": "",
-    "address": "Plot FA7, Zone P1, GT Karnal Road, Delhi – 110036",
-    "admissionsEmail": ""
+    "phone": "011-33861006",
+    "email": "registraroffice@nitdelhi.ac.in",
+    "address": "National Institute of Technology Delhi, Sector A-7, Institutional Area, Near Satyawadi Raja Harish Chandra Hospital, Narela, Delhi – 110040",
+    "admissionsEmail": "academics@nitdelhi.ac.in"
   },
   "website": "https://nitdelhi.ac.in",
-  "lastVerified": "2026-04-16",
-  "verifiedBy": "official-website"
+  "lastVerified": "2026-05-17",
+  "verifiedBy": "institutional-data-and-public-sources",
+  "sources": {
+    "overview": "https://nitdelhi.ac.in/",
+    "fees": "https://nitdelhi.ac.in/academics/services/fee",
+    "placements": "https://tnp.nitdelhi.ac.in/for-recruiters/placement-statistics",
+    "admissions": "https://nitdelhi.ac.in/",
+    "campus": "https://nitdelhi.ac.in/institute/administration/office",
+    "contact": "https://nitdelhi.ac.in/institute/leadership/registrar"
+  }
 }
