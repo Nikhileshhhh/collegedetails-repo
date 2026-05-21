@@ -1,35 +1,105 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Seshadri Rao Gudlavalleru Engineering College (formerly Gudlavalleru Engineering College), located in Seshadri Rao Knowledge Village, Gudlavalleru, Krishna District, Andhra Pradesh, is a premier self-financing private engineering institution established in 1998. Promoted by the Adusumilli Aswardha Narayana Murthy & Vallurupalli Venkata Rama Seshadri Rao Educational Society, the college is widely recognized for its robust technical training programs, extensive infrastructure, and industry-aligned training curriculum aimed at enhancing rural and technical education.",
+  "accreditation": "Approved by AICTE, permanently affiliated to JNTUK Kakinada. Accredited by NAAC with 'A' Grade and its flagship B.Tech undergraduate programs are accredited by the National Board of Accreditation (NBA).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Premium Computing Specializations (CSE, AI&DS, AI&ML)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,75,000 – ₹2,00,000 per year."
+    },
+    {
+      "program": "B.Tech Mid-Tier Engineering Streams (Information Technology, ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,25,000 – ₹1,50,000 per year."
+    },
+    {
+      "program": "B.Tech Core Engineering Programs (Civil, Mechanical, EEE, IoT)",
+      "duration": "4 years",
+      "tuitionFee": "₹80,000 – ₹1,00,000 per year."
+    },
+    {
+      "program": "MBA (Master of Business Administration)",
+      "duration": "2 years",
+      "tuitionFee": "₹50,000 – ₹95,800 per year."
+    },
+    {
+      "program": "M.Tech Specializations (Structural, VLSI, Power Electronics)",
+      "duration": "2 years",
+      "tuitionFee": "₹50,000 – ₹90,000 per year."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹4.00 LPA (Overall Campus Average Package 2025)",
+    "medianSalary": "₹4.00 LPA (B.Tech / UG Programs NIRF 2026)",
+    "highestSalary": "₹13.20 LPA (2025 Placement Cycle Package Range)",
+    "highestDomestic": "₹30.00 LPA (Historical Highest Package from Amazon)",
+    "placementRate": "Engineering Streams: 60% – 80% based on eligibility criteria",
+    "totalOffers": "951+ job offers recorded during the 2025 recruitment drive",
+    "companiesVisited": "Amazon, Capgemini, Cognizant, Infosys, Accenture, TCS, Wipro, Zithara Technologies",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "Amazon",
+      "Capgemini",
+      "Cognizant",
+      "Infosys",
+      "Accenture",
+      "TCS",
+      "Wipro"
+    ],
+    "internshipHighlights": "Pre-placement corporate training sessions and active career counseling integrated into the curriculum."
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "AP EAPCET",
+      "JEE Main",
+      "AP ICET",
+      "AP PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are majorly processed through the Andhra Pradesh State Council of Higher Education (APSCHE) counseling based on rank secured in state-level entrance tests (AP EAPCET/ICET) or via management quota allocations.",
+    "importantDates": "Schedules align directly with APSCHE admission notifications, AP EAPCET counseling, and national-level test results."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "40+ acres",
+    "facilities": [
+      "Central Library & Information Centre",
+      "Separate Men's Hostel",
+      "Separate Women's Hostel",
+      "Central Lecture Theatre",
+      "Advanced Computer and R&D Labs",
+      "Amenities Block & Canteen",
+      "Sports Ground & Gymnasium",
+      "Wi-Fi Enabled Facilities",
+      "Transportation Fleet",
+      "Medical Room"
+    ],
+    "specialNote": "Canteen meals are available separately, or integrated packages can be availed directly via the campus management guidelines.",
+    "hostelFees": {
+      "StandardBoysHostel": "₹42,000 – ₹60,000 per year including basic mess utilities",
+      "StandardGirlsHostel": "₹42,000 – ₹60,000 per year including basic mess utilities"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-8674-273737",
+    "email": "principal@gecgudlavalleru.ac.in",
+    "address": "Seshadri Rao Gudlavalleru Engineering College, Seshadri Rao Knowledge Village, Gudlavalleru, Krishna District, Andhra Pradesh – 521356, India",
+    "admissionsEmail": "principal@gecgudlavalleru.ac.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://gecgudlavalleru.ac.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-college-brochure-and-nirf-data",
+  "scholarships": {
+    "meritScholarships": "Tuition fee concessions available for top-performing institutional students.",
+    "fullWaiver": "100% tuition coverage for students qualifying under government merit-free category allocations.",
+    "partialWaiver": "Internal fee concessions are allocated to meritorious and financially strained candidates by the management board.",
+    "governmentAid": "Eligible candidates from SC/ST/OBC/EWS socio-economic backgrounds can fully avail the Andhra Pradesh Jagananna Amma Vodi and Vidya Deevena fee reimbursement schemes."
+  },
+  "sources": {
+    "overview": "https://gecgudlavalleru.ac.in",
+    "fees": "https://gecgudlavalleru.ac.in/fee_details.php",
+    "placements": "https://gecgudlavalleru.ac.in/placements_statistics.php",
+    "admissions": "https://gecgudlavalleru.ac.in/admission_procedure.php",
+    "campus": "https://gecgudlavalleru.ac.in/hostels.php",
+    "contact": "https://gecgudlavalleru.ac.in/contact_us.php"
+  }
 }

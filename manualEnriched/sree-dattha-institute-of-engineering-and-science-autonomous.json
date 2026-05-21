@@ -1,35 +1,108 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Sree Dattha Institute of Engineering and Science (SDES), established in 2001 by the Vyjayanthi Educational Society under the leadership of Sri G. Panduranga Reddy, is a premier autonomous engineering institution located on Nagarjuna Sagar Road in Sheriguda, Ibrahimpatnam, Greater Hyderabad, Telangana. The institute is dedicated to providing high-quality technical education across multiple engineering and management disciplines, fostering an environment of strong industry readiness, continuous career training, and comprehensive academic excellence.",
+  "accreditation": "UGC Autonomous status; Accredited by NAAC with 'A+' Grade; Flagship technical programs are accredited by the National Board of Accreditation (NBA) and approved by the AICTE.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship & Emerging Programs (CSE, CSE-AIML, CSE-Data Science, CSE-IT, CSE-Business Systems, ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹95,000 per year. Total estimated tuition course fee is approximately ₹3,80,000."
+    },
+    {
+      "program": "B.Tech Core Programs (Electrical & Electronics, Civil, Mechanical Engineering)",
+      "duration": "4 years",
+      "tuitionFee": "₹95,000 per year."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 – ₹50,000 per year."
+    },
+    {
+      "program": "M.Tech Specializations",
+      "duration": "2 years",
+      "tuitionFee": "₹57,000 – ₹60,000 per year."
+    },
+    {
+      "program": "Diploma Programs (Polytechnic Engineering Streams)",
+      "duration": "3 years",
+      "tuitionFee": "₹15,500 – ₹20,000 per year."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹4.50 LPA (Overall Institution Average)",
+    "medianSalary": "₹4.00 LPA – ₹5.00 LPA",
+    "highestSalary": "₹14.00 LPA (Recent Placement Drive Cycle)",
+    "highestDomestic": "₹24.00 LPA (Historical Highest Package)",
+    "placementRate": "Overall Placement Success Rate: 75% – 81%",
+    "totalOffers": "924+ total job offers with over 704 individual students successfully placed",
+    "companiesVisited": "Infosys, Wipro, TCS, Amazon, Tech Mahindra, Capgemini, HCL, Google, Reliance Industries",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "Infosys",
+      "Wipro",
+      "TCS",
+      "Amazon",
+      "Tech Mahindra",
+      "Capgemini",
+      "HCL"
+    ],
+    "internshipHighlights": "Industry-driven preparation including global SAP International Certifications completed by students"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET",
+      "JEE Main",
+      "TS ICET",
+      "TS PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are governed by Telangana State guidelines where 70% of intake is filled through the Convenor Quota (Category A) via state counseling, and 30% of seats are reserved for Management Quota (Category B) direct admissions.",
+    "importantDates": "Admissions align precisely with the annual state-level counseling timelines managed by TSCHE and JNTUH."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "10+ acres",
+    "facilities": [
+      "Lush Green Eco-friendly Infrastructure",
+      "Boys On-Campus Hostel",
+      "Girls On-Campus Hostel",
+      "Central Library with Digital Journals",
+      "State-of-the-art Research Labs",
+      "Dedicated Technical Workshops",
+      "Air-Conditioned Dining Mess Halls",
+      "Wi-Fi Connectivity In Specific Zones",
+      "Cafeteria and Snack Counters",
+      "Massive Sports Grounds and Playfields",
+      "Medical Room Facilities",
+      "College Bus Fleet Transportation"
+    ],
+    "specialNote": "Hostels feature spacious 3-to-4 member sharing rooms with attached washrooms, continuous water supply, student-led Mess Committees, and television recreation systems.",
+    "hostelFees": {
+      "SingleSharing": "₹85,000 per year (Including Mess and Amenities)",
+      "DoubleSharing": "₹65,000 per year (Including Mess and Amenities)",
+      "TripleOrFourSharing": "₹55,000 – ₹60,000 per year (Standard Room Occupancy)"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-8801099946",
+    "email": "info@sreedattha.ac.in",
+    "address": "Sree Dattha Institute of Engineering and Science, Nagarjuna Sagar Road, Sheriguda, Ibrahimpatnam, Rangareddy, Telangana – 501510, India",
+    "admissionsEmail": "info@sreedattha.ac.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://www.sreedattha.ac.in/sdes/",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-college-placement-notifications-and-state-counseling-records",
+  "scholarships": {
+    "meritScholarships": "Fee concessions granted by the Vyjayanthi Educational Society for high-merit engineering aspirants.",
+    "fullWaiver": "100% tuition coverage for highly ranked state-level entrance exam achievers as per government directives.",
+    "partialWaiver": "Academic institutional awards and tuition reductions for exceptional performance in internal assessments.",
+    "governmentAid": "Full fee reimbursement structures provided to SC, ST, BC, EWS, and minority students through the Telangana State ePASS scholarship scheme."
+  },
+  "sources": {
+    "overview": "https://www.sreedattha.ac.in/sdes/",
+    "fees": "https://www.sreedattha.ac.in/sdes/academics/courses-offered-by-sdes",
+    "placements": "https://www.sreedattha.ac.in/placements-reports/sdes-reports",
+    "admissions": "https://www.sreedattha.ac.in/",
+    "campus": "https://www.sreedattha.ac.in/sdgi/infrastructure-facilities/hostels",
+    "contact": "https://www.sreedattha.ac.in/contact-us"
+  }
 }

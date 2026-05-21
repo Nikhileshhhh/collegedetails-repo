@@ -1,35 +1,97 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Sphoorthy Engineering College (SEC), established in 2004, is a premier private engineering institution located in Nadargul, Hyderabad, Telangana. Affiliated with Jawaharlal Nehru Technological University (JNTU), Hyderabad, the college is spread over a lush 25-acre campus. SEC is widely recognized for its strong focus on emerging technologies, industry-driven engineering programs, advanced technical training, and an active Career Enhancement Cell that drives high student employability.",
+  "accreditation": "Accredited with an 'A' Grade by NAAC; Approved by AICTE, New Delhi. Permanently affiliated with JNTU Hyderabad.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship & Emerging Streams (CSE, AI & ML, Cyber Security, Data Science)",
+      "duration": "4 years",
+      "tuitionFee": "₹95,000 per year. Total tuition fee approximately ₹3,80,000 for the 4-year cycle."
+    },
+    {
+      "program": "B.Tech Core Programs (Civil Engineering, ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹95,000 per year. Total tuition fee approximately ₹3,80,000 for the 4-year cycle."
+    },
+    {
+      "program": "B.Tech (Lateral Entry for Diploma Holders)",
+      "duration": "3 years",
+      "tuitionFee": "₹95,000 per year. Total course fee approximately ₹2,85,000."
+    },
+    {
+      "program": "M.Tech Specializations",
+      "duration": "2 years",
+      "tuitionFee": "₹57,000 per year. Total course fee approximately ₹1,14,000."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹5.00 LPA – ₹6.00 LPA (Overall Branch Average)",
+    "medianSalary": "₹3.80 LPA – ₹3.90 LPA (As per recent NIRF data)",
+    "highestSalary": "₹12.00 LPA – ₹16.00 LPA (Depending on the placement cycle and drive)",
+    "highestDomestic": "₹16.00 LPA",
+    "placementRate": "Technical and Computer Science Streams: 75% – 90%",
+    "totalOffers": "600+ job offers achieved during peak placement cycles",
+    "companiesVisited": "TCS, Infosys, Wipro, Accenture, Cognizant, IBM, Tech Mahindra",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Cognizant",
+      "IBM"
+    ],
+    "internshipHighlights": "Routine assessments and industry-specific internship drives arranged through the Career Enhancement Cell"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET (formerly TS EAMCET)",
+      "TS ECET (for Lateral Entry)",
+      "GATE / TS PGECET (for M.Tech)"
+    ],
+    "admissionProcess": "70% of the intake (Category-A seats) is filled through state-level TS EAPCET counseling based on merit ranks. 30% of the intake (Category-B management seats) is filled directly by the college administration according to Telangana State Council of Higher Education guidelines.",
+    "importantDates": "Admissions strictly follow the formal regional schedules released by TS EAPCET and JNTUH counseling bodies."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "25 acres",
+    "facilities": [
+      "Academic Blocks with Projector Classrooms",
+      "Girls Hostel (On-campus)",
+      "Central Library & Digital Library",
+      "Advanced Engineering & Wi-Fi Enabled Computer Labs",
+      "Career Enhancement Cell (Placement Training Hub)",
+      "Spacious College Cafeteria",
+      "Gymnasium & Yoga Studio",
+      "Sports Ground (Indoor & Outdoor Games)",
+      "On-campus Medical & First-Aid Facilities",
+      "Transportation Services across Hyderabad"
+    ],
+    "specialNote": "The college offers dedicated, secure housing inside the campus exclusively for female students. No official boys' hostel is provided on campus, but multiple verified private hostels are located in close proximity.",
+    "hostelFees": {
+      "GirlsHostelOnCampus": "₹60,000 – ₹80,000 per year (Inclusive of mess charges)",
+      "PrivateHostelsNearby": "₹5,500 – ₹6,500 per month (Off-campus alternative for boys/girls)"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-9392-119392",
+    "email": "admissions@sphoorthyengg.ac.in",
+    "address": "Sphoorthy Engineering College, Nadargul Village, Saroornagar Mandal, Hyderabad, Telangana – 501510, India",
+    "admissionsEmail": "admissions@sphoorthyengg.ac.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://www.sphoorthyengg.ac.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-website-and-shiksha-data",
+  "scholarships": {
+    "meritScholarships": "Fee waivers and academic allowances based on TS EAPCET state ranks.",
+    "fullWaiver": "Eligible ranks under state counseling parameters receive standard tuition fee support.",
+    "partialWaiver": "Concessions are offered based on continuous academic performance or sports excellence profiles.",
+    "governmentAid": "Eligible backward classes, SC/ST, and EWS students receive full or partial fee reimbursement under the Government of Telangana state ePASS policy."
+  },
+  "sources": {
+    "overview": "https://www.sphoorthyengg.ac.in/about-college",
+    "fees": "https://www.sphoorthyengg.ac.in/courses-list",
+    "placements": "https://www.sphoorthyengg.ac.in/year-wise-placement",
+    "admissions": "https://www.sphoorthyengg.ac.in/admission-procedure",
+    "campus": "https://www.sphoorthyengg.ac.in/girls-hostel",
+    "contact": "https://www.sphoorthyengg.ac.in/contact-us"
+  }
 }

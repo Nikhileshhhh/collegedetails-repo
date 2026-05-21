@@ -1,35 +1,92 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Neil Gogte Institute of Technology (NGIT), located in Uppal, Hyderabad, Telangana, is an elite engineering institution established in 2017. As a sister concern of the prestigious Keshav Memorial Institute of Technology (KMIT), NGIT operates under the expert alignment of the successful KMIT learning frameworks. Approved by the AICTE and affiliated with Osmania University, the campus specializes deeply in advanced computer science, IT-centric specializations, and an active finishing school framework geared heavily toward top-tier technical employment.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi; Recognized by the Government of Telangana; Affiliated with Osmania University (O.U), Hyderabad.",
+  "coursesAndFees": [
+    {
+      "program": "B.E. Computer Science and Engineering (CSE)",
+      "duration": "4 years",
+      "tuitionFee": "₹90,000 per year. Additional special fees of ₹5,500 and NBA fee of ₹3,000 applicable per year."
+    },
+    {
+      "program": "B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+      "duration": "4 years",
+      "tuitionFee": "₹90,000 per year. Additional special fees of ₹5,500 applicable per year."
+    },
+    {
+      "program": "B.E. Information Technology (INF)",
+      "duration": "4 years",
+      "tuitionFee": "₹90,000 per year. Additional special fees of ₹5,500 applicable per year."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹6.50 LPA – ₹8.00 LPA (Branch Specific Average)",
+    "medianSalary": "₹7.00 LPA",
+    "highestSalary": "₹15.50 LPA (Recent Placement Cycle)",
+    "highestDomestic": "₹44.00 LPA – ₹45.00 LPA (Historical Highest Package)",
+    "placementRate": "Computer Science & IT Streams: 70% – 85%",
+    "totalOffers": "Strong campus-wide placement numbers bolstered by shared pool drives with KMIT",
+    "companiesVisited": "Amazon, Cognizant, Oracle, Microsoft, Liquidnitro, Accenture, Virtusa",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "Amazon",
+      "Cognizant",
+      "Oracle",
+      "Microsoft",
+      "Liquidnitro",
+      "Accenture",
+      "Virtusa"
+    ],
+    "internshipHighlights": "Integrated corporate internships through the mandatory Finishing School program"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET",
+      "JEE Main"
+    ],
+    "admissionProcess": "Category A seats are filled through the TS EAPCET state-level counseling based on merit ranks. Category B management seats are filled directly by the institution following prescribed state norms.",
+    "importantDates": "Admissions align strictly with the official Telangana State Council of Higher Education (TSCHE) EAPCET counseling roadmaps."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "10 acres",
+    "facilities": [
+      "Modern Classrooms",
+      "Advanced Computing Laboratories",
+      "Finishing School Training Blocks",
+      "Central Library",
+      "Campus Canteen",
+      "Auditorium & Seminar Halls",
+      "Sports and Recreational Spaces",
+      "Wi-Fi Connectivity",
+      "Institutional Bus Transportation"
+    ],
+    "specialNote": "NGIT does not maintain an on-campus hostel facility. Students routinely reside in adjacent private PG accommodations and hostels located within a 1–3 km radius of the campus layout.",
+    "hostelFees": {
+      "PrivatePGAccommodations": "₹4,000 – ₹6,500 per month (Estimated external cost including fooding and Wi-Fi)"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "9100965022 / 040-29888262",
+    "email": "principal@ngit.ac.in",
+    "address": "Neil Gogte Institute of Technology, Kachawanisingaram Village, Ghatkesar Mandal, Medchal-Malkajgiri District, Hyderabad, Telangana – 500088, India",
+    "admissionsEmail": "principal@ngit.ac.in",
+    "examCellPhone": "040-29888261",
+    "examCellEmail": "examcell@ngit.ac.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://ngit.ac.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-website-and-placement-data",
+  "scholarships": {
+    "meritScholarships": "Fee exemptions available for top-tier rank holders who secure seats through government counseling channels.",
+    "fullWaiver": "100% tuition fee reimbursement for candidates securing state rank benchmarks under the Category A criteria.",
+    "partialWaiver": "Subject to academic excellence awards and specific category mandates defined during college admissions.",
+    "governmentAid": "Eligible socio-economically backward category students receive state financial support via the Telangana ePASS scholarship system."
+  },
+  "sources": {
+    "overview": "https://ngit.ac.in/about/",
+    "fees": "https://ngit.ac.in/fee-structure/",
+    "placements": "https://ngit.ac.in/placement/",
+    "admissions": "https://ngit.ac.in/admissions/",
+    "campus": "https://ngit.ac.in/infrastructure/",
+    "contact": "https://ngit.ac.in/contact-exam-branch/"
+  }
 }

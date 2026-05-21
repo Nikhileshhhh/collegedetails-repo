@@ -1,35 +1,94 @@
 {
-  "overview": "A municipal corporation is a \ntype of local government in India which administers an urban area having a population of one million or more. The growing population and urbanization of various Indian cities highlighted the need for a type of local governing body that could provide services such as healthcare, education, housing and transport by collecting property taxes and administering grants from the state government.\nThe municipal corporation carries out its function through divisions or departments.",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Nigama Engineering College, established in 2008 and located in Sambaiahpally Village, Sultanabad, Peddapalli district near Karimnagar, Telangana, is a private engineering institution affiliated with JNTU Hyderabad. Approved by the AICTE, the college offers undergraduate, postgraduate, and diploma programs across engineering, computer science, and business management streams, focusing on skill development and regional accessibility.",
+  "accreditation": "Approved by AICTE; Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech / B.E. Programs (CSE, EEE, ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,68,000 – ₹1,88,000 total course fee. Annual tuition fee averages roughly ₹35,000 – ₹50,000 depending on category/counseling allocation."
+    },
+    {
+      "program": "M.Tech / M.E. Specializations",
+      "duration": "2 years",
+      "tuitionFee": "₹57,000 per year. Total course fee ranges up to ₹1,14,000."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹27,000 – ₹42,000 per year. Total course fee ranges between ₹54,000 – ₹80,000."
+    },
+    {
+      "program": "After 10th Diploma / Polytechnic",
+      "duration": "3 years",
+      "tuitionFee": "₹14,900 – ₹16,000 per year. Total course fee is approximately ₹44,700."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹3.00 LPA – ₹3.50 LPA (Recent Placement Cycles)",
+    "medianSalary": "₹3.50 LPA",
+    "highestSalary": "₹5.00 LPA – ₹5.50 LPA (Recent Placement Drives)",
+    "highestDomestic": "₹8.00 LPA – ₹9.00 LPA (Historical Highs)",
+    "placementRate": "Approximately 65% – 75%",
+    "totalOffers": "Varies by academic batch; notable regional placement trends for local technical students",
+    "companiesVisited": "TCS, Wipro, Infosys, Microsoft, Bajaj, Paytm, Mahindra, BPL",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "Tata Consultancy Services (TCS)",
+      "Wipro",
+      "Infosys",
+      "Microsoft",
+      "Paytm"
+    ],
+    "internshipHighlights": "A significant percentage of technical stream students secure regional internships and project-based assignments."
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET",
+      "TS PGECET",
+      "TSICET",
+      "TS POLYCET",
+      "JEE Main",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are granted via state-level standardized entrance counseling (convenor quota) or through direct institutional management quota seats based on academic eligibility criteria.",
+    "importantDates": "Aligned strictly with the schedules designated by the Telangana State Council of Higher Education (TSCHE) and state-level engineering/polytechnic entrance exam deadlines."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Regional rural campus layout near Karimnagar",
+    "facilities": [
+      "Classrooms",
+      "Laboratories",
+      "Central Library",
+      "Study Rooms",
+      "Wi-Fi Connectivity (Select Administrative Zones)",
+      "Sports Infrastructure",
+      "Examination Branch",
+      "Transportation"
+    ],
+    "specialNote": "Dedicated institutional hostel facilities are limited or unavailable; student dining options are supported via nearby local student residences and external facilities.",
+    "hostelFees": {}
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
+    "phone": "+91-80088-00701",
+    "email": "principal@nigamacollege.com",
+    "address": "Nigama Engineering College, Sambaiahpally, State Highway 1, Karimnagar, Telangana – 505186, India",
     "admissionsEmail": ""
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://sites.google.com/nigama.org/nigamaengineeringcollege",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "state-board-records-and-student-placement-portals",
+  "scholarships": {
+    "meritScholarships": "Fee consideration for high merit performance across TS EAPCET ranking categories.",
+    "fullWaiver": "",
+    "partialWaiver": "",
+    "governmentAid": "Eligible candidates from backward communities, SC, ST, and EWS categories can claim tuition fee reimbursements under the Telangana State ePASS scholarship scheme."
+  },
+  "sources": {
+    "overview": "https://sites.google.com/nigama.org/nigamaengineeringcollege/home",
+    "fees": "https://sites.google.com/nigama.org/nigamaengineeringcollege",
+    "placements": "https://sites.google.com/nigama.org/nigamaengineeringcollege",
+    "admissions": "https://sites.google.com/nigama.org/nigamaengineeringcollege/admissions",
+    "campus": "https://sites.google.com/nigama.org/nigamaengineeringcollege",
+    "contact": "https://sites.google.com/nigama.org/nigamaengineeringcollege/contact-us"
+  }
 }

@@ -1,35 +1,111 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "SR University, located in Ananthasagar, Hasanparthy, Warangal, Telangana, is a premier multi-disciplinary private state university established in 2020. Originally founded in 2002 as SR Engineering College (SREC) under the Sri Rajeshwara Educational Society, it was transitioned into a comprehensive private state university to foster world-class technical education. The university spans a modern campus equipped with industry-oriented specializations, advanced research centers, innovation hubs, and global academic collaborations.",
+  "accreditation": "NAAC Grade 'A'; Approved by UGC and AICTE; First private university in Telangana & Andhra Pradesh to secure ICAR Accreditation for its School of Agriculture. Ranked 91st in India under the Engineering Category in the NIRF 2025 rankings.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship Programs (CSE, AI & ML, Robotics & AI, ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,20,000 – ₹2,50,000 per year (depending on specialization and admission mode). Total tuition fee ranges between ₹2.85 Lakhs - ₹13.63 Lakhs."
+    },
+    {
+      "program": "B.Tech Core Programs (EEE, Civil, Mechanical)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,30,000 per year (via EAPCET convening quotas)."
+    },
+    {
+      "program": "MBA (General, Business Analytics, Digital Marketing, Aviation)",
+      "duration": "2 years",
+      "tuitionFee": "₹3,00,000 per year. Total tuition course fee approximately ₹6.00 Lakhs."
+    },
+    {
+      "program": "BBA & B.Sc (Hons.) Agriculture / General B.Sc",
+      "duration": "3–4 years",
+      "tuitionFee": "₹1,00,000 – ₹1,80,000 per year."
+    },
+    {
+      "program": "M.Tech Specializations (VLSI, Structural, Power Systems)",
+      "duration": "2 years",
+      "tuitionFee": "₹75,000 – ₹1,04,500 per year. Total course tuition fee ranges from ₹1.50 Lakhs - ₹2.09 Lakhs."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
-    "internationalOffers": "",
-    "topRecruiters": []
+    "avgSalary": "₹6.50 LPA (Overall University Average Placement)",
+    "medianSalary": "₹4.00 - ₹4.50 LPA (Across Postgraduate and General Core Sectors)",
+    "highestSalary": "₹51.00 LPA (Peak CTC Package Offered)",
+    "highestDomestic": "₹51.00 LPA (Highest Domestic Placements)",
+    "placementRate": "University Employment and Campus Placement Rate: 95% – 97%",
+    "totalOffers": "1,300+ job offers and over 1,500+ internship opportunities finalized during recent placement seasons",
+    "companiesVisited": "Salesforce, Microsoft, Cognizant, Capgemini, Flipkart, Infosys, Schneider Electric, Deloitte, Amazon, Accenture, TCS, Wipro",
+    "internationalOffers": "Global placement and training tracks available through international collaboration pathways",
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Deloitte",
+      "Accenture",
+      "Cognizant",
+      "Capgemini",
+      "Infosys",
+      "TCS"
+    ],
+    "internshipHighlights": "Highest monthly internship stipend reached up to ₹1.10 Lakh per month"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET",
+      "JEE Main",
+      "GATE",
+      "TS PGECET",
+      "TS ICET",
+      "CAT",
+      "MAT",
+      "XAT"
+    ],
+    "admissionProcess": "Admissions are granted via national and state-level counseling streams (like TS EAPCET/ICET) or through direct institutional evaluation based on competitive test merits.",
+    "importantDates": "Admission dates directly mirror state administrative cycles including TS EAPCET counseling maps, JEE Main release windows, and institutional application timetables."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Comprehensive state-of-the-art campus integrated in Warangal",
+    "facilities": [
+      "Smart Classrooms",
+      "On-Campus Boys Hostel",
+      "On-Campus Girls Hostel",
+      "Centralized Digital Library",
+      "Advanced Research Labs",
+      "Innovation & Incubation Hubs",
+      "Comprehensive Sports Complex & Gym",
+      "High-speed Wi-Fi Infrastructure",
+      "Cafeteria & Student Dining Halls",
+      "Medical & Healthcare Support",
+      "Campus Fleet Transportation"
+    ],
+    "specialNote": "Annual hostel configurations offer a range of multi-cuisine food services with options including triple and four-sharing formats.",
+    "hostelFees": {
+      "ACSharing": "₹1,20,000 – ₹1,45,000 per year (inclusive of mess)",
+      "NonACSharingCheapest": "₹85,000 – ₹1,10,000 per year (depending on configuration)",
+      "GeneralHostelRange": "₹60,000 – ₹1,00,000 per year (exclusive of certain add-on components)"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-870-281-8333",
+    "email": "info@sru.edu.in",
+    "address": "SR University, Ananthasagar, Hasanparthy, Warangal, Telangana – 506371, India",
+    "admissionsEmail": "info@sru.edu.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://sru.edu.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-university-portal-and-nirf-data",
+  "scholarships": {
+    "meritScholarships": "Financial merit waivers mapped against performance parameters in JEE Main, TS EAPCET, and board examinations.",
+    "fullWaiver": "Top state rankers and exceptional national test performers qualify for up to 100% tuition coverage.",
+    "partialWaiver": "Sports quota exemptions, alumni family assistance, and progressive tuition reductions ranging from 25% to 50%.",
+    "governmentAid": "Full integration with Telangana state welfare initiatives including TS ePASS reimbursement pathways for eligible categories."
+  },
+  "sources": {
+    "overview": "https://sru.edu.in/about",
+    "fees": "https://sru.edu.in/fee-scholarship",
+    "placements": "https://sru.edu.in/placement",
+    "admissions": "https://sru.edu.in/admissions",
+    "campus": "https://sru.edu.in/Campuslife",
+    "contact": "https://sru.edu.in/campus-visit"
+  }
 }

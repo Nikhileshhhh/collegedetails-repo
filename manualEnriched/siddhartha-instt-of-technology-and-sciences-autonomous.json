@@ -1,35 +1,114 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Siddhartha Institute of Technology and Sciences (SITS), located on Korremula Road in Narapally, Ghatkesar, Hyderabad, Telangana, is a premier private engineering institution established in 2008. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH), the college offers comprehensive undergraduate and postgraduate programs. SITS is known for its modern academic infrastructure, industry-centric engineering curricula, digital learning methodologies, and strong emphasis on placing students in reputable multi-national corporations.",
+  "accreditation": "Approved by AICTE; Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH). Holds UGC-Autonomous status.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship Programs (CSE, AI & ML, Data Science, IoT)",
+      "duration": "4 years",
+      "tuitionFee": "₹80,000 per year. Total course fee is approximately ₹3,20,000."
+    },
+    {
+      "program": "B.Tech Core Programs (Civil, EEE, ECE, Mechanical)",
+      "duration": "4 years",
+      "tuitionFee": "₹47,250 – ₹63,000 per year. Total course fee ranges from ₹1,89,000 to ₹2,52,000."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹27,000 – ₹52,000 per year. Total course fee ranges from ₹54,000 to ₹1,04,000."
+    },
+    {
+      "program": "MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹27,000 per year. Total course fee is approximately ₹54,000."
+    },
+    {
+      "program": "M.Tech Specializations",
+      "duration": "2 years",
+      "tuitionFee": "₹57,000 – ₹90,000 per year. Total course fee ranges from ₹1,14,000 to ₹1,80,000."
+    },
+    {
+      "program": "After 10th Diploma Programs",
+      "duration": "3 years",
+      "tuitionFee": "₹14,900 per year. Total course fee is approximately ₹44,700."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹4.00 LPA – ₹5.00 LPA (CSE & IT Streams 2025)",
+    "medianSalary": "₹2.80 LPA (Overall Institution Median 2025)",
+    "highestSalary": "₹41.00 LPA (2025 Placement Drive)",
+    "highestDomestic": "₹41.00 LPA (Historical Highest Package)",
+    "placementRate": "Overall Placement Rate: 89% – 92.7%",
+    "totalOffers": "468+ students successfully placed during recent campus recruitment cycles",
+    "companiesVisited": "Amazon, IBM, Wipro, TCS, Capgemini, Mu Sigma, Cognizant, Tech Mahindra, HCL Technologies",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "Amazon",
+      "IBM",
+      "Wipro",
+      "TCS",
+      "Capgemini",
+      "Mu Sigma",
+      "Cognizant",
+      "Tech Mahindra"
+    ],
+    "internshipHighlights": "Industry internship collaborations with partners like Mahindra, IBM, and Wipro"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET",
+      "TS ICET",
+      "TS ECET",
+      "JEE Main",
+      "GATE",
+      "TS PGECET"
+    ],
+    "admissionProcess": "Admissions are granted via merit ranks obtained in state-level entrance examinations (TS EAPCET/ICET) followed by centralized counseling sessions, alongside specific quotas for direct management admission.",
+    "importantDates": "Schedules explicitly align with timelines issued by the Telangana State Council of Higher Education (TSCHE) and JNTUH."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Eco-friendly campus grounds",
+    "facilities": [
+      "Modern Classrooms & Projectors",
+      "Well-Equipped Engineering Laboratories",
+      "Central Library",
+      "Campus-wide Wi-Fi Connectivity",
+      "Separate Boys Hostel",
+      "Separate Girls Hostel",
+      "Hygienic Campus Mess & Dining Halls",
+      "Sports Infrastructure & Indoor Game Areas",
+      "Dedicated Placement Cell",
+      "24/7 Power Backup & Hot Water",
+      "CCTV Security Surveillance",
+      "Comprehensive Transportation Services"
+    ],
+    "specialNote": "The institution features four separate hostel buildings equipped with modern kitchen setups, offering varied multi-cuisine vegetarian and non-vegetarian meal services.",
+    "hostelFees": {
+      "StandardSharingAC": "₹75,000 – ₹80,000 per year (Estimated with food & lodging)",
+      "StandardSharingNonAC": "₹55,000 – ₹60,000 per year (Estimated with food & lodging)"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-87123-91444",
+    "email": "info@siddhartha.org.in",
+    "address": "Siddhartha Institute of Technology and Sciences, Narapally Village, Peerzadiguda, Hyderabad, Telangana – 500088, India",
+    "admissionsEmail": "admission@siddhartha.org.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://siddhartha.org.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "state-academic-affiliations-and-placement-records",
+  "scholarships": {
+    "meritScholarships": "Academic fee concessions are given to highly-ranked students passing state level engineering tests.",
+    "fullWaiver": "Eligible candidates matching top rank categories during counseling are evaluated for complete tuition waivers.",
+    "partialWaiver": "Branch toppers and selective dynamic performers are awarded partial college level fee waivers.",
+    "governmentAid": "Eligible Telangana state reserve category (SC/ST/OBC) and EWS students receive financial relief through the TS ePASS fee reimbursement scheme."
+  },
+  "sources": {
+    "overview": "https://siddhartha.org.in/about-us/",
+    "fees": "https://siddhartha.org.in/admission-open/",
+    "placements": "https://siddhartha.org.in/placements/",
+    "admissions": "https://siddhartha.org.in/admission-open/",
+    "campus": "https://siddhartha.org.in/campus-life/",
+    "contact": "https://siddhartha.org.in/contact-us/"
+  }
 }

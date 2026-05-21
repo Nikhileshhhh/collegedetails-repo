@@ -1,35 +1,97 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Narsimha Reddy Engineering College (NRCM), located in Maisammaguda, Kompally, Secunderabad, Hyderabad, Telangana, is a prominent private engineering institution established in 2007. Managed by the Jakkula Educational Society, the college is a UGC Autonomous institution affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH). Spread across an aesthetically designed campus with a total built-up area of over 200,000 sq. ft., NRCM aims to bridge the gap between academic theory and industry demand by delivering quality technical education, modern infrastructure, and research-driven initiatives.",
+  "accreditation": "UGC Autonomous status; Approved by AICTE, New Delhi; Affiliated with JNTUH; Ranked #179 in India by India Today 2025; Actively preparing and data-submitted for NIRF participation.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship Programs (CSE, AI & ML, Cyber Security, IT)",
+      "duration": "4 years",
+      "tuitionFee": "₹70,000 to ₹87,800 per year (Total 4-year tuition fee approximately ₹2,76,000 to ₹3,16,000)."
+    },
+    {
+      "program": "B.Tech Core Programs (ECE, EEE, Mechanical, Civil)",
+      "duration": "4 years",
+      "tuitionFee": "₹70,000 to ₹87,800 per year (Total 4-year tuition fee approximately ₹2,76,000)."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹40,000 per year (Total course tuition fee approximately ₹80,000 to ₹84,000)."
+    },
+    {
+      "program": "B.Tech {Lateral Entry}",
+      "duration": "3 years",
+      "tuitionFee": "Fees aligned with standard university guidelines for lateral entry batches."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹4.50 LPA – ₹5.50 LPA (Overall Branch Average)",
+    "medianSalary": "₹4.00 LPA – ₹4.20 LPA",
+    "highestSalary": "₹14.00 LPA – ₹25.00 LPA (Varies across active placement batches)",
+    "highestDomestic": "₹25.00 LPA (Historical Campus Highest)",
+    "placementRate": "B.Tech Technical & CSE Streams: Over 90%",
+    "totalOffers": "1,000+ job offers generated during active placement drives",
+    "companiesVisited": "TCS, Google, Infosys, Accenture, Amazon, Tech Mahindra, Capgemini, Cognizant",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "TCS",
+      "Google",
+      "Infosys",
+      "Accenture",
+      "Amazon",
+      "Tech Mahindra"
+    ],
+    "internshipHighlights": "Seamlessly integrates industry-sponsored projects, technical hackathons, and corporate internships into the active academic curriculum."
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TG EAPCET (formerly TS EAMCET)",
+      "JEE Main",
+      "TG ICET (formerly TS ICET)"
+    ],
+    "admissionProcess": "B.Tech admissions are majorly based on state-level TG EAPCET entrance rank or JEE Main via Convener Quota (A Category) and Management Quota (B Category). MBA admission requires a valid degree alongside a valid TG ICET score.",
+    "importantDates": "Admissions systematically align with the schedules announced by the Telangana State Council of Higher Education (TSCHE)."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Spacious green campus with 200,000+ sq. ft. built-up area.",
+    "facilities": [
+      "Well-designed airy Classrooms & E-Classrooms",
+      "Advanced Laboratories & Research Infrastructure",
+      "Seminar Hall & Conference Rooms",
+      "Separate Girls Hostel on Campus",
+      "Wi-Fi Connectivity & IT Labs",
+      "Central Library & Study Spaces",
+      "Hygienic Canteen & Dining Halls",
+      "Sports Infrastructure (Shuttle Courts, Table Tennis)",
+      "24/7 Medical Clinic with On-Call Doctor",
+      "College Bus Transportation Network across Twin Cities"
+    ],
+    "specialNote": "The campus features comprehensive, separate hostel provisions exclusively for female students accommodating over 150 residents, ensuring secure and nutrition-focused meal systems.",
+    "hostelFees": {
+      "GirlsHostelOnCampus": "₹80,000 per year (inclusive of mess and accommodation)",
+      "PrivateHostelsNearby": "₹5,000 per month (approx. ₹60,000 per year) + ₹5,000 advance registration"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-9951688777",
+    "email": "principal@nrcmec.org",
+    "address": "Narsimha Reddy Engineering College (NRCM), Maisammaguda (V), Kompally, Secunderabad – 500100, Telangana State, India",
+    "admissionsEmail": "admissions@nrcmec.org"
   },
-  "website": "https://www.scan.co.uk/",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://nrcmec.org",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-website-and-state-counseling-data",
+  "scholarships": {
+    "meritScholarships": "Facilitates full and partial tuition fee waivers through rigorous state counseling ranks.",
+    "fullWaiver": "100% tuition fee reimbursement for qualified candidates clearing state cut-offs under reserved quotas.",
+    "partialWaiver": "Merit benefits and internal concessions evaluated on performance benchmarks.",
+    "governmentAid": "Eligible SC, ST, OBC, EWS, and minority category students can directly avail the Telangana state TS ePASS fee reimbursement schemes."
+  },
+  "sources": {
+    "overview": "https://nrcmec.org/about-nrcm",
+    "fees": "https://nrcmec.org/fee-structure",
+    "placements": "https://nrcmec.org/Placement-Statistics",
+    "admissions": "https://nrcmec.org/procedure",
+    "campus": "https://nrcmec.org/campus",
+    "contact": "https://nrcmec.org/contactus"
+  }
 }

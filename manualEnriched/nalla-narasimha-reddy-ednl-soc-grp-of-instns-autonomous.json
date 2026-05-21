@@ -1,35 +1,110 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Nalla Narasimha Reddy Education Society's Group of Institutions (NNRG), established in 2009, is a premier integrated campus located in Ghatkesar, Hyderabad, Telangana. Affiliated to Jawaharlal Nehru Technological University, Hyderabad (JNTUH), the institution operates as an autonomous entity providing industry-aligned curriculum across various professional domains. Spread across a well-structured campus, NNRG is highly regarded for its integrated framework that combines high-quality engineering, pharmacy, and management education under a single administrative umbrella.",
+  "accreditation": "Accredited by NAAC with an 'A+' Grade; Flagship programs accredited by NBA; Approved by the All India Council for Technical Education (AICTE) and the Pharmacy Council of India (PCI).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Specializations (CSE, AI&ML, Data Science, IT, ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹83,000 – ₹95,000 per year. Total course fee ranges between ₹3,32,000 and ₹3,80,000."
+    },
+    {
+      "program": "B.Tech Core Programs (Civil, Mechanical, EEE)",
+      "duration": "4 years",
+      "tuitionFee": "₹83,000 per year. Total course fee is approximately ₹3,32,000."
+    },
+    {
+      "program": "B.Pharma",
+      "duration": "4 years",
+      "tuitionFee": "₹80,000 – ₹83,000 per year. Total course fee is approximately ₹3,22,000."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹45,000 – ₹50,500 per year. Total course fee is approximately ₹90,000 – ₹1,01,000."
+    },
+    {
+      "program": "M.Tech Specializations (CSE, VLSI & Embedded Systems)",
+      "duration": "2 years",
+      "tuitionFee": "₹57,000 per year. Total course fee is approximately ₹1,14,000."
+    },
+    {
+      "program": "M.Pharma (Pharmaceutics, Pharmaceutical Analysis)",
+      "duration": "2 years",
+      "tuitionFee": "₹1,10,000 per year. Total course fee is approximately ₹2,20,000."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
-    "internationalOffers": "",
-    "topRecruiters": []
+    "avgSalary": "₹3.60 LPA – ₹4.00 LPA (Overall Campus Average)",
+    "medianSalary": "₹4.20 LPA for UG Engineering/Pharmacy and ₹3.20 LPA for PG Programs",
+    "highestSalary": "₹12.00 LPA (Engineering & Tech Streams)",
+    "highestDomestic": "₹14.00 LPA (Historical Peak in Specialized Roles)",
+    "placementRate": "Varies by stream; Technical Streams and Pharmacy achieve 75% – 98.5%",
+    "totalOffers": "269+ job offers recorded in the comprehensive institutional drives",
+    "companiesVisited": "TCS, Infosys, Wipro, Cognizant, Deloitte, Salesforce, Aurobindo Pharma, Dr. Reddy's Laboratories",
+    "internationalOffers": "N/A",
+    "topRecruiters": [
+      "TCS (Digital & Ninja)",
+      "Infosys",
+      "Deloitte",
+      "Cognizant",
+      "Wipro",
+      "Ashoka Builders"
+    ],
+    "internshipHighlights": "Industry-driven internships are facilitated through collaborations with corporate partners and specialized pharmacy organizations."
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET",
+      "TSICET",
+      "TS PGECET",
+      "JEE Main",
+      "GPAT"
+    ],
+    "admissionProcess": "Admissions are conducted through state-level counseling handles (Convener Quota - Category A) based on ranks obtained in TS EAPCET/TSICET, alongside designated Management Quota pathways (Category B).",
+    "importantDates": "Aligned directly with the state entrance counseling frameworks managed by Telangana State Council of Higher Education (TSCHE)."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "12 acres",
+    "facilities": [
+      "Integrated Smart Classrooms",
+      "Dedicated Girls On-Campus Hostel",
+      "Central Library & Digital Resource Centre",
+      "Advanced Research & Engineering Laboratories",
+      "Pharmacy & Formulation Labs",
+      "Sports Fields & Indoor Play Zones",
+      "Seminar Halls & Open-Air Auditorium",
+      "Wi-Fi Enabled Zones",
+      "Cafeteria & Medical Inspection Room",
+      "Dedicated Institutional Transportation Fleet"
+    ],
+    "specialNote": "The institution features an official on-campus girls' hostel providing continuous security, RO water systems, and medical van services. Multiple external private hostels and paying guest options are widely operational for boys within a 1km campus radius.",
+    "hostelFees": {
+      "4SharingAC": "N/A",
+      "4SharingNonAC": "₹75,000 – ₹80,000 per year (Exclusive Girls' Boarding charges)",
+      "5SharingNonAC": "N/A"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-040-29705282",
+    "email": "admin@nnrg.edu.in",
+    "address": "Nalla Narasimha Reddy Education Society's Group of Institutions, Near Narapally, Chowdariguda (V), Korremula 'X' Roads, Ghatkesar (M), Medchal District, Hyderabad, Telangana – 500088, India",
+    "admissionsEmail": "admissions@nnrg.edu.in"
   },
-  "website": "https://collegedunia.com/college/28846-nalla-narasimha-reddy-education-societys-group-of-institutions-nnrg-hyderabad",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://nnrg.edu.in",
+  "lastVerified": "2026-05-20",
+  "verifiedBy": "official-nnrg-mandatory-disclosures-and-state-counseling-reports",
+  "scholarships": {
+    "meritScholarships": "Academic merit incentives are provided to semester toppers within specific departments.",
+    "fullWaiver": "100% Tuition Fee exemptions are available to students securing premier state ranks under the government regulations.",
+    "partialWaiver": "Partial fee concessions are extended to specific institutional criteria candidates and sports achievers.",
+    "governmentAid": "Eligible SC, ST, OBC, and EWS candidates receive institutional tuition coverage dynamically via the Telangana State ePASS Fee Reimbursement program."
+  },
+  "sources": {
+    "overview": "https://nnrg.edu.in/about-us.php",
+    "fees": "https://nnrg.edu.in/admission-fee-structure.php",
+    "placements": "https://nnrg.edu.in/placement-records.php",
+    "admissions": "https://nnrg.edu.in/admission-fee-structure.php",
+    "campus": "https://nnrg.edu.in/girls-hostel.php",
+    "contact": "https://nnrg.edu.in/PDF/Mandatory_Disclosure.pdf"
+  }
 }

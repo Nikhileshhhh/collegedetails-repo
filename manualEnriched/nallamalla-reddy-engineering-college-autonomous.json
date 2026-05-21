@@ -1,35 +1,103 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Nalla Malla Reddy Engineering College (NMREC), located in Divyanagar, Ghatkesar, Hyderabad, Telangana, is an autonomous engineering institution established in 2001. Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH) and approved by the AICTE, NMREC is known for its discipline-centric educational environment, industry-institute coordination cell, and dedicated focus on project-based learning. The college offers standard undergraduate engineering, postgraduate tech programs, and management studies with an emphasis on sustainable development and entrepreneurial incubation.",
+  "accreditation": "Autonomous status granted by UGC; Approved by AICTE; Affiliated with JNTUH. Flagship technical programs have historically undergone NBA accreditations.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship Streams (Computer Science & Engineering, AI & ML, Data Science)",
+      "duration": "4 years",
+      "tuitionFee": "₹86,000 per year (Regular tuition fee). Total 4-year tuition fee stands at approximately ₹3,44,000 – ₹3,80,000. Convocation/University fees extra."
+    },
+    {
+      "program": "B.Tech Core Programs (Electronics & Communication, Electrical & Electronics, Civil, Mechanical)",
+      "duration": "4 years",
+      "tuitionFee": "₹86,000 per year (Regular tuition fee). Total 4-year tuition fee stands at approximately ₹3,44,000 – ₹3,80,000."
+    },
+    {
+      "program": "MBA (Master of Business Administration)",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 per year. Total course fee stands at approximately ₹70,000 – ₹1,40,000 depending on state council allocations and category."
+    },
+    {
+      "program": "M.Tech Specializations (Computer Networks, VLSI, Electrical Power, CAD/CAM)",
+      "duration": "2 years",
+      "tuitionFee": "₹59,700 per year. Additional institutional or special fees up to ₹5,500 may apply."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹4.00 LPA – ₹5.00 LPA (Overall Institution Average)",
+    "medianSalary": "₹3.50 LPA (Estimated across core and IT streams)",
+    "highestSalary": "₹7.20 LPA (2023-2024 Placement Cycle)",
+    "highestDomestic": "₹10.20 LPA (Historical Campus High Package)",
+    "placementRate": "Engineering Streams: 70% – 75%",
+    "totalOffers": "300+ job offers during the recent 2023-24 placement drive",
+    "companiesVisited": "Cognizant, Hexaware, HP, TCS Ninja, Mindtree, Talentio, Wipro, Infosys, Tech Mahindra",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "Cognizant",
+      "Hexaware",
+      "HP",
+      "TCS Ninja",
+      "Mindtree",
+      "Talentio",
+      "Infosys",
+      "Wipro",
+      "Tech Mahindra"
+    ],
+    "internshipHighlights": "60%–70% of students secure internships in tech and logistics companies including regional startups"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TG EAPCET (formerly TS EAMCET)",
+      "TS ICET",
+      "TS PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are primarily executed through the state-level counseling processes based on ranks secured in TG EAPCET for B.Tech, TS ICET for MBA, and TS PGECET/GATE for M.Tech programs.",
+    "importantDates": "Schedules strictly correspond with the mandates published by the Telangana State Council of Higher Education (TSCHE)."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Main campus situated at 16th KM on Warangal Highway",
+    "facilities": [
+      "Smart Classrooms",
+      "Separate Boys Hostel",
+      "Separate Girls Hostel",
+      "Central Library",
+      "MSME Approved Incubation Center",
+      "Cricket Ground",
+      "Football Ground",
+      "Basketball Court",
+      "Canteen & Student Lounge",
+      "Transportation Services",
+      "Medical Room"
+    ],
+    "specialNote": "Strict campus regulations are maintained including mandatory uniforms and strict mobile phone usage guidelines during instructional hours.",
+    "hostelFees": {
+      "StandardBoysHostel": "₹60,000 per year (or ₹35,000 per semester)",
+      "StandardGirlsHostel": "₹60,000 per year (or ₹35,000 per semester)"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "040-29705020 / 040-29706020",
+    "mobile": "+91-9392184185 / +91-9392184186",
+    "email": "info@nmrec.edu.in",
+    "address": "Divyanagar, Kachivani Singaram, Near Narapally, at 16th KM on Warangal Highway, Ghatkesar Mandal, Medchal District – 500088, Hyderabad, Telangana, India.",
+    "admissionsEmail": "admissions@nmrec.edu.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://www.nmrec.edu.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-website-and-state-counseling-data",
+  "scholarships": {
+    "meritScholarships": "State fee reimbursement concessions applicable for eligible category students.",
+    "fullWaiver": "Full tuition fee reimbursement available for eligible candidates according to Telangana state ePASS norms.",
+    "partialWaiver": "Tuition fee concessions of ₹30,000 to ₹35,000 available for specific minority/reimbursement eligible candidates.",
+    "governmentAid": "Telangana ePASS post-matric scholarship infrastructure covers partial or complete tuition balances for qualified local students."
+  },
+  "sources": {
+    "overview": "https://www.nmrec.edu.in/about/",
+    "fees": "https://www.nmrec.edu.in/fees-details/",
+    "placements": "https://www.nmrec.edu.in/placements/campus-placements/",
+    "admissions": "https://www.nmrec.edu.in/admission-notification-2024-25/",
+    "campus": "https://www.nmrec.edu.in/infrastructure/",
+    "contact": "https://www.nmrec.edu.in/contactus/"
+  }
 }

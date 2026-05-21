@@ -1,35 +1,96 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Scient Institute of Technology (SIT), established in 2001, is a private engineering college located in Ibrahimpatnam, Hyderabad, Telangana. Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH) and approved by AICTE, the institute is known for its serene 26-acre campus and focus on technical education. It has been granted UGC Autonomous status and is managed by the Scient Educational Society.",
+  "accreditation": "NAAC Grade 'A+' with 3.45 CGPA; UGC Autonomous; Approved by AICTE; ISO 9001-2000 Certified.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (CSE, ECE, EEE, IT, AI & ML)",
+      "duration": "4 years",
+      "tuitionFee": "₹76,000 – ₹1,00,000 per year (Total approx. ₹3.04 Lakhs)"
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹45,000 – ₹50,000 per year (Total approx. ₹90,000)"
+    },
+    {
+      "program": "M.Tech (CSE, VLSI, PE, ES)",
+      "duration": "2 years",
+      "tuitionFee": "₹63,500 per year (Total approx. ₹1.27 Lakhs)"
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
-    "internationalOffers": "",
-    "topRecruiters": []
+    "avgSalary": "₹3.00 LPA – ₹3.50 LPA",
+    "medianSalary": "₹3.20 LPA",
+    "highestSalary": "₹7.50 LPA (2024 Official Report)",
+    "highestDomestic": "₹12.00 LPA (Highest observed in recent drives/reviews)",
+    "placementRate": "75% – 80%",
+    "totalOffers": "70+ offers in 2024 drive (ongoing)",
+    "companiesVisited": "Accenture, TCS, Wipro, Capgemini, Amazon, IBM, Infosys, Tech Mahindra",
+    "internationalOffers": "Data not explicitly available",
+    "topRecruiters": [
+      "Accenture",
+      "TCS",
+      "Wipro",
+      "Capgemini",
+      "Amazon",
+      "IBM",
+      "Infosys",
+      "Tech Mahindra"
+    ],
+    "internshipHighlights": "Internships available from 2nd year; students placed in companies like Toucan Payments and Silicon Labs"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAMCET",
+      "TS ICET",
+      "TS PGECET",
+      "GATE",
+      "JEE Main"
+    ],
+    "admissionProcess": "Admissions are primarily based on rank secured in TS EAMCET (for B.Tech) and TS ICET (for MBA), followed by state-level counseling (Category A). Management quota (Category B) seats are filled based on merit/JEE Main scores.",
+    "importantDates": "Admissions follow the TS EAMCET and TS ICET counseling schedules, typically starting May-June."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "26 - 32 acres",
+    "facilities": [
+      "Central Library",
+      "Digital Classrooms",
+      "Transport (Bus Fleet)",
+      "Cafeteria",
+      "Sports Complex (Cricket, Basketball)",
+      "Auditorium",
+      "Laboratories",
+      "Wi-Fi Campus"
+    ],
+    "specialNote": "The campus is noted for its 'sylvan surroundings' away from city congestion.",
+    "hostelFees": {
+      "4SharingAC": "Not explicitly listed",
+      "4SharingNonAC": "≈ ₹60,000 per year (On-campus/Private tie-ups)",
+      "5SharingNonAC": "Private hostels nearby range from ₹5,000 – ₹6,000 per month"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-9849068863 / +91-9246162821",
+    "email": "scient_insteng@yahoo.co.in / principal@scient.ac.in / principal.scient@gmail.com",
+    "address": "Scient Institute of Technology, Nagarjuna Sagar Highway, Ibrahimpatnam, R.R. District, Telangana",
+    "cityOffice": "3-2-848/9-11, Opp Hotel Mahaveer, Kachiguda Station Rd, Kachiguda, Hyderabad, Telangana – 500027 | Phone: 040-65594666",
+    "admissionsEmail": "admissions@scient.ac.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://www.scient.ac.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "search-results-aggregation",
+  "scholarships": {
+    "meritScholarships": "Fee waivers available for top rankers in TS EAMCET.",
+    "fullWaiver": "Available under Central Sector Scheme for eligible meritorious students.",
+    "partialWaiver": "50% tuition fee waiver for students securing top ranks.",
+    "governmentAid": "TS ePASS fee reimbursement (up to 100% tuition fee) for eligible SC/ST/BC/EBC/Minority students with income limits (SC/ST < ₹2L, others < ₹1.5L-₹2L)."
+  },
+  "sources": {
+    "overview": "https://www.scient.ac.in/aboutus/details/1",
+    "fees": "https://www.scient.ac.in/admissions/feestructure",
+    "placements": "https://www.scient.ac.in/trainings/details/2",
+    "admissions": "https://www.scient.ac.in/admissions/adminprocedure",
+    "campus": "https://www.scient.ac.in/facilities/details/1",
+    "contact": "https://www.scient.ac.in/contactus"
+  }
 }

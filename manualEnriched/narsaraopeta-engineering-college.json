@@ -1,35 +1,112 @@
 {
-  "overview": "Guntur district is  in the Coastal Andhra region of the Indian state of Andhra Pradesh. The administrative seat of the district is located at Guntur, one of the major urban centres of the state. Historically significant, the region was part of ancient Buddhist and Satavahana-era settlements and later came under various South Indian dynasties before British rule.",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Narasaraopeta Engineering College (NEC), located on Kotappakonda Road in Narasaraopet, Palnadu District, Andhra Pradesh, is a prominent autonomous engineering institution established in 1998. Sponsored by the Gayatri Educational Development Society, the college spans a 40-acre campus and has evolved into a premier regional destination for technical education. It is recognized for its comprehensive curricula across computing, traditional engineering disciplines, and postgraduate management studies.",
+  "accreditation": "NAAC Grade 'A+'; Approved by AICTE; Permanently affiliated to JNTUK, Kakinada. Key undergraduate B.Tech engineering branches are accredited by the NBA.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Programs (CSE, AI, IT, ECE, EEE, Mechanical, Civil) - Convenor Quota",
+      "duration": "4 years",
+      "tuitionFee": "₹73,800 per year. Total course tuition fee stands at ₹2,95,200."
+    },
+    {
+      "program": "B.Tech Computer Science & Core IT Streams - Management Quota",
+      "duration": "4 years",
+      "tuitionFee": "₹2,21,400 per year."
+    },
+    {
+      "program": "B.Tech Electronics & Communication Engineering - Management Quota",
+      "duration": "4 years",
+      "tuitionFee": "₹1,47,600 per year."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹50,400 per year. Total course tuition fee is approximately ₹1,00,800."
+    },
+    {
+      "program": "MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹56,600 per year. Total course tuition fee is approximately ₹1,13,200."
+    },
+    {
+      "program": "M.Tech Specializations (CSE, Digital Systems, Core Streams)",
+      "duration": "2 years",
+      "tuitionFee": "₹51,300 per year. Total course tuition fee is approximately ₹1,02,600."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹4.50 LPA (Overall Average Package)",
+    "medianSalary": "₹4.50 LPA (Undergraduate B.Tech Track / Postgraduate M.Tech)",
+    "highestSalary": "₹14.50 LPA (Recent Placement Drives)",
+    "highestDomestic": "₹15.00 LPA (Historical Peak Package)",
+    "placementRate": "Eligible Students: 100% placement track rate recorded",
+    "totalOffers": "1,297+ job selections during the recent consolidated recruitment cycle",
+    "companiesVisited": "87 corporate companies participated in recruitment operations",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "TCS",
+      "Accenture",
+      "Tech Mahindra",
+      "Savantis Solutions",
+      "ITC Ltd",
+      "Wipro",
+      "Infosys"
+    ],
+    "internshipHighlights": "Maintains industry linkage collaborations with Microsoft and Salesforce for practical exposure and project training."
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ICET",
+      "AP PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Category A (Convenor Quota) allocations are handled through corporate state-level entrance exam counselling. Category B (Management/Spot Admissions) can be applied for via the institutional admissions team.",
+    "importantDates": "Admissions systematically align with APSCHE academic counseling calendars for AP EAPCET, AP ICET, and AP PGECET."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "40 acres",
+    "facilities": [
+      "ICT Enabled Classrooms",
+      "Boys On-Campus Hostel",
+      "Girls On-Campus Hostel",
+      "Central Library",
+      "Advanced Engineering Laboratories",
+      "Seminar Halls",
+      "Sports Complex & Playgrounds",
+      "Digital Projection Auditoriums",
+      "Cafeteria",
+      "Health Center",
+      "Institutional Bus Transportation"
+    ],
+    "specialNote": "Separate secure residential compounds are maintained for boys and girls with multi-cuisine dining options provided.",
+    "hostelFees": {
+      "NonAC": "₹85,000 per year",
+      "AttachedWashRoom": "₹91,000 per year",
+      "AttachedWashRoomWithAC": "₹95,000 per year"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "08647-239905",
+    "mobile": "+91-8106306313 / +91-9154686203",
+    "email": "info@nrtec.in",
+    "address": "Narasaraopeta Engineering College, Kotappakonda Road, Narasaraopet, Palnadu District, Andhra Pradesh - 522601, India",
+    "admissionsEmail": "admissions@nrtec.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://www.nrtec.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-website-and-state-counseling-data",
+  "scholarships": {
+    "meritScholarships": "State-sponsored tuition incentives and academic fee concessions given based on competitive entry rankings.",
+    "fullWaiver": "Eligible candidates receive explicit institutional fee support or corporate concessions based on top merit performance.",
+    "partialWaiver": "Eligible state-allocated students receive distinct partial academic or structural allowances.",
+    "governmentAid": "Full tuition fee reimbursement benefits provided through state initiatives like the Jagananna Vidya Deevena (JVD) scheme for qualifying social brackets."
+  },
+  "sources": {
+    "overview": "https://www.nrtec.in/about-us/",
+    "fees": "https://www.nrtec.in/fee-structure/",
+    "placements": "https://www.nrtec.in/nec-placements/",
+    "admissions": "https://www.nrtec.in/admission-procedure/",
+    "campus": "https://www.nrtec.in/facilities/",
+    "contact": "https://www.nrtec.in/contact-us/"
+  }
 }

@@ -1,35 +1,86 @@
 {
-  "overview": "Netaji Subhas University of Technology (NSUT), formerly Netaji Subhas Institute of Technology (NSIT) is a state university located in Dwarka, Delhi, India. In 2018, the institute was granted university status, changing its name to Netaji Subhas University of Technology (NSUT).\n\n\n== History ==\nThe Ministry of Human Resource Development (MHRD) established an engineering college named Delhi Institute of Technology (DIT) in 1983.",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Netaji Institute of Engineering and Technology (NIET), established in 2004, is a private engineering college located near Ramoji Film City in the Yadadri Bhuvanagiri district of Telangana, India. Operating under the Lord Grace Educational Society and affiliated with Jawaharlal Nehru Technological University (JNTU), Hyderabad, the institution provides co-educational programs focused on core engineering fields, electronics, and management studies.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE); Affiliated with Jawaharlal Nehru Technological University (JNTU), Hyderabad.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Computer Science, CSE, ECE, EEE, Civil)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,68,000 – ₹1,80,000 total tuition fees."
+    },
+    {
+      "program": "B.Tech (Mechanical Engineering)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,68,000 total tuition fees."
+    },
+    {
+      "program": "MBA / PGDM",
+      "duration": "2 years",
+      "tuitionFee": "₹70,000 – ₹77,000 total tuition fees."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
+    "avgSalary": "₹3.00 LPA – ₹5.00 LPA (Estimated Overall Average)",
+    "medianSalary": "₹1.60 LPA (As reported historically for technical streams)",
+    "highestSalary": "₹5.00 LPA – ₹9.00 LPA (Depending on specializations)",
     "highestDomestic": "",
-    "placementRate": "",
+    "placementRate": "Roughly 50% – 60% of eligible students",
     "totalOffers": "",
-    "companiesVisited": "",
+    "companiesVisited": "Tata Consultancy Services (TCS), Wipro, Amazon, Capgemini, Flipkart",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "Tata Consultancy Services (TCS)",
+      "Wipro",
+      "Amazon",
+      "Capgemini",
+      "Flipkart"
+    ],
+    "internshipHighlights": ""
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAMCET / TS EAPCET",
+      "JEE Main",
+      "TS ICET",
+      "CAT"
+    ],
+    "admissionProcess": "Admissions are primarily based on performance in state-level entrance examinations (TS EAMCET for B.Tech and TS ICET for MBA) or through national-level entrance scores, followed by the respective state counseling process.",
+    "importantDates": "Admissions align with the schedules announced by the Telangana State Council of Higher Education (TSCHE) for TS EAPCET and TS ICET counseling."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "19 acres",
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Engineering Workshops",
+      "Hostel Facilities",
+      "Cafeteria",
+      "Sports Facilities",
+      "Transportation"
+    ],
+    "specialNote": "",
+    "hostelFees": {}
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-9000303421",
+    "email": "info@netajiengg.com",
+    "address": "Netaji Institute of Engineering and Technology, Toopranpet (Village), Near Ramoji Film City, Choutuppal (Mandal), Yadadri Bhuvanagiri District, Telangana – 508252, India",
+    "admissionsEmail": "n2jntu@gmail.com"
   },
-  "website": "http://jntuhaac.in/Public/CollegeInformation/tB1NQGwWKro=",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "http://netajiengg.com",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "state-university-affiliations-and-educational-portals",
+  "scholarships": {
+    "meritScholarships": "",
+    "fullWaiver": "",
+    "partialWaiver": "",
+    "governmentAid": "Eligible state category students can apply for the Telangana ePASS tuition fee reimbursement scheme."
+  },
+  "sources": {
+    "overview": "https://nietians.com/about/",
+    "fees": "https://nietians.com/",
+    "placements": "https://nietians.com/",
+    "admissions": "https://nietians.com/academics/",
+    "campus": "https://nietians.com/",
+    "contact": "https://nietians.com/"
+  }
 }

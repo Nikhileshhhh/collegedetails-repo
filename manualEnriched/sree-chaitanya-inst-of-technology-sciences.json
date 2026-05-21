@@ -1,35 +1,99 @@
 {
-  "overview": "Welcome to Sree Chaitanya Institute of Technological Sciences (SCITS), established in 2008 in Thimmapur, Karimnagar. Spread across 41 acres in the L.M.D colony, SCITS is affiliated with Jawaharlal \u2026",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Sree Chaitanya Institute of Technological Sciences (SCITS), established in 2008, is a prominent private engineering college located in LMD Colony, Thimmapur, Karimnagar, Telangana. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH) and approved by AICTE, the institute offers undergraduate and postgraduate programs in engineering and management fields. The college focuses on blending technical education with professional excellence to support rural and semi-urban student populations.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE); Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship & Allied Programs (CSE, AI&ML, ECE, EEE, Civil)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,40,000 – ₹2,53,000 total course fee (approximately ₹60,000 – ₹63,250 per year)."
+    },
+    {
+      "program": "B.Tech {Lateral Entry}",
+      "duration": "3 years",
+      "tuitionFee": "₹1,91,000 total course fee."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹1,08,000 total course fee (approximately ₹54,000 per year)."
+    },
+    {
+      "program": "M.Tech Specializations (Computer Science & Engineering, etc.)",
+      "duration": "2 years",
+      "tuitionFee": "₹1,14,000 total course fee (approximately ₹57,000 per year)."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
-    "internationalOffers": "",
-    "topRecruiters": []
+    "avgSalary": "₹3.60 LPA – ₹5.00 LPA (Overall Branch Average)",
+    "medianSalary": "₹3.50 LPA",
+    "highestSalary": "₹10.00 LPA",
+    "highestDomestic": "₹10.00 LPA (Recent Placement Drives)",
+    "placementRate": "Approximately 60% – 80% depending on the engineering branch",
+    "totalOffers": "Significant hiring volume achieved by service-based IT companies",
+    "companiesVisited": "TCS, Wipro, IBM, Accenture, Capgemini, Softsuave, HCL, Sutherland",
+    "internationalOffers": "Information not explicitly specified",
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "IBM",
+      "Capgemini",
+      "Accenture",
+      "Sutherland"
+    ],
+    "internshipHighlights": "Off-campus opportunities and student-driven technical projects; over 80% of specific stream students gain practical exposures"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET (formerly TS EAMCET)",
+      "TS ICET",
+      "GATE",
+      "TS PGECET"
+    ],
+    "admissionProcess": "Admissions are strictly based on ranks secured in the state-level counseling entrance exams (TS EAPCET for B.Tech, TS ICET for MBA) and direct management quota guidelines issued by TSCHE.",
+    "importantDates": "Admissions align directly with the counseling schedules declared by the Telangana State Council of Higher Education (TSCHE) annually."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Lush green tech campus",
+    "facilities": [
+      "Well-equipped Computer Labs",
+      "Central Library",
+      "Digital Classrooms",
+      "On-campus Girls Hostel",
+      "Wi-Fi Connectivity",
+      "Placement Cell Room",
+      "Gymnasium",
+      "Medical First-Aid Kits",
+      "Cafeteria & Dining Hall",
+      "Alumni Association Network"
+    ],
+    "specialNote": "The institute guarantees clean mineral drinking water and diagnostic medical checkups for resident students. Private off-campus hostels and rooms are heavily utilized nearby.",
+    "hostelFees": {
+      "4SharingAC": "Information not explicitly specified",
+      "4SharingNonAC": "Information not explicitly specified",
+      "HostelStandardNonAC": "₹36,000 – ₹42,000 per year (charged approximately ₹3,000 – ₹3,500 monthly)"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-9000993703",
+    "email": "scits.knr@gmail.com",
+    "address": "Sree Chaitanya Institute of Technological Sciences, LMD Colony, Thimmapur, Karimnagar, Telangana – 505527, India",
+    "admissionsEmail": "scits.knr@gmail.com"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://scit.ac.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-college-records-and-counseling-data",
+  "scholarships": {
+    "meritScholarships": "Fee concessions offered internally to competitive entrance rank holders.",
+    "fullWaiver": "100% tuition fee coverage for students qualifying under government regular scholarship norms.",
+    "partialWaiver": "Varying fee relaxation percentages for meritorious academic performers.",
+    "governmentAid": "Full fee reimbursement benefits accessible to eligible SC, ST, OBC, and EWS candidates through the Telangana State ePASS portal."
+  },
+  "sources": {
+    "overview": "https://scit.ac.in/about/",
+    "fees": "https://scit.ac.in/programsoffered/",
+    "placements": "https://scit.ac.in/placements/",
+    "admissions": "https://scit.ac.in/programsoffered/",
+    "campus": "https://scit.ac.in/departments/",
+    "contact": "https://scit.ac.in/contact-us/"
+  }
 }

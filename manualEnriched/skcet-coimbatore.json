@@ -1,74 +1,113 @@
 {
-  "overview": "Sri Krishna College of Engineering and Technology (SKCET), Coimbatore was established in 2001 in Tamil Nadu. It is an autonomous institution affiliated to Anna University with NAAC A+ accreditation and strong placement in IT sector.",
-  "accreditation": "NAAC A+ Grade, NBA Accredited",
+  "overview": "Sri Krishna College of Engineering and Technology (SKCET), located in Kuniamuthur, Coimbatore, Tamil Nadu, is a premier autonomous engineering institution established in 1985. Affiliated with Anna University, the college is highly regarded for its sprawling green campus, state-of-the-art infrastructure, industry-driven engineering curriculum, and exceptional placement ecosystem. SKCET is widely recognized for its multi-disciplinary technical education and extensive digital learning practices.",
+  "accreditation": "Accredited with NAAC Grade 'A'; Flagship undergraduate B.E./B.Tech programs are accredited by the National Board of Accreditation (NBA).",
   "coursesAndFees": [
     {
-      "program": "B.Tech (all branches)",
-      "duration": "4 Years",
-      "tuitionFee": "₹1,20,000/year"
+      "program": "B.E. / B.Tech (Government Quota)",
+      "duration": "4 years",
+      "tuitionFee": "₹50,000 per year."
     },
     {
-      "program": "M.Tech (various)",
-      "duration": "2 Years",
-      "tuitionFee": "Varies"
+      "program": "B.E. / B.Tech (Management Quota - Core Streams)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,30,000 per year."
     },
     {
-      "program": "Ph.D",
-      "duration": "4-5 Years",
-      "tuitionFee": "Varies"
+      "program": "B.E. / B.Tech (Management Quota - CSE/IT/AI)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,80,000 per year."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹1,70,000 per year."
+    },
+    {
+      "program": "MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹85,000 per year."
+    },
+    {
+      "program": "M.E. / M.Tech",
+      "duration": "2 years",
+      "tuitionFee": "₹1,25,000 per year."
     }
   ],
   "placements": {
-    "avgSalary": "₹4.50 LPA",
-    "medianSalary": "",
-    "highestSalary": "₹15 LPA",
-    "highestDomestic": "₹15 LPA",
-    "placementRate": "75%",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹6.20 LPA – ₹7.00 LPA (2025 Placement Cycle)",
+    "medianSalary": "₹8.00 LPA (As per NIRF 2026 reporting data)",
+    "highestSalary": "₹60.00 LPA (2025 Placement Cycle)",
+    "highestDomestic": "₹95.00 LPA (Historical Highest Package achieved in 2023)",
+    "placementRate": "Overall placement rate reaches up to 90.09% – 97% across disciplines",
+    "totalOffers": "1,503+ job offers extended during the 2025 recruitment drive",
+    "companiesVisited": "Over 221 to 234 companies participated in recruitment events",
     "internationalOffers": "",
     "topRecruiters": [
-      "TCS",
-      "Infosys",
-      "Wipro",
-      "Microsoft",
       "Amazon",
-      "Cognizant",
-      "Capgemini",
+      "Microsoft",
+      "JPMorgan Chase",
       "Accenture",
-      "Deloitte",
-      "L&T"
-    ]
+      "Cognizant",
+      "IBM",
+      "Infosys",
+      "Zoho"
+    ],
+    "internshipHighlights": "High-stipend internship offers from major tech corporations like Amazon featuring ₹40,000 monthly stipends"
   },
   "admissions": {
     "examsAccepted": [
-      "TNEA (B.E.)",
-      "GATE (M.E.)"
+      "TNEA",
+      "TANCET MBA",
+      "TANCET",
+      "GATE"
     ],
-    "admissionProcess": "See official website for admission process details.",
-    "importantDates": "See official website for dates."
+    "admissionProcess": "Engineering admissions strictly adhere to TNEA single-window counseling based on 12th board merit scores. Postgraduate admissions for MBA/MCA are processed via TANCET scores.",
+    "importantDates": "Admission timelines run parallel with the official Anna University, TNEA counseling schedules, and TANCET entrance result portals."
   },
   "campus": {
-    "area": "30 acres",
+    "area": "Information not explicitly specified",
     "facilities": [
-      "Library",
-      "Labs",
-      "Hostels",
-      "Sports Facilities",
-      "Health Centre",
-      "Wi-Fi Campus",
-      "Canteen",
-      "Transportation"
+      "Digital ICT Classrooms",
+      "Centrally Air-Conditioned Library",
+      "AICTE-IDEA Lab",
+      "Aero Vision Drone Center of Excellence",
+      "Advanced Virtual Labs Nodal Center",
+      "Research Centers of Excellence",
+      "Boys Hostels",
+      "Girls Hostels",
+      "Sports Fields",
+      "Cafeteria",
+      "Campus Wi-Fi Connectivity"
     ],
-    "specialNote": ""
+    "specialNote": "Separate monthly multi-cuisine mess charges are collected over basic room allocation fees.",
+    "hostelFees": {
+      "BoysDoubleRoom": "₹72,000 per year",
+      "BoysTripleRoom": "₹62,000 per year",
+      "GirlsDoubleRoom": "₹80,000 per year",
+      "GirlsTripleRoom": "₹70,000 per year"
+    }
   },
   "contact": {
-    "phone": "+91-422-268 4200",
-    "email": "",
-    "address": "Kuniyamuthur, Coimbatore – 641008, Tamil Nadu",
-    "admissionsEmail": ""
+    "phone": "+91-422-2678001",
+    "email": "principal@skcet.ac.in",
+    "address": "Sri Krishna College of Engineering and Technology, Kuniamuthur, Coimbatore, Tamil Nadu – 641008, India",
+    "admissionsEmail": "placement@skcet.ac.in"
   },
-  "website": "https://www.skcet.ac.in",
-  "lastVerified": "2026-04-16",
-  "verifiedBy": "official-website"
+  "website": "https://skcet.ac.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-website-and-placement-data",
+  "scholarships": {
+    "meritScholarships": "SKCET Merit Scholarships provide specific tuition fee waivers for top academic achievers.",
+    "fullWaiver": "100% tuition coverage options under select Tamil Nadu Government first-graduate and rural quota structures.",
+    "partialWaiver": "Tuition reductions are granted to EWS candidates and Single Girl Child applicants.",
+    "governmentAid": "Full post-matric and communal scholarship disbursements are accessible for SC/ST/OBC/MBC students via Tamil Nadu state web portals."
+  },
+  "sources": {
+    "overview": "https://skcet.ac.in/about-us/institution/",
+    "fees": "https://skcet.ac.in/pdf/Fees/SO_Signed_Copy_20-21_Fee_Engg.PDF",
+    "placements": "https://skcet.ac.in/placement/statistics/",
+    "admissions": "https://skcet.ac.in/admissions/admission-procedure/",
+    "campus": "https://skcet.ac.in/student-life/facilities/hostel/",
+    "contact": "https://skcet.ac.in/"
+  }
 }

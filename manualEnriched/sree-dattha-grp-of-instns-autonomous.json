@@ -1,35 +1,113 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Sree Dattha Group of Institutions (SDGI), located on Nagarjuna Sagar Road in Sheriguda, Ibrahimpatnam, Greater Hyderabad, Telangana, is a premier multi-disciplinary group of educational institutions established in 2001. Affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH) and approved by AICTE, it incorporates specialized wings including the Sree Dattha Institute of Engineering and Science (SDES). The institutions are highly recognized for their expansive integrated campus, focus on trending technologies, technical career skill integrations (such as SAP International Certifications), and a structured industry-driven placement ecosystem.",
+  "accreditation": "Accredited by National Board of Accreditation (NBA); Approved by AICTE; Affiliated with JNTUH.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Flagship Programs (CSE, AI & ML, Data Science, CSIT)",
+      "duration": "4 years",
+      "tuitionFee": "₹70,000 – ₹95,000 per year. Total course fee ranges from ₹2.80 Lakhs to ₹3.80 Lakhs."
+    },
+    {
+      "program": "B.Tech Core Programs (ECE, EEE, Mechanical, Civil)",
+      "duration": "4 years",
+      "tuitionFee": "₹50,000 – ₹70,000 per year."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹41,000 – ₹50,000 per year. Total course fee approximately ₹82,000."
+    },
+    {
+      "program": "After 10th Diploma (Polytechnic)",
+      "duration": "3 years",
+      "tuitionFee": "₹25,000 – ₹39,000 per year. Total course fee approximately ₹75,000 – ₹1,17,000."
+    },
+    {
+      "program": "M.Tech Specializations",
+      "duration": "2 years",
+      "tuitionFee": "₹50,000 – ₹57,000 per year. Total course fee approximately ₹1,00,000 – ₹1,14,000."
+    },
+    {
+      "program": "B.Ed",
+      "duration": "2 years",
+      "tuitionFee": "₹20,000 per year. Total course fee approximately ₹40,000."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹4.20 LPA – ₹4.50 LPA (Overall Institutions Average 2025)",
+    "medianSalary": "₹5.00 LPA (B.Tech / Combined Campus Placement Drives)",
+    "highestSalary": "₹14.00 LPA (2025 Placement Cycle Package)",
+    "highestDomestic": "₹24.00 LPA (Historical Highest Package Record)",
+    "placementRate": "Eligible Engineering and Technical Graduates: 80% – 85%",
+    "totalOffers": "924+ job offers with 704+ students successfully placed during the 2025 placement drive",
+    "companiesVisited": "HCL, Tata Consultancy Services (TCS), Cognizant, Capgemini, Wipro, Reliance Industries, Schneider Electric, Medvarsity",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "HCL",
+      "TCS",
+      "Cognizant",
+      "Capgemini",
+      "Wipro",
+      "Reliance Industries",
+      "Schneider Electric"
+    ],
+    "internshipHighlights": "50% students in core branches secure internships with corporate partners like Reliance Industries; students often pursue specialized certifications like SAP."
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET",
+      "JEE Main",
+      "TS ICET",
+      "TS PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are primarily administered via the state-level counseling processes based on rankings in TS EAPCET (for B.Tech), TS ICET (for MBA), and TS PGECET/GATE (for M.Tech). Direct management quota options are available according to JNTUH / State Council norms.",
+    "importantDates": "Schedules correspond dynamically to the official timelines issued by Telangana State Council of Higher Education (TSCHE) and JNTUH."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Integrated Academic Complex Campus",
+    "facilities": [
+      "Dedicated Department Labs & Systems Infrastructure",
+      "Boys Hostel (On-Campus)",
+      "Girls Hostel (On-Campus)",
+      "Centralized Library & Digital Access Rooms",
+      "Research & Development Laboratories",
+      "Sports Infrastructure (Volleyball, Badminton, Cricket Grounds)",
+      "Indoor Game Common Areas (Chess, Carroms)",
+      "Wi-Fi Connectivity & Systems Support",
+      "Cafeteria & Clean Mess Dining Facilities",
+      "In-House Campus Store (Stationery & Snacks)",
+      "Mineral Drinking Water Coolers",
+      "Medical Facilities & Transport Fleet"
+    ],
+    "specialNote": "Hostels feature solar water heating infrastructure, hygiene/maintenance services, and basic laundry configurations.",
+    "hostelFees": {
+      "SingleSharing": "₹60,000 per year (Total Annual Cost with amenities up to ₹85,000)",
+      "DoubleSharing": "₹40,000 per year (Total Annual Cost with amenities up to ₹65,000)",
+      "TripleOrFourSharing": "₹30,000 – ₹50,000 per year (Total Annual Cost with amenities up to ₹55,000)"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-8801099946",
+    "email": "info@sreedattha.ac.in",
+    "address": "Sree Dattha Group of Educational Institutions, Nagarjuna Sagar Road, Sheriguda, Ibrahimpatnam, Ranga Reddy District, Telangana – 501510, India",
+    "admissionsEmail": "info@sreedattha.ac.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://www.sreedattha.ac.in",
+  "lastVerified": "2026-05-19",
+  "verifiedBy": "official-institution-disclosures-and-placement-records",
+  "scholarships": {
+    "meritScholarships": "Fee exemptions mapped directly via TS EAPCET allocations and standardized state parameters.",
+    "fullWaiver": "100% tuition coverage for students qualifying under government-sponsored absolute merit thresholds.",
+    "partialWaiver": "Concessions evaluated based on criteria defined for specific entry streams or management quotas.",
+    "governmentAid": "Eligible backward classes, SC/ST, and EWS candidates receive institutional tuition coverage via the TS ePASS scholarship scheme."
+  },
+  "sources": {
+    "overview": "https://www.sreedattha.ac.in/about-us/about-sree-dattha-group",
+    "fees": "https://www.sreedattha.ac.in/sdes/academics/courses-offered-by-sdes",
+    "placements": "https://www.sreedattha.ac.in/placements-reports/2025-placements",
+    "admissions": "https://www.sreedattha.ac.in/",
+    "campus": "https://www.sreedattha.ac.in/sdgi/infrastructure-facilities/hostels",
+    "contact": "https://www.sreedattha.ac.in/contact-us"
+  }
 }

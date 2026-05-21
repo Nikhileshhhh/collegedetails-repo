@@ -1,35 +1,98 @@
 {
-  "overview": "Apr 26, 2018 \u00b7 Hence the philosophical doctrine of nArayaNa/vishNu being dOShavarjittaM (flawlessness) is core concept in Madhva's doctrine. There is a book by Sri.Jalahalli Sreenivasa Tirtha called 'nArayaNa \u2026",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Narayana Engineering College (NEC), established in 2001, is a prominent private engineering institution operating across two campuses in the Nellore district of Andhra Pradesh (Nellore and Gudur). Affiliated with Jawaharlal Nehru Technological University, Anantapur (JNTUA), the college is highly regarded for its structured curriculum, robust placement support, and modern infrastructure tailored to technical education, management, and computer applications.",
+  "accreditation": "Approved by AICTE; Accredited by NAAC; ISO 9001:2015 Certified. Flagship programs hold National Board of Accreditation (NBA) recognition.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (CSE, AI & ML, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 years",
+      "tuitionFee": "₹1,60,000 – ₹1,98,000 for the full course (approximately ₹40,000 – ₹49,500 per year under Category-A)."
+    },
+    {
+      "program": "MBA (Master of Business Administration)",
+      "duration": "2 years",
+      "tuitionFee": "₹71,200 – ₹87,800 for the full course (approximately ₹35,600 – ₹43,900 per year)."
+    },
+    {
+      "program": "MCA (Master of Computer Applications)",
+      "duration": "2 years",
+      "tuitionFee": "₹73,200 – ₹89,800 for the full course (approximately ₹36,600 – ₹44,900 per year)."
+    },
+    {
+      "program": "M.Tech Specializations (VLSI, CSE, EPS)",
+      "duration": "2 years",
+      "tuitionFee": "₹78,000 – ₹1,80,000 for the full course (approximately ₹40,000 – ₹80,000 per year)."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
-    "internationalOffers": "",
-    "topRecruiters": []
+    "avgSalary": "₹4.00 LPA – ₹4.60 LPA (Campus dependent)",
+    "medianSalary": "₹3.20 LPA – ₹4.30 LPA (Varies across branches and post-graduate streams)",
+    "highestSalary": "₹10.00 LPA – ₹15.00 LPA (Depending on branch performance)",
+    "highestDomestic": "₹15.00 LPA",
+    "placementRate": "Approximately 75% – 85% of eligible students secure placement offers",
+    "totalOffers": "400+ job selections reported within recent academic placement drives",
+    "companiesVisited": "TCS, Infosys, Wipro, Accenture, Cognizant, IBM, Hexaware, Virtusa, Capgemini, Deloitte",
+    "internationalOffers": "Information not officially specified",
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Accenture",
+      "Wipro",
+      "Cognizant",
+      "IBM",
+      "Hexaware",
+      "Virtusa"
+    ],
+    "internshipHighlights": "Strong pre-placement training and industry internship drives with companies like TCS and local engineering hubs."
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Primary enrollment occurs via state-level counseling through AP EAPCET for B.Tech, AP ICET for MBA/MCA, and AP PGECET/GATE for M.Tech programs. A dedicated percentage of seats are reserved for Management (Category-B) allocations.",
+    "importantDates": "Admissions systematically align with the official academic calendars published by APSCHE and JNTUA."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Dual integrated campus setups in Nellore and Gudur",
+    "facilities": [
+      "Projector-equipped Smart Classrooms",
+      "Separated Boys and Girls Hostel Blocks",
+      "Comprehensive Central Library with e-Journal access",
+      "Advanced Computing & Core Engineering Labs",
+      "High-speed Campus Wi-Fi for Laptops",
+      "Sports Fields and Indoor Game Areas",
+      "In-campus Cafeteria & Dining Halls",
+      "Medical Room Facilities",
+      "College Bus Transportation Fleet"
+    ],
+    "specialNote": "Hostel environments include essential amenities, dynamic recreational options, and a regular evening snack system.",
+    "hostelFees": {
+      "StandardHostelAccommodation": "Subject to campus administration policies and structural variant choices (contact campus direct)."
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "08624-252611 / 08624-252612 (Gudur) / +91-9392901057 / +91-9392901058 (Nellore)",
+    "email": "principal@necn.ac.in (Nellore) / principal@necg.ac.in (Gudur)",
+    "address": "Narayana Engineering College, Narayana Avenue, Muthukur Road, A.K. Nagar (Post), Nellore, Andhra Pradesh – 524004 / Narayana Engineering College, Dhurjati Nagar, Gudur – 524101, SPSR Nellore District, Andhra Pradesh",
+    "admissionsEmail": "admissions@necn.ac.in (Nellore) / admissions@necg.ac.in (Gudur)"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://necn.ac.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "state-counseling-fee-structures-and-placement-records",
+  "scholarships": {
+    "meritScholarships": "Fee concessions given dynamically to high performers across various branches.",
+    "fullWaiver": "Eligible candidates are processed via the standard state-sponsored welfare parameters.",
+    "partialWaiver": "Academic merit awards are distributed internally based on semester percentages.",
+    "governmentAid": "Full tuition fee reimbursement programs handled directly via the Jagananna Vidya Deevena (RTF) state scheme alongside standard ePASS criteria."
+  },
+  "sources": {
+    "overview": "https://necn.ac.in/institute-history.php",
+    "fees": "https://necn.ac.in/college-Fees.php",
+    "placements": "https://necn.ac.in/placement-records.php",
+    "admissions": "https://necn.ac.in/admission.php",
+    "campus": "https://necn.ac.in/facilites.php",
+    "contact": "https://necn.ac.in/contact-us.php"
+  }
 }

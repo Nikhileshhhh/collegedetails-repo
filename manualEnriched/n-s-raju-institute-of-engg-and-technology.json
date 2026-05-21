@@ -1,35 +1,99 @@
 {
-  "overview": "The Airports Authority of India (AAI) is a Category-1 Public Sector Enterprise under the ownership of the Ministry of Civil Aviation, Government of India. It is responsible for creating, upgrading, maintaining, and managing civil aviation infrastructure in India. It provides Communication Navigation Surveillance/Air Traffic Management (CNS/ATM) services over the Indian airspace and adjoining oceanic areas.",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT), also known as NS Raju Institute of Engineering and Technology, is a prominent private engineering institution established in 2008. Located in Sontyam, Visakhapatnam, Andhra Pradesh, the campus is known for providing career-driven education and skill-based learning. Initially affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK), the college has successfully attained autonomous status, delivering multi-disciplinary engineering and management programs across an environment-friendly campus.",
+  "accreditation": "Accredited by the National Board of Accreditation (NBA); Approved by the All India Council for Technical Education (AICTE); Rated AAA by Careers360 in 2024.",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Programs (CSE, AI & ML, Data Science, ECE)",
+      "duration": "4 years",
+      "tuitionFee": "₹43,000 – ₹55,000 per year. Total course fee ranges from ₹1.60 Lakhs to ₹1.72 Lakhs."
+    },
+    {
+      "program": "B.Tech Core Programs (Civil, Mechanical, Electrical)",
+      "duration": "4 years",
+      "tuitionFee": "₹43,000 – ₹55,000 per year. Base tuition is supported by state fee reimbursement models."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹35,000 per year. Total course fee is approximately ₹70,000."
+    },
+    {
+      "program": "M.Tech Specializations",
+      "duration": "2 years",
+      "tuitionFee": "₹50,000 per year. Total course fee is approximately ₹1,000,000."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹3.27 LPA – ₹5.00 LPA",
+    "medianSalary": "₹4.50 LPA",
+    "highestSalary": "₹9.00 LPA",
+    "highestDomestic": "₹15.00 LPA (Historical Peak Highlighted in Select Drives)",
+    "placementRate": "Varies by department, reaching up to 80% – 90% in primary technical branches",
+    "totalOffers": "612+ campus placements secured across different graduation batches",
+    "companiesVisited": "TCS, Infosys, Wipro, Accenture, Cognizant, Tech Mahindra, HCL, Intech, IBM, Deloitte",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Cognizant",
+      "Tech Mahindra",
+      "HCL"
+    ],
+    "internshipHighlights": "Up to 80% of students in key technical streams secure operational training and corporate internships independently or through campus support"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "AP EAPCET",
+      "AP ICET",
+      "GATE",
+      "AP PGECET"
+    ],
+    "admissionProcess": "Admissions are granted based on rank secured in state-level entrance examinations (AP EAPCET for B.Tech, AP ICET for MBA) followed by centralized counseling, alongside dedicated management quota options.",
+    "importantDates": "Admissions adhere strictly to the schedule announced by the Andhra Pradesh State Council of Higher Education (APSCHE) and JNTUK guidelines."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Environment-friendly campus situated on the Sontyam Highway",
+    "facilities": [
+      "Autonomous Office Building",
+      "Spacious Classrooms",
+      "Computing & Departmental Labs",
+      "Central Library",
+      "Seminar Halls for each block",
+      "Boys Hostel",
+      "Girls Hostel",
+      "Gym Facility",
+      "Canteen",
+      "Medical Room",
+      "Sports Infrastructure (Cricket, Football, Badminton)"
+    ],
+    "specialNote": "Hostel rooms feature regular maintenance, with access to gym facilities. Canteen and dining options provide basic, routine vegetarian and non-vegetarian meals.",
+    "hostelFees": {
+      "StandardSharing": "Varies seasonally; structured dynamically alongside mess and electrical utilities."
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-8099464546",
+    "email": "office@nsrit.edu.in",
+    "address": "N S Raju Institute of Technology (NSRIT), Sontyam, Pendurthi-Anandapuram Highway, Visakhapatnam, Andhra Pradesh – 531173, India",
+    "admissionsEmail": "admissions@nsrit.edu.in"
   },
-  "website": "",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://www.nsriet.edu.in",
+  "lastVerified": "2026-05-19",
+  "verifiedBy": "institutional-disclosures-and-placement-portals",
+  "scholarships": {
+    "meritScholarships": "Government-facilitated tuition fee reimbursement schemes applicable for eligible standard qualifiers.",
+    "fullWaiver": "Subject to state-defined ePASS eligibility benchmarks and criteria.",
+    "partialWaiver": "AP EAMCET/EAPCET category-admitted students receive ₹35,000 standard annual reimbursement, drastically minimizing their active payable tuition fee.",
+    "governmentAid": "Eligible state SC/ST/OBC/EWS students can seamlessly claim regulatory fee support programs via official channels."
+  },
+  "sources": {
+    "overview": "https://nsrit.edu.in/",
+    "fees": "https://nsrit.edu.in/fee-structure/",
+    "placements": "https://nsrit.edu.in/placements/objective/",
+    "admissions": "https://nsrit.edu.in/admissions-2024-2025/",
+    "campus": "https://nsrit.edu.in/campus-life/facilities/",
+    "contact": "https://nsrit.edu.in/"
+  }
 }

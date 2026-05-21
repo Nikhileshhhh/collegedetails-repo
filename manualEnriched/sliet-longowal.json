@@ -1,74 +1,106 @@
 {
-  "overview": "Sant Longowal Institute of Engineering & Technology (SLIET), Longowal is a deemed university in Punjab, established in 1989. It offers unique certificate, diploma, and degree programs with emphasis on hands-on engineering skills.",
-  "accreditation": "Deemed University, NAAC B++ Grade",
+  "overview": "Sant Longowal Institute of Engineering and Technology (SLIET), established in 1989 by the Ministry of Education, Government of India, is a premier Centrally Funded Technical Institute (CFTI) and Deemed University located in Longowal, Sangrur, Punjab. Set across a sprawling green campus, SLIET was created to provide specialized technical education across certificate, diploma, undergraduate, and postgraduate streams. The institute is fully government-funded and acts as an autonomous body catering to global industrial engineering trends.",
+  "accreditation": "Deemed-to-be-University status granted by UGC; Ranked 79th by NIRF 2025 under the Engineering category. Programs are routinely reviewed and approved by AICTE parameters.",
   "coursesAndFees": [
     {
-      "program": "B.Tech (all branches)",
-      "duration": "4 Years",
-      "tuitionFee": "₹80,000/year"
+      "program": "B.E. / B.Tech Programs (CSE, Mechanical, Electrical, Food Tech, etc.)",
+      "duration": "4 years",
+      "tuitionFee": "₹52,400 per year (Approx. ₹2,10,000 total tuition fee for 4 years)."
     },
     {
-      "program": "M.Tech (various)",
-      "duration": "2 Years",
-      "tuitionFee": "Varies"
+      "program": "Integrated Certificate-Diploma (ICD) Programs",
+      "duration": "3 years",
+      "tuitionFee": "₹12,800 per year (Approx. ₹38,400 total tuition fee for 3 years)."
     },
     {
-      "program": "Ph.D",
-      "duration": "4-5 Years",
-      "tuitionFee": "Varies"
+      "program": "M.Tech Programs",
+      "duration": "2 years",
+      "tuitionFee": "₹31,000 per year (Approx. ₹62,000 total tuition fee for 2 years)."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹31,000 per year (Approx. ₹62,000 total tuition fee for 2 years)."
+    },
+    {
+      "program": "M.Sc. Programs",
+      "duration": "2 years",
+      "tuitionFee": "₹23,000 per year (Approx. ₹46,000 total tuition fee for 2 years)."
     }
   ],
   "placements": {
-    "avgSalary": "₹5.50 LPA",
-    "medianSalary": "",
-    "highestSalary": "₹15 LPA",
-    "highestDomestic": "₹15 LPA",
-    "placementRate": "70%",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹4.00 LPA – ₹11.07 LPA (Course & branch variant average spectrum)",
+    "medianSalary": "₹3.50 LPA – ₹4.00 LPA",
+    "highestSalary": "₹27.00 LPA (CSE Batch 2025 placement cycle)",
+    "highestDomestic": "₹33.00 LPA (Historical highest domestic package)",
+    "placementRate": "Technical Engineering Streams: 65% – 85%",
+    "totalOffers": "Strong active enrollment in drives with multi-sector opportunities each year",
+    "companiesVisited": "TCS, Cognizant, Infosys, Tech Mahindra, Godrej, Tata Motors, Mahindra & Mahindra",
     "internationalOffers": "",
     "topRecruiters": [
       "TCS",
-      "Infosys",
-      "Wipro",
-      "Microsoft",
-      "Amazon",
       "Cognizant",
-      "Capgemini",
-      "Accenture",
-      "Deloitte",
-      "L&T"
-    ]
+      "Infosys",
+      "Tech Mahindra",
+      "Godrej",
+      "Tata Motors"
+    ],
+    "internshipHighlights": "Mandatory industrial training segments tied with primary manufacturing and tech hubs"
   },
   "admissions": {
     "examsAccepted": [
-      "SLIET Entrance (B.Tech)",
-      "GATE (M.Tech)"
+      "JEE Main",
+      "GATE",
+      "CAT",
+      "CCMT",
+      "CCMN",
+      "SLIET SET (SNC / SET I / SET III)"
     ],
-    "admissionProcess": "See official website for admission process details.",
-    "importantDates": "See official website for dates."
+    "admissionProcess": "B.E. admissions are routed via JoSAA/CSAB counselling based on JEE Main ranks. M.Tech and M.Sc admissions rely on CCMT/CCMN portals. Certificate, Diploma, and lateral entries are managed directly via the SLIET Entrance Test (SET).",
+    "importantDates": "Online registration for entrance streams generally runs from February through April annually. National level counseling schedules sync with central CSAB/CCMT windows."
   },
   "campus": {
-    "area": "500 acres",
+    "area": "451 acres",
     "facilities": [
-      "Library",
-      "Labs",
-      "Hostels",
-      "Sports Facilities",
-      "Health Centre",
-      "Wi-Fi Campus",
-      "Canteen",
-      "Transportation"
+      "Full Residential Campus Infrastructure",
+      "Boys Hostels (Multiple blocks partitioned by course years)",
+      "Girls Hostels",
+      "Digital Central Library",
+      "Advanced Mechanics & Computing Labs",
+      "Health Center / Medical Facility",
+      "Sports Complex & Open Athletic Grounds",
+      "Wi-Fi Enabled Zones",
+      "Student Activity Center (SAC)",
+      "Bank & Post Office Facilities",
+      "Shopping Complex / Cafeterias"
     ],
-    "specialNote": ""
+    "specialNote": "Hostel room assignment criteria strictly separate ICD, early-year UG, final-year single occupancy, and PG scholars to maximize comfort. Mess charges are variable and managed separately from basic seat rents.",
+    "hostelFees": {
+      "SingleOccupancy": "₹11,000 per year (Excluding food plans/caution deposits)",
+      "MultipleOccupancy": "₹9,000 per year (Excluding food plans/caution deposits)"
+    }
   },
   "contact": {
-    "phone": "+91-1672-280 057",
-    "email": "",
-    "address": "Longowal, Sangrur – 148106, Punjab",
-    "admissionsEmail": ""
+    "phone": "+91-1672-280057",
+    "email": "chairmanset2026@sliet.ac.in",
+    "address": "Sant Longowal Institute of Engineering and Technology, Longowal – 148106, Distt. Sangrur, Punjab, India",
+    "admissionsEmail": "chairmanset2026@sliet.ac.in"
   },
   "website": "https://sliet.ac.in",
-  "lastVerified": "2026-04-16",
-  "verifiedBy": "official-website"
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-website-and-placement-data",
+  "scholarships": {
+    "meritScholarships": "Merit-cum-Means (MCM) internal scholarships awarded to top performing students every academic semester.",
+    "fullWaiver": "Tuition fee waivers are provided under government norms for top JEE rankers during central selection allocation.",
+    "partialWaiver": "State and Central sector scholarship models matching family economic conditions.",
+    "governmentAid": "Dr. Ambedkar Post Matric Scholarship Scheme for Punjab residents alongside National Scholarship Schemes (NSP) for PG/SC/ST candidates."
+  },
+  "sources": {
+    "overview": "https://sliet.ac.in/",
+    "fees": "https://set.sliet.ac.in/fee-structure/",
+    "placements": "http://tnp.sliet.ac.in/",
+    "admissions": "https://set.sliet.ac.in/",
+    "campus": "http://hostel.sliet.ac.in/",
+    "contact": "https://sliet.ac.in/contact/"
+  }
 }

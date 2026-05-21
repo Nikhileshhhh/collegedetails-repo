@@ -1,35 +1,104 @@
 {
-  "overview": "Stigler's law concerns the supposed tendency of eponymous expressions for scientific discoveries to honor people other than their respective originators.\nExamples include:\n\n\n== A ==\nAharonov\u2013Bohm effect. Werner Ehrenberg and Raymond E. Siday first predicted the effect in 1949, and similar effects were later rediscovered by Yakir Aharonov and David Bohm in 1959.",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Newton's Institute of Science and Technology (NIST) is a private technical institution located in Alugurajupally, Macherla, Guntur district, Andhra Pradesh. Established in 2010 by Lincoln's Educational Society, the campus covers 35 acres of landscaped grounds featuring a modern layout with dedicated administrative and academic infrastructure. The institute focuses on professional engineering and management education, delivering career-focused learning designed to prepare local technical talent for the IT and core corporate sectors.",
+  "accreditation": "Approved by the All India Council for Technical Education (AICTE), New Delhi, and affiliated with Jawaharlal Nehru Technological University Kakinada (JNTUK).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech (Computer Science & Engineering, Electronics & Communication, EEE, Mechanical, Civil)",
+      "duration": "4 years",
+      "tuitionFee": "₹40,000 per year. Total course fee approximately ₹1,60,000."
+    },
+    {
+      "program": "B.Tech {Lateral Entry}",
+      "duration": "3 years",
+      "tuitionFee": "₹40,000 per year. Total course fee approximately ₹1,20,000."
+    },
+    {
+      "program": "Diploma in Engineering (Polytechnic streams)",
+      "duration": "3 years",
+      "tuitionFee": "₹24,000 per year. Total course fee approximately ₹72,000."
+    },
+    {
+      "program": "Master of Business Administration (MBA)",
+      "duration": "2 years",
+      "tuitionFee": "₹30,000 per year. Total course fee approximately ₹60,000."
+    },
+    {
+      "program": "M.Tech (Software Engineering, Computer Science, VLSI, Power Systems)",
+      "duration": "2 years",
+      "tuitionFee": "₹50,000 per year. Total course fee approximately ₹1,00,000."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "自由 ₹4.00 LPA (Overall Average Package)",
+    "medianSalary": "Not Explicitly Disclosed",
+    "highestSalary": "₹8.00 LPA",
+    "highestDomestic": "₹8.00 LPA",
+    "placementRate": "Approximately 50% – 80% depending on the engineering branch (with CSE leading placement shares)",
+    "totalOffers": "Multiple mass recruitment offers across batch sizes",
+    "companiesVisited": "Tata Consultancy Services (TCS), Wipro, Infosys, HCL Technologies, Cisco, Tech Mahindra",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "Tata Consultancy Services (TCS)",
+      "Wipro",
+      "Infosys",
+      "HCL Technologies",
+      "Cisco"
+    ],
+    "internshipHighlights": "Internship opportunities are arranged through specialized corporate programs and industrial training tie-ups"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "AP EAPCET (EAMCET)",
+      "AP ICET",
+      "AP PGECET",
+      "AP POLYCET"
+    ],
+    "admissionProcess": "Admissions are governed by the Andhra Pradesh State Council of Higher Education (APSCHE). Candidates secure seats via the state-level entrance exam counseling system or through institutional management quota provisions according to government norm eligibility.",
+    "importantDates": "Schedules line up directly with APSCHE state counseling dates, generally running from May through August annually."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "35 acres",
+    "facilities": [
+      "Fully Furnished Academic Buildings",
+      "Well-equipped Computer Labs",
+      "Electronic & Electrical Labs",
+      "Mechanical Workshops",
+      "Central Library with Advanced Volumes",
+      "On-campus Hostel Facilities",
+      "Wi-Fi Connectivity",
+      "Student Canteen & Dining Hall",
+      "Large Playground & Recreational Space",
+      "Medical Room Facilities",
+      "College Bus Transportation Network"
+    ],
+    "specialNote": "Hostel accommodations focus on essential amenities and regular student messing arrangements inside a safe campus boundary.",
+    "hostelFees": {
+      "4SharingAC": "Not Offered / Available upon request",
+      "4SharingNonAC": "₹35,000 – ₹45,000 per year (Estimated standard non-AC accommodations)",
+      "5SharingNonAC": "Available under base layout pricing plans"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-9494470822",
+    "email": "info@newton.edu.in",
+    "address": "Newton's Institute of Science and Technology, Alugurajupally, Koppunoor Post, Macherla, Guntur District, Andhra Pradesh – 522426, India",
+    "admissionsEmail": "nie.a1@newton.edu.in"
   },
-  "website": "https://wetransfer.com/?msockid=15cd662727ec61f014fa717526876011",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "http://www.nist.newton.edu.in/",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "state-counseling-databases-and-educational-aggregators",
+  "scholarships": {
+    "meritScholarships": "Fee exemptions mapped to ranks secured in state entrance examinations like AP EAPCET.",
+    "fullWaiver": "Subject to state regulations under top merit rankings criteria.",
+    "partialWaiver": "Available via specific institutional merit criteria decisions.",
+    "governmentAid": "Eligible candidates can claim full or partial tuition reimbursement under the Government of Andhra Pradesh Jagananna Amma Vodi / Vidya Deevena schemes (AP ePASS fee concessions)."
+  },
+  "sources": {
+    "overview": "https://www.shiksha.com/college/newton-s-institute-of-science-and-technology-guntur-60847",
+    "fees": "https://collegedunia.com/college/28964-newtons-institute-of-science-and-technology-nist-guntur/courses-fees",
+    "placements": "https://www.shiksha.com/college/newton-s-institute-of-science-and-technology-guntur-60847/placement",
+    "admissions": "https://collegedunia.com/college/28964-newtons-institute-of-science-and-technology-nist-guntur",
+    "campus": "https://www.shiksha.com/college/newton-s-institute-of-science-and-technology-guntur-60847",
+    "contact": "https://allegiance-educare.in/college/newton-s-institute-of-science-and-technology-nist"
+  }
 }

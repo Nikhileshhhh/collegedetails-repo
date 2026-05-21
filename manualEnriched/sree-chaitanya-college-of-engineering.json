@@ -1,35 +1,103 @@
 {
-  "overview": "",
-  "accreditation": "",
-  "coursesAndFees": [],
+  "overview": "Sree Chaitanya College of Engineering (SCCE), located in Karimnagar, Telangana, is a well-established private engineering institution. Founded to deliver industry-oriented technical and professional education in the region, the college offers diverse undergraduate and postgraduate programs. It is known for its spacious campus, academic infrastructure, and strong alignment with career placement opportunities for students in technical, computer application, and management fields.",
+  "accreditation": "Approved by AICTE; Affiliated to Jawaharlal Nehru Technological University, Hyderabad (JNTUH).",
+  "coursesAndFees": [
+    {
+      "program": "B.Tech Programs (CSE, ECE, EEE, Civil, Mechanical)",
+      "duration": "4 years",
+      "tuitionFee": "₹2,52,000 to ₹2,58,000 total course fee (approximately ₹66,000 for the first year)."
+    },
+    {
+      "program": "B.Tech {Lateral Entry}",
+      "duration": "3 years",
+      "tuitionFee": "₹2,00,000 total course fee."
+    },
+    {
+      "program": "MCA",
+      "duration": "2 years",
+      "tuitionFee": "₹96,000 to ₹1,08,000 total course fee."
+    },
+    {
+      "program": "MBA",
+      "duration": "2 years",
+      "tuitionFee": "₹70,000 total course fee."
+    },
+    {
+      "program": "M.Tech Specializations",
+      "duration": "2 years",
+      "tuitionFee": "₹55,000 to ₹66,000 total course fee."
+    }
+  ],
   "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
+    "avgSalary": "₹3.50 LPA – ₹4.50 LPA",
+    "medianSalary": "₹4.00 LPA",
+    "highestSalary": "₹10.20 LPA – ₹13.00 LPA",
+    "highestDomestic": "₹13.00 LPA",
+    "placementRate": "40% – 75% depending on the engineering branch",
+    "totalOffers": "125+ job offers in major placement cycles",
+    "companiesVisited": "TCS, Wipro, Infosys, Capgemini, Accenture, IBM, HCL, Mavenir Systems, Intellipaat",
     "internationalOffers": "",
-    "topRecruiters": []
+    "topRecruiters": [
+      "TCS",
+      "Wipro",
+      "Infosys",
+      "Capgemini",
+      "Accenture",
+      "IBM",
+      "HCL"
+    ],
+    "internshipHighlights": "50% to 70% of engineering students secure internships in technical and development roles"
   },
   "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
+    "examsAccepted": [
+      "TS EAPCET",
+      "TS ICET",
+      "TS PGECET",
+      "GATE"
+    ],
+    "admissionProcess": "Admissions are granted based on performance and ranks obtained in the state-level counseling entrance exams (TS EAPCET for B.Tech, TS ICET for MBA/MCA, and TS PGECET/GATE for M.Tech) followed by administrative verification.",
+    "importantDates": "Admissions follow the strict state counseling schedules released by the Telangana State Council of Higher Education (TSCHE)."
   },
   "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
+    "area": "Spacious rural-suburban campus setting in Karimnagar",
+    "facilities": [
+      "Smart Classroom infrastructure with Projectors",
+      "Separate Boys Hostel",
+      "Separate Girls Hostel",
+      "Central Library with digital subscriptions",
+      "Subject-specific Engineering Laboratories",
+      "Computer CAD Lab with standard technical software",
+      "Hygienic Campus Canteen and Mess",
+      "Medical Room & First Aid facilities",
+      "Sports Fields",
+      "College Bus Transportation Network"
+    ],
+    "specialNote": "Hostel accommodations provide multi-sharing rooms (typically 3 to 7 members per room) equipped with basic utilities, running water, and structured breakfast and meal plans.",
+    "hostelFees": {
+      "StandardSharingHostel": "₹35,000 – ₹50,000 per year"
+    }
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
+    "phone": "+91-99889-92252",
+    "email": "sreechaitanya.info@gmail.com",
+    "address": "Sree Chaitanya College of Engineering, L.M.D Colony, Thimmapur, Karimnagar, Telangana – 505527, India",
+    "admissionsEmail": "sreechaitanya.info@gmail.com"
   },
-  "website": "https://www.sree.org/",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "website": "https://scce.ac.in",
+  "lastVerified": "2026-05-21",
+  "verifiedBy": "official-website-and-state-counseling-data",
+  "scholarships": {
+    "meritScholarships": "Tuition fee waivers are applicable based on specific top rankings secured in TS EAPCET.",
+    "fullWaiver": "Eligible candidates matching exceptional state-wide category merit parameters can receive complete tuition waivers under state definitions.",
+    "partialWaiver": "Partial tuition adjustments map directly to standardized counseling cutoffs.",
+    "governmentAid": "Eligible Telangana state SC/ST/OBC/EWS students can fully avail the TS ePASS fee reimbursement scheme."
+  },
+  "sources": {
+    "overview": "https://scce.ac.in/",
+    "fees": "https://scce.ac.in/",
+    "placements": "https://scce.ac.in/",
+    "admissions": "https://scce.ac.in/",
+    "campus": "https://scce.ac.in/",
+    "contact": "https://scce.ac.in/"
+  }
 }

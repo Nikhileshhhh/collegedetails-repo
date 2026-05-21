@@ -1,35 +1,115 @@
 {
-  "overview": "This is a list of educational and research institutions in Visakhapatnam, India.\n\n\n== Universities and Central Institutions ==\nAndhra University\nIndian Institute of Management\nIndian Institute of Petroleum and Energy\nDamodaram Sanjivayya National Law University\nIndian Maritime University\nKalam Institute of Health Technology\nNational Institute of Oceanography, India\nGITAM University\n\n\n== Medical Colleges ==\nAndhra Medical College\nGITAM Institute of Medical Sciences and Research\nNRI Institute of Medical Sciences\nGayatri Vidya Parishad Institute of Healthcare & Medical Technology\n\n\n== Engineering Colleges ==\nAndhra University College of Engineering (Autonomous)\nAndhra University College of Engineering for Women\nGayatri Vidya Parishad College of Engineering\nAnil Neerukonda Institute of Technology and Sciences\nVignan's Institute of Information Technology\nRaghu Engineering College\nVisakha Institute of Engineering & Technology\nAvanthi Institute of Engineering & Technology\nNadimpalli Satyanarayana Raju Institute Of Technology (NSRIT)\nDr. Lankapalli Bullayya College of Engineering\nN S Raju Institute of Engineering And Technology (NSRIET)\nSanketika Vidya Parishad Engineering College\nChaitanya Engineering College\nVITAM  Engineering College \n\n\n== Degree Colleges ==\nMrs.",
-  "accreditation": "",
-  "coursesAndFees": [],
-  "placements": {
-    "avgSalary": "",
-    "medianSalary": "",
-    "highestSalary": "",
-    "highestDomestic": "",
-    "placementRate": "",
-    "totalOffers": "",
-    "companiesVisited": "",
-    "internationalOffers": "",
-    "topRecruiters": []
-  },
-  "admissions": {
-    "examsAccepted": [],
-    "admissionProcess": "",
-    "importantDates": ""
-  },
-  "campus": {
-    "area": "",
-    "facilities": [],
-    "specialNote": ""
-  },
-  "contact": {
-    "phone": "",
-    "email": "",
-    "address": "",
-    "admissionsEmail": ""
-  },
-  "website": "https://fr-fr.facebook.com/",
-  "lastVerified": "2026-05-07",
-  "verifiedBy": "Automated Agent"
+  "nadimpalli_satyanarayana_raju_institute_of_technology": {
+    "overview": "Nadimpalli Satyanarayana Raju Institute of Technology (NSRIT), located on the Pendurthi-Anandapuram Highway in Sontyam, Visakhapatnam, Andhra Pradesh, is a prominent private engineering college established in 2008. Originally affiliated with JNTU Kakinada, the institution is currently affiliated with JNTU Gurajada Vizianagaram (JNTU-GV) and approved by the AICTE. The college is recognized for its technical depth, offering industry-centric engineering, computer application, and business programs on a modern campus focused on hands-on technical learning and real-world implementation.",
+    "accreditation": "Approved by AICTE; Affiliated with JNTU Gurajada Vizianagaram (JNTU-GV); NAAC accredited.",
+    "coursesAndFees": [
+      {
+        "program": "B.Tech Engineering Streams (CSE, AI&ML, Data Science, ECE)",
+        "duration": "4 years",
+        "tuitionFee": "₹43,000 per year. Total course fee is approximately ₹1,60,000 to ₹1,72,000."
+      },
+      {
+        "program": "B.Tech Core Streams (EEE, Mechanical, Civil Engineering)",
+        "duration": "4 years",
+        "tuitionFee": "₹40,000 - ₹43,000 per year. Total tuition fee ranges from ₹1,60,000 to ₹1,72,000."
+      },
+      {
+        "program": "MBA (Master of Business Administration)",
+        "duration": "2 years",
+        "tuitionFee": "₹27,000 - ₹35,000 per year. Total course fee approximately ₹54,000 to ₹70,000."
+      },
+      {
+        "program": "MCA (Master of Computer Applications)",
+        "duration": "2 years",
+        "tuitionFee": "₹35,000 per year. Total course fee approximately ₹70,000."
+      },
+      {
+        "program": "BCA (Bachelor of Computer Applications)",
+        "duration": "3 years",
+        "tuitionFee": "₹18,000 per year. Total course fee approximately ₹54,000."
+      },
+      {
+        "program": "After 10th Polytechnic Diploma Programs",
+        "duration": "3 years",
+        "tuitionFee": "₹23,000 - ₹25,000 per year."
+      }
+    ],
+    "placements": {
+      "avgSalary": "₹3.00 LPA - ₹3.27 LPA (Overall Campus Average)",
+      "medianSalary": "₹3.00 LPA (Engineering and Technology Streams)",
+      "highestSalary": "₹9.00 LPA (Secured by multiple students across tech streams)",
+      "highestDomestic": "₹12.00 LPA (Historical Highest Placement Package)",
+      "placementRate": "Overall eligibility placement percentage is around 85% to 92%",
+      "totalOffers": "300+ students successfully placed during recent campus drives",
+      "companiesVisited": "TCS, Wipro, Infosys, HCL, Cognizant, IBM, Genpact, Amazon, Adobe",
+      "internationalOffers": "",
+      "topRecruiters": [
+        "TCS",
+        "Wipro",
+        "Infosys",
+        "HCL",
+        "Cognizant",
+        "IBM",
+        "Genpact",
+        "Amazon"
+      ],
+      "internshipHighlights": "Industry-connect upskilling and practical field-training partnerships integrated with standard curriculum paths"
+    },
+    "admissions": {
+      "examsAccepted": [
+        "AP EAPCET",
+        "AP ICET",
+        "AP PGECET",
+        "GATE",
+        "AP POLYCET"
+      ],
+      "admissionProcess": "Undergraduate B.Tech admissions are majorly based on state-level AP EAPCET counseling (Category A) or through management quotas (Category B). PG admissions rely on AP ICET (MBA/MCA) and AP PGECET/GATE scores.",
+      "importantDates": "Admissions systematically align with APSCHE guidelines and state-level counseling schedules for AP EAPCET, ICET, and PGECET."
+    },
+    "campus": {
+      "area": "20+ acres",
+      "facilities": [
+        "Smart Classrooms",
+        "Advanced Computer Labs",
+        "Dedicated Boys Hostel",
+        "Dedicated Girls Hostel",
+        "Central Library & Digital Reference Room",
+        "State-of-the-Art Engineering Workshops",
+        "Sprawling Sports Fields & Fitness Zones",
+        "Hygienic Dining Halls & Cafeteria",
+        "Campus-wide High-Speed Wi-Fi",
+        "Medical Support Services",
+        "Comprehensive College Bus Transportation"
+      ],
+      "specialNote": "Hostel accommodations focus closely on assisting outstation students. Allotment relies primarily on availability and distance from hometowns.",
+      "hostelFees": {
+        "4SharingAC": "₹65,000 - ₹70,000 per year (Estimated inclusive of AC facilities and mess bills)",
+        "4SharingNonAC": "₹55,000 - ₹60,000 per year (Estimated standard occupancy variant)",
+        "5SharingNonAC": "₹50,000 per year (Affordable Multi-sharing base variant inclusive of mess charges)"
+      }
+    },
+    "contact": {
+      "phone": "+91-8099464546",
+      "email": "office@nsrit.edu.in",
+      "address": "Nadimpalli Satyanarayana Raju Institute of Technology, Sontyam, Pendurthi-Anandapuram Highway, Visakhapatnam, Andhra Pradesh - 531173, India",
+      "admissionsEmail": "office@nsrit.edu.in"
+    },
+    "website": "https://nsrit.edu.in",
+    "lastVerified": "2026-05-20",
+    "verifiedBy": "official-website-and-state-counseling-data",
+    "scholarships": {
+      "meritScholarships": "Institution and college-level financial aid rewards offered based on academic performance and competitive rank scores.",
+      "fullWaiver": "100% tuition fee reimbursement through the Andhra Pradesh Jagananna Amma Vodi / Vidya Deevena schemes for eligible students admitted via EAPCET counseling.",
+      "partialWaiver": "Concessions extended under special institutional merit brackets for national and state exam high achievers.",
+      "governmentAid": "Full post-matric scholarship schemes and tuition reimbursements available for SC, ST, BC, EBC, and Kapu community students under standard state welfare rules."
+    },
+    "sources": {
+      "overview": "https://nsrit.edu.in/",
+      "fees": "https://nsrit.edu.in/fee-structure/",
+      "placements": "https://nsrit.edu.in/placements/placement-summary/",
+      "admissions": "https://nsrit.edu.in/admissions-2024-2025/",
+      "campus": "https://nsrit.edu.in/campus-life/facilities/",
+      "contact": "https://nsrit.edu.in/"
+    }
+  }
 }
